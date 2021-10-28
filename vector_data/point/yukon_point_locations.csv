@@ -1,77 +1,77 @@
-name,alt_name,region,country,latitude,longitude
-Aishihik,,Yukon,CA,61.5986,-137.508
-Bear Creek,,Yukon,CA,60.7975,-137.67
-Bear Creek,,Yukon,CA,60.8023,-137.7001
-Beaver Creek,,Yukon,CA,62.3833,-140.875
-Braeburn,,Yukon,CA,61.4815,-135.748
-Brooks Brook,,Yukon,CA,60.4189,-133.191
-Burwash Landing,,Yukon,CA,61.3542,-138.994
-Canyon City,,Yukon,CA,60.6344,-134.774
-Carcross,,Yukon,CA,60.1694,-134.701
-Carmacks,,Yukon,CA,62.0888,-136.284
-Champagne,,Yukon,CA,60.7889,-136.479
-Conrad,,Yukon,CA,60.0691,-134.564
-Cowley,,Yukon,CA,60.5253,-134.897
-Crestview,,Yukon,CA,60.8231,-135.204
-Dalton Post,,Yukon,CA,60.12,-137.025
-Dawson City,,Yukon,CA,64.0625,-139.431
-Destruction Bay,,Yukon,CA,61.2542,-138.807
-Dezadeash,,Yukon,CA,60.3722,-137.056
-Dry Creek,,Yukon,CA,62.1725,-140.6856
-Eagle Plains,,Yukon,CA,66.371,-136.72
-Elsa,,Yukon,CA,63.9076,-135.476
-Faro,,Yukon,CA,62.2274,-133.35
-Fort Selkirk,,Yukon,CA,62.7723,-137.394
-Forty Mile,,Yukon,CA,64.4269,-140.533
-Frances Lake,,Yukon,CA,61.2757,-129.275
-Haines Junction,,Yukon,CA,60.7559,-137.504
-Herschel Island,Qikiqtaruk,Yukon,CA,69.5727,-138.901
-Ibex Valley,,Yukon,CA,60.8494,-135.639
-Jakes Corner,,Yukon,CA,60.3386,-133.984
-Johnsons Crossing,,Yukon,CA,60.4889,-133.297
-Keno City,,Yukon,CA,63.9083,-135.303
-Kloo Lake,,Yukon,CA,60.921,-137.857
-Klukshu,,Yukon,CA,60.2945,-137.004
-Koidern,,Yukon,CA,61.9833,-140.492
-Lewis,,Yukon,CA,60.333,-134.8328
-Little Gold Creek,,Yukon,CA,64.0861,-141.0
-Little River,,Yukon,CA,60.8787,-135.6908
-Little Salmon/Carmacks First Nation,,Yukon,CA,62.0561,-135.701
-Little Teslin Lake,,Yukon,CA,60.4819,-133.465
-Marsh Lake,,Yukon,CA,60.5193,-134.332
-Mayo,,Yukon,CA,63.5931,-135.896
-McCabe Creek,,Yukon,CA,62.5284,-136.784
-Mendenhall Landing,,Yukon,CA,60.7528,-136.039
-Minto,,Yukon,CA,62.5848,-136.851
-Morley River,,Yukon,CA,60.013,-132.162
-Mount Lorne,,Yukon,CA,60.4126,-134.952
-Old Crow,,Yukon,CA,67.5729,-139.829
-Pelly Crossing,,Yukon,CA,62.8198,-136.574
-Porter Creek,,Yukon,CA,60.7699,-135.136
-Quill Creek,,Yukon,CA,61.5079,-139.3306
-Rampart House,,Yukon,CA,67.4219,-140.993
-Rancheria,,Yukon,CA,60.0875,-130.603
-Riverdale,,Yukon,CA,60.7069,-135.024
-Robinson,,Yukon,CA,60.4512,-134.846
-Ross River,,Yukon,CA,61.9779,-132.449
-Snag,,Yukon,CA,62.4,-140.367
-Snag Junction,,Yukon,CA,62.2348,-140.692
-Stewart Crossing,,Yukon,CA,63.3675,-136.679
-Stewart River,Nä`chòo ndek,Yukon,CA,63.2917,-139.4117
-Stony Creek Camp,,Yukon,CA,60.801,-135.976
-Swift River,,Yukon,CA,60.0042,-131.187
-Tagish,,Yukon,CA,60.31,-134.266
-Takhini,,Yukon,CA,60.8533,-135.447
-Ten Mile,,Yukon,CA,60.1667,-134.367
-Teslin,ᑦᐁᔅᓕᓐᑦᐆ / Desleen,Yukon,CA,60.1683,-132.719
-Teslin Lake,,Yukon,CA,60.01667,-132.4333
-Tuchitua,,Yukon,CA,60.9025,-129.2505
-Two and One-Half Mile Village,,Yukon,CA,60.1434,-128.881
-Two Mile Village,,Yukon,CA,60.1254,-128.804
-Upper Laberge,,Yukon,CA,60.9509,-135.132
-Upper Liard,,Yukon,CA,60.0545,-128.923
-Watson Lake,,Yukon,CA,60.0639,-128.706
-Whitehorse,,Yukon,CA,60.727,-135.074
-Carcross Cutoff,,Yukon,CA,60.5958,-134.878
-Clinton Creek,,Yukon,CA,64.415,-140.602
-Nesketahin,Wesketahin,Yukon,CA,60.1334,-137.057
+id,name,alt_name,region,country,latitude,longitude
+YT1,Aishihik,,Yukon,CA,61.5986,-137.508
+YT2,Bear Creek,,Yukon,CA,60.7975,-137.67
+YT3,Bear Creek,,Yukon,CA,60.8023,-137.7001
+YT4,Beaver Creek,,Yukon,CA,62.3833,-140.875
+YT5,Braeburn,,Yukon,CA,61.4815,-135.748
+YT6,Brooks Brook,,Yukon,CA,60.4189,-133.191
+YT7,Burwash Landing,,Yukon,CA,61.3542,-138.994
+YT8,Canyon City,,Yukon,CA,60.6344,-134.774
+YT9,Carcross,,Yukon,CA,60.1694,-134.701
+YT10,Carmacks,,Yukon,CA,62.0888,-136.284
+YT11,Champagne,,Yukon,CA,60.7889,-136.479
+YT12,Conrad,,Yukon,CA,60.0691,-134.564
+YT13,Cowley,,Yukon,CA,60.5253,-134.897
+YT14,Crestview,,Yukon,CA,60.8231,-135.204
+YT15,Dalton Post,,Yukon,CA,60.12,-137.025
+YT16,Dawson City,,Yukon,CA,64.0625,-139.431
+YT17,Destruction Bay,,Yukon,CA,61.2542,-138.807
+YT18,Dezadeash,,Yukon,CA,60.3722,-137.056
+YT19,Dry Creek,,Yukon,CA,62.1725,-140.6856
+YT20,Eagle Plains,,Yukon,CA,66.371,-136.72
+YT21,Elsa,,Yukon,CA,63.9076,-135.476
+YT22,Faro,,Yukon,CA,62.2274,-133.35
+YT23,Fort Selkirk,,Yukon,CA,62.7723,-137.394
+YT24,Forty Mile,,Yukon,CA,64.4269,-140.533
+YT25,Frances Lake,,Yukon,CA,61.2757,-129.275
+YT26,Haines Junction,,Yukon,CA,60.7559,-137.504
+YT27,Herschel Island,Qikiqtaruk,Yukon,CA,69.5727,-138.901
+YT28,Ibex Valley,,Yukon,CA,60.8494,-135.639
+YT29,Jakes Corner,,Yukon,CA,60.3386,-133.984
+YT30,Johnsons Crossing,,Yukon,CA,60.4889,-133.297
+YT31,Keno City,,Yukon,CA,63.9083,-135.303
+YT32,Kloo Lake,,Yukon,CA,60.921,-137.857
+YT33,Klukshu,,Yukon,CA,60.2945,-137.004
+YT34,Koidern,,Yukon,CA,61.9833,-140.492
+YT35,Lewis,,Yukon,CA,60.333,-134.8328
+YT36,Little Gold Creek,,Yukon,CA,64.0861,-141.0
+YT37,Little River,,Yukon,CA,60.8787,-135.6908
+YT38,Little Salmon/Carmacks First Nation,,Yukon,CA,62.0561,-135.701
+YT39,Little Teslin Lake,,Yukon,CA,60.4819,-133.465
+YT40,Marsh Lake,,Yukon,CA,60.5193,-134.332
+YT41,Mayo,,Yukon,CA,63.5931,-135.896
+YT42,McCabe Creek,,Yukon,CA,62.5284,-136.784
+YT43,Mendenhall Landing,,Yukon,CA,60.7528,-136.039
+YT44,Minto,,Yukon,CA,62.5848,-136.851
+YT45,Morley River,,Yukon,CA,60.013,-132.162
+YT46,Mount Lorne,,Yukon,CA,60.4126,-134.952
+YT47,Old Crow,,Yukon,CA,67.5729,-139.829
+YT48,Pelly Crossing,,Yukon,CA,62.8198,-136.574
+YT49,Porter Creek,,Yukon,CA,60.7699,-135.136
+YT50,Quill Creek,,Yukon,CA,61.5079,-139.3306
+YT51,Rampart House,,Yukon,CA,67.4219,-140.993
+YT52,Rancheria,,Yukon,CA,60.0875,-130.603
+YT53,Riverdale,,Yukon,CA,60.7069,-135.024
+YT54,Robinson,,Yukon,CA,60.4512,-134.846
+YT55,Ross River,,Yukon,CA,61.9779,-132.449
+YT56,Snag,,Yukon,CA,62.4,-140.367
+YT57,Snag Junction,,Yukon,CA,62.2348,-140.692
+YT58,Stewart Crossing,,Yukon,CA,63.3675,-136.679
+YT59,Stewart River,Nä`chòo ndek,Yukon,CA,63.2917,-139.4117
+YT60,Stony Creek Camp,,Yukon,CA,60.801,-135.976
+YT61,Swift River,,Yukon,CA,60.0042,-131.187
+YT62,Tagish,,Yukon,CA,60.31,-134.266
+YT63,Takhini,,Yukon,CA,60.8533,-135.447
+YT64,Ten Mile,,Yukon,CA,60.1667,-134.367
+YT65,Teslin,ᑦᐁᔅᓕᓐᑦᐆ / Desleen,Yukon,CA,60.1683,-132.719
+YT66,Teslin Lake,,Yukon,CA,60.0167,-132.4333
+YT67,Tuchitua,,Yukon,CA,60.9025,-129.2505
+YT68,Two and One-Half Mile Village,,Yukon,CA,60.1434,-128.881
+YT69,Two Mile Village,,Yukon,CA,60.1254,-128.804
+YT70,Upper Laberge,,Yukon,CA,60.9509,-135.132
+YT71,Upper Liard,,Yukon,CA,60.0545,-128.923
+YT72,Watson Lake,,Yukon,CA,60.0639,-128.706
+YT73,Whitehorse,,Yukon,CA,60.727,-135.074
+YT74,Carcross Cutoff,,Yukon,CA,60.5958,-134.878
+YT75,Clinton Creek,,Yukon,CA,64.415,-140.602
+YT76,Nesketahin,Wesketahin,Yukon,CA,60.1334,-137.057
