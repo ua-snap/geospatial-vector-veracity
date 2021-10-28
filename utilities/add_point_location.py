@@ -117,7 +117,7 @@ def write_new_csv(new_df, csv_path):
     """This will create a copy of the existing unmodified csv with a 'deprecated' suffix prior to over-writing that data file with the same name. If the deprecated file exists, it will be overwritten. Deprecated fiels will not be tracked."""
     dst = csv_path.replace(".csv", "_DEPRECATED.csv")
     copyfile(csv_path, dst)
-    new_df.to_csv(csv_path, ignore_index=True)
+    new_df.to_csv(csv_path, index=False)
     print("New file written to", csv_path)
 
 
