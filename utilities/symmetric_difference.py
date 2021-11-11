@@ -6,6 +6,7 @@ import argparse
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from shapely.geometry import Polygon, MultiPolygon
+from shapely.ops import unary_union
 
 
 def cmdline_args():
@@ -14,29 +15,19 @@ def cmdline_args():
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
     )
     p.add_argument(
-        "input",
-        type=str,
-        help="Shapefile input filepath. Required.",
+        "input", type=str, help="Shapefile input filepath. Required.",
     )
     p.add_argument(
-        "feature_name",
-        type=str,
-        help="Descriptive name for new polygon feature.",
+        "feature_name", type=str, help="Descriptive name for new polygon feature.",
     )
     p.add_argument(
-        "feature_id",
-        type=str,
-        help="Unique alphanumeric ID for new polygon feature.",
+        "feature_id", type=str, help="Unique alphanumeric ID for new polygon feature.",
     )
     p.add_argument(
-        "output",
-        type=str,
-        help="Shapefile output filepath. Required.",
+        "output", type=str, help="Shapefile output filepath. Required.",
     )
     p.add_argument(
-        "png_output",
-        type=str,
-        help="Image preview output filepath. Required.",
+        "png_output", type=str, help="Image preview output filepath. Required.",
     )
     return p.parse_args()
 
@@ -44,6 +35,14 @@ def cmdline_args():
 def read_shapefile(shp_in):
     """Read shapefile to GeoDataFrame"""
     gdf = gpd.read_file(shp_in)
+    # the input shapefile needs to be a single polygon
+    # or multipolygon
+    if len(gdf) > 1:
+        gdf = gpd.GeoDataFrame(
+            gpd.GeoSeries(unary_union(gdf.geometry.values)),
+            columns=["geometry"],
+            crs=gdf.crs,
+        )
     return gdf
 
 
@@ -67,7 +66,7 @@ def make_bbox_geodataframe(bbox_poly, crs):
 
 
 def compute_symmetric_difference(gdf, bbox_gdf):
-    """Perform symmetric difference operatior and store results in a GeoDataFrame"""
+    """Perform symmetric difference operator and store results in a GeoDataFrame"""
     sym_diff = gpd.GeoDataFrame(
         gdf.symmetric_difference(bbox_gdf), columns=["geometry"], crs=gdf.crs
     )
