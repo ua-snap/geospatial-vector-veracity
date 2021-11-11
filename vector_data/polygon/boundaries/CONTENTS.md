@@ -1,0 +1,8 @@
+# `boundaries` contents
+
+Here are descriptions of the polygon vector data found in this subfolder.
+
+| filename | description | source | feature count |
+|---|---|---|---|
+| `alaska_coast_simplified/Alaska_Coast_Simplified_Polygon.shp` | Coastline for the state of Alaska at a scale of 1:63,360 | [State of Alaska Geoportal](https://gis.data.alaska.gov/datasets/alaska-simplified-coast/explore) | 177 |
+| `iem/AIEM_Domain.shp` | Outline of the domain for the IEM project. Spans Alaska, the Yukon, and parts of northern British Columbia. | [USGS ScienceBase Entry](https://www.sciencebase.gov/catalog/item/5a3009a1e4b08e6a89d57bc6) | 1 |

@@ -1,1 +1,4 @@
 *_DEPRECATED.csv
+
+# jupyter
+*.ipynb_checkpoints
