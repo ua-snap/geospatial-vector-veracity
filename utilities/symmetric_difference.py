@@ -1,11 +1,11 @@
 """
-This utility will create a "shadow mask" of a polygon. This is effectively the inverse of the polygon where the input polygon will have no features, but features will populate the rest of the bounding box. In GIS lingo this is the "symmetric difference. This utility may fail for some geometries or where the number of feautres is large."
+This utility will create a "shadow mask" of a polygon. This is effectively the inverse of the polygon where the input polygon will have no features, but features will populate the rest of the bounding box. In GIS lingo this is the "symmetric difference". This utility may fail for some geometries or where the number of feautres is large.
 """
 import sys
 import argparse
 import geopandas as gpd
 import matplotlib.pyplot as plt
-from shapely.geometry import Polygon, MultiPolygon
+from shapely.geometry import Polygon
 from shapely.ops import unary_union
 
 
@@ -103,12 +103,6 @@ def add_id_and_name(sym_diff, feature_id, feature_name):
 
 def save_symm_diff(sym_diff, out_filepath):
     """Save to new shapefile"""
-    if len(sym_diff) > 1:
-        sym_diff = gpd.GeoDataFrame(
-            gpd.GeoSeries(unary_union(sym_diff.geometry.values)),
-            columns=["geometry"],
-            crs=sym_diff.crs,
-        )
     sym_diff.to_file(out_filepath)
 
 
@@ -129,13 +123,11 @@ if __name__ == "__main__":
         gdf = read_shapefile(args.input)
         try:
             extent = get_user_extent(args.bounds)
-            print(extent)
         except:
             extent = get_shp_extent(gdf)
             print(
                 "User output extent not provided. Defaulting to extent of shapefile input."
             )
-            print(extent)
         bbox_poly = make_bbox_polygon(*extent)
         bbox_gdf = make_bbox_geodataframe(bbox_poly, gdf.crs)
         sym_diff = compute_symmetric_difference(gdf, bbox_gdf)
@@ -144,5 +136,5 @@ if __name__ == "__main__":
         save_preview_png(sym_diff, args.png_output)
     except:
         print(
-            "Try python utilities/symmetric_difference.py vector_data/polygon/boundaries/iem/AIEM_domain.shp --bounds -748286.4 507752.5 1812130.8 2388458.1 'IEM Domain Symmetric Difference' 'XIEM1' IEM_symmetric_difference.shp preview.png"
+            "Try python utilities/symmetric_difference.py vector_data/polygon/boundaries/iem/AIEM_domain.shp --bounds -2300000 50000 4000000 3000000 'IEM Domain Symmetric Difference' 'XIEM1' IEM_symmetric_difference.shp preview.png"
         )
