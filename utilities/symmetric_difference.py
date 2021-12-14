@@ -15,19 +15,35 @@ def cmdline_args():
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
     )
     p.add_argument(
-        "input", type=str, help="Shapefile input filepath. Required.",
+        "input",
+        type=str,
+        help="Shapefile input filepath. Required.",
     )
     p.add_argument(
-        "feature_name", type=str, help="Descriptive name for new polygon feature.",
+        "--bounds",
+        type=float,
+        nargs=4,
+        help="Boundaries for the symmetric difference polygon in format: x-min y-min x-max y-max. Optional.",
     )
     p.add_argument(
-        "feature_id", type=str, help="Unique alphanumeric ID for new polygon feature.",
+        "feature_name",
+        type=str,
+        help="Descriptive name for new polygon feature.",
     )
     p.add_argument(
-        "output", type=str, help="Shapefile output filepath. Required.",
+        "feature_id",
+        type=str,
+        help="Unique alphanumeric ID for new polygon feature.",
     )
     p.add_argument(
-        "png_output", type=str, help="Image preview output filepath. Required.",
+        "output",
+        type=str,
+        help="Shapefile output filepath. Required.",
+    )
+    p.add_argument(
+        "png_output",
+        type=str,
+        help="Image preview output filepath. Required.",
     )
     return p.parse_args()
 
@@ -46,7 +62,13 @@ def read_shapefile(shp_in):
     return gdf
 
 
-def get_extent(gdf):
+def get_user_extent(user_extent):
+    """Fetch extent from user input"""
+    extent = tuple(user_extent)
+    return extent
+
+
+def get_shp_extent(gdf):
     """Fetch extent of input shapefile"""
     extent = tuple(gdf.bounds.values[0])
     return extent
@@ -81,6 +103,12 @@ def add_id_and_name(sym_diff, feature_id, feature_name):
 
 def save_symm_diff(sym_diff, out_filepath):
     """Save to new shapefile"""
+    if len(sym_diff) > 1:
+        sym_diff = gpd.GeoDataFrame(
+            gpd.GeoSeries(unary_union(sym_diff.geometry.values)),
+            columns=["geometry"],
+            crs=sym_diff.crs,
+        )
     sym_diff.to_file(out_filepath)
 
 
@@ -99,7 +127,15 @@ if __name__ == "__main__":
     try:
         args = cmdline_args()
         gdf = read_shapefile(args.input)
-        extent = get_extent(gdf)
+        try:
+            extent = get_user_extent(args.bounds)
+            print(extent)
+        except:
+            extent = get_shp_extent(gdf)
+            print(
+                "User output extent not provided. Defaulting to extent of shapefile input."
+            )
+            print(extent)
         bbox_poly = make_bbox_polygon(*extent)
         bbox_gdf = make_bbox_geodataframe(bbox_poly, gdf.crs)
         sym_diff = compute_symmetric_difference(gdf, bbox_gdf)
@@ -108,5 +144,5 @@ if __name__ == "__main__":
         save_preview_png(sym_diff, args.png_output)
     except:
         print(
-            "Try python utilities/symmetric_difference.py vector_data/polygon/boundaries/iem/AIEM_domain.shp 'IEM Domain Symmetric Difference' 'XIEM1' IEM_symmetric_difference.shp preview.png"
+            "Try python utilities/symmetric_difference.py vector_data/polygon/boundaries/iem/AIEM_domain.shp --bounds -748286.4 507752.5 1812130.8 2388458.1 'IEM Domain Symmetric Difference' 'XIEM1' IEM_symmetric_difference.shp preview.png"
         )
