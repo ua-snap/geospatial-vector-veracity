@@ -1,0 +1,11 @@
+name: Refresh SNAP API
+on: [push]
+jobs:
+  delivery:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Refresh API
+      uses: satak/webrequest-action@master
+      with:
+        url: http://cache.earthmaps.io/update
+        method: GET
