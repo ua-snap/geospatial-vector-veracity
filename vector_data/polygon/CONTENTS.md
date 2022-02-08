@@ -7,6 +7,7 @@ Boundaries for protected areas in Alaska and western Canada (Parks, Refuges, Res
 
 ## `boundaries`
 Political or administrative boundaries of various administrative levels: country, state/province, land ownership, parks, etc.
+Also includes fire management boundaries, ethnolinguistic regions, and native corporations.
 
 ## `symmetric_differences`
 These are "shadow masks" that are essentially the inverse of another column and are useful for masking the area of valid queries (e.g. we can use these to "gray out" areas outside the domain for which data exists).
