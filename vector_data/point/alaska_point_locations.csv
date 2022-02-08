@@ -30,12 +30,14 @@ AK28,Ayakulik,,Alaska,US,57.2113,-154.546
 AK29,Baranof Warm Springs,,Alaska,US,57.0895,-134.8337
 AK30,Bartlett Cove,,Alaska,US,58.45,-135.916
 AK31,Beaver,Ts'aahudaaneekk'onh Denh,Alaska,US,66.3594,-147.396
+AK444,Beecher Pass State Marine Park,,Alaska,US,56.6003,-133.0267
 AK32,Belkofski,Taxtamax̂,Alaska,US,55.0905,-162.034
 AK33,Bell Island Hot Springs,,Alaska,US,55.933,-131.566
 AK34,Belmezok,,Alaska,US,65.6172,-168.101
 AK35,Bessie No. 5 Dredge,,Alaska,US,64.5502,-165.151
 AK36,Bethel,Mamterilleq,Alaska,US,60.7922,-161.756
 AK37,Bettles,Kk’odlel T’odegheelenh Denh,Alaska,US,66.9185,-151.5162
+AK445,Bettles Bay State Marine Park,,Alaska,US,60.9597,-148.3184
 AK38,Big Delta,,Alaska,US,64.1525,-145.842
 AK39,Big Lake,,Alaska,US,61.5378,-149.824
 AK40,Bill Moores,,Alaska,US,62.9504,-163.7777
@@ -68,12 +70,14 @@ AK66,Chicken,,Alaska,US,64.0733,-141.936
 AK67,Chignik,Cirniq,Alaska,US,56.2953,-158.402
 AK68,Chignik Lagoon,Nanwarnaq,Alaska,US,56.3104,-158.5361
 AK69,Chignik Lake,Igyaraq,Alaska,US,56.2552,-158.7696
+AK446,Chilkat River Critical Habitat Area,,Alaska,US,59.373,-135.8596
 AK70,Chiniak,,Alaska,US,57.617,-152.2166
 AK71,Chisana,,Alaska,US,62.0671,-142.049
 AK72,Chistochina,Tsiis Tl’edze’ Caegge,Alaska,US,62.565,-144.665
 AK73,Chitina,Tsedi Na',Alaska,US,61.5158,-144.437
 AK74,Christian,,Alaska,US,67.3673,-145.2
 AK75,Chuathbaluk,Curarpalek,Alaska,US,61.5726,-159.235
+AK447,Chugach National Forest Municipal Watershed,,Alaska,US,60.5195,-145.7223
 AK76,Chuloonawick,,Alaska,US,62.8961,-163.894
 AK77,Circle,Danzhit Khànląįį,Alaska,US,65.8255,-144.061
 AK78,Circle Hot Springs,,Alaska,US,65.4833,-144.634
@@ -91,7 +95,9 @@ AK89,Cordova,,Alaska,US,60.5428,-145.757
 AK90,Council,,Alaska,US,64.895,-163.676
 AK91,Craig,Sháan Séet,Alaska,US,55.4764,-133.148
 AK92,Crooked Creek,Qipcarpak,Alaska,US,61.87,-158.111
+AK448,Dall Bay State Marine Park,,Alaska,US,55.1559,-131.749
 AK93,Deadhorse,,Alaska,US,70.2097,-148.418
+AK449,Decision Point State Marine Park,,Alaska,US,60.8016,-148.464
 AK94,Deering,Ipnatchiaq,Alaska,US,66.0755,-162.717
 AK95,Delta Junction,,Alaska,US,64.0377,-145.732
 AK96,Dillingham,Curyung,Alaska,US,59.0397,-158.457
@@ -108,7 +114,7 @@ AK105,Edna Bay,,Alaska,US,55.9489,-133.662
 AK106,Eek,Ekvicuaq,Alaska,US,60.2189,-162.024
 AK107,Egavik,,Alaska,US,64.0332,-160.917
 AK108,Egegik,Igyagiiq,Alaska,US,58.2155,-157.376
-AK109,Egorkovskoi,,Alaska,US,53.564,-168
+AK109,Egorkovskoi,,Alaska,US,53.564,-168.0
 AK442,Eielson Air Force Base,,Alaska,US,64.6656,-147.1014
 AK110,Eklutna,Idlughet,Alaska,US,61.458,-149.362
 AK111,Ekuk,,Alaska,US,58.804,-158.541
@@ -119,6 +125,7 @@ AK115,Elim,Neviarcaurluq,Alaska,US,64.6175,-162.26
 AK116,Ellamar,,Alaska,US,60.8961,-146.708
 AK117,Emmonak,Imangaq,Alaska,US,62.7778,-164.523
 AK118,English Bay,Nanwalek,Alaska,US,59.3581,-151.922
+AK450,Ernie Haugen Public Use Area,,Alaska,US,56.5421,-132.6616
 AK119,Eska,,Alaska,US,61.7381,-148.906
 AK120,Ester,,Alaska,US,64.8472,-148.014
 AK121,Evansville,,Alaska,US,66.9227,-151.508
@@ -134,12 +141,14 @@ AK440,Fort Greely,,Alaska,US,63.9731,-145.7181
 AK438,Fort Wainwright,,Alaska,US,64.8278,-147.6429
 AK130,Fort Yukon,Gwichyaa Zheh,Alaska,US,66.5647,-145.274
 AK131,Fox,,Alaska,US,64.958,-147.618
+AK451,Funter Bay State Marine Park,,Alaska,US,58.2505,-134.9227
 AK132,Gakona,Ggax Kuna’,Alaska,US,62.3019,-145.302
 AK133,Galena,Notaalee Denh,Alaska,US,64.7333,-156.927
 AK134,Gambell,Sivuqaq,Alaska,US,63.7797,-171.741
 AK135,Georgetown,,Alaska,US,61.9085,-157.787
 AK136,Girdwood,,Alaska,US,60.9421,-149.167
 AK137,Glennallen,,Alaska,US,62.1092,-145.546
+AK452,Goldstream Public Use Area,,Alaska,US,64.93,-147.7653
 AK138,Golovin,Cingik / Siŋik,Alaska,US,64.5433,-163.029
 AK139,Goodnews Bay,Mamterat,Alaska,US,59.1186,-161.589
 AK140,Grayling,Sixno' Xidakagg,Alaska,US,62.9062,-160.077
@@ -170,8 +179,9 @@ AK164,Iliamna,Illiamna,Alaska,US,59.7536,-154.817
 AK165,Inakpuk,,Alaska,US,59.5331,-157.15
 AK166,Indian,,Alaska,US,60.9881,-149.513
 AK167,Indian River,,Alaska,US,62.6672,-144.433
-AK168,Ingrihak,,Alaska,US,61.7561,-162
+AK168,Ingrihak,,Alaska,US,61.7561,-162.0
 AK169,Ivanof Bay,,Alaska,US,55.8996,-159.507
+AK453,Joe Mace Island State Marine Park,,Alaska,US,56.3473,-133.635
 AK170,Joe Ward Camp,,Alaska,US,66.8673,-143.699
 AK439,Joint Base Elmendorf-Richardson,,Alaska,US,61.2514,-149.8064
 AK171,Jonesville,,Alaska,US,61.7311,-148.933
@@ -185,6 +195,7 @@ AK178,Kalskag,Qalqaq,Alaska,US,61.5391,-160.306
 AK179,Kaltag,Ggaał Doh,Alaska,US,64.3272,-158.722
 AK180,Kanakanak,,Alaska,US,59.0031,-158.533
 AK443,Kantishna,,Alaska,US,63.5253,-150.9581
+AK454,Kanuti Hot Springs Area Of Critical Environmental Concern,,Alaska,US,66.3427,-150.8468
 AK181,Karluk,Kal’ut,Alaska,US,57.5719,-154.455
 AK182,Kasaan,Gasa'áan,Alaska,US,55.5389,-132.401
 AK183,Kashega,,Alaska,US,53.467,-167.16
@@ -225,6 +236,7 @@ AK217,Kwethluk,Kuiggluk,Alaska,US,60.8122,-161.436
 AK218,Kwigillingok,Kuigilnguq,Alaska,US,59.8644,-163.134
 AK219,Kwiguk,,Alaska,US,62.7683,-164.5067
 AK220,Lake Minchumina,Menchuh Mene’,Alaska,US,63.8828,-152.312
+AK455,Lake Todatonten Pingos Research Natural Area,,Alaska,US,66.1055,-152.938
 AK221,Larsen Bay,Uyaqsaq,Alaska,US,57.54,-153.979
 AK222,Last Tetlin Village,,Alaska,US,63.0332,-142.616
 AK223,Latouche,,Alaska,US,60.0511,-147.9
@@ -299,6 +311,7 @@ AK291,Nyac,,Alaska,US,61.0061,-159.946
 AK292,Ohogamiut,Urr'agmiut,Alaska,US,61.5677,-161.864
 AK293,Old Harbor,Nuniaq,Alaska,US,57.2028,-153.304
 AK294,Old Minto,Menhti Xwghotthit,Alaska,US,64.8882,-149.182
+AK456,Oliver Inlet State Marine Park,,Alaska,US,58.1015,-134.3127
 AK295,Ophir,,Alaska,US,63.1447,-156.519
 AK296,Oscarville,Kuiggayagaq,Alaska,US,60.7273,-161.79
 AK297,Osviak,,Alaska,US,58.8171,-161.3
@@ -343,6 +356,7 @@ AK335,Red Devil,,Alaska,US,61.7611,-157.313
 AK336,Refuge Cove,,Alaska,US,55.407,-131.741
 AK337,Ruby,Tl'aa'ologhe,Alaska,US,64.7394,-155.487
 AK338,Russian Mission,Iqugmiut,Alaska,US,61.7856,-161.325
+AK457,Safety Cove State Marine Park,,Alaska,US,59.9819,-149.2235
 AK339,Saint George,Anĝaaxchalux̂,Alaska,US,56.603,-169.545
 AK340,Saint Mary's,Negeqliq,Alaska,US,62.053,-163.166
 AK341,Saint Michael,Taciq,Alaska,US,63.478,-162.039
@@ -352,6 +366,7 @@ AK344,Salcha,Soł Chaget,Alaska,US,64.5288,-146.899
 AK345,Salt Chuck,,Alaska,US,55.628,-132.552
 AK346,Sanak,,Alaska,US,54.4831,-162.814
 AK347,Sand Point,,Alaska,US,55.3397,-160.497
+AK458,Sandspit Point State Marine Park,,Alaska,US,59.9378,-149.318
 AK348,Savonoski,,Alaska,US,58.7171,-156.867
 AK349,Savoonga,Sivunga,Alaska,US,63.6904,-170.481
 AK350,Saxman,,Alaska,US,55.3183,-131.596
@@ -373,19 +388,23 @@ AK365,Sleetmute,Cellitemiut,Alaska,US,61.7025,-157.17
 AK366,Soldotna,,Alaska,US,60.4878,-151.058
 AK367,Solomon,,Alaska,US,64.5608,-164.439
 AK368,South Naknek,Qinuyang,Alaska,US,58.7155,-156.998
+AK459,South Todatonten Summit Research Natural Area,,Alaska,US,66.0506,-152.881
 AK369,Spenard,,Alaska,US,61.1881,-149.917
 AK370,Squaw Harbor,,Alaska,US,55.2433,-160.553
 AK371,St. Mary's,,Alaska,US,62.0331,-163.25
+AK460,Stan Price State Wildlife Sanctuary,,Alaska,US,57.9051,-134.275
 AK372,Stebbins,Tapraq,Alaska,US,63.5222,-162.288
 AK373,Sterling,,Alaska,US,60.5381,-150.758
 AK374,Stevens Village,Denyeet,Alaska,US,66.0063,-149.091
 AK375,Stony River,Gidighuyghatno’ Xidochagg Qay / K'qizaghetnu,Alaska,US,61.7831,-156.588
 AK376,Summit,,Alaska,US,63.3292,-149.119
+AK461,Sunny Cove State Marine Park,,Alaska,US,59.9024,-149.3453
 AK377,Sunrise,,Alaska,US,60.8921,-149.425
 AK378,Suntrana,,Alaska,US,63.8582,-148.846
 AK379,Susitna Station,,Alaska,US,61.5432,-150.5162
 AK380,Sutton,,Alaska,US,61.7114,-148.894
 AK381,Takotna,Tochotno’,Alaska,US,62.9886,-156.064
+AK462,Taku Harbor State Marine Park,,Alaska,US,58.0622,-134.0187
 AK382,Talkeetna,K'dalkitnu,Alaska,US,62.3239,-150.109
 AK383,Tanacross,Taats’altęy,Alaska,US,63.378,-143.356
 AK384,Tanana,Hohudodetlaatl Denh,Alaska,US,65.1719,-152.079
@@ -400,6 +419,7 @@ AK393,Tetlin,Teełąy,Alaska,US,63.1373,-142.5208
 AK394,Tetlin Junction,,Alaska,US,63.3172,-142.599
 AK395,Thane,,Alaska,US,58.264,-134.328
 AK396,Thorne Bay,,Alaska,US,55.7274,-132.471
+AK463,Thumb Cove State Marine Park,,Alaska,US,60.004,-149.3008
 AK397,Tin City,,Alaska,US,65.5502,-167.851
 AK398,Togiak,Tuyuryaq,Alaska,US,59.0619,-160.376
 AK399,Tok,,Alaska,US,63.3366,-142.985
@@ -440,3 +460,4 @@ AK432,Womens Bay,,Alaska,US,57.7099,-152.586
 AK433,Woody Island,,Alaska,US,57.78,-152.355
 AK434,Wrangell,Shtax’héen,Alaska,US,56.4708,-132.377
 AK435,Yakutat,Yaakwdáat,Alaska,US,59.5469,-139.727
+AK464,Ziegler Cove State Marine Park,,Alaska,US,60.8381,-148.3205
