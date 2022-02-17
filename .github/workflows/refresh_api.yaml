@@ -10,5 +10,5 @@ jobs:
     - name: Refresh API
       uses: satak/webrequest-action@master
       with:
-        url: http://cache.earthmaps.io/update
+        url: https://earthmaps.io/update
         method: GET
