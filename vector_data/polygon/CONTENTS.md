@@ -54,4 +54,6 @@ Boundaries for protected areas in Alaska and western Canada (Parks, Refuges, Res
 
 ## `symmetric_differences`
 These are "shadow masks" that are essentially the inverse of another column and are useful for masking the area of valid queries (e.g. we can use these to "gray out" areas outside the domain for which data exists).
+### References
 
+1.  Bieniek, P. A., Bhatt, U. S., Thoman, R. L., Angeloff, H., Partain, J., Papineau, J., Fritsch, F., Holloway, E., Walsh, J. E., Daly, C., Shulski, M., Hufford, G., Hill, D. F., Calos, S., & Gens, R. (2012). Climate Divisions for Alaska Based on Objective Methods, Journal of Applied Meteorology and Climatology, 51(7), 1276-1289. [doi: 10.1175/JAMC-D-11-0168.1](https://www.doi.org/10.1175/JAMC-D-11-0168.1)
