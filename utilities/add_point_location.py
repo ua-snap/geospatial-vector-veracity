@@ -83,10 +83,12 @@ def create_new_id(region, last_id_number):
 
 
 def create_new_record(new_id, name, region, country, lat, lon, alt_name):
-    """Create the new point location from user input."""
+    """Create the new point location from user input.
+    A defualt value of 0 will be added for the coastal distance which can
+    then be computed later."""
     if alt_name == None:
         alt_name = np.nan
-    record = [new_id, name, alt_name, postal_di[region], country, lat, lon]
+    record = [new_id, name, alt_name, postal_di[region], country, lat, lon, 0]
     return record
 
 
@@ -137,11 +139,6 @@ def yes_no(answer):
 
 
 if __name__ == "__main__":
-
-    if sys.version_info < (3, 5, 0):
-        sys.stderr.write("You need python 3.5 or later to run this script\n")
-        sys.exit(1)
-
     try:
         args = cmdline_args()
         df, csv_path = read_csv_by_region(args.region)
