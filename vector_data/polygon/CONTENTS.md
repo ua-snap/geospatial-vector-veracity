@@ -32,7 +32,7 @@ Simplifed EPSG:3338 geometry of the otherwise complex and crenulated AK coastlin
 Alaska hydrologic units (i.e., watersheds) organized by HUC level (e.g. HUC-8) for Alaska.
 
 ### `climate_divisions`
-Peter Bieniek's AK climate divisions, or how to chunk up Alaska by climate.
+Peter Bieniek's (1) AK climate divisions, or how to chunk up Alaska by climate.
 
 ### `coporation`
 Alaska Native Corporations.
