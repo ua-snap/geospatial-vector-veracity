@@ -43,6 +43,9 @@ Ethnographic / linguistic zones for Alaska and parts of Canada.
 ### `fire`
 Management zones (which agency / office is repsonible for wildfire). These are not physical data.
 
+### `game_management_units`
+Alaska Game Management Subunits from the Alaska Department of Fish and Game.
+
 ### `iem`
 The spatial domain of the Integrated Ecosystem Modeling (IEM) project. Alaska excluding the Aleutians, plus some of Yukon and British Columbia (it is complicated).
 
