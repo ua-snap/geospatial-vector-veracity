@@ -11,6 +11,7 @@ polygon
 │   ├── corporation
 │   ├── ethnolinguistic
 │   ├── fire
+│   ├── first_nations
 │   ├── iem
 │   ├── iem_with_ak_aleutians
 │   └── protected_areas
@@ -34,7 +35,7 @@ Alaska hydrologic units (i.e., watersheds) organized by HUC level (e.g. HUC-8) f
 ### `climate_divisions`
 Peter Bieniek's (1) AK climate divisions, or how to chunk up Alaska by climate.
 
-### `coporation`
+### `corporation`
 Alaska Native Corporations.
 
 ### `ethnolinguistic`
@@ -42,6 +43,9 @@ Ethnographic / linguistic zones for Alaska and parts of Canada.
 
 ### `fire`
 Management zones (which agency / office is repsonible for wildfire). These are not physical data.
+
+### `first_nations`
+First Nations. The geographic extent is Yukon and the CRS is WGS84. An appropriate projection is Yukon Albers EPSG 3578.
 
 ### `game_management_units`
 Alaska Game Management Subunits from the Alaska Department of Fish and Game.
