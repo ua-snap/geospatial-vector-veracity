@@ -5,6 +5,7 @@ Brief descriptions of the polygon vector data found here. Unless otherwise noted
 ```
 polygon
 ├── boundaries
+│   ├── alaska_buffer
 │   ├── alaska_coast_simplified
 │   ├── alaska_hucs
 │   ├── climate_divisions
@@ -26,8 +27,12 @@ polygon
 ## `boundaries`
 Political or administrative boundaries including land ownership and management units, parks, refuges, fire management boundaries, ethnolinguistic regions, native corporations, and climate divisions.
 
+### `alaska_buffer`
+Dissolved 100 km buffer of the AK coastline (`alaska_coast_simplified`). Great for clipping raster data. EPSG:3338.
+
+
 ### `alaska_coast_simplified`
-Simplifed EPSG:3338 geometry of the otherwise complex and crenulated AK coastline. Great for clipping raster data. This is the go-to AK spatial boundary polygon.
+Simplifed EPSG:3338 geometry of the otherwise complex and crenulated AK coastline. Great for visualizing AK and for vector operations.
 
 ### `alaska_hucs`
 Alaska hydrologic units (i.e., watersheds) organized by HUC level (e.g. HUC-8) for Alaska.
