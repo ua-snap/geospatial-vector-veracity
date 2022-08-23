@@ -59,7 +59,10 @@ Yukon fire districts.
 First Nations. The geographic extent is Yukon and the CRS is WGS84. An appropriate projection is Yukon Albers EPSG 3578.
 
 ### `game_management_units`
+#### `ak_gmus`
 Alaska Game Management Subunits from the Alaska Department of Fish and Game.
+#### `yt_gmzs`
+Yukon Game Management Subzones.
 
 ### `iem`
 The spatial domain of the Integrated Ecosystem Modeling (IEM) project. Alaska excluding the Aleutians, plus some of Yukon and British Columbia (it is complicated).
