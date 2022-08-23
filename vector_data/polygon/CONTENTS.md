@@ -54,16 +54,16 @@ Ethnographic / linguistic zones for Alaska and parts of Canada.
 #### `ak_fire_mgmt`
 Alaska fire management zones (which agency / office is responsible for wildfire).
 #### `yt_fire_mgmt`
-Yukon fire districts.
+Yukon fire districts. EPSG:3578 - NAD83 / Yukon Albers.
 
 ### `first_nations`
-First Nations. The geographic extent is Yukon and the CRS is WGS84. An appropriate projection is Yukon Albers EPSG 3578.
+Yukon First Nations. Yukon Albers EPSG 3578.
 
 ### `game_management_units`
 #### `ak_gmus`
 Alaska Game Management Subunits from the Alaska Department of Fish and Game.
 #### `yt_gmzs`
-Yukon Game Management Subzones.
+Yukon Game Management Subzones. EPSG:3578 - NAD83 / Yukon Albers.
 
 ### `iem`
 The spatial domain of the Integrated Ecosystem Modeling (IEM) project. Alaska excluding the Aleutians, plus some of Yukon and British Columbia (it is complicated).
@@ -78,7 +78,7 @@ Boundaries for protected areas in Alaska and western Canada (Parks, Refuges, Res
 These are "shadow masks" that are essentially the inverse of another column and are useful for masking the area of valid queries (e.g. we can use these to "gray out" areas outside the domain for which data exists).
 
 ## `yt_watersheds`
-These are the Yukon hydrologic units that are similar to the HUCs used in the United States.
+These are the Yukon hydrologic units that are similar to the HUCs used in the United States. EPSG:3578 - NAD83 / Yukon Albers.
 
 ### References
 
