@@ -50,7 +50,10 @@ Alaska Native Corporations.
 Ethnographic / linguistic zones for Alaska and parts of Canada.
 
 ### `fire`
-Management zones (which agency / office is responsible for wildfire). These are not physical data.
+#### `ak_fire_mgmt`
+Alaska fire management zones (which agency / office is responsible for wildfire).
+#### `yt_fire_mgmt`
+Yukon fire districts.
 
 ### `first_nations`
 First Nations. The geographic extent is Yukon and the CRS is WGS84. An appropriate projection is Yukon Albers EPSG 3578.
