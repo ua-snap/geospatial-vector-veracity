@@ -7,6 +7,8 @@ polygon
 ├── boundaries
 │   ├── alaska_coast_simplified
 │   ├── alaska_hucs
+|   ├── boroughs
+│   ├── census_areas
 │   ├── climate_divisions
 │   ├── corporation
 │   ├── ethnolinguistic
@@ -27,10 +29,16 @@ polygon
 Political or administrative boundaries including land ownership and management units, parks, refuges, fire management boundaries, ethnolinguistic regions, native corporations, and climate divisions.
 
 ### `alaska_coast_simplified`
-Simplifed EPSG:3338 geometry of the otherwise complex and crenulated AK coastline. Great for clipping raster data. This is the go-to AK spatial boundary polygon.
+Simplified EPSG:3338 geometry of the otherwise complex and crenulated AK coastline. Great for clipping raster data. This is the go-to AK spatial boundary polygon.
 
 ### `alaska_hucs`
 Alaska hydrologic units (i.e., watersheds) organized by HUC level (e.g. HUC-8) for Alaska.
+
+### `boroughs`
+Alaska administrative boroughs - these are analogous to counties in the Lower 48. The Unorganized Borough (yes, that is the real name) is excluded because it is not a valid "data cookie cutter" because it is so large.
+
+### `census_areas`
+The eleven census areas that compose Alaska's Unorganized Borough. These areas do not have government of their own - they are used for statistics. Boroughs and census areas are both treated as county-level equivalents by the U.S. Census Bureau.
 
 ### `climate_divisions`
 Peter Bieniek's (1) AK climate divisions, or how to chunk up Alaska by climate.
@@ -42,7 +50,7 @@ Alaska Native Corporations.
 Ethnographic / linguistic zones for Alaska and parts of Canada.
 
 ### `fire`
-Management zones (which agency / office is repsonible for wildfire). These are not physical data.
+Management zones (which agency / office is responsible for wildfire). These are not physical data.
 
 ### `first_nations`
 First Nations. The geographic extent is Yukon and the CRS is WGS84. An appropriate projection is Yukon Albers EPSG 3578.
