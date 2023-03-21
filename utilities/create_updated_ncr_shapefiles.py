@@ -9,8 +9,8 @@ from pathlib import Path
 import os
 
 # Generate point shapefile for communities
-community_path = Path("../vector_data/point/")
-communities = pd.concat([pd.read_csv(csv) for csv in community_path.glob("*.csv")])
+community_path = Path("../vector_data/point/alaska_point_locations.csv")
+communities = pd.read_csv(community_path)
 community_geometries = [Point(xy) for xy in zip(communities['longitude'], communities['latitude'])]
 communities = gpd.GeoDataFrame(communities, geometry=community_geometries)
 communities['type'] = 'community'
@@ -53,3 +53,8 @@ merged = pd.concat([hucs, huc10s, boroughs, census, climdiv, corp, ethno, fire, 
 merged = merged.drop(columns=['region','country','states','FIPS','agency','subunit','sublabel'])
 
 merged.to_file("all_places/all_areas.shp", encoding="utf-8")
+
+akhuc12 = gpd.read_file("../vector_data/polygon/boundaries/alaska_hucs/ak_huc12s.shp")
+akhuc12['type'] = 'huc12'
+akhuc12.to_crs(4326, inplace=True)
+akhuc12.to_file("all_places/ak_huc12s.shp", encoding="utf-8")
