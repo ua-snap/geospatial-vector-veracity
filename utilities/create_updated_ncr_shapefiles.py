@@ -41,15 +41,11 @@ gmu = gpd.read_file("../vector_data/polygon/boundaries/game_management_units/ak_
 gmu['type'] = 'game_management_unit'
 ak_protected_areas = gpd.read_file("../vector_data/polygon/boundaries/protected_areas/ak_protected_areas/ak_protected_areas.shp")
 ak_protected_areas['type'] = 'protected_area'
-bc_protected_areas = gpd.read_file("../vector_data/polygon/boundaries/protected_areas/bc_protected_areas/bc_protected_areas.shp")
-bc_protected_areas['type'] = 'protected_area'
-yt_protected_areas = gpd.read_file("../vector_data/polygon/boundaries/protected_areas/yt_protected_areas/yt_protected_areas.shp")
-yt_protected_areas['type'] = 'protected_area'
 
-for gdf in [huc10s, boroughs, census, climdiv, corp, ethno, fire, first_nations,gmu,ak_protected_areas,bc_protected_areas,yt_protected_areas]:
+for gdf in [huc10s, boroughs, census, climdiv, corp, ethno, fire, first_nations,gmu,ak_protected_areas]:
     gdf.to_crs(4326, inplace=True)
 
-merged = pd.concat([hucs, huc10s, boroughs, census, climdiv, corp, ethno, fire, first_nations, gmu, ak_protected_areas, bc_protected_areas, yt_protected_areas])
+merged = pd.concat([hucs, huc10s, boroughs, census, climdiv, corp, ethno, fire, first_nations, gmu, ak_protected_areas])
 merged = merged.drop(columns=['region','country','states','FIPS','agency','subunit','sublabel'])
 
 merged.to_file("all_places/all_areas.shp", encoding="utf-8")
