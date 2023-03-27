@@ -4,17 +4,28 @@
 # https://gs.mapventure.org/geoserver.
 import pandas as pd
 import geopandas as gpd
-from shapely.geometry import Point
+from shapely.geometry import Point, box
+from shapely.ops import unary_union
 from pathlib import Path
 import os
 
-# Generate point shapefile for communities
-community_path = Path("../vector_data/point/alaska_point_locations.csv")
-communities = pd.read_csv(community_path)
+# Load the IEM AOI mask
+mask_gdf = gpd.read_file("../vector_data/polygon/boundaries/iem_with_ak_aleutians/iem_with_ak_aleutians.shp")
+mask_gdf.to_crs(4326, inplace=True)
+
+# Load community point geometries and set CRS
+community_path = Path("../vector_data/point/")
+community_csvs = ["alaska_point_locations.csv", "yukon_point_locations.csv", "british_columbia_point_locations.csv"]
+communities = pd.concat([pd.read_csv(f"{community_path}/{csv}") for csv in community_csvs])
 community_geometries = [Point(xy) for xy in zip(communities['longitude'], communities['latitude'])]
 communities = gpd.GeoDataFrame(communities, geometry=community_geometries)
 communities['type'] = 'community'
 communities.set_crs(4326, inplace=True)
+
+# Find all communities within the IEM AOI
+communities = communities[communities.within(mask_gdf.geometry.unary_union)]
+
+# Write result to shapefile
 os.makedirs("all_places", exist_ok=True)
 communities.to_file("all_places/all_communities.shp", encoding="utf-8")
 
@@ -41,11 +52,23 @@ gmu = gpd.read_file("../vector_data/polygon/boundaries/game_management_units/ak_
 gmu['type'] = 'game_management_unit'
 ak_protected_areas = gpd.read_file("../vector_data/polygon/boundaries/protected_areas/ak_protected_areas/ak_protected_areas.shp")
 ak_protected_areas['type'] = 'protected_area'
+bc_protected_areas = gpd.read_file("../vector_data/polygon/boundaries/protected_areas/bc_protected_areas/bc_protected_areas.shp")
+bc_protected_areas['type'] = 'protected_area'
+yt_protected_areas = gpd.read_file("../vector_data/polygon/boundaries/protected_areas/yt_protected_areas/yt_protected_areas.shp")
+yt_protected_areas['type'] = 'protected_area'
 
-for gdf in [huc10s, boroughs, census, climdiv, corp, ethno, fire, first_nations,gmu,ak_protected_areas]:
+for gdf in [huc10s, boroughs, census, climdiv, corp, ethno, fire, first_nations,gmu,ak_protected_areas,bc_protected_areas,yt_protected_areas]:
     gdf.to_crs(4326, inplace=True)
 
-merged = pd.concat([hucs, huc10s, boroughs, census, climdiv, corp, ethno, fire, first_nations, gmu, ak_protected_areas])
+# Only keep British Columbia & Yukon Territory protected areas 
+# within the IEM AOI.
+bc_protected_areas = bc_protected_areas[bc_protected_areas.within(mask_gdf.geometry.unary_union)]
+yt_protected_areas = yt_protected_areas[yt_protected_areas.within(mask_gdf.geometry.unary_union)]
+
+# Merge all of the areas into a single Pandas data frame
+merged = pd.concat([hucs, huc10s, boroughs, census, climdiv, corp, ethno, fire, first_nations, gmu, ak_protected_areas, bc_protected_areas, yt_protected_areas])
+
+# Drops all unused metadata from the areas 
 merged = merged.drop(columns=['region','country','states','FIPS','agency','subunit','sublabel'])
 
 merged.to_file("all_places/all_areas.shp", encoding="utf-8")
@@ -53,4 +76,5 @@ merged.to_file("all_places/all_areas.shp", encoding="utf-8")
 akhuc12 = gpd.read_file("../vector_data/polygon/boundaries/alaska_hucs/ak_huc12s.shp")
 akhuc12['type'] = 'huc12'
 akhuc12.to_crs(4326, inplace=True)
+
 akhuc12.to_file("all_places/ak_huc12s.shp", encoding="utf-8")
