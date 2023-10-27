@@ -78,6 +78,12 @@ huc10s = gpd.read_file("../vector_data/polygon/boundaries/alaska_hucs/ak_huc10s.
 huc10s["type"] = "huc"
 huc10s["area_type"] = "HUC10"
 
+yt_watersheds = gpd.read_file(
+    "../vector_data/polygon/boundaries/yt_watersheds/yt_watersheds4326.shp"
+)
+yt_watersheds["type"] = "yt_watershed"
+yt_watersheds["area_type"] = "Yukon Watershed"
+
 boroughs = gpd.read_file("../vector_data/polygon/boundaries/boroughs/ak_boroughs.shp")
 boroughs["type"] = "borough"
 
@@ -101,18 +107,32 @@ ethno = gpd.read_file(
 )
 ethno["type"] = "ethnolinguistic_region"
 
-fire = gpd.read_file("../vector_data/polygon/boundaries/fire/ak_fire_management.shp")
-fire["type"] = "fire_zone"
+ak_fire = gpd.read_file(
+    "../vector_data/polygon/boundaries/fire/ak_fire_mgmt/ak_fire_management.shp"
+)
+ak_fire["type"] = "fire_zone"
+
+yt_fire = gpd.read_file(
+    "../vector_data/polygon/boundaries/fire/yt_fire_mgmt/yt_fire_management_4326.shp"
+)
+yt_fire["type"] = "yt_fire_district"
+yt_fire["area_type"] = "Yukon Fire District"
 
 first_nations = gpd.read_file(
     "../vector_data/polygon/boundaries/first_nations/first_nation_traditional_territories.shp"
 )
 first_nations["type"] = "first_nation"
 
-gmu = gpd.read_file(
-    "../vector_data/polygon/boundaries/game_management_units/ak_gmu.shp"
+ak_gmu = gpd.read_file(
+    "../vector_data/polygon/boundaries/game_management_units/ak_gmus/ak_gmu.shp"
 )
-gmu["type"] = "game_management_unit"
+ak_gmu["type"] = "game_management_unit"
+
+yt_gmsz = gpd.read_file(
+    "../vector_data/polygon/boundaries/game_management_units/yt_gmzs/yt_game_management_zones4326.shp"
+)
+yt_gmsz["type"] = "yt_game_management_subzone"
+yt_gmsz["area_type"] = "Yukon Game Management Subzone"
 
 ak_protected_areas = gpd.read_file(
     "../vector_data/polygon/boundaries/protected_areas/ak_protected_areas/ak_protected_areas.shp"
@@ -127,23 +147,26 @@ yt_protected_areas = gpd.read_file(
 )
 yt_protected_areas["type"] = "protected_area"
 
+
 for gdf in [
     huc10s,
+    yt_watersheds,
     boroughs,
     census,
     climdiv,
     corp,
     ethno,
-    fire,
+    ak_fire,
+    yt_fire,
     first_nations,
-    gmu,
+    ak_gmu,
+    yt_gmsz,
     ak_protected_areas,
     bc_protected_areas,
     yt_protected_areas,
 ]:
-    # Clips all geometries to the western hemisphere
-    gdf["geometry"] = gpd.clip(gdf["geometry"], [-180, -90, 0, 90])
-    gdf.to_crs(4326, inplace=True)
+    if gdf.crs != "EPSG:4326":
+        gdf.to_crs(4326, inplace=True)
 
 # Only keep British Columbia & Yukon Territory protected areas
 # within the IEM AOI.
@@ -159,14 +182,17 @@ merged = pd.concat(
     [
         hucs,
         huc10s,
+        yt_watersheds,
         boroughs,
         census,
         climdiv,
         corp,
         ethno,
-        fire,
+        ak_fire,
+        yt_fire,
         first_nations,
-        gmu,
+        ak_gmu,
+        yt_gmsz,
         ak_protected_areas,
         bc_protected_areas,
         yt_protected_areas,
