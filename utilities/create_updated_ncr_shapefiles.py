@@ -147,7 +147,6 @@ yt_protected_areas = gpd.read_file(
 )
 yt_protected_areas["type"] = "protected_area"
 
-
 for gdf in [
     huc10s,
     yt_watersheds,
