@@ -77,7 +77,9 @@ def transform_row_col_to_projected_xy(affine_transform, row, col):
     return x, y
 
 
-def read_windowed_raster(src, community_coords, condition_values, window_size_m=2**15):
+def read_windowed_raster(
+    src, community_coords, condition_values, window_size_m=2**15, community_name=None
+):
     """Read a window centered on the community coordinates.
 
     Args:
@@ -113,7 +115,7 @@ def read_windowed_raster(src, community_coords, condition_values, window_size_m=
     ]
     if DEBUG:
         # write the windowed raster for debugging
-        output_path = f"debug/window_{community_coords[0]}_{community_coords[1]}.tif"
+        output_path = f"debug/window_{community_name}.tif"
         window_meta = src.meta.copy()
         window_meta.update(
             {
@@ -126,7 +128,7 @@ def read_windowed_raster(src, community_coords, condition_values, window_size_m=
         with rio.open(output_path, "w", **window_meta) as dst:
             dst.write(raster, indexes=1)
         # write the coordinates to a shapefile for debugging
-        output_path = f"debug/coords_{community_coords[0]}_{community_coords[1]}.shp"
+        output_path = f"debug/coords_{community_name}.shp"
         gdf = gpd.GeoDataFrame(
             {"geometry": [Point(coord) for coord in coordinates]}, crs="EPSG:3338"
         )
@@ -160,7 +162,12 @@ def find_nearest_neighbors(community_df, raster_path, condition_values, N):
             comm_y = comm_y[0]
 
             print(f"Finding nearest neighbors for {community['name']}...")
-            coordinates = read_windowed_raster(src, community_coords, condition_values)
+            coordinates = read_windowed_raster(
+                src,
+                community_coords,
+                condition_values,
+                community_name=community["name"],
+            )
 
             if not coordinates:
                 # If no valid coordinates are found in the window, create dummy result
@@ -185,9 +192,9 @@ def find_nearest_neighbors(community_df, raster_path, condition_values, N):
                     nearest_coord = coordinates[indices]
                 else:
                     nearest_coord = coordinates[indices[i]]
-                # nearest_coord = coordinates[indices[i]]
-                result[f"NN{i+1}_x"] = round(nearest_coord[0], 1)
-                result[f"NN{i+1}_y"] = round(nearest_coord[1], 1)
+                # intentionally being over-precise because I want to be certain we ping the center of the 100 m grid cell
+                result[f"NN{i+1}_x"] = round(nearest_coord[0], 5)
+                result[f"NN{i+1}_y"] = round(nearest_coord[1], 5)
             results.append(result)
 
             if DEBUG:

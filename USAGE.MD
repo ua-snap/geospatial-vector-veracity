@@ -18,6 +18,10 @@ This script creates updated versions of shapefiles on GeoServer for various geog
 
 Use this script to create a "shadow mask" of a polygon - this effectively generates a feature that is the inverse of the polygon within a bounding box. We often use such "shadow masks" as web map elements to visually guide the user where valid queries do and do not exist. We dim the lights where there isn't data.
 
+### `find_nearest_neighbors.py`
+
+A utility for finding the nearest sets of raster grid cells that meet certain conditions to a list of communities. Basically this takes a CSV file with community lat-lon coordinates and a GeoTIFF and then filters the community points to include only those within the raster bounds and identifies the N closest raster grid cells for each point using a combination of windowed raster reads and a k-d tree. The resulting nearest neighbors and coordinates that represent the center of the raster grid cell are written to an output CSV file. There are some optional debugging shapefiles and raster subsets that can be generated for detailed inspection.
+
 ### `simplify_huc12.py`
 
 More of a one-off, this script reads a source shapefile `"wbdhu12_a_ak.shp"` of AK HUC-12s and converts it to EPSG:3338 and simplifies the geometries (tolerance of 100 m) while preserving topology to ensure that the simplified geometries do not overlap or create invalid shapes. A few specific HUC12s are also dropped from the resulting dataset because they were deemed poor "data cookie cutters" for our purposes.
