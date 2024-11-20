@@ -24,7 +24,7 @@ A utility for finding the nearest sets of raster grid cells that meet certain co
 
 ### `simplify_huc12.py`
 
-More of a one-off, this script reads a source shapefile `"wbdhu12_a_ak.shp"` of AK HUC-12s and converts it to EPSG:3338 and simplifies the geometries (tolerance of 100 m) while preserving topology to ensure that the simplified geometries do not overlap or create invalid shapes. A few specific HUC12s are also dropped from the resulting dataset because they were deemed poor "data cookie cutters" for our purposes.
+More of a one-off, this script reads a source shapefile `wbdhu12_a_ak.shp` of AK HUC-12s and converts it to EPSG:3338 and simplifies the geometries (tolerance of 100 m) while preserving topology to ensure that the simplified geometries do not overlap or create invalid shapes. A few specific HUC12s are also dropped from the resulting dataset because they were deemed poor "data cookie cutters" for our purposes.
 
 ### `crop_aiem_domain.py`
 
