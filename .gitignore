@@ -1,4 +1,5 @@
 *_DEPRECATED.csv
+utilities/debug
 
 # jupyter
 *.ipynb_checkpoints
