@@ -63,7 +63,7 @@ def transform_row_col_to_latlon(affine_transform, row, col):
 
 
 def transform_row_col_to_projected_xy(affine_transform, row, col):
-    """Transform raster row/col to latitude and longitude.
+    """Transform raster row/col to x and y.
 
     Args:
         affine_transform (Affine): Affine transform object
