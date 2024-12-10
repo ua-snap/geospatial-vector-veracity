@@ -30,6 +30,10 @@ community_geometries = [
 communities = gpd.GeoDataFrame(communities, geometry=community_geometries)
 communities["type"] = "community"
 
+# Reindex combined CSV dataframe so each row has a unique index. This is
+# necessary so that dropping a row doesn't accidentally drop other rows.
+communities = communities.reset_index(drop=True)
+
 # Remove Attu as it wraps over dateline and has no relevant data
 attu = communities.loc[communities["name"] == "Attu"]
 communities = communities.drop(attu.index)
@@ -53,6 +57,7 @@ schema = {
         "latitude": "float",
         "longitude": "float",
         "km2ocean": "float",
+        "tags": "str",
         "type": "str",
     },
     "Y_PRECISION": 4,
