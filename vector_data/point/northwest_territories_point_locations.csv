@@ -1,47 +1,47 @@
 id,name,alt_name,region,country,latitude,longitude,tags
-NT1,Aklavik,,Northwest Territories,CA,68.22,-135.0087,
-NT2,Behchokǫ̀,Rae-Edzo,Northwest Territories,CA,62.8335,-116.0514,
-NT3,CanTung Mine,,Northwest Territories,CA,61.9717,-128.2683,
-NT4,Colville Lake,K'áhbamį́túé,Northwest Territories,CA,67.0399,-126.0912,
-NT5,ConocoPhillips EL470 Base Camp,,Northwest Territories,CA,65.0534,-127.0355,
-NT6,Daring Lake Research Station,,Northwest Territories,CA,64.52,-111.35,
-NT7,Deline,Délı̨nę,Northwest Territories,CA,65.1897,-123.4244,
-NT8,Dettah,Tʼèɂehdaà,Northwest Territories,CA,62.4112,-114.3084,
-NT9,Diavik Mine,,Northwest Territories,CA,64.5114,-110.2897,
-NT10,Ekati Mine,,Northwest Territories,CA,64.6172,-110.1328,
-NT11,Enterprise,,Northwest Territories,CA,60.5555,-116.1472,
-NT12,Fort Good Hope,Rádeyîlîkóé,Northwest Territories,CA,66.257,-128.6377,
-NT13,Fort Liard,Echaot'l Koe,Northwest Territories,CA,60.2392,-123.4752,
-NT14,Fort McPherson,Teetł'it Zheh,Northwest Territories,CA,67.4365,-134.8833,
-NT15,Fort Providence,Zhahti Koe,Northwest Territories,CA,61.3552,-117.6542,
-NT16,Fort Resolution,Denı́nu Kų́ę́,Northwest Territories,CA,61.171,-113.6721,
-NT17,Fort Simpson,Łı́ı́dlı̨ı̨ Kų́ę́,Northwest Territories,CA,61.8609,-121.3527,
-NT18,Fort Smith,Thebacha,Northwest Territories,CA,60.0053,-111.8829,
-NT19,Gahcho Kue Mine,,Northwest Territories,CA,63.5047,-109.0461,
-NT20,Gamètì,,Northwest Territories,CA,64.1129,-117.3525,
-NT21,Hay River,Xátł'odehchee,Northwest Territories,CA,60.8097,-115.7898,
-NT22,Hay River Reserve,K'atlodeech First Nation,Northwest Territories,CA,60.7939,-115.704,
-NT23,Husky Slater River Base Camp,,Northwest Territories,CA,65.0077,-126.4355,
-NT24,Inuvik,,Northwest Territories,CA,68.361,-133.73,
-NT25,Jean Marie River,Tthek'éhdélį,Northwest Territories,CA,61.525,-120.6278,
-NT26,Kakisa,K'ágee,Northwest Territories,CA,60.9407,-117.4159,
-NT27,Łutselkʼe,,Northwest Territories,CA,62.4041,-110.7382,
-NT28,Nahanni Butte,Tthenáágó,Northwest Territories,CA,61.0356,-123.3832,
-NT29,Ndilǫ,,Northwest Territories,CA,62.4736,-114.3361,
-NT30,Nechalacho/Thor Lake,,Northwest Territories,CA,62.0989,-112.5936,
-NT31,NICO Mine,,Northwest Territories,CA,63.55,-116.7458,
-NT32,Norman Wells,Tłegǫ́hłı̨,Northwest Territories,CA,65.2811,-126.8316,
-NT33,Paulatuk,,Northwest Territories,CA,69.3503,-124.06,
-NT34,Pine Point Mine,,Northwest Territories,CA,60.8335,-114.4679,
-NT35,Prairie Creek Mine,,Northwest Territories,CA,61.55,-124.8,
-NT36,Sachs Harbour,Ikahuak,Northwest Territories,CA,71.9867,-125.2505,
-NT37,Sambaa K’e,,Northwest Territories,CA,60.4426,-121.2424,
-NT38,Snap Lake Mine,,Northwest Territories,CA,63.6056,-110.8667,
-NT39,Tsiigehtchic,,Northwest Territories,CA,67.4424,-133.7424,
-NT40,Tuktoyaktuk,,Northwest Territories,CA,69.4509,-133.0358,
-NT41,Tulita,,Northwest Territories,CA,64.9006,-125.5763,
-NT42,Ulukhaktok,,Northwest Territories,CA,70.7366,-117.772,
-NT43,Wekweètì,,Northwest Territories,CA,64.1892,-114.1861,
-NT44,Whatì,,Northwest Territories,CA,63.1449,-117.2743,
-NT45,Wrigley,Pedzéh Kñ,Northwest Territories,CA,63.2268,-123.4667,
-NT46,Yellowknife,Sǫ̀mbak'è,Northwest Territories,CA,62.4536,-114.37,
+NT1,Aklavik,,Northwest Territories,CA,68.22,-135.0087,ardac
+NT2,Behchokǫ̀,Rae-Edzo,Northwest Territories,CA,62.8335,-116.0514,ardac
+NT3,CanTung Mine,,Northwest Territories,CA,61.9717,-128.2683,ardac
+NT4,Colville Lake,K'áhbamį́túé,Northwest Territories,CA,67.0399,-126.0912,ardac
+NT5,ConocoPhillips EL470 Base Camp,,Northwest Territories,CA,65.0534,-127.0355,ardac
+NT6,Daring Lake Research Station,,Northwest Territories,CA,64.52,-111.35,ardac
+NT7,Deline,Délı̨nę,Northwest Territories,CA,65.1897,-123.4244,ardac
+NT8,Dettah,Tʼèɂehdaà,Northwest Territories,CA,62.4112,-114.3084,ardac
+NT9,Diavik Mine,,Northwest Territories,CA,64.5114,-110.2897,ardac
+NT10,Ekati Mine,,Northwest Territories,CA,64.6172,-110.1328,ardac
+NT11,Enterprise,,Northwest Territories,CA,60.5555,-116.1472,ardac
+NT12,Fort Good Hope,Rádeyîlîkóé,Northwest Territories,CA,66.257,-128.6377,ardac
+NT13,Fort Liard,Echaot'l Koe,Northwest Territories,CA,60.2392,-123.4752,ardac
+NT14,Fort McPherson,Teetł'it Zheh,Northwest Territories,CA,67.4365,-134.8833,ardac
+NT15,Fort Providence,Zhahti Koe,Northwest Territories,CA,61.3552,-117.6542,ardac
+NT16,Fort Resolution,Denı́nu Kų́ę́,Northwest Territories,CA,61.171,-113.6721,ardac
+NT17,Fort Simpson,Łı́ı́dlı̨ı̨ Kų́ę́,Northwest Territories,CA,61.8609,-121.3527,ardac
+NT18,Fort Smith,Thebacha,Northwest Territories,CA,60.0053,-111.8829,ardac
+NT19,Gahcho Kue Mine,,Northwest Territories,CA,63.5047,-109.0461,ardac
+NT20,Gamètì,,Northwest Territories,CA,64.1129,-117.3525,ardac
+NT21,Hay River,Xátł'odehchee,Northwest Territories,CA,60.8097,-115.7898,ardac
+NT22,Hay River Reserve,K'atlodeech First Nation,Northwest Territories,CA,60.7939,-115.704,ardac
+NT23,Husky Slater River Base Camp,,Northwest Territories,CA,65.0077,-126.4355,ardac
+NT24,Inuvik,,Northwest Territories,CA,68.361,-133.73,ardac
+NT25,Jean Marie River,Tthek'éhdélį,Northwest Territories,CA,61.525,-120.6278,ardac
+NT26,Kakisa,K'ágee,Northwest Territories,CA,60.9407,-117.4159,ardac
+NT27,Łutselkʼe,,Northwest Territories,CA,62.4041,-110.7382,ardac
+NT28,Nahanni Butte,Tthenáágó,Northwest Territories,CA,61.0356,-123.3832,ardac
+NT29,Ndilǫ,,Northwest Territories,CA,62.4736,-114.3361,ardac
+NT30,Nechalacho/Thor Lake,,Northwest Territories,CA,62.0989,-112.5936,ardac
+NT31,NICO Mine,,Northwest Territories,CA,63.55,-116.7458,ardac
+NT32,Norman Wells,Tłegǫ́hłı̨,Northwest Territories,CA,65.2811,-126.8316,ardac
+NT33,Paulatuk,,Northwest Territories,CA,69.3503,-124.06,ardac
+NT34,Pine Point Mine,,Northwest Territories,CA,60.8335,-114.4679,ardac
+NT35,Prairie Creek Mine,,Northwest Territories,CA,61.55,-124.8,ardac
+NT36,Sachs Harbour,Ikahuak,Northwest Territories,CA,71.9867,-125.2505,ardac
+NT37,Sambaa K’e,,Northwest Territories,CA,60.4426,-121.2424,ardac
+NT38,Snap Lake Mine,,Northwest Territories,CA,63.6056,-110.8667,ardac
+NT39,Tsiigehtchic,,Northwest Territories,CA,67.4424,-133.7424,ardac
+NT40,Tuktoyaktuk,,Northwest Territories,CA,69.4509,-133.0358,ardac
+NT41,Tulita,,Northwest Territories,CA,64.9006,-125.5763,ardac
+NT42,Ulukhaktok,,Northwest Territories,CA,70.7366,-117.772,ardac
+NT43,Wekweètì,,Northwest Territories,CA,64.1892,-114.1861,ardac
+NT44,Whatì,,Northwest Territories,CA,63.1449,-117.2743,ardac
+NT45,Wrigley,Pedzéh Kñ,Northwest Territories,CA,63.2268,-123.4667,ardac
+NT46,Yellowknife,Sǫ̀mbak'è,Northwest Territories,CA,62.4536,-114.37,ardac
