@@ -29,6 +29,39 @@ check_within_iem = [
     "yukon_point_locations.csv",
 ]
 
+# Military sites to include in Arctic-EDS but no other webapps
+eds_only = [
+    "AK557",
+    "AK558",
+    "AK559",
+    "AK560",
+    "AK561",
+    "AK562",
+    "AK563",
+    "AK564",
+    "AK565",
+    "AK566",
+    "AK567",
+    "AK568",
+    "AK569",
+    "AK570",
+    "AK571",
+    "AK572",
+    "AK573",
+    "AK574",
+    "AK575",
+    "AK576",
+    "AK577",
+    "AK578",
+    "AK579",
+    "AK580",
+    "AK581",
+    "AK582",
+    "AK583",
+    "AK584",
+    "AK585",
+]
+
 if not os.path.exists("tagged_csvs"):
     os.makedirs("tagged_csvs")
 
@@ -46,19 +79,32 @@ for path in glob.iglob("../vector_data/point/*.csv"):
     if "tags" not in communities.columns:
         communities["tags"] = ""
 
+    # Add "eds" to all communities with ID in eds_only
+    communities["tags"] = communities["tags"].astype(str)
+    communities.loc[communities["id"].isin(eds_only), "tags"] = "eds"
+
+    # Add tags to communities that are not in eds_only
     tags = file_tags[file]
-    communities["tags"] = ",".join(tags)
+    communities.loc[~communities["id"].isin(eds_only), "tags"] = ",".join(tags)
 
     if file in check_within_iem:
         geometries = [
             Point(xy) for xy in zip(communities["longitude"], communities["latitude"])
         ]
         communities = gpd.GeoDataFrame(communities, geometry=geometries)
-        iem_communities = communities.within(iem_gdf.geometry.unary_union)
-        communities.loc[iem_communities, "tags"] = (
-            communities.loc[iem_communities, "tags"] + ",ncr"
-        )
 
+        # Find communities within the IEM polygon
+        iem_communities = communities.within(iem_gdf.geometry.unary_union)
+
+        # Filter out communities that are in eds_only
+        iem_communities = iem_communities & ~communities["id"].isin(eds_only)
+
+        # Tag remaining communities with "ncr"
+        tags = communities.loc[iem_communities, "tags"].str.split(",")
+        tags = tags.apply(lambda x: x + ["ncr"])
+        communities.loc[iem_communities, "tags"] = tags.str.join(",")
+
+        # Remove the geometry column before writing to CSV
         communities = communities.drop(columns="geometry")
 
     # Replace all nans with empty strings
