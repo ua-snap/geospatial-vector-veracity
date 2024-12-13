@@ -28,7 +28,7 @@ AK25,Atqasuk,,Alaska,US,70.4694,-157.396,46.8,"ncr,eds,ardac"
 AK26,Attu,,Alaska,US,52.9365,173.24,0.6,"ncr,eds,ardac"
 AK27,Auke Bay,,Alaska,US,58.383,-134.657,0.3,"ncr,eds,ardac"
 AK28,Ayakulik,,Alaska,US,57.2113,-154.546,1.2,"ncr,eds,ardac"
-AK558,Back Island,,Alaska,US,55.5483,-131.7561,0.0,eds
+AK558,Back Island,,Alaska,US,55.5483,-131.7561,3.9,eds
 AK490,Badger,,Alaska,US,64.8058,-147.4039,380.4,"ncr,eds,ardac"
 AK29,Baranof Warm Springs,,Alaska,US,57.0895,-134.8337,2.8,"ncr,eds,ardac"
 AK30,Bartlett Cove,,Alaska,US,58.45,-135.916,1.2,"ncr,eds,ardac"
@@ -48,10 +48,10 @@ AK39,Big Lake,,Alaska,US,61.5378,-149.824,9.8,"ncr,eds,ardac"
 AK40,Bill Moore's Slough,,Alaska,US,62.9504,-163.7777,4.3,"ncr,eds,ardac"
 AK41,Biorka,,Alaska,US,53.831,-166.208,0.2,"ncr,eds,ardac"
 AK42,Birch Creek,Łiteet'aii,Alaska,US,66.2687,-145.824,411.7,"ncr,eds,ardac"
-AK559,Birch Lake Recreation Annex,,Alaska,US,64.3175,-146.647,0.0,eds
+AK559,Birch Lake Recreation Annex,,Alaska,US,64.3175,-146.647,341.2,eds
 AK43,Birchwood,,Alaska,US,61.4081,-149.481,3.8,"ncr,eds,ardac"
 AK44,Bird Point,,Alaska,US,60.9311,-149.358,0.3,"ncr,eds,ardac"
-AK560,Blair Lake Air Force Rangeex,,Alaska,US,64.3876,-147.6672,0.0,eds
+AK560,Blair Lake Air Force Rangeex,,Alaska,US,64.3876,-147.6672,332.1,eds
 AK45,Bodenburg Butte,,Alaska,US,61.5495,-149.047,11.9,"ncr,eds,ardac"
 AK466,Bogoslof Island Refuge,,Alaska,US,53.9379,-168.0438,40.9,"ncr,eds,ardac"
 AK46,Boswell Bay,,Alaska,US,60.4001,-146.133,0.8,"ncr,eds,ardac"
@@ -76,7 +76,7 @@ AK60,Chatham,,Alaska,US,57.514,-134.924,4.0,"ncr,eds,ardac"
 AK61,Chefornak,Cevvʼarneq / Caputnguaq,Alaska,US,60.1607,-164.271,10.6,"ncr,eds,ardac"
 AK62,Chena Hot Springs,,Alaska,US,65.053,-146.056,427.7,"ncr,eds,ardac"
 AK496,Chena Ridge,,Alaska,US,64.8228,-147.9764,376.2,"ncr,eds,ardac"
-AK561,Chena River Research,,Alaska,US,64.8283,-146.9699,0.0,eds
+AK561,Chena River Research,,Alaska,US,64.8283,-146.9699,388.8,eds
 AK63,Chenega Bay,Caniqaq,Alaska,US,60.0746,-148.003,0.0,"ncr,eds,ardac"
 AK64,Chevak,Cevʼaq,Alaska,US,61.5278,-165.586,10.2,"ncr,eds,ardac"
 AK65,Chickaloon,Nay’dini’aa Na’,Alaska,US,61.7967,-148.463,53.1,"ncr,eds,ardac"
@@ -98,7 +98,7 @@ AK78,Circle Hot Springs,,Alaska,US,65.4833,-144.634,481.4,"ncr,eds,ardac"
 AK79,Clam Gulch,,Alaska,US,60.2311,-151.394,1.3,"ncr,eds,ardac"
 AK80,Clark's Point,Saguyaq,Alaska,US,58.8441,-158.551,0.2,"ncr,eds,ardac"
 AK81,Clear,,Alaska,US,64.3332,-149.167,315.4,"ncr,eds,ardac"
-AK562,Clear Air Force Station,,Alaska,US,64.2882,-149.1907,0.0,eds
+AK562,Clear Air Force Station,,Alaska,US,64.2882,-149.1907,310.4,eds
 AK82,Clover Pass,,Alaska,US,55.472,-131.791,1.2,"ncr,eds,ardac"
 AK83,Coffman Cove,,Alaska,US,56.0119,-132.8296,1.5,"ncr,eds,ardac"
 AK84,Cohoe,,Alaska,US,60.3671,-151.3,2.0,"ncr,eds,ardac"
@@ -129,7 +129,7 @@ AK99,Douglas,,Alaska,US,58.2762,-134.392,0.2,"ncr,eds,ardac"
 AK469,Driftwood Bay State Marine Park,,Alaska,US,59.9128,-149.2571,1.2,"ncr,eds,ardac"
 AK100,Dry Creek,,Alaska,US,63.7,-144.567,300.5,"ncr,eds,ardac"
 AK101,Dutch Harbor,,Alaska,US,53.891,-166.535,1.5,"ncr,eds,ardac"
-AK573,Dyke Range,,Alaska,US,64.7118,-147.3332,0.0,eds
+AK573,Dyke Range,,Alaska,US,64.7118,-147.3332,371.2,eds
 AK102,Eagle,Tthee T'äwdlenn,Alaska,US,64.788,-141.2,482.9,"ncr,eds,ardac"
 AK103,Eagle River,,Alaska,US,61.3221,-149.567,9.3,"ncr,eds,ardac"
 AK104,Eagle Village,,Alaska,US,64.7805,-141.114,484.5,"ncr,eds,ardac"
@@ -140,13 +140,13 @@ AK107,Egavik,,Alaska,US,64.0332,-160.917,0.1,"ncr,eds,ardac"
 AK108,Egegik,Igyagiiq,Alaska,US,58.2155,-157.376,0.8,"ncr,eds,ardac"
 AK109,Egorkovskoi,,Alaska,US,53.564,-168.0,0.1,"ncr,eds,ardac"
 AK442,Eielson Air Force Base,,Alaska,US,64.6656,-147.1014,369.6,"ncr,eds,ardac"
-AK563,Eielson Alpa Research (1-1),,Alaska,US,65.2349,-147.763,0.0,eds
-AK564,Eielson Alpa Research (2-2),,Alaska,US,65.1945,-147.3161,0.0,eds
-AK565,Eielson Alpa Research (2-3),,Alaska,US,65.0653,-147.5641,0.0,eds
-AK566,Eielson Alpa Research (2-4),,Alaska,US,65.0994,-148.0044,0.0,eds
-AK568,Eielson Alpa Research (3-23),,Alaska,US,65.027,-147.1964,0.0,eds
-AK567,Eielson Alpa Research (3-3),,Alaska,US,64.9103,-147.4459,0.0,eds
-AK569,Eielson Alpa Research (3-34),,Alaska,US,64.945,-147.861,0.0,eds
+AK563,Eielson Alpa Research (1-1),,Alaska,US,65.2349,-147.763,423.2,eds
+AK564,Eielson Alpa Research (2-2),,Alaska,US,65.1945,-147.3161,423.4,eds
+AK565,Eielson Alpa Research (2-3),,Alaska,US,65.0653,-147.5641,406.7,eds
+AK566,Eielson Alpa Research (2-4),,Alaska,US,65.0994,-148.0044,406.4,eds
+AK568,Eielson Alpa Research (3-23),,Alaska,US,65.027,-147.1964,406.8,eds
+AK567,Eielson Alpa Research (3-3),,Alaska,US,64.9103,-147.4459,391.2,eds
+AK569,Eielson Alpa Research (3-34),,Alaska,US,64.945,-147.861,390.6,eds
 AK110,Eklutna,Idlughet,Alaska,US,61.458,-149.362,1.3,"ncr,eds,ardac"
 AK111,Ekuk,,Alaska,US,58.804,-158.541,0.6,"ncr,eds,ardac"
 AK112,Ekwok,Iquaq,Alaska,US,59.3497,-157.475,43.7,"ncr,eds,ardac"
@@ -154,8 +154,8 @@ AK113,Elephant Point,,Alaska,US,66.2673,-161.333,1.5,"ncr,eds,ardac"
 AK114,Elfin Cove,,Alaska,US,58.1944,-136.343,0.2,"ncr,eds,ardac"
 AK115,Elim,Neviarcaurluq,Alaska,US,64.6175,-162.26,0.5,"ncr,eds,ardac"
 AK116,Ellamar,,Alaska,US,60.8961,-146.708,0.0,"ncr,eds,ardac"
-AK570,Elmendorf Air Force Base,,Alaska,US,61.2698,-149.8112,0.0,eds
-AK583,Elmendorf Air Force Base Site 2,,Alaska,US,61.24,-149.765,0.0,eds
+AK570,Elmendorf Air Force Base,,Alaska,US,61.2698,-149.8112,3.4,eds
+AK583,Elmendorf Air Force Base Site 2,,Alaska,US,61.24,-149.765,6.6,eds
 AK117,Emmonak,Imangaq,Alaska,US,62.7778,-164.523,3.2,"ncr,eds,ardac"
 AK470,Entry Cove State Marine Park,,Alaska,US,60.8048,-148.3636,1.0,"ncr,eds,ardac"
 AK450,Ernie Haugen Public Use Area,,Alaska,US,56.5421,-132.6616,0.9,"ncr,eds,ardac"
@@ -166,8 +166,8 @@ AK505,Evansville,,Alaska,US,66.9238,-151.5061,381.0,"ncr,eds,ardac"
 AK122,Excursion Inlet,,Alaska,US,58.417,-135.441,0.0,"ncr,eds,ardac"
 AK123,Eyak,Igya’aq,Alaska,US,60.5652,-145.7,1.8,"ncr,eds,ardac"
 AK124,Fairbanks,,Alaska,US,64.8378,-147.716,380.3,"ncr,eds,ardac"
-AK574,Fairbanks Eielson Pipeline,,Alaska,US,64.6656,-147.1014,0.0,eds
-AK575,Fairbanks Permafrost Station,,Alaska,US,64.8743,-147.68,0.0,eds
+AK574,Fairbanks Eielson Pipeline,,Alaska,US,64.6656,-147.1014,369.6,eds
+AK575,Fairbanks Permafrost Station,,Alaska,US,64.8743,-147.68,384.7,eds
 AK125,False Pass,Isanax̂,Alaska,US,54.8548,-163.407,0.5,"ncr,eds,ardac"
 AK506,Farm Loop,,Alaska,US,61.6354,-149.1482,16.0,"ncr,eds,ardac"
 AK507,Farmers Loop,,Alaska,US,64.8988,-147.6978,387.2,"ncr,eds,ardac"
@@ -177,7 +177,7 @@ AK508,Fishhook,,Alaska,US,61.6718,-149.2239,18.7,"ncr,eds,ardac"
 AK128,Flat,,Alaska,US,62.4536,-158.007,198.5,"ncr,eds,ardac"
 AK129,Fort Glenn,,Alaska,US,53.3956,-167.881,1.6,"ncr,eds,ardac"
 AK440,Fort Greely,,Alaska,US,63.9731,-145.7181,318.1,"ncr,eds,ardac"
-AK576,Fort Richardson,,Alaska,US,61.2656,-149.641,0.0,eds
+AK576,Fort Richardson,,Alaska,US,61.2656,-149.641,10.4,eds
 AK438,Fort Wainwright,,Alaska,US,64.8278,-147.6429,380.0,"ncr,eds,ardac"
 AK130,Fort Yukon,Gwichyaa Zheh,Alaska,US,66.5647,-145.274,377.4,"ncr,eds,ardac"
 AK509,Four Mile Road,,Alaska,US,64.6018,-149.1306,345.4,"ncr,eds,ardac"
@@ -339,7 +339,7 @@ AK253,Moses Point,,Alaska,US,64.7002,-162.033,1.2,"ncr,eds,ardac"
 AK531,Mosquito Lake,,Alaska,US,59.4246,-136.016,28.7,"ncr,eds,ardac"
 AK254,Mountain Village,Asaacaryaraq,Alaska,US,62.0884,-163.72,58.5,"ncr,eds,ardac"
 AK532,Mud Bay,,Alaska,US,59.1702,-135.3665,1.4,"ncr,eds,ardac"
-AK571,Murphy Dome Long Range Radar Site,,Alaska,US,64.9517,-148.3398,0.0,eds
+AK571,Murphy Dome Long Range Radar Site,,Alaska,US,64.9517,-148.3398,387.7,eds
 AK256,Nabesna,Naambia Niign Daacheeg,Alaska,US,62.3719,-143.009,203.9,"ncr,eds,ardac"
 AK257,Nakeen,,Alaska,US,58.9361,-157.038,0.7,"ncr,eds,ardac"
 AK258,Naknek,Nakniq,Alaska,US,58.7283,-157.014,0.1,"ncr,eds,ardac"
@@ -348,12 +348,12 @@ AK262,Napaimute,,Alaska,US,61.54,-158.674,196.0,"ncr,eds,ardac"
 AK261,Napakiak,Naparyarraq,Alaska,US,60.6967,-161.952,0.4,"ncr,eds,ardac"
 AK263,Napaskiak,Napaskiaq,Alaska,US,60.708,-161.766,6.3,"ncr,eds,ardac"
 AK264,Nash Harbor,,Alaska,US,60.2041,-166.939,1.3,"ncr,eds,ardac"
-AK577,National Guard Alcantra Armory Complex,,Alaska,US,61.603,-149.3748,0.0,eds
-AK585,National Guard Anchorage International Airport,,Alaska,US,61.1599,-149.9695,0.0,eds
-AK580,National Guard Fairbanks Armory,,Alaska,US,64.8417,-147.7535,0.0,eds
-AK584,National Guard Wasilla Storefront Recruiting Office,,Alaska,US,61.5769,-149.4107,0.0,eds
+AK577,National Guard Alcantra Armory Complex,,Alaska,US,61.603,-149.3748,10.4,eds
+AK585,National Guard Anchorage International Airport,,Alaska,US,61.1599,-149.9695,3.7,eds
+AK580,National Guard Fairbanks Armory,,Alaska,US,64.8417,-147.7535,380.4,eds
+AK584,National Guard Wasilla Storefront Recruiting Office,,Alaska,US,61.5769,-149.4107,7.2,eds
 AK533,Naukati Bay,,Alaska,US,55.8762,-133.1921,0.3,"ncr,eds,ardac"
-AK557,Naval Air Facility Adak,,Alaska,US,51.8751,-176.6498,0.0,eds
+AK557,Naval Air Facility Adak,,Alaska,US,51.8751,-176.6498,1.4,eds
 AK265,Nelchina,,Alaska,US,61.996,-146.8203,93.4,"ncr,eds,ardac"
 AK266,Nelson Lagoon,Niilsanam Alĝuudaa,Alaska,US,56.0012,-161.201,0.2,"ncr,eds,ardac"
 AK267,Nenana,Toghotili,Alaska,US,64.5638,-149.093,341.3,"ncr,eds,ardac"
@@ -362,8 +362,8 @@ AK269,New Stuyahok,Cetuyaraq,Alaska,US,59.4528,-157.312,44.8,"ncr,eds,ardac"
 AK270,Newhalen,Nuuriileng,Alaska,US,59.72,-154.897,56.8,"ncr,eds,ardac"
 AK271,Newtok,Niugtaq,Alaska,US,60.9427,-164.629,1.1,"ncr,eds,ardac"
 AK272,Nightmute,Negtemiut,Alaska,US,60.4794,-164.724,14.4,"ncr,eds,ardac"
-AK578,Nike Alaska Mike,,Alaska,US,64.5849,-146.7309,0.0,eds
-AK579,Nike Alaska Peter,,Alaska,US,64.6745,-146.7542,0.0,eds
+AK578,Nike Alaska Mike,,Alaska,US,64.5849,-146.7309,367.1,eds
+AK579,Nike Alaska Peter,,Alaska,US,64.6745,-146.7542,376.1,eds
 AK273,Nikiski,,Alaska,US,60.6394,-151.334,1.1,"ncr,eds,ardac"
 AK274,Nikolaevsk,,Alaska,US,59.8109,-151.623,12.4,"ncr,eds,ardac"
 AK275,Nikolai,Nikolai,Alaska,US,63.0133,-154.375,268.7,"ncr,eds,ardac"
@@ -554,7 +554,7 @@ AK428,White Mountain,Nasirvik,Alaska,US,64.6813,-163.406,7.9,"ncr,eds,ardac"
 AK554,Whitestone,,Alaska,US,64.1536,-145.8863,334.7,"ncr,eds,ardac"
 AK555,Whitestone Logging Camp,,Alaska,US,58.0831,-135.4367,0.2,"ncr,eds,ardac"
 AK429,Whittier,,Alaska,US,60.773,-148.684,1.6,"ncr,eds,ardac"
-AK581,Whittier Anchorage Pipeline,,Alaska,US,60.9399,-149.2897,0.0,eds
+AK581,Whittier Anchorage Pipeline,,Alaska,US,60.9399,-149.2897,0.1,eds
 AK430,Willow,,Alaska,US,61.7472,-150.037,35.5,"ncr,eds,ardac"
 AK556,Willow Creek,,Alaska,US,61.8123,-145.1944,96.1,"ncr,eds,ardac"
 AK431,Wiseman,,Alaska,US,67.41,-150.107,324.5,"ncr,eds,ardac"
@@ -562,6 +562,6 @@ AK432,Womens Bay,,Alaska,US,57.7099,-152.586,2.2,"ncr,eds,ardac"
 AK433,Woody Island,,Alaska,US,57.78,-152.355,1.9,"ncr,eds,ardac"
 AK434,Wrangell,Shtax’héen,Alaska,US,56.4708,-132.377,0.1,"ncr,eds,ardac"
 AK435,Yakutat,Yaakwdáat,Alaska,US,59.5469,-139.727,0.7,"ncr,eds,ardac"
-AK582,Yukon Command Training Site,,Alaska,US,64.6892,-146.6233,0.0,eds
-AK572,Yukon Weapons Range,,Alaska,US,64.7682,-146.8895,0.0,eds
+AK582,Yukon Command Training Site,,Alaska,US,64.6892,-146.6233,379.9,eds
+AK572,Yukon Weapons Range,,Alaska,US,64.7682,-146.8895,383.7,eds
 AK464,Ziegler Cove State Marine Park,,Alaska,US,60.8381,-148.3205,1.1,"ncr,eds,ardac"
