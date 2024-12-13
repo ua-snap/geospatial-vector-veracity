@@ -6,6 +6,7 @@ import pandas as pd
 import geopandas as gpd
 from shapely.geometry import Point
 from pathlib import Path
+import glob
 import os
 
 # Load the IEM AOI mask
@@ -15,14 +16,8 @@ mask_gdf = gpd.read_file(
 mask_gdf.to_crs(4326, inplace=True)
 
 # Load community point geometries and set CRS
-community_path = Path("../vector_data/point/")
-community_csvs = [
-    "alaska_point_locations.csv",
-    "yukon_point_locations.csv",
-    "british_columbia_point_locations.csv",
-]
 communities = pd.concat(
-    [pd.read_csv(f"{community_path}/{csv}") for csv in community_csvs]
+    [pd.read_csv(csv) for csv in glob.iglob("../vector_data/point/*.csv")]
 )
 community_geometries = [
     Point(xy) for xy in zip(communities["longitude"], communities["latitude"])
@@ -42,9 +37,6 @@ communities = communities.drop(attu.index)
 # for column names.
 communities = communities.rename(columns={"km_distance_to_ocean": "km2ocean"})
 communities.set_crs(4326, inplace=True)
-
-# Find all communities within the IEM AOI
-communities = communities[communities.within(mask_gdf.geometry.unary_union)]
 
 schema = {
     "geometry": "Point",

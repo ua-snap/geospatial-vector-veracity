@@ -8,36 +8,66 @@ copied into the vector_data/point directory.
 
 import os
 import csv
+import glob
+import pandas as pd
 import geopandas as gpd
+from shapely.geometry import Point
 
 file_tags = {
-    "alaska_point_locations.csv": ["ncr", "eds", "ardac"],
-    "alberta_point_locations.csv": [],
-    "british_columbia_point_locations.csv": ["ncr"],
-    "manitoba_point_locations.csv": [],
-    "northwest_territories_point_locations.csv": [],
-    "saskatchewan_point_locations.csv": [],
-    "yukon_point_locations.csv": ["ncr"],
+    "alaska_point_locations.csv": ["eds", "ardac"],
+    "alberta_point_locations.csv": ["ardac"],
+    "british_columbia_point_locations.csv": ["ardac"],
+    "manitoba_point_locations.csv": ["ardac"],
+    "northwest_territories_point_locations.csv": ["ardac"],
+    "saskatchewan_point_locations.csv": ["ardac"],
+    "yukon_point_locations.csv": ["ardac"],
 }
+
+check_within_iem = [
+    "alaska_point_locations.csv",
+    "british_columbia_point_locations.csv",
+    "yukon_point_locations.csv",
+]
 
 if not os.path.exists("tagged_csvs"):
     os.makedirs("tagged_csvs")
 
-for root, dirs, files in os.walk("../vector_data/point"):
-    for file in files:
-        if file.endswith(".csv"):
-            with open(os.path.join(root, file), "r") as f:
-                new_csv = []
-                reader = csv.DictReader(f)
-                fieldnames = reader.fieldnames
-                if "tags" not in fieldnames:
-                    fieldnames.append("tags")
-                for row in reader:
-                    tags = file_tags[file]
-                    new_row = row.copy()
-                    new_row["tags"] = ",".join(tags)
-                    new_csv.append(new_row)
-                with open(f"tagged_csvs/{file}", "w") as f:
-                    writer = csv.DictWriter(f, fieldnames=reader.fieldnames)
-                    writer.writeheader()
-                    writer.writerows(new_csv)
+# Load the IEM AOI mask
+iem_gdf = gpd.read_file(
+    "../vector_data/polygon/boundaries/iem_with_ak_aleutians/iem_with_ak_aleutians.shp"
+)
+iem_gdf.to_crs(4326, inplace=True)
+
+for path in glob.iglob("../vector_data/point/*.csv"):
+    file = os.path.basename(path)
+    communities = pd.read_csv(path)
+    columns = communities.columns
+
+    if "tags" not in communities.columns:
+        communities["tags"] = ""
+
+    tags = file_tags[file]
+    communities["tags"] = ",".join(tags)
+
+    if file in check_within_iem:
+        geometries = [
+            Point(xy) for xy in zip(communities["longitude"], communities["latitude"])
+        ]
+        communities = gpd.GeoDataFrame(communities, geometry=geometries)
+        iem_communities = communities.within(iem_gdf.geometry.unary_union)
+        communities.loc[iem_communities, "tags"] = (
+            communities.loc[iem_communities, "tags"] + ",ncr"
+        )
+
+        communities = communities.drop(columns="geometry")
+
+    # Replace all nans with empty strings
+    communities = communities.fillna("")
+
+    # Convert back to a list of dicts
+    new_csv = communities.to_dict("records")
+
+    with open(f"tagged_csvs/{file}", "w") as f:
+        writer = csv.DictWriter(f, fieldnames=columns)
+        writer.writeheader()
+        writer.writerows(new_csv)
