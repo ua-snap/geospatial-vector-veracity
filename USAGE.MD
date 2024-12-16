@@ -6,6 +6,8 @@ So, if possible...
 
 ## Use the scripts in the `utilities` directory.
 
+You'll likely need to run these scripts from the same directory they reside in because we have some strict expectations about where files should be, and these expectations are hard-coded to enforce our required structure.
+
 ### `add_point_location.py`
 
 Use this script to add new point locations to a point location CSV file. You should use this script because it will help ensure proper indexing, formatting, and coordinate precision. And indexing matters, because many of our tools map the `id` of a community to a URL specific to the data for that location (e.g., https://northernclimatereports.org/report/community/AK13#results) and we don't want those to shift.

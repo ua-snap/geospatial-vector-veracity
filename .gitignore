@@ -1,5 +1,6 @@
 *_DEPRECATED.csv
 utilities/debug
+utilities/tagged_csvs
 
 # jupyter
 *.ipynb_checkpoints
