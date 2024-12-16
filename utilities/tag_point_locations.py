@@ -1,7 +1,7 @@
 """
 This utility is used to add tags to the "tags" column of point location CSV
 files. It will overwrite any existing tag in the tags column currently, but we
-can modify this script to be more sophisticated as needed. The scirpt outputs
+can modify this script to be more sophisticated as needed. The script outputs
 the tagged CSVs to a new directory called "tagged_csvs", from where they can be
 copied into the vector_data/point directory.
 """
