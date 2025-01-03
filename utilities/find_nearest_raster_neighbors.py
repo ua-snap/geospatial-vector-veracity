@@ -8,7 +8,7 @@ import rasterio as rio
 import numpy as np
 import geopandas as gpd
 from scipy.spatial import cKDTree
-from rasterio.warp import transform_bounds, transform
+from rasterio.warp import transform
 from shapely.geometry import Point
 
 
@@ -23,39 +23,6 @@ def load_community_data(csv_path):
     df = pd.read_csv(csv_path)
     # if testing you can do something like return df[df["name"] == "Wainwright"]
     return df
-
-
-def filter_out_communities_not_in_raster_bounds(community_df, raster_path):
-    """Filter out communities outside raster bounds.
-
-    Args:
-        community_df (pd.DataFrame): DataFrame containing community point locations.
-        raster_path (pathlib.Path): Path to the raster file.
-    Returns:
-        pd.DataFrame: DataFrame containing community point locations within raster bounds.
-    """
-    with rio.open(raster_path) as src:
-        bounds = src.bounds
-        bounds = transform_bounds(src.crs, "EPSG:4326", *bounds)
-    # CP note - this wouldn't handle a literal edge case where community is just outside the edge of the raster, though you could pad the bounds below if desired
-    return community_df[
-        (community_df["latitude"] >= bounds[1])
-        & (community_df["latitude"] <= bounds[3])
-        & (community_df["longitude"] >= bounds[0])
-        & (community_df["longitude"] <= bounds[2])
-    ]
-
-
-def filter_communities_by_column_value(community_df, column_name):
-    """Filter communities by a column value. Only points where the column value is True will be retained.
-
-    Args:
-        community_df (pd.DataFrame): DataFrame containing community point locations.
-        column_name (str): Name of the column to filter by.
-    Returns:
-        pd.DataFrame: DataFrame where only points where the column value is True are retained.
-    """
-    return community_df[community_df[column_name] == True]
 
 
 def transform_row_col_to_latlon(affine_transform, row, col):
@@ -285,13 +252,15 @@ def find_nearest_neighbors(
 
 def save_updated_csv(df, output_path):
     """Save the updated DataFrame to a CSV file."""
-    df.to_csv(output_path, index=False)
-    print(f"Nearest neighbors added to the CSV and saved as '{output_path}'.")
+    if DEBUG:
+        df.to_csv(f"debug/{output_path.name}", index=False)
+    else:
+        df.to_csv(output_path, index=False)
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Find nearest raster neighbors for point locations. Example usage to find the nearest neighbor for each point in 'community.csv' using the second band of the raster 'gridded_data.tif' and filtering the point locations for rows where the `is_coastal` column has a `True` value: python find_nearest_raster_neighbors.py community.csv gridded_data.tif output.csv --band_number 2 --filter_type condition --filter_column is_coastal --filter_value True --N 1 --DEBUG"
+        description="Find nearest raster neighbors for point locations. Example usage to find the nearest neighbor for each point in 'community.csv' using the second band of the raster 'gridded_data.tif': python find_nearest_raster_neighbors.py community.csv gridded_data.tif output.csv --band_number 2 --N 1"
     )
     parser.add_argument(
         "community_csv_path",
@@ -299,11 +268,6 @@ if __name__ == "__main__":
         help="Path to the CSV file containing community point locations.",
     )
     parser.add_argument("raster_path", type=str, help="Path to the raster file.")
-    parser.add_argument(
-        "output_csv_path",
-        type=str,
-        help="Path to save the output CSV file with nearest neighbors.",
-    )
     parser.add_argument(
         "--band_number",
         type=int,
@@ -324,18 +288,6 @@ if __name__ == "__main__":
         help="Number of nearest neighbors to find. Default is 1.",
     )
     parser.add_argument(
-        "--filter_type",
-        type=str,
-        choices=["condition", "bounds"],
-        help="Type of filtering to apply to the communities to include them or exclude them from the search. 'condition' will filter communities based on whether or not a column has a certain value, while 'bounds' will filter communities based on whether or not they are in the raster bounds.",
-    )
-    parser.add_argument(
-        "--filter_column",
-        type=str,
-        help="Name of the column to filter communities by if filter_type is 'condition'.",
-        default=None,
-    )
-    parser.add_argument(
         "--DEBUG",
         action="store_true",
         help="Create debugging directory and write shapefiles of nearest neighbors and nearest neighbor candidates. Also write the raster subsets used in the search.",
@@ -344,10 +296,8 @@ if __name__ == "__main__":
     community_csv_path = Path(args.community_csv_path)
     raster_path = Path(args.raster_path)
     band_number = args.band_number
-    output_csv_path = Path(args.output_csv_path)
+
     grid_cell_values = args.grid_cell_values
-    if args.filter_type == "condition":
-        filter_column = args.filter_column
     neighbors = args.N
 
     DEBUG = args.DEBUG
@@ -355,14 +305,7 @@ if __name__ == "__main__":
         os.makedirs("./debug/", exist_ok=True)
 
     community_df = load_community_data(community_csv_path)
-    if args.filter_type == "bounds":
-        community_df = filter_out_communities_not_in_raster_bounds(
-            community_df, raster_path
-        )
-    elif args.filter_type == "condition":
-        community_df = filter_communities_by_column_value(community_df, filter_column)
-
     updated_community_df = find_nearest_neighbors(
         community_df, raster_path, band_number, grid_cell_values, neighbors, "ocean"
     )
-    save_updated_csv(updated_community_df, output_csv_path)
+    save_updated_csv(updated_community_df, community_csv_path)
