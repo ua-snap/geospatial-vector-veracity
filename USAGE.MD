@@ -14,7 +14,7 @@ Use this script to add new point locations to a point location CSV file. You sho
 
 ### `compute_distance_to_coastline.py`
 
-This script computes the distance to the nearest coastline for a list of communities. The script will create or update a columnn in the input CSV file with the distance to the nearest coastline in kilometers. A column `is_coastal` will also be created or updated to indicate whether the community is coastal or not based on some threshold distance, for which the default is 100 km.
+This script computes the distance to the nearest coastline for a list of communities. The script will create or update a column in the input CSV file with the distance to the nearest coastline in kilometers. A column `is_coastal` will also be created or updated to indicate whether the community is coastal or not based on some threshold distance, for which the default is 100 km. The script will iterate through all CSV files in the `../vector_data/point` directory and update each file with the new distance and coastal tag.
 
 ### `create_updated_ncr_shapefiles.py`
 
