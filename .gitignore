@@ -4,4 +4,9 @@ utilities/tagged_csvs
 
 # jupyter
 *.ipynb_checkpoints
+
+# macOS junk
 *.DS_STORE
+
+# geotiffs, sometimes these are handy for debugging but they don't need to be tracked
+*.tif
