@@ -68,6 +68,11 @@ def add_coastal_tag(community_df, coastal_distance_km_threshold=100):
 
 
 def write_to_csv(community_df, output_path):
+    # if there is a column named "index" in the dataframe, drop it
+    # this could be an artifact from the tree construction
+    # sometimes in pandas you get a column named "index" that is not an actual `Index` object
+    if "index" in community_df.columns:
+        community_df = community_df.drop(columns=["index"])
     community_df.to_csv(output_path, index=False)
 
 
