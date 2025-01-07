@@ -89,9 +89,17 @@ def load_points(csv_path):
 
 def calculate_areas_and_filter(gdf, max_area_km2=10):
     """Calculate areas and filter for polygons smaller than max_area_km2."""
-    gdf["area_km2"] = gdf.geometry.area / 1_000_000  # Convert m² to km²
-    small_polygons = gdf[gdf["area_km2"] < max_area_km2].copy()
-    large_polygons = gdf[gdf["area_km2"] >= max_area_km2].copy()
+    # Add area calculation as a temporary column
+    gdf["_area_km2"] = gdf.geometry.area / 1_000_000  # Convert m² to km²
+
+    # Filter but preserve all original columns
+    small_polygons = gdf[gdf["_area_km2"] < max_area_km2].copy()
+    large_polygons = gdf[gdf["_area_km2"] >= max_area_km2].copy()
+
+    # Remove temporary area column
+    small_polygons = small_polygons.drop(columns=["_area_km2"])
+    large_polygons = large_polygons.drop(columns=["_area_km2"])
+
     return small_polygons, large_polygons
 
 
@@ -142,9 +150,9 @@ def update_shapefile(large_polygons, shapefile_path):
     original_gdf = gpd.read_file(shapefile_path)
     if large_polygons.crs != original_gdf.crs:
         large_polygons = large_polygons.to_crs(original_gdf.crs)
-    # remove area_km2 column before saving
-    if "area_km2" in large_polygons.columns:
-        large_polygons = large_polygons.drop(columns=["area_km2"])
+
+    # Write the filtered polygons back to the shapefile
+    # All original attributes are preserved since we never modified them
     large_polygons.to_file(shapefile_path)
     print(
         f"\nUpdated {shapefile_path} - removed {len(original_gdf) - len(large_polygons)} small polygons"
