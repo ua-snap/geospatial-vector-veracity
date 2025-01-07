@@ -151,9 +151,9 @@ def update_shapefile(large_polygons, shapefile_path):
     if large_polygons.crs != original_gdf.crs:
         large_polygons = large_polygons.to_crs(original_gdf.crs)
 
-    # Write the filtered polygons back to the shapefile
-    # All original attributes are preserved since we never modified them
-    large_polygons.to_file(shapefile_path)
+    # write the filtered polygons back to the shapefile with all original attributes preserved since we never modified them, and specify UTF-8 encoding to ensure that orthography is correctly written and that the file is compatible with GeoServer
+    # favor UTF-8 over ISO-8859-1
+    large_polygons.to_file(shapefile_path, encoding="utf-8")
     print(
         f"\nUpdated {shapefile_path} - removed {len(original_gdf) - len(large_polygons)} small polygons"
     )
