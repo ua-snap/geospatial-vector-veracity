@@ -1,0 +1,450 @@
+id,name,alt_name,region,country,latitude,longitude
+FI1,Brändö,,Åland Islands,FI,60.4075,21.0786
+FI2,Eckerö,,Åland Islands,FI,60.2208,19.5589
+FI3,Finström,,Åland Islands,FI,60.2342,20.1139
+FI4,Föglö,,Åland Islands,FI,60.0989,20.3728
+FI5,Geta,,Åland Islands,FI,60.4183,19.7167
+FI6,Hammarland,,Åland Islands,FI,60.2447,19.6892
+FI7,Jomala,,Åland Islands,FI,60.1181,19.8989
+FI8,Kumlinge,,Åland Islands,FI,60.3992,20.7692
+FI9,Lemland,,Åland Islands,FI,60.0925,20.1544
+FI10,Mariehamn,,Åland Islands,FI,60.1026,19.9348
+FI11,Saltvik,,Åland Islands,FI,60.3575,20.1547
+FI12,Sund,,Åland Islands,FI,60.2361,20.2156
+FI13,Äänekoski,,Central Finland,FI,62.6000,25.7333
+FI14,Hankasalmi,,Central Finland,FI,62.3833,26.4333
+FI15,Jämsä,,Central Finland,FI,61.8642,25.1900
+FI16,Jämsänkoski,,Central Finland,FI,61.9190,25.1701
+FI17,Joutsa,,Central Finland,FI,61.7333,26.1167
+FI18,Jyväskylä,,Central Finland,FI,62.2415,25.7209
+FI19,Kannonkoski,,Central Finland,FI,62.9667,25.2500
+FI20,Karstula,,Central Finland,FI,62.8667,24.7833
+FI21,Keuruu,,Central Finland,FI,62.2667,24.7000
+FI22,Kinnula,,Central Finland,FI,63.3833,24.9500
+FI23,Kivijärvi,,Central Finland,FI,63.1198,25.0784
+FI24,Konnevesi,,Central Finland,FI,62.6167,26.3167
+FI25,Korpilahti,,Central Finland,FI,62.0167,25.5500
+FI26,Kuhmoinen,,Central Finland,FI,61.5667,25.1833
+FI27,Kyyjärvi,,Central Finland,FI,63.0333,24.5667
+FI28,Laukaa,,Central Finland,FI,62.4141,25.9519
+FI29,Leivonmäki,,Central Finland,FI,61.9120,26.1280
+FI30,Luhanka,,Central Finland,FI,61.7968,25.7046
+FI31,Multia,,Central Finland,FI,62.4167,24.7833
+FI32,Muurame,,Central Finland,FI,62.1333,25.6667
+FI33,Petäjävesi,,Central Finland,FI,62.2500,25.2000
+FI34,Pihtipudas,,Central Finland,FI,63.3833,25.5667
+FI35,Pylkönmäki,,Central Finland,FI,62.6667,24.8000
+FI36,Saarijärvi,,Central Finland,FI,62.7049,25.2540
+FI37,Säynätsalo,,Central Finland,FI,62.1403,25.7695
+FI38,Sumiainen,,Central Finland,FI,62.6574,26.0464
+FI39,Suolahti,,Central Finland,FI,62.5642,25.8536
+FI40,Toivakka,,Central Finland,FI,62.1000,26.0833
+FI41,Uurainen,,Central Finland,FI,62.5000,25.4500
+FI42,Viitasaari,,Central Finland,FI,63.0667,25.8667
+FI43,Halsua,,Central Ostrobothnia,FI,63.4667,24.1667
+FI44,Kälviä,,Central Ostrobothnia,FI,63.8607,23.4529
+FI45,Kannus,,Central Ostrobothnia,FI,63.9000,23.9000
+FI46,Kaustinen,,Central Ostrobothnia,FI,63.5488,23.6885
+FI47,Kokkola,,Central Ostrobothnia,FI,63.8541,23.5856
+FI48,Lestijärvi,,Central Ostrobothnia,FI,63.5333,24.6500
+FI49,Lohtaja,,Central Ostrobothnia,FI,64.0247,23.5048
+FI50,Perho,,Central Ostrobothnia,FI,63.2167,24.4167
+FI51,Toholampi,,Central Ostrobothnia,FI,63.7667,24.2500
+FI52,Ullava,,Central Ostrobothnia,FI,63.6000,24.0833
+FI53,Veteli,,Central Ostrobothnia,FI,63.4784,23.7829
+FI54,Alastaro,,Southwest Finland,FI,60.9500,22.8500
+FI55,Askainen,,Southwest Finland,FI,60.5667,21.8667
+FI56,Aura,,Southwest Finland,FI,60.6471,22.5876
+FI57,Dragsfjärd,,Southwest Finland,FI,60.0667,22.4833
+FI58,Halikko,,Southwest Finland,FI,60.4000,23.0833
+FI59,Houtskär,,Southwest Finland,FI,60.2228,21.3722
+FI60,Iniö,,Southwest Finland,FI,60.4000,21.4000
+FI61,Kaarina,,Southwest Finland,FI,60.4072,22.3690
+FI62,Karinainen,,Southwest Finland,FI,60.6667,22.7667
+FI63,Kiikala,,Southwest Finland,FI,60.4667,23.5667
+FI64,Kimito,,Southwest Finland,FI,60.1605,22.7290
+FI65,Kisko,,Southwest Finland,FI,60.2333,23.4833
+FI66,Kustavi,,Southwest Finland,FI,60.5453,21.3588
+FI67,Kuusjoki,,Southwest Finland,FI,60.5167,23.2000
+FI68,Laitila,,Southwest Finland,FI,60.8758,21.6977
+FI69,Lemu,,Southwest Finland,FI,60.5667,21.9667
+FI70,Lieto,,Southwest Finland,FI,60.5103,22.4618
+FI71,Marttila,,Southwest Finland,FI,60.5833,22.9000
+FI72,Masku,,Southwest Finland,FI,60.5708,22.0988
+FI73,Mellilä,,Southwest Finland,FI,60.7667,22.9500
+FI74,Merimasku,,Southwest Finland,FI,60.4833,21.8667
+FI75,Mietoinen,,Southwest Finland,FI,60.6333,21.9333
+FI76,Muurla,,Southwest Finland,FI,60.3500,23.2833
+FI77,Mynämäki,,Southwest Finland,FI,60.6792,21.9927
+FI78,Naantali,,Southwest Finland,FI,60.4674,22.0243
+FI79,Nagu,,Southwest Finland,FI,60.1938,21.9097
+FI80,Nousiainen,,Southwest Finland,FI,60.6042,22.0793
+FI81,Oripää,,Southwest Finland,FI,60.8500,22.6833
+FI82,Paimio,,Southwest Finland,FI,60.4567,22.6869
+FI83,Pargas,,Southwest Finland,FI,60.3067,22.3010
+FI84,Perniö,,Southwest Finland,FI,60.2000,23.1333
+FI85,Pertteli,,Southwest Finland,FI,60.4333,23.2667
+FI86,Piikkiö,,Southwest Finland,FI,60.4248,22.5160
+FI87,Pöytyä,,Southwest Finland,FI,60.7667,22.6667
+FI88,Pyhäranta,,Southwest Finland,FI,60.9500,21.4500
+FI89,Raisio,,Southwest Finland,FI,60.4859,22.1690
+FI90,Rusko,,Southwest Finland,FI,60.5333,22.2167
+FI91,Rymättylä,,Southwest Finland,FI,60.3766,21.9418
+FI92,Salo,,Southwest Finland,FI,60.3833,23.1333
+FI93,Särkisalo,,Southwest Finland,FI,60.1139,22.9500
+FI94,Sauvo,,Southwest Finland,FI,60.3431,22.6964
+FI95,Somero,,Southwest Finland,FI,60.6167,23.5333
+FI96,Suomusjärvi,,Southwest Finland,FI,60.3500,23.6500
+FI97,Taivassalo,,Southwest Finland,FI,60.5609,21.6164
+FI98,Tarvasjoki,,Southwest Finland,FI,60.5833,22.7333
+FI99,Turku,,Southwest Finland,FI,60.4515,22.2687
+FI100,Uusikaupunki,,Southwest Finland,FI,60.8004,21.4084
+FI101,Vahto,,Southwest Finland,FI,60.6000,22.3000
+FI102,Väståboland,,Southwest Finland,FI,60.2997,22.3004
+FI103,Västanfjärd,,Southwest Finland,FI,60.0500,22.6833
+FI104,Vehmaa,,Southwest Finland,FI,60.6833,21.6667
+FI105,Velkua,,Southwest Finland,FI,60.4667,21.6667
+FI106,Yläne,,Southwest Finland,FI,60.8833,22.4167
+FI107,Hyrynsalmi,,Kainuu,FI,64.6667,28.5333
+FI108,Kajaani,,Kainuu,FI,64.2273,27.7285
+FI109,Kuhmo,,Kainuu,FI,64.1333,29.5167
+FI110,Paltamo,,Kainuu,FI,64.4167,27.8333
+FI111,Puolanka,,Kainuu,FI,64.8667,27.6667
+FI112,Ristijärvi,,Kainuu,FI,64.5000,28.2167
+FI113,Sotkamo,,Kainuu,FI,64.1333,28.4167
+FI114,Suomussalmi,,Kainuu,FI,64.8869,28.9078
+FI115,Vaala,,Kainuu,FI,64.5667,26.8333
+FI116,Vuokatti,,Kainuu,FI,64.1447,28.2820
+FI117,Vuolijoki,,Kainuu,FI,64.1854,26.9955
+FI118,Anjala,,Kymenlaakso,FI,60.6833,26.8333
+FI119,Elimäki,,Kymenlaakso,FI,60.7167,26.4667
+FI120,Hamina,,Kymenlaakso,FI,60.5697,27.1979
+FI121,Iitti,,Kymenlaakso,FI,60.8949,26.3387
+FI122,Jaala,,Kymenlaakso,FI,61.0525,26.4812
+FI123,Karhula,,Kymenlaakso,FI,60.5216,26.9313
+FI124,Kotka,,Kymenlaakso,FI,60.4664,26.9458
+FI125,Kouvola,,Kymenlaakso,FI,60.8667,26.7000
+FI126,Miehikkälä,,Kymenlaakso,FI,60.6667,27.7000
+FI127,Pyhtää,,Kymenlaakso,FI,60.4935,26.5435
+FI128,Virojoki,,Kymenlaakso,FI,60.5794,27.7035
+FI129,Enontekiö,,Lapland,FI,68.3857,23.6322
+FI130,Inari,,Lapland,FI,68.9060,27.0288
+FI131,Ivalo,,Lapland,FI,68.6599,27.5389
+FI132,Kemi,,Lapland,FI,65.7364,24.5637
+FI133,Kemijärvi,,Lapland,FI,66.7131,27.4306
+FI134,Keminmaa,,Lapland,FI,65.8016,24.5448
+FI135,Kittilä,,Lapland,FI,67.6647,24.8936
+FI136,Kolari,,Lapland,FI,67.3305,23.7779
+FI137,Muonio,,Lapland,FI,67.9500,23.7000
+FI138,Pelkosenniemi,,Lapland,FI,67.1108,27.5106
+FI139,Pello,,Lapland,FI,66.7736,23.9626
+FI140,Posio,,Lapland,FI,66.1086,28.1719
+FI141,Pyhäjärvi,,Lapland,FI,67.0701,27.2176
+FI142,Ranua,,Lapland,FI,65.9167,26.5333
+FI143,Rovaniemi,,Lapland,FI,66.5000,25.7167
+FI144,Salla,,Lapland,FI,66.8333,28.6667
+FI145,Savukoski,,Lapland,FI,67.2925,28.1581
+FI146,Simo,,Lapland,FI,65.6667,25.0500
+FI147,Sodankylä,,Lapland,FI,67.4167,26.6000
+FI148,Tervola,,Lapland,FI,66.0833,24.8000
+FI149,Tornio,,Lapland,FI,65.8481,24.1466
+FI150,Utsjoki,,Lapland,FI,69.9086,27.0284
+FI151,Ylitornio,,Lapland,FI,66.3089,23.6773
+FI152,Eno,,North Karelia,FI,62.8051,30.1542
+FI153,Ilomantsi,,North Karelia,FI,62.6716,30.9328
+FI154,Joensuu,,North Karelia,FI,62.6012,29.7632
+FI155,Juuka,,North Karelia,FI,63.2333,29.2500
+FI156,Kesälahti,,North Karelia,FI,61.8975,29.8349
+FI157,Kiihtelysvaara,,North Karelia,FI,62.4953,30.2508
+FI158,Kitee,,North Karelia,FI,62.1000,30.1500
+FI159,Kontiolahti,,North Karelia,FI,62.7602,29.8471
+FI160,Lieksa,,North Karelia,FI,63.3167,30.0167
+FI161,Liperi,,North Karelia,FI,62.5333,29.3667
+FI162,Nurmes,,North Karelia,FI,63.5421,29.1397
+FI163,Outokumpu,,North Karelia,FI,62.7269,29.0159
+FI164,Polvijärvi,,North Karelia,FI,62.8500,29.3667
+FI165,Pyhäselkä,,North Karelia,FI,62.4333,29.9667
+FI166,Rääkkylä,,North Karelia,FI,62.3167,29.6167
+FI167,Tohmajärvi,,North Karelia,FI,62.1833,30.3833
+FI168,Tuupovaara,,North Karelia,FI,62.4837,30.6273
+FI169,Valtimo,,North Karelia,FI,63.6667,28.8000
+FI170,Alavieska,,Northern Ostrobothnia,FI,64.1667,24.3000
+FI171,Haapajärvi,,Northern Ostrobothnia,FI,63.7500,25.3333
+FI172,Haapavesi,,Northern Ostrobothnia,FI,64.1333,25.3667
+FI173,Hailuoto,,Northern Ostrobothnia,FI,65.0090,24.7139
+FI174,Haukipudas,,Northern Ostrobothnia,FI,65.1765,25.3523
+FI175,Himanka,,Northern Ostrobothnia,FI,64.0622,23.6545
+FI176,Ii,,Northern Ostrobothnia,FI,65.3174,25.3731
+FI177,Kalajoki,,Northern Ostrobothnia,FI,64.2500,23.9500
+FI178,Kärsämäki,,Northern Ostrobothnia,FI,63.9667,25.7667
+FI179,Kempele,,Northern Ostrobothnia,FI,64.9131,25.5034
+FI180,Kestilä,,Northern Ostrobothnia,FI,64.3500,26.2792
+FI181,Kiiminki,,Northern Ostrobothnia,FI,65.1314,25.7974
+FI182,Kuivaniemi,,Northern Ostrobothnia,FI,65.5785,25.1881
+FI183,Kuusamo,,Northern Ostrobothnia,FI,65.9667,29.1833
+FI184,Liminka,,Northern Ostrobothnia,FI,64.8099,25.4155
+FI185,Lumijoki,,Northern Ostrobothnia,FI,64.8374,25.1861
+FI186,Merijärvi,,Northern Ostrobothnia,FI,64.3000,24.4500
+FI187,Muhos,,Northern Ostrobothnia,FI,64.8080,25.9931
+FI188,Nivala,,Northern Ostrobothnia,FI,63.9167,24.9667
+FI189,Oulainen,,Northern Ostrobothnia,FI,64.2667,24.8000
+FI190,Oulu,,Northern Ostrobothnia,FI,65.0124,25.4682
+FI191,Oulunsalo,,Northern Ostrobothnia,FI,64.9346,25.4112
+FI192,Piippola,,Northern Ostrobothnia,FI,64.1667,25.9667
+FI193,Pudasjärvi,,Northern Ostrobothnia,FI,65.3833,26.9167
+FI194,Pulkkila,,Northern Ostrobothnia,FI,64.2667,25.8667
+FI195,Pyhäjärvi,,Northern Ostrobothnia,FI,63.6667,25.9000
+FI196,Pyhäjoki,,Northern Ostrobothnia,FI,64.4667,24.2333
+FI197,Pyhäntä,,Northern Ostrobothnia,FI,64.1000,26.3167
+FI198,Raahe,,Northern Ostrobothnia,FI,64.6833,24.4833
+FI199,Rantsila,,Northern Ostrobothnia,FI,64.5061,25.6645
+FI200,Reisjärvi,,Northern Ostrobothnia,FI,63.6167,24.9000
+FI201,Ruukki,,Northern Ostrobothnia,FI,64.6667,25.1000
+FI202,Sievi,,Northern Ostrobothnia,FI,63.9000,24.5000
+FI203,Siikajoki,,Northern Ostrobothnia,FI,64.8146,24.7592
+FI204,Taivalkoski,,Northern Ostrobothnia,FI,65.5667,28.2500
+FI205,Tyrnävä,,Northern Ostrobothnia,FI,64.7647,25.6523
+FI206,Utajärvi,,Northern Ostrobothnia,FI,64.7500,26.3833
+FI207,Vihanti,,Northern Ostrobothnia,FI,64.4847,24.9916
+FI208,Yli-Ii,,Northern Ostrobothnia,FI,65.3718,25.8458
+FI209,Ylikiiminki,,Northern Ostrobothnia,FI,65.0833,26.2500
+FI210,Ylivieska,,Northern Ostrobothnia,FI,64.0833,24.5500
+FI211,Hietalahti,,Ostrobothnia,FI,63.0848,21.6172
+FI212,Isokyrö,,Ostrobothnia,FI,63.0117,22.3333
+FI213,Jakobstad,,Ostrobothnia,FI,63.6749,22.7026
+FI214,Kaskinen,,Ostrobothnia,FI,62.3844,21.2233
+FI215,Korsholm,,Ostrobothnia,FI,63.1142,21.6822
+FI216,Korsnäs,,Ostrobothnia,FI,62.7833,21.2000
+FI217,Kristinestad,,Ostrobothnia,FI,62.2743,21.3760
+FI218,Kronoby,,Ostrobothnia,FI,63.7286,23.0339
+FI219,Laihia,,Ostrobothnia,FI,62.9761,22.0114
+FI220,Larsmo,,Ostrobothnia,FI,63.7539,22.7473
+FI221,Malax,,Ostrobothnia,FI,62.9423,21.5731
+FI222,Nykarleby,,Ostrobothnia,FI,63.5228,22.5307
+FI223,Oravais,,Ostrobothnia,FI,63.3014,22.3782
+FI224,Pedersöre,,Ostrobothnia,FI,63.6500,22.6833
+FI225,Replot,,Ostrobothnia,FI,63.2288,21.4169
+FI226,Ristinummi,,Ostrobothnia,FI,63.0919,21.7230
+FI227,Teeriniemi,,Ostrobothnia,FI,63.0971,21.6959
+FI228,Vaasa,,Ostrobothnia,FI,63.0960,21.6158
+FI229,Vähäkyrö,,Ostrobothnia,FI,63.0564,22.1058
+FI230,Vörå,,Ostrobothnia,FI,63.1361,22.2522
+FI231,Artjärvi,,Päijät-Häme,FI,60.7454,26.0708
+FI232,Asikkala,,Päijät-Häme,FI,61.2167,25.5000
+FI233,Auttoinen,,Päijät-Häme,FI,61.2990,25.0889
+FI234,Hämeenkoski,,Päijät-Häme,FI,61.0222,25.1542
+FI235,Hartola,,Päijät-Häme,FI,61.5833,26.0167
+FI236,Heinola,,Päijät-Häme,FI,61.2056,26.0381
+FI237,Hollola,,Päijät-Häme,FI,61.0500,25.4333
+FI238,Lahti,,Päijät-Häme,FI,60.9827,25.6615
+FI239,Nastola,,Päijät-Häme,FI,60.9500,25.9333
+FI240,Orimattila,,Päijät-Häme,FI,60.8049,25.7296
+FI241,Padasjoki,,Päijät-Häme,FI,61.3500,25.2833
+FI242,Sysmä,,Päijät-Häme,FI,61.5000,25.6833
+FI243,Äetsä,,Pirkanmaa,FI,61.2833,22.6833
+FI244,Aimala,,Pirkanmaa,FI,61.3300,23.6900
+FI245,Aitoo,,Pirkanmaa,FI,61.3390,24.4943
+FI246,Akaa,,Pirkanmaa,FI,61.1667,23.8681
+FI247,Amuri,,Pirkanmaa,FI,61.5000,23.7450
+FI248,Haihara,,Pirkanmaa,FI,61.4763,23.8771
+FI249,Hallila,,Pirkanmaa,FI,61.4625,23.8292
+FI250,Hämeenkyrö,,Pirkanmaa,FI,61.6333,23.2000
+FI251,Hervanta,,Pirkanmaa,FI,61.4481,23.8521
+FI252,Ikaalinen,,Pirkanmaa,FI,61.7694,23.0681
+FI253,Juupajoki,,Pirkanmaa,FI,61.7967,24.3700
+FI254,Kangasala,,Pirkanmaa,FI,61.4639,24.0650
+FI255,Kihniö,,Pirkanmaa,FI,62.2083,23.1792
+FI256,Kiikka,,Pirkanmaa,FI,61.3208,22.7754
+FI257,Kiikoinen,,Pirkanmaa,FI,61.4500,22.5750
+FI258,Kolho,,Pirkanmaa,FI,62.1333,24.5167
+FI259,Kuhmalahti,,Pirkanmaa,FI,61.5050,24.5667
+FI260,Kuru,,Pirkanmaa,FI,61.8756,23.7195
+FI261,Kylmäkoski,,Pirkanmaa,FI,61.1500,23.6917
+FI262,Längelmäki,,Pirkanmaa,FI,61.6889,24.6919
+FI263,Lempäälä,,Pirkanmaa,FI,61.3139,23.7528
+FI264,Lentävänniemi,,Pirkanmaa,FI,61.5280,23.7058
+FI265,Lielahti,,Pirkanmaa,FI,61.5167,23.6667
+FI266,Luopioinen,,Pirkanmaa,FI,61.3629,24.6678
+FI267,Mänttä,,Pirkanmaa,FI,62.0301,24.6279
+FI268,Messukylä,,Pirkanmaa,FI,61.4853,23.8447
+FI269,Mouhijärvi,,Pirkanmaa,FI,61.5000,23.0167
+FI270,Naistenmatka,,Pirkanmaa,FI,61.4652,23.6525
+FI271,Nekala,,Pirkanmaa,FI,61.4833,23.7906
+FI272,Nokia,,Pirkanmaa,FI,61.4767,23.5053
+FI273,Nurmi,,Pirkanmaa,FI,61.5378,23.9418
+FI274,Nuutajärvi,,Pirkanmaa,FI,61.0400,23.4300
+FI275,Orivesi,,Pirkanmaa,FI,61.6778,24.3569
+FI276,Osara,,Pirkanmaa,FI,61.7087,23.1587
+FI277,Pälkäne,,Pirkanmaa,FI,61.3540,24.5191
+FI278,Parkano,,Pirkanmaa,FI,62.0097,23.0250
+FI279,Pirkkala,,Pirkanmaa,FI,61.4667,23.6500
+FI280,Pispala,,Pirkanmaa,FI,61.5061,23.7025
+FI281,Pohjaslahti,,Pirkanmaa,FI,62.1563,24.1319
+FI282,Punkalaidun,,Pirkanmaa,FI,61.1117,23.1050
+FI283,Ruovesi,,Pirkanmaa,FI,61.9833,24.0833
+FI284,Sääksmäki,,Pirkanmaa,FI,61.2000,24.0667
+FI285,Sahalahti,,Pirkanmaa,FI,61.4667,24.3167
+FI286,Sastamala,,Pirkanmaa,FI,61.3417,22.9083
+FI287,Suodenniemi,,Pirkanmaa,FI,61.5581,22.7853
+FI288,Suoniemi,,Pirkanmaa,FI,61.4411,23.2150
+FI289,Tampere,,Pirkanmaa,FI,61.4981,23.7600
+FI290,Teisko,,Pirkanmaa,FI,61.6734,23.8477
+FI291,Toijala,,Pirkanmaa,FI,61.1678,23.8382
+FI292,Tottijärvi,,Pirkanmaa,FI,61.3978,23.3428
+FI293,Urjala,,Pirkanmaa,FI,61.0833,23.5500
+FI294,Valkeakoski,,Pirkanmaa,FI,61.2667,24.0306
+FI295,Vammala,,Pirkanmaa,FI,61.3403,22.9097
+FI296,Vesilahti,,Pirkanmaa,FI,61.3167,23.6167
+FI297,Viiala,,Pirkanmaa,FI,61.2102,23.7674
+FI298,Viljakkala,,Pirkanmaa,FI,61.7060,23.2669
+FI299,Vilppula,,Pirkanmaa,FI,62.0212,24.5048
+FI300,Virrat,,Pirkanmaa,FI,62.2403,23.7708
+FI301,Vuores,,Pirkanmaa,FI,61.4310,23.8118
+FI302,Ylöjärvi,,Pirkanmaa,FI,61.5500,23.5833
+FI303,Eura,,Satakunta,FI,61.1333,22.1333
+FI304,Eurajoki,,Satakunta,FI,61.2000,21.7333
+FI305,Harjavalta,,Satakunta,FI,61.3167,22.1333
+FI306,Huittinen,,Satakunta,FI,61.1833,22.7000
+FI307,Jämijärvi,,Satakunta,FI,61.8167,22.7000
+FI308,Kankaanpää,,Satakunta,FI,61.8000,22.4167
+FI309,Karvia,,Satakunta,FI,62.1333,22.5667
+FI310,Kiukainen,,Satakunta,FI,61.2167,22.0833
+FI311,Kokemäki,,Satakunta,FI,61.2565,22.3564
+FI312,Köyliö,,Satakunta,FI,61.1191,22.3098
+FI313,Kullaa,,Satakunta,FI,61.4700,22.1615
+FI314,Längelmäki,,Satakunta,FI,61.6500,22.1000
+FI315,Lappi,,Satakunta,FI,61.1000,21.8333
+FI316,Lavia,,Satakunta,FI,61.6000,22.6000
+FI317,Luvia,,Satakunta,FI,61.3638,21.6256
+FI318,Merikarvia,,Satakunta,FI,61.8584,21.5004
+FI319,Nakkila,,Satakunta,FI,61.3667,22.0000
+FI320,Noormarkku,,Satakunta,FI,61.5927,21.8685
+FI321,Pomarkku,,Satakunta,FI,61.6935,22.0086
+FI322,Pori,,Satakunta,FI,61.4833,21.7833
+FI323,Rauma,,Satakunta,FI,61.1272,21.5113
+FI324,Säkylä,,Satakunta,FI,61.0333,22.3333
+FI325,Siikainen,,Satakunta,FI,61.8770,21.8195
+FI326,Ulvila,,Satakunta,FI,61.4284,21.8710
+FI327,Vampula,,Satakunta,FI,61.0167,22.7000
+FI328,Imatra,,South Karelia,FI,61.1719,28.7524
+FI329,Joutseno,,South Karelia,FI,61.1180,28.5076
+FI330,Lappeenranta,,South Karelia,FI,61.0587,28.1887
+FI331,Lemi,,South Karelia,FI,61.0624,27.8057
+FI332,Luumäki,,South Karelia,FI,60.9262,27.5814
+FI333,Nuijamaa,,South Karelia,FI,60.9601,28.5510
+FI334,Parikkala,,South Karelia,FI,61.5500,29.5000
+FI335,Rautjärvi,,South Karelia,FI,61.4333,29.3500
+FI336,Ruokolahti,,South Karelia,FI,61.2833,28.8333
+FI337,Saari,,South Karelia,FI,61.6500,29.7500
+FI338,Savitaipale,,South Karelia,FI,61.2000,27.7000
+FI339,Taipalsaari,,South Karelia,FI,61.1500,28.0500
+FI340,Ylämaa,,South Karelia,FI,60.8000,28.0000
+FI341,Ähtäri,,Southern Ostrobothnia,FI,62.5540,24.0619
+FI342,Alahärmä,,Southern Ostrobothnia,FI,63.2333,22.8500
+FI343,Alajärvi,,Southern Ostrobothnia,FI,63.0000,23.8167
+FI344,Alavus,,Southern Ostrobothnia,FI,62.5833,23.6167
+FI345,Evijärvi,,Southern Ostrobothnia,FI,63.3667,23.4833
+FI346,Ilmajoki,,Southern Ostrobothnia,FI,62.7333,22.5667
+FI347,Isojoki,,Southern Ostrobothnia,FI,62.1132,21.9588
+FI348,Jalasjärvi,,Southern Ostrobothnia,FI,62.5000,22.7500
+FI349,Jurva,,Southern Ostrobothnia,FI,62.6833,21.9833
+FI350,Karijoki,,Southern Ostrobothnia,FI,62.3085,21.7086
+FI351,Kauhajoki,,Southern Ostrobothnia,FI,62.4333,22.1833
+FI352,Kauhava,,Southern Ostrobothnia,FI,63.1030,23.0713
+FI353,Kortesjärvi,,Southern Ostrobothnia,FI,63.3000,23.1667
+FI354,Kuortane,,Southern Ostrobothnia,FI,62.8000,23.5000
+FI355,Kurikka,,Southern Ostrobothnia,FI,62.6167,22.4167
+FI356,Lappajärvi,,Southern Ostrobothnia,FI,63.2000,23.6333
+FI357,Lapua,,Southern Ostrobothnia,FI,62.9693,23.0088
+FI358,Lehtimäki,,Southern Ostrobothnia,FI,62.7833,23.9167
+FI359,Nurmo,,Southern Ostrobothnia,FI,62.8287,22.9099
+FI360,Seinäjoki,,Southern Ostrobothnia,FI,62.7945,22.8282
+FI361,Soini,,Southern Ostrobothnia,FI,62.8667,24.2167
+FI362,Teuva,,Southern Ostrobothnia,FI,62.4819,21.7416
+FI363,Töysä,,Southern Ostrobothnia,FI,62.6280,23.8183
+FI364,Vimpeli,,Southern Ostrobothnia,FI,63.1619,23.8192
+FI365,Ylihärmä,,Southern Ostrobothnia,FI,63.1500,22.7833
+FI366,Ylistaro,,Southern Ostrobothnia,FI,62.9396,22.5131
+FI367,Enonkoski,,South Savo,FI,62.0833,28.9333
+FI368,Haukivuori,,South Savo,FI,62.0175,27.2191
+FI369,Heinävesi,,South Savo,FI,62.4333,28.6000
+FI370,Hirvensalmi,,South Savo,FI,61.6333,26.8000
+FI371,Jäppilä,,South Savo,FI,62.3790,27.4337
+FI372,Joroinen,,South Savo,FI,62.1782,27.8317
+FI373,Juva,,South Savo,FI,61.9000,27.8500
+FI374,Kangasniemi,,South Savo,FI,61.9936,26.6479
+FI375,Kerimäki,,South Savo,FI,61.9107,29.2823
+FI376,Mäntyharju,,South Savo,FI,61.4167,26.8833
+FI377,Mikkeli,,South Savo,FI,61.6886,27.2723
+FI378,Pertunmaa,,South Savo,FI,61.5000,26.4833
+FI379,Pieksämäki,,South Savo,FI,62.3000,27.1333
+FI380,Punkaharju,,South Savo,FI,61.7588,29.3884
+FI381,Puumala,,South Savo,FI,61.5273,28.1750
+FI382,Rantasalmi,,South Savo,FI,62.0667,28.3000
+FI383,Ristiina,,South Savo,FI,61.5058,27.2464
+FI384,Savonlinna,,South Savo,FI,61.8699,28.8800
+FI385,Savonranta,,South Savo,FI,62.1833,29.2000
+FI386,Sulkava,,South Savo,FI,61.7869,28.3730
+FI387,Virtasalmi,,South Savo,FI,62.1270,27.4628
+FI388,Forssa,,Kanta-Häme,FI,60.8146,23.6215
+FI389,Hämeenlinna,,Kanta-Häme,FI,60.9960,24.4643
+FI390,Hauho,,Kanta-Häme,FI,61.1726,24.5630
+FI391,Hausjärvi,,Kanta-Häme,FI,60.7833,24.9333
+FI392,Humppila,,Kanta-Häme,FI,60.9333,23.3667
+FI393,Janakkala,,Kanta-Häme,FI,60.9000,24.6000
+FI394,Jokioinen,,Kanta-Häme,FI,60.8016,23.4800
+FI395,Kalvola,,Kanta-Häme,FI,61.1008,24.1218
+FI396,Lammi,,Kanta-Häme,FI,61.0833,25.0167
+FI397,Loppi,,Kanta-Häme,FI,60.7167,24.4500
+FI398,Renko,,Kanta-Häme,FI,60.8956,24.2879
+FI399,Riihimäki,,Kanta-Häme,FI,60.7377,24.7773
+FI400,Tammela,,Kanta-Häme,FI,60.8104,23.7682
+FI401,Tervakoski,,Kanta-Häme,FI,60.8141,24.6259
+FI402,Tuulos,,Kanta-Häme,FI,61.1500,24.8000
+FI403,Ypäjä,,Kanta-Häme,FI,60.8000,23.2833
+FI404,Askola,,Uusimaa,FI,60.5333,25.6000
+FI405,Ekenäs,,Uusimaa,FI,59.9736,23.4339
+FI406,Espoo,,Uusimaa,FI,60.2052,24.6522
+FI407,Gumböle,,Uusimaa,FI,60.2195,24.6168
+FI408,Hanko,,Uusimaa,FI,59.8333,22.9500
+FI409,Helsinki,,Uusimaa,FI,60.1695,24.9355
+FI410,Hyvinge,,Uusimaa,FI,60.6333,24.8667
+FI411,Ingå,,Uusimaa,FI,60.0459,24.0046
+FI412,Järvenpää,,Uusimaa,FI,60.4737,25.0899
+FI413,Kaarela,,Uusimaa,FI,60.2517,24.8811
+FI414,Kallio,,Uusimaa,FI,60.1843,24.9503
+FI415,Karis,,Uusimaa,FI,60.0718,23.6616
+FI416,Karjalohja,,Uusimaa,FI,60.2402,23.7179
+FI417,Karkkila,,Uusimaa,FI,60.5342,24.2098
+FI418,Kärkölä,,Uusimaa,FI,60.6129,23.9420
+FI419,Kauniainen,,Uusimaa,FI,60.2121,24.7276
+FI420,Kellokoski,,Uusimaa,FI,60.5327,25.1092
+FI421,Kerava,,Uusimaa,FI,60.4034,25.1050
+FI422,Kilo,,Uusimaa,FI,60.2175,24.7815
+FI423,Kirkkonummi,,Uusimaa,FI,60.1238,24.4385
+FI424,Koukkuniemi,,Uusimaa,FI,60.1526,24.7647
+FI425,Lapinjärvi,,Uusimaa,FI,60.6244,26.1972
+FI426,Lauttasaari,,Uusimaa,FI,60.1590,24.8680
+FI427,Liljendal,,Uusimaa,FI,60.5735,26.0526
+FI428,Lohja,,Uusimaa,FI,60.2486,24.0653
+FI429,Lovisa,,Uusimaa,FI,60.4566,26.2251
+FI430,Mäntsälä,,Uusimaa,FI,60.6333,25.3167
+FI431,Mellunkylä,,Uusimaa,FI,60.2336,25.0995
+FI432,Munkkiniemi,,Uusimaa,FI,60.1986,24.8777
+FI433,Myrskylä,,Uusimaa,FI,60.6697,25.8475
+FI434,Nurmijärvi,,Uusimaa,FI,60.4641,24.8073
+FI435,Otaniemi,,Uusimaa,FI,60.1840,24.8279
+FI436,Pernå,,Uusimaa,FI,60.4487,26.0319
+FI437,Pohja,,Uusimaa,FI,60.0963,23.5276
+FI438,Pornainen,,Uusimaa,FI,60.4758,25.3749
+FI439,Porvoo,,Uusimaa,FI,60.3923,25.6651
+FI440,Pukkila,,Uusimaa,FI,60.6500,25.5667
+FI441,Raaseporin,,Uusimaa,FI,60.0027,23.5550
+FI442,Ruotsinpyhtää,,Uusimaa,FI,60.5268,26.4620
+FI443,Sammatti,,Uusimaa,FI,60.3199,23.8209
+FI444,Sibbo,,Uusimaa,FI,60.3775,25.2691
+FI445,Siuntio,,Uusimaa,FI,60.1386,24.2272
+FI446,Tuusula,,Uusimaa,FI,60.4037,25.0264
+FI447,Vantaa,,Uusimaa,FI,60.2941,25.0410
+FI448,Vihti,,Uusimaa,FI,60.4170,24.3197
+FI449,Vuosaari,,Uusimaa,FI,60.2096,25.1420
