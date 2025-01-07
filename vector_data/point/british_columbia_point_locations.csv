@@ -1,1028 +1,1679 @@
 id,name,alt_name,region,country,latitude,longitude,tags
-BC1,Panorama Mountain Resort,,British Columbia,CA,50.4583,-116.237,ardac
-BC2,Cranberry Junction,,British Columbia,CA,55.5999,-128.5395,ardac
-BC3,Deep Creek,,British Columbia,CA,50.6094,-119.213,ardac
-BC4,Donald,,British Columbia,CA,51.4958,-117.174,ardac
-BC5,Dome Creek,,British Columbia,CA,53.7425,-121.026,ardac
-BC6,Eagle Bay,,British Columbia,CA,50.9333,-119.217,ardac
-BC7,Old Massett,G̱aw,British Columbia,CA,54.0418,-132.184,ardac
-BC8,Progress,,British Columbia,CA,55.7817,-120.716,ardac
-BC9,Topley Landing,,British Columbia,CA,54.8084,-126.1387,ardac
-BC10,Kobes,,British Columbia,CA,56.6389,-121.65,ardac
-BC11,Shelter Bay Ferry Terminal,,British Columbia,CA,50.6358,-117.929,ardac
-BC12,Sunnyside,,British Columbia,CA,54.6538,-124.732,ardac
-BC13,McDonalds Landing,,British Columbia,CA,54.0,-126.033,ardac
-BC14,West Moberly,,British Columbia,CA,55.8272,-121.852,ardac
-BC15,Summit Lake Provincial Park,,British Columbia,CA,50.1523,-117.661,ardac
-BC16,Kelly Lake,,British Columbia,CA,51.0124,-121.7658,ardac
-BC17,Kingfisher,,British Columbia,CA,50.6167,-118.733,ardac
-BC18,Cooper Creek,,British Columbia,CA,50.2023,-116.963,ardac
-BC19,Wilson Creek,,British Columbia,CA,49.4409,-123.713,ardac
-BC20,Mica Creek,,British Columbia,CA,52.0059,-118.562,ardac
-BC21,Hall,,British Columbia,CA,49.374,-117.243,ardac
-BC22,Hyde Creek,,British Columbia,CA,50.5805,-127.0,ardac
-BC23,Bear Creek,,British Columbia,CA,49.529,-121.761,ardac
-BC24,Pine Valley,,British Columbia,CA,52.1753,-122.09,ardac
-BC25,Niagara,,British Columbia,CA,49.1071,-118.466,ardac
-BC26,Birch Island,,British Columbia,CA,51.5971,-119.91,ardac
-BC27,Hills,,British Columbia,CA,50.1089,-117.493,ardac
-BC28,Meadows,,British Columbia,CA,49.1859,-117.396,ardac
-BC29,93 Mile,,British Columbia,CA,51.5748,-121.341,ardac
-BC30,Pineview,,British Columbia,CA,53.8367,-122.658,ardac
-BC31,Old Fort St. John,,British Columbia,CA,56.2022,-120.823,ardac
-BC32,Eagle Creek,,British Columbia,CA,51.8597,-120.866,ardac
-BC33,Roe Lake,,British Columbia,CA,51.5208,-120.831,ardac
-BC34,Coal Harbour,,British Columbia,CA,50.6,-127.583,ardac
-BC35,Apex Mountain Resort,,British Columbia,CA,49.3942,-119.907,ardac
-BC36,Wiley,,British Columbia,CA,54.515,-126.334,ardac
-BC37,Gilpin,,British Columbia,CA,49.0063,-118.329,ardac
-BC39,Balmoral,,British Columbia,CA,50.8531,-119.355,ardac
-BC40,Stillwater,,British Columbia,CA,49.7667,-124.3,ardac
-BC41,Gateway,,British Columbia,CA,51.6808,-121.211,ardac
-BC42,Chinook Cove,,British Columbia,CA,51.2333,-120.167,ardac
-BC43,Oliver's Landing,,British Columbia,CA,49.5833,-123.221,ardac
-BC45,Rock Bay,,British Columbia,CA,50.3323,-125.486,ardac
-BC46,Stump Lake,,British Columbia,CA,50.3883,-120.328,ardac
-BC47,Cultus Lake,,British Columbia,CA,49.0714,-121.966,ardac
-BC49,Cheslatta,,British Columbia,CA,53.8167,-125.8,ardac
-BC50,White Lake,,British Columbia,CA,50.8798,-119.302,ardac
-BC51,Mud Bay,,British Columbia,CA,49.4667,-124.8,ardac
-BC52,Lee Creek,,British Columbia,CA,50.9078,-119.534,ardac
-BC53,Six Mile Point,,British Columbia,CA,50.773,-120.7419,ardac
-BC54,Lower Kootenay,,British Columbia,CA,49.0663,-116.512,ardac
-BC55,Westview,,British Columbia,CA,49.8364,-124.525,ardac
-BC56,Beecher Bay,,British Columbia,CA,48.3367,-123.609,ardac
-BC57,Malibu,,British Columbia,CA,50.1671,-123.851,ardac
-BC58,Liard River Suspension Bridge,,British Columbia,CA,59.4127,-126.0959,"ardac,ncr"
-BC59,Bridge River,,British Columbia,CA,50.7808,-121.975,ardac
-BC60,Kettle Valley,,British Columbia,CA,49.0536,-118.945,ardac
-BC61,Davis Bay,,British Columbia,CA,49.4453,-123.726,ardac
-BC62,Arbutus Ridge,,British Columbia,CA,48.6933,-123.54,ardac
-BC63,Wet'suwet'en Village,,British Columbia,CA,54.3359,-125.89,ardac
-BC64,Upper Nicola,,British Columbia,CA,50.137,-120.278,ardac
-BC65,Dog Creek,,British Columbia,CA,52.0944,-122.114,ardac
-BC66,Nootka,,British Columbia,CA,49.6248,-126.627,ardac
-BC67,Kwakiutl,,British Columbia,CA,50.6931,-127.411,ardac
-BC68,Aberdeen,,British Columbia,CA,49.0503,-122.411,ardac
-BC69,Fernwood,,British Columbia,CA,48.9089,-123.528,ardac
-BC70,Adams Lake,,British Columbia,CA,50.7366,-119.321,ardac
-BC71,Bonaparte,,British Columbia,CA,50.8383,-121.378,ardac
-BC72,Saik'uz,,British Columbia,CA,53.945,-124.109,ardac
-BC73,Lighthouse Point,,British Columbia,CA,48.8687,-123.284,ardac
-BC74,Lemoray,,British Columbia,CA,55.5389,-122.483,ardac
-BC75,Squamish,,British Columbia,CA,49.3221,-123.13,ardac
-BC76,Bull River,,British Columbia,CA,49.4701,-115.448,ardac
-BC77,Cowichan Station,,British Columbia,CA,48.7294,-123.666,ardac
-BC78,Fort Babine,,British Columbia,CA,55.3223,-126.626,ardac
-BC79,Prophet River,,British Columbia,CA,58.0943,-122.71,ardac
-BC80,Cowichan,,British Columbia,CA,48.7688,-123.68,ardac
-BC81,Scotch Creek,,British Columbia,CA,50.9014,-119.451,ardac
-BC82,Tsartlip,,British Columbia,CA,48.5856,-123.456,ardac
-BC83,Nimpkish,,British Columbia,CA,50.3333,-126.917,ardac
-BC84,Farrell Creek,,British Columbia,CA,56.1228,-121.738,ardac
-BC85,Jersey,,British Columbia,CA,49.1,-117.233,ardac
-BC86,Baker Creek,,British Columbia,CA,52.9274,-123.017,ardac
-BC87,Klahoose,,British Columbia,CA,50.1281,-124.925,ardac
-BC88,Glenmerry,,British Columbia,CA,49.1,-117.667,ardac
-BC89,Franklin Camp,,British Columbia,CA,48.9722,-124.742,ardac
-BC90,Simpcw,,British Columbia,CA,51.2654,-120.151,ardac
-BC91,Pink Mountain,,British Columbia,CA,57.0357,-122.507,ardac
-BC92,Xeni Gwet'in,,British Columbia,CA,51.4243,-124.089,ardac
-BC93,Huscroft,,British Columbia,CA,49.0167,-116.467,ardac
-BC94,Louis Creek,,British Columbia,CA,51.1401,-120.122,ardac
-BC95,Commodore Heights,,British Columbia,CA,52.1667,-122.133,ardac
-BC96,Porcher Island,,British Columbia,CA,54.0867,-130.392,ardac
-BC97,Slesse Park,,British Columbia,CA,49.0805,-121.821,ardac
-BC98,Matsqui,,British Columbia,CA,49.006,-122.476,ardac
-BC100,Garibaldi,,British Columbia,CA,49.9667,-123.15,ardac
-BC101,Doig River,,British Columbia,CA,56.5711,-120.494,ardac
-BC102,Malahat,,British Columbia,CA,48.6128,-123.523,ardac
-BC103,Coal River,,British Columbia,CA,59.65,-126.933,"ardac,ncr"
-BC104,Pemberton Meadows,,British Columbia,CA,50.4417,-122.917,ardac
-BC105,Meachen,,British Columbia,CA,49.6207,-116.267,ardac
-BC106,Spallumcheen,,British Columbia,CA,50.5314,-119.147,ardac
-BC107,Tatla Lake,,British Columbia,CA,51.9,-124.6,ardac
-BC108,Lheidli T'enneh,,British Columbia,CA,54.0101,-122.616,ardac
-BC109,Qualicum,,British Columbia,CA,49.4,-124.617,ardac
-BC110,St. Mary's,,British Columbia,CA,49.6203,-115.696,ardac
-BC111,Uchucklesaht,,British Columbia,CA,49.0274,-125.045,ardac
-BC112,Blueberry Creek,,British Columbia,CA,49.246,-117.659,ardac
-BC113,Criss Creek,,British Columbia,CA,51.05,-120.733,ardac
-BC114,Tl'etinqox,,British Columbia,CA,52.0119,-123.1719,ardac
-BC116,Toquaht,,British Columbia,CA,48.9959,-125.379,ardac
-BC117,Burrard,,British Columbia,CA,49.3099,-122.978,ardac
-BC118,Eagle Heights,,British Columbia,CA,48.7563,-123.703,ardac
-BC120,Mount Robson,,British Columbia,CA,53.0309,-119.228,ardac
-BC121,Seton Lake,,British Columbia,CA,50.7047,-122.281,ardac
-BC122,Huu-ay-aht,,British Columbia,CA,48.8012,-125.122,ardac
-BC123,Quatsino,,British Columbia,CA,50.6151,-127.574,ardac
-BC124,Cahilty,,British Columbia,CA,50.95,-120.017,ardac
-BC125,Wabi Hill,,British Columbia,CA,55.6707,-121.532,ardac
-BC126,Buckinghorse River,,British Columbia,CA,57.3901,-122.842,ardac
-BC127,Blueberry River,,British Columbia,CA,56.7035,-121.114,ardac
-BC128,Hesquiat,,British Columbia,CA,49.3959,-126.471,ardac
-BC129,Oregon Jack Creek,,British Columbia,CA,50.6667,-121.267,ardac
-BC130,Sproat Lake,,British Columbia,CA,49.2766,-124.924,ardac
-BC131,T'it'q'et,,British Columbia,CA,50.5833,-121.85,ardac
-BC132,Hupacasath,,British Columbia,CA,49.2657,-124.826,ardac
-BC133,Fintry,,British Columbia,CA,50.1316,-119.506,ardac
-BC134,Cape Mudge,,British Columbia,CA,50.0214,-125.293,ardac
-BC135,Lac la Hache,,British Columbia,CA,51.8145,-121.465,ardac
-BC136,Kootenay Crossing,,British Columbia,CA,50.8833,-116.05,ardac
-BC137,Sanca,,British Columbia,CA,49.3917,-116.735,ardac
-BC138,Gambier Harbour,,British Columbia,CA,49.3728,-123.414,ardac
-BC139,Tatton,,British Columbia,CA,51.7057,-121.385,ardac
-BC140,Muncho Lake,,British Columbia,CA,58.9333,-125.767,"ardac,ncr"
-BC141,Nazko,,British Columbia,CA,52.9435,-123.581,ardac
-BC142,Deka Lake,,British Columbia,CA,51.6083,-120.85,ardac
-BC143,Squeah,,British Columbia,CA,49.5042,-121.42,ardac
-BC144,Telachick,,British Columbia,CA,53.8621,-123.182,ardac
-BC145,Kitselas,,British Columbia,CA,54.6167,-128.417,ardac
-BC146,Hardwicke Island,,British Columbia,CA,50.4167,-125.917,ardac
-BC147,Miocene,,British Columbia,CA,52.2503,-121.771,ardac
-BC148,Sarita,,British Columbia,CA,48.8833,-125.033,ardac
-BC149,Chezacut,,British Columbia,CA,52.3993,-124.028,ardac
-BC150,Quesnel Forks,,British Columbia,CA,52.6564,-121.663,ardac
-BC151,Port Alice,,British Columbia,CA,50.3833,-127.45,ardac
-BC152,Tatalrose,,British Columbia,CA,53.9833,-125.983,ardac
-BC153,Coquitlam,,British Columbia,CA,49.2539,-122.849,ardac
-BC154,Hanceville,,British Columbia,CA,51.9417,-123.099,ardac
-BC155,Sullivan Bay,,British Columbia,CA,50.8833,-126.817,ardac
-BC156,Big Bar Creek,,British Columbia,CA,51.1829,-122.117,ardac
-BC157,Lumberton,,British Columbia,CA,49.4238,-115.877,ardac
-BC158,Kwaw-kwaw-Apilt,,British Columbia,CA,49.1641,-121.98,ardac
-BC159,Mahatta River,,British Columbia,CA,50.4586,-127.798,ardac
-BC160,Osborn,,British Columbia,CA,56.6042,-120.378,ardac
-BC161,Englishman River North,,British Columbia,CA,49.3233,-124.281,ardac
-BC162,Scowlitz,,British Columbia,CA,49.2425,-122.002,ardac
-BC163,Mount Currie,,British Columbia,CA,50.3249,-122.656,ardac
-BC164,Galena Bay,,British Columbia,CA,50.6667,-117.85,ardac
-BC165,Firvale,,British Columbia,CA,52.4385,-126.292,ardac
-BC166,Thompson Sound,,British Columbia,CA,50.8037,-126.008,ardac
-BC167,Nimpo Lake,,British Columbia,CA,52.3364,-125.14,ardac
-BC168,T'Sou-Ke,,British Columbia,CA,48.3861,-123.698,ardac
-BC169,Rosswood,,British Columbia,CA,54.8,-128.767,ardac
-BC170,Abbotsford,,British Columbia,CA,49.0477,-122.27,ardac
-BC171,Federal Ranch,,British Columbia,CA,56.4,-122.383,ardac
-BC172,Mahood Falls,,British Columbia,CA,51.8426,-120.639,ardac
-BC173,Powell River,,British Columbia,CA,49.872,-124.546,ardac
-BC174,Snuneymuxw,,British Columbia,CA,49.1499,-123.929,ardac
-BC175,Sewell Inlet,,British Columbia,CA,52.8749,-131.987,ardac
-BC176,Chasm,,British Columbia,CA,51.2167,-121.483,ardac
-BC177,Hagensborg,,British Columbia,CA,52.3864,-126.557,ardac
-BC178,Nooaitch,,British Columbia,CA,50.1545,-121.041,ardac
-BC179,North Saanich,,British Columbia,CA,48.6217,-123.421,ardac
-BC180,Rhone,,British Columbia,CA,49.219,-119.018,ardac
-BC181,Mayook,,British Columbia,CA,49.4869,-115.577,ardac
-BC182,Solsqua,,British Columbia,CA,50.8707,-118.94,ardac
-BC183,South Surrey,,British Columbia,CA,49.0543,-122.833,ardac
-BC184,Songhees,,British Columbia,CA,48.4461,-123.422,ardac
-BC185,Argenta,,British Columbia,CA,50.1667,-116.917,ardac
-BC186,Tatlayoko Lake,,British Columbia,CA,51.7167,-124.433,ardac
-BC187,Highlands,,British Columbia,CA,48.5144,-123.516,ardac
-BC188,Black Pines,,British Columbia,CA,50.9339,-120.258,ardac
-BC189,Summit Lake,,British Columbia,CA,54.25,-122.633,ardac
-BC190,Central Saanich,,British Columbia,CA,48.5669,-123.397,ardac
-BC191,Tipella,,British Columbia,CA,49.7446,-122.154,ardac
-BC192,Grasmere,,British Columbia,CA,49.1,-115.083,ardac
-BC193,Saturna,,British Columbia,CA,48.7945,-123.195,ardac
-BC194,Lister,,British Columbia,CA,49.0474,-116.463,ardac
-BC195,Kildala Arm,,British Columbia,CA,53.8333,-128.483,ardac
-BC196,Canim Lake,,British Columbia,CA,51.7726,-120.986,ardac
-BC197,Phillips Arm,,British Columbia,CA,50.5459,-125.356,ardac
-BC198,Saanich,,British Columbia,CA,48.4878,-123.388,ardac
-BC199,Bridge Lake,,British Columbia,CA,51.4786,-120.726,ardac
-BC200,Halalt,,British Columbia,CA,48.8769,-123.692,ardac
-BC201,Surge Narrows,,British Columbia,CA,50.2306,-125.109,ardac
-BC203,Toad River,,British Columbia,CA,58.85,-125.233,"ardac,ncr"
-BC204,Punchaw,,British Columbia,CA,53.4306,-123.182,ardac
-BC205,Little Shuswap Lake,,British Columbia,CA,50.8758,-119.612,ardac
-BC206,Salmon Valley,,British Columbia,CA,54.0833,-122.7,ardac
-BC207,Read Island,,British Columbia,CA,50.1812,-125.086,ardac
-BC208,Loon Lake,,British Columbia,CA,51.0833,-121.3,ardac
-BC209,Myrtle Point,,British Columbia,CA,49.8012,-124.481,ardac
-BC210,Barlow Creek,,British Columbia,CA,53.023,-122.445,ardac
-BC211,Charlie Lake,,British Columbia,CA,56.2974,-120.985,ardac
-BC212,Reid Lake,,British Columbia,CA,53.9667,-123.1,ardac
-BC213,Silver Star,,British Columbia,CA,50.3572,-119.059,ardac
-BC214,Popkum,,British Columbia,CA,49.2002,-121.736,ardac
-BC215,Port Moody,,British Columbia,CA,49.2786,-122.868,ardac
-BC216,Mission,,British Columbia,CA,49.1376,-122.304,ardac
-BC217,Boothroyd,,British Columbia,CA,49.9638,-121.485,ardac
-BC218,Xaxli'p,,British Columbia,CA,50.7372,-121.862,ardac
-BC219,Tulsequah,,British Columbia,CA,58.6577,-133.544,"ardac,ncr"
-BC220,Seabird Island,,British Columbia,CA,49.2542,-121.731,ardac
-BC221,Ootsa Lake,,British Columbia,CA,53.8068,-126.042,ardac
-BC222,East Sooke,,British Columbia,CA,48.3645,-123.686,ardac
-BC223,Saanichton,,British Columbia,CA,48.6,-123.417,ardac
-BC224,Yreka,,British Columbia,CA,50.4638,-127.558,ardac
-BC225,Roosville,,British Columbia,CA,49.0236,-115.047,ardac
-BC226,Pacheedaht,,British Columbia,CA,48.581,-124.405,ardac
-BC227,Mud River,,British Columbia,CA,53.7612,-123.012,ardac
-BC228,Big Lake Ranch,,British Columbia,CA,52.4049,-121.876,ardac
-BC229,Ruby Creek,,British Columbia,CA,49.3468,-121.597,ardac
-BC230,Cherry Point,,British Columbia,CA,48.7277,-123.584,ardac
-BC231,Neskonlith,,British Columbia,CA,50.7739,-119.716,ardac
-BC232,Kimsquit,,British Columbia,CA,52.8296,-126.964,ardac
-BC233,Whisky Creek,,British Columbia,CA,49.3082,-124.508,ardac
-BC234,Lindell Beach,,British Columbia,CA,49.0333,-122.017,ardac
-BC235,Nelway,,British Columbia,CA,49.0147,-117.273,ardac
-BC236,Tchesinkut Lake,,British Columbia,CA,54.0823,-125.738,ardac
-BC237,Surrey,,British Columbia,CA,49.1745,-122.828,ardac
-BC238,Nulki,,British Columbia,CA,53.9185,-124.197,ardac
-BC239,Brouse,,British Columbia,CA,50.2167,-117.75,ardac
-BC240,Monte Lake,,British Columbia,CA,50.5254,-119.832,ardac
-BC241,Miworth,,British Columbia,CA,53.9399,-122.949,ardac
-BC242,Hornby Island,,British Columbia,CA,49.5227,-124.642,ardac
-BC244,Powder King,,British Columbia,CA,55.3505,-122.615,ardac
-BC245,Clearwater,,British Columbia,CA,51.65,-120.033,ardac
-BC246,Bouchie Lake,,British Columbia,CA,53.0262,-122.597,ardac
-BC247,Cayoose Creek,,British Columbia,CA,50.6721,-121.932,ardac
-BC248,Marilla,,British Columbia,CA,53.7,-125.85,ardac
-BC249,Pinchi Lake,,British Columbia,CA,54.6272,-124.404,ardac
-BC250,Stewardson Inlet,,British Columbia,CA,49.4217,-126.316,ardac
-BC251,East Pine,,British Columbia,CA,55.7167,-121.217,ardac
-BC252,Sinkut River,,British Columbia,CA,53.9538,-123.857,ardac
-BC253,Woodcock,,British Columbia,CA,55.0667,-128.233,ardac
-BC254,Rose Prairie,,British Columbia,CA,56.5087,-120.783,ardac
-BC255,Qualicum Bay,,British Columbia,CA,49.4045,-124.633,ardac
-BC256,Notch Hill,,British Columbia,CA,50.8528,-119.435,ardac
-BC257,Chilliwack,,British Columbia,CA,49.175,-121.942,ardac
-BC258,Braeloch,,British Columbia,CA,49.7833,-119.517,ardac
-BC259,Prince George,,British Columbia,CA,53.9116,-122.776,ardac
-BC260,Ehatisaht,,British Columbia,CA,49.8833,-126.85,ardac
-BC261,Nukko Lake,,British Columbia,CA,54.0833,-122.983,ardac
-BC262,Premier Lake,,British Columbia,CA,49.9517,-115.659,ardac
-BC263,Westwold,,British Columbia,CA,50.4679,-119.747,ardac
-BC264,Brookswood,,British Columbia,CA,49.0718,-122.666,ardac
-BC265,Birken,,British Columbia,CA,50.4833,-122.617,ardac
-BC266,Silver Creek,,British Columbia,CA,50.5961,-119.365,ardac
-BC267,Sun Peaks,,British Columbia,CA,50.878,-119.908,ardac
-BC268,Ditidaht,,British Columbia,CA,48.8091,-124.67,ardac
-BC269,Smithers Landing,,British Columbia,CA,55.054,-126.526,ardac
-BC270,Rivers Inlet,,British Columbia,CA,51.6842,-127.259,ardac
-BC271,Grassy Plains,,British Columbia,CA,53.967,-125.888,ardac
-BC272,Englishman River South,,British Columbia,CA,49.2779,-124.275,ardac
-BC273,Yaku,,British Columbia,CA,54.1923,-133.003,ardac
-BC274,Tower Lake,,British Columbia,CA,56.0155,-120.561,ardac
-BC275,Albert Head,,British Columbia,CA,48.3911,-123.503,ardac
-BC276,Tlell,,British Columbia,CA,53.5667,-131.933,ardac
-BC277,North Delta,,British Columbia,CA,49.1547,-122.911,ardac
-BC278,Boat Basin,,British Columbia,CA,49.4792,-126.425,ardac
-BC279,Kluskus,,British Columbia,CA,53.0904,-124.493,ardac
-BC280,Richmond,,British Columbia,CA,49.1539,-123.158,ardac
-BC281,Tsawwassen,,British Columbia,CA,49.0357,-123.094,ardac
-BC282,Tahsis,,British Columbia,CA,49.9303,-126.655,ardac
-BC283,Sunset Prairie,,British Columbia,CA,55.8397,-120.764,ardac
-BC284,Vancouver,,British Columbia,CA,49.2448,-123.115,ardac
-BC285,Port Neville,,British Columbia,CA,50.4993,-126.081,ardac
-BC286,Penelakut,,British Columbia,CA,48.9749,-123.641,ardac
-BC287,Moberly Lake,,British Columbia,CA,55.8333,-121.758,ardac
-BC288,Holmwood,,British Columbia,CA,50.6189,-119.954,ardac
-BC289,Peachland,,British Columbia,CA,49.7786,-119.736,ardac
-BC291,Halfmoon Bay,,British Columbia,CA,49.5146,-123.909,ardac
-BC292,Garibaldi Highlands,,British Columbia,CA,49.7417,-123.135,ardac
-BC293,Williams Beach,,British Columbia,CA,49.834,-125.061,ardac
-BC294,Crowsnest,,British Columbia,CA,49.6368,-114.695,ardac
-BC295,Fosthall,,British Columbia,CA,50.3488,-117.935,ardac
-BC296,Nemaiah Valley,,British Columbia,CA,51.4776,-123.887,ardac
-BC297,Barrett Lake,,British Columbia,CA,54.45,-126.75,ardac
-BC298,Wistaria,,British Columbia,CA,53.8474,-126.28,ardac
-BC299,Blue River,,British Columbia,CA,52.1061,-119.306,ardac
-BC300,Aldergrove,,British Columbia,CA,49.0576,-122.471,ardac
-BC301,Penticton,,British Columbia,CA,49.4822,-119.585,ardac
-BC302,Upper Fraser,,British Columbia,CA,54.1082,-121.931,ardac
-BC303,Foreman,,British Columbia,CA,53.95,-122.683,ardac
-BC304,Kersley,,British Columbia,CA,52.8358,-122.418,ardac
-BC305,Upper Halfway,,British Columbia,CA,56.5176,-122.226,ardac
-BC306,Shackan,,British Columbia,CA,50.284,-121.178,ardac
-BC307,Health Bay,,British Columbia,CA,50.6939,-126.597,ardac
-BC308,Denman Island,,British Columbia,CA,49.5358,-124.813,ardac
-BC309,Port Coquitlam,,British Columbia,CA,49.2567,-122.762,ardac
-BC310,Elkford,,British Columbia,CA,50.0123,-114.93,ardac
-BC311,Valleyview,,British Columbia,CA,50.6738,-120.25,ardac
-BC312,McLure,,British Columbia,CA,51.0539,-120.225,ardac
-BC313,Riske Creek,,British Columbia,CA,51.9596,-122.518,ardac
-BC314,Cedar,,British Columbia,CA,49.1043,-123.854,ardac
-BC315,Rogers Pass,,British Columbia,CA,51.3009,-117.521,ardac
-BC316,Shawl Bay,,British Columbia,CA,50.8433,-126.56,ardac
-BC317,Cloverdale,,British Columbia,CA,49.1117,-122.725,ardac
-BC318,Dugan Lake,,British Columbia,CA,52.1667,-121.925,ardac
-BC319,Cobble Hill,,British Columbia,CA,48.6915,-123.585,ardac
-BC321,Saseenos,,British Columbia,CA,48.3908,-123.669,ardac
-BC322,Pritchard,,British Columbia,CA,50.6851,-119.812,ardac
-BC323,Oweekeno,,British Columbia,CA,51.6853,-127.207,ardac
-BC324,Old Fort,,British Columbia,CA,55.0376,-126.318,ardac
-BC325,Gang Ranch,,British Columbia,CA,51.5538,-122.351,ardac
-BC326,Williams Lake,,British Columbia,CA,52.1415,-122.143,ardac
-BC327,View Royal,,British Columbia,CA,48.4583,-123.45,ardac
-BC328,Hot Springs Cove,,British Columbia,CA,49.352,-126.26,ardac
-BC329,Shalalth,,British Columbia,CA,50.7294,-122.215,ardac
-BC330,Winfield,,British Columbia,CA,50.0333,-119.402,ardac
-BC331,Tatogga,,British Columbia,CA,57.7163,-129.987,"ardac,ncr"
-BC332,Ucluelet,,British Columbia,CA,48.9399,-125.528,ardac
-BC333,Fanny Bay,,British Columbia,CA,49.4901,-124.813,ardac
-BC334,South Wellington,,British Columbia,CA,49.0941,-123.887,ardac
-BC335,Yahk,,British Columbia,CA,49.085,-116.082,ardac
-BC336,Musqueam,,British Columbia,CA,49.2298,-123.2,ardac
-BC337,Oona River,,British Columbia,CA,53.9469,-130.256,ardac
-BC338,Walnut Grove,,British Columbia,CA,49.1806,-122.648,ardac
-BC339,Okanagan Mission,,British Columbia,CA,49.8167,-119.483,ardac
-BC340,Bob Quinn Lake,,British Columbia,CA,56.9722,-130.247,ardac
-BC341,Fort Rupert,,British Columbia,CA,50.6889,-127.42,ardac
-BC342,Boswell,,British Columbia,CA,49.4503,-116.764,ardac
-BC343,Lakelse Lake,,British Columbia,CA,54.3804,-128.546,ardac
-BC344,Blowhole,,British Columbia,CA,49.8292,-126.676,ardac
-BC345,Burnaby,,British Columbia,CA,49.2521,-122.962,ardac
-BC346,Mackenzie,,British Columbia,CA,55.3353,-123.096,ardac
-BC347,Ogden,,British Columbia,CA,50.7819,-122.822,ardac
-BC348,Parksville,,British Columbia,CA,49.3227,-124.327,ardac
-BC349,Port Renfrew,,British Columbia,CA,48.5574,-124.405,ardac
-BC350,Chetwynd,,British Columbia,CA,55.6949,-121.619,ardac
-BC351,Wasa,,British Columbia,CA,49.7833,-115.733,ardac
-BC352,Alice Arm,,British Columbia,CA,55.4728,-129.478,ardac
-BC353,New Westminster,,British Columbia,CA,49.2167,-122.917,ardac
-BC354,Blaeberry,,British Columbia,CA,51.4333,-117.067,ardac
-BC355,Shutty Bench,,British Columbia,CA,49.9629,-116.907,ardac
-BC356,Pope Landing,,British Columbia,CA,49.6145,-124.048,ardac
-BC358,Fair Harbour,,British Columbia,CA,50.0565,-127.101,ardac
-BC359,Butedale,,British Columbia,CA,53.15,-128.7,ardac
-BC360,Lang Bay,,British Columbia,CA,49.7792,-124.346,ardac
-BC361,Yarksis,,British Columbia,CA,49.1654,-125.971,ardac
-BC362,Gray Creek,,British Columbia,CA,49.6333,-116.783,ardac
-BC363,Vedder Crossing,,British Columbia,CA,49.1062,-121.971,ardac
-BC364,Vidette,,British Columbia,CA,51.1667,-120.9,ardac
-BC365,Takysie Lake,,British Columbia,CA,53.8833,-125.867,ardac
-BC366,Kedleston,,British Columbia,CA,50.3167,-119.183,ardac
-BC367,Buckley Bay,,British Columbia,CA,49.5333,-124.857,ardac
-BC368,Isle Pierre,,British Columbia,CA,53.95,-123.25,ardac
-BC369,Seton Portage,,British Columbia,CA,50.7069,-122.289,ardac
-BC370,Aleza Lake,,British Columbia,CA,54.1143,-122.034,ardac
-BC371,Blind Bay,,British Columbia,CA,50.8833,-119.383,ardac
-BC372,Cherry Creek,,British Columbia,CA,49.2827,-124.787,ardac
-BC373,Pauquachin,,British Columbia,CA,48.6204,-123.453,ardac
-BC374,Donald Landing,,British Columbia,CA,54.4833,-125.65,ardac
-BC375,Headquarters,,British Columbia,CA,49.7646,-125.115,ardac
-BC376,Belcarra,,British Columbia,CA,49.3182,-122.928,ardac
-BC377,Ceepeecee,,British Columbia,CA,49.8732,-126.711,ardac
-BC378,Seymour Arm,,British Columbia,CA,51.2484,-118.94,ardac
-BC379,Cheam,,British Columbia,CA,49.1942,-121.776,ardac
-BC380,Sandspit,,British Columbia,CA,53.2479,-131.814,ardac
-BC381,Kelowna,,British Columbia,CA,49.8833,-119.483,ardac
-BC382,Valemount,,British Columbia,CA,52.8305,-119.265,ardac
-BC383,Secret Cove,,British Columbia,CA,49.5363,-123.952,ardac
-BC384,Winlaw,,British Columbia,CA,49.6144,-117.55,ardac
-BC385,Fort Ware,,British Columbia,CA,57.4252,-125.633,"ardac,ncr"
-BC386,Dashwood,,British Columbia,CA,49.3621,-124.506,ardac
-BC387,Estevan Point,,British Columbia,CA,49.3782,-126.534,ardac
-BC388,Grand Forks,,British Columbia,CA,49.029,-118.453,ardac
-BC389,Williamsons Landing,,British Columbia,CA,49.4497,-123.469,ardac
-BC390,Cinnabar Valley,,British Columbia,CA,49.1033,-123.926,ardac
-BC391,Bull Harbour,,British Columbia,CA,50.9177,-127.931,ardac
-BC392,Naramata,,British Columbia,CA,49.5942,-119.587,ardac
-BC393,Brem River,,British Columbia,CA,50.4392,-124.671,ardac
-BC394,Granite Bay,,British Columbia,CA,50.2333,-125.3,ardac
-BC395,Princeton,,British Columbia,CA,49.4524,-120.514,ardac
-BC396,Yankee Flats,,British Columbia,CA,50.5164,-119.375,ardac
-BC397,Gravelle Ferry,,British Columbia,CA,52.85,-122.233,ardac
-BC398,Colwood,,British Columbia,CA,48.4321,-123.497,ardac
-BC399,Glenrosa,,British Columbia,CA,49.8472,-119.667,ardac
-BC400,Westside,,British Columbia,CA,49.8822,-119.535,ardac
-BC401,Alkali Lake,,British Columbia,CA,51.788,-122.227,ardac
-BC402,Mansons Landing,,British Columbia,CA,50.0581,-124.98,ardac
-BC403,Moha,,British Columbia,CA,50.8641,-122.17,ardac
-BC404,Owen Bay,,British Columbia,CA,50.3169,-125.214,ardac
-BC405,Springhouse,,British Columbia,CA,51.9667,-122.133,ardac
-BC406,McKearney Ranch,,British Columbia,CA,56.6333,-122.467,ardac
-BC407,Kanaka Bar,,British Columbia,CA,50.1127,-121.561,ardac
-BC408,Midway,,British Columbia,CA,49.0071,-118.773,ardac
-BC409,108 Mile Ranch,,British Columbia,CA,51.7281,-121.351,ardac
-BC410,Bloedel,,British Columbia,CA,50.1167,-125.383,ardac
-BC411,Round Lake,,British Columbia,CA,54.6648,-126.923,ardac
-BC412,Langford,,British Columbia,CA,48.4566,-123.497,ardac
-BC413,Beaverley,,British Columbia,CA,53.8172,-122.881,ardac
-BC414,Arras,,British Columbia,CA,55.7535,-120.526,ardac
-BC415,Sion,,British Columbia,CA,49.0207,-118.484,ardac
-BC416,Trail,,British Columbia,CA,49.1,-117.7,ardac
-BC417,Shuswap Falls,,British Columbia,CA,50.294,-118.805,ardac
-BC418,Cedarside,,British Columbia,CA,52.7823,-119.25,ardac
-BC419,Port Alberni,,British Columbia,CA,49.2417,-124.8,ardac
-BC420,Brew Bay,,British Columbia,CA,49.7758,-124.371,ardac
-BC421,Port Hardy,,British Columbia,CA,50.7189,-127.507,ardac
-BC422,Goose Bay,,British Columbia,CA,51.38,-127.657,ardac
-BC423,Mooyah Bay,,British Columbia,CA,49.6295,-126.458,ardac
-BC424,Iskut,,British Columbia,CA,57.8466,-129.983,"ardac,ncr"
-BC425,Kootenay Bay,,British Columbia,CA,49.6849,-116.866,ardac
-BC426,Fireside,,British Columbia,CA,59.6705,-127.136,"ardac,ncr"
-BC427,Christian Valley,,British Columbia,CA,49.5513,-118.802,ardac
-BC428,Vermilion Crossing,,British Columbia,CA,51.0333,-115.983,ardac
-BC429,Deer Park,,British Columbia,CA,49.4167,-118.05,ardac
-BC430,Chilanko Forks,,British Columbia,CA,52.1199,-124.061,ardac
-BC431,Heydon Bay,,British Columbia,CA,50.5781,-125.576,ardac
-BC432,North Vancouver,,British Columbia,CA,49.3142,-123.067,ardac
-BC433,Crescent Spur,,British Columbia,CA,53.5717,-120.695,ardac
-BC434,Minstrel Island,,British Columbia,CA,50.6154,-126.308,ardac
-BC435,Eddontenajon,,British Columbia,CA,57.8221,-129.958,"ardac,ncr"
-BC436,Pinchi,,British Columbia,CA,54.5706,-124.493,ardac
-BC437,Attachie,,British Columbia,CA,56.2205,-121.423,ardac
-BC438,Black Point,,British Columbia,CA,49.774,-124.394,ardac
-BC439,Salmon Arm,,British Columbia,CA,50.7,-119.267,ardac
-BC440,Anglemont,,British Columbia,CA,50.9667,-119.167,ardac
-BC441,Decker Lake,,British Columbia,CA,54.3,-125.833,ardac
-BC442,New Aiyansh,,British Columbia,CA,55.2003,-129.072,ardac
-BC443,Atlin,,British Columbia,CA,59.5679,-133.697,"ardac,ncr"
-BC444,Fort Fraser,,British Columbia,CA,54.06,-124.55,ardac
-BC445,Nak'azdli,,British Columbia,CA,54.4309,-124.248,ardac
-BC446,Balfour,,British Columbia,CA,49.6283,-116.972,ardac
-BC447,Kitseguecla,,British Columbia,CA,55.0857,-127.818,ardac
-BC448,Sandon,,British Columbia,CA,49.9833,-117.233,ardac
-BC449,Hope,,British Columbia,CA,49.3802,-121.43,ardac
-BC450,Ferguson,,British Columbia,CA,50.6833,-117.483,ardac
-BC451,Holberg,,British Columbia,CA,50.6623,-128.011,ardac
-BC452,Sechelt,,British Columbia,CA,49.4794,-123.762,ardac
-BC453,Skidegate,,British Columbia,CA,53.2715,-131.988,ardac
-BC454,Lake Errock,,British Columbia,CA,49.2291,-122.012,ardac
-BC455,Namgis,,British Columbia,CA,50.5919,-126.944,ardac
-BC456,Barriere,,British Columbia,CA,51.1819,-120.133,ardac
-BC457,Tumbler Ridge,,British Columbia,CA,55.1333,-121.0,ardac
-BC458,Cranbrook,,British Columbia,CA,49.5155,-115.759,ardac
-BC459,Hudson's Hope,,British Columbia,CA,56.0319,-121.907,ardac
-BC460,Horseshoe Bay,,British Columbia,CA,49.3674,-123.273,ardac
-BC461,Saltair,,British Columbia,CA,48.9571,-123.774,ardac
-BC462,Shulus,,British Columbia,CA,50.1373,-120.853,ardac
-BC463,Boring Ranch,,British Columbia,CA,56.95,-122.7,ardac
-BC464,Gillies Bay,,British Columbia,CA,49.6833,-124.483,ardac
-BC465,Renata,,British Columbia,CA,49.4268,-118.107,ardac
-BC466,Colleymount,,British Columbia,CA,54.0333,-126.15,ardac
-BC467,Dawsons Landing,,British Columbia,CA,51.5805,-127.586,ardac
-BC468,Hilliers,,British Columbia,CA,49.3068,-124.483,ardac
-BC469,Clairmont,,British Columbia,CA,56.2559,-120.9,ardac
-BC470,Summerland,,British Columbia,CA,49.6054,-119.673,ardac
-BC471,Tintagel,,British Columbia,CA,54.2029,-125.593,ardac
-BC472,Heriot Bay,,British Columbia,CA,50.1002,-125.213,ardac
-BC473,Mitchell Bay,,British Columbia,CA,50.6333,-126.85,ardac
-BC474,Smithers,,British Columbia,CA,54.7825,-127.166,ardac
-BC475,Genelle,,British Columbia,CA,49.2139,-117.691,ardac
-BC476,Twidwell Bend,,British Columbia,CA,55.6155,-121.571,ardac
-BC477,Oak Bay,,British Columbia,CA,48.4301,-123.309,ardac
-BC478,Middle River,,British Columbia,CA,54.8761,-125.13,ardac
-BC479,Lone Butte,,British Columbia,CA,51.5579,-121.216,ardac
-BC480,Yekooche,,British Columbia,CA,54.5992,-125.072,ardac
-BC481,Prince Rupert,,British Columbia,CA,54.315,-130.315,ardac
-BC482,Baldy Hughes,,British Columbia,CA,53.6246,-122.933,ardac
-BC483,Nanoose Bay,,British Columbia,CA,49.2667,-124.2,ardac
-BC484,Quathiaski Cove,,British Columbia,CA,50.0454,-125.21,ardac
-BC485,Whistler,,British Columbia,CA,50.1215,-122.962,ardac
-BC486,Bulkley House,,British Columbia,CA,55.703,-126.228,ardac
-BC487,Madeira Park,,British Columbia,CA,49.6157,-124.02,ardac
-BC488,Campbell River,,British Columbia,CA,50.0167,-125.242,ardac
-BC489,Woss,,British Columbia,CA,50.2167,-126.6,ardac
-BC490,Invermere,,British Columbia,CA,50.5007,-116.038,ardac
-BC491,Darfield,,British Columbia,CA,51.3,-120.183,ardac
-BC492,Deroche,,British Columbia,CA,49.1914,-122.081,ardac
-BC493,Fort St. John,,British Columbia,CA,56.2461,-120.845,ardac
-BC494,Cecil Lake,,British Columbia,CA,56.306,-120.577,ardac
-BC495,Quesnel,,British Columbia,CA,52.9806,-122.504,ardac
-BC496,Osland,,British Columbia,CA,54.1333,-130.167,ardac
-BC497,Manson Creek,,British Columbia,CA,55.6667,-124.483,ardac
-BC498,Pemberton,,British Columbia,CA,50.3167,-122.8,ardac
-BC499,Penny,,British Columbia,CA,53.8474,-121.284,ardac
-BC500,Canal Flats,,British Columbia,CA,50.1576,-115.817,ardac
-BC501,Carmi,,British Columbia,CA,49.5009,-119.122,ardac
-BC502,Kemano,,British Columbia,CA,53.5573,-127.933,ardac
-BC503,Erie,,British Columbia,CA,49.1912,-117.337,ardac
-BC504,Cowichan Bay,,British Columbia,CA,48.7371,-123.62,ardac
-BC505,Broman Lake,,British Columbia,CA,54.4203,-126.135,ardac
-BC506,Murrayville,,British Columbia,CA,49.0904,-122.616,ardac
-BC507,Coldwater,,British Columbia,CA,50.0358,-120.859,ardac
-BC508,Terrace,,British Columbia,CA,54.5234,-128.598,ardac
-BC509,Mill Bay,,British Columbia,CA,48.6449,-123.556,ardac
-BC510,Whaletown,,British Columbia,CA,50.1012,-125.047,ardac
-BC511,Taylor,,British Columbia,CA,56.1544,-120.68,ardac
-BC512,Weewanie,,British Columbia,CA,53.6917,-128.79,ardac
-BC513,Castlegar,,British Columbia,CA,49.3218,-117.66,ardac
-BC514,Kleena Kleene,,British Columbia,CA,51.9504,-124.847,ardac
-BC515,Woodsdale,,British Columbia,CA,50.0495,-119.39,ardac
-BC516,Manning Park,,British Columbia,CA,49.0668,-120.782,ardac
-BC517,Fern Ridge,,British Columbia,CA,49.0483,-122.656,ardac
-BC518,Kamloops,,British Columbia,CA,50.6783,-120.348,ardac
-BC519,Wilson Landing,,British Columbia,CA,49.9821,-119.497,ardac
-BC520,Caycuse,,British Columbia,CA,48.8943,-124.366,ardac
-BC521,McLeese Lake,,British Columbia,CA,52.4137,-122.296,ardac
-BC522,Grantham,,British Columbia,CA,49.7628,-125.021,ardac
-BC523,Beatton Ranch,,British Columbia,CA,56.7333,-122.583,ardac
-BC524,Fauquier,,British Columbia,CA,49.8667,-118.067,ardac
-BC525,Oyster River,,British Columbia,CA,49.8738,-125.129,ardac
-BC526,Kuskonook,,British Columbia,CA,49.3,-116.65,ardac
-BC527,Nicholson,,British Columbia,CA,51.2481,-116.901,ardac
-BC528,Sunningdale,,British Columbia,CA,49.1167,-117.717,ardac
-BC529,Nelson,,British Columbia,CA,49.4975,-117.282,ardac
-BC530,Chamiss Bay,,British Columbia,CA,50.0694,-127.287,ardac
-BC531,Ladner,,British Columbia,CA,49.0917,-123.078,ardac
-BC532,Tseshaht,,British Columbia,CA,49.268,-124.858,ardac
-BC533,Metchosin,,British Columbia,CA,48.3756,-123.529,ardac
-BC534,Saratoga Beach,,British Columbia,CA,49.8595,-125.116,ardac
-BC535,Boston Bar,,British Columbia,CA,49.8624,-121.443,ardac
-BC536,Skuppah,,British Columbia,CA,50.1885,-121.578,ardac
-BC537,Bamfield,,British Columbia,CA,48.8312,-125.133,ardac
-BC538,Anmore,,British Columbia,CA,49.3115,-122.849,ardac
-BC539,Snug Cove,,British Columbia,CA,49.3829,-123.336,ardac
-BC540,Wadhams,,British Columbia,CA,51.5171,-127.519,ardac
-BC541,Brisco,,British Columbia,CA,50.8333,-116.267,ardac
-BC542,Buick,,British Columbia,CA,56.7625,-121.27,ardac
-BC543,Hartley Bay,,British Columbia,CA,53.4203,-129.256,ardac
-BC544,Ranchero,,British Columbia,CA,50.657,-119.198,ardac
-BC545,Coldstream,,British Columbia,CA,50.2292,-119.227,ardac
-BC546,Clo-oose,,British Columbia,CA,48.6629,-124.822,ardac
-BC547,Loos,,British Columbia,CA,53.6021,-120.719,ardac
-BC548,Swartz Bay,,British Columbia,CA,48.6827,-123.413,ardac
-BC549,Cedarvale,,British Columbia,CA,55.0194,-128.329,ardac
-BC550,Homalco,,British Columbia,CA,49.9526,-125.243,ardac
-BC551,Brentwood Bay,,British Columbia,CA,48.5683,-123.456,ardac
-BC552,Tzeachten,,British Columbia,CA,49.115,-121.939,ardac
-BC553,Victoria,,British Columbia,CA,48.4334,-123.362,ardac
-BC554,Moresby Camp,,British Columbia,CA,53.0475,-132.029,ardac
-BC555,Roberts Creek,,British Columbia,CA,49.426,-123.646,ardac
-BC556,Lantzville,,British Columbia,CA,49.2532,-124.082,ardac
-BC557,Greenwood,,British Columbia,CA,49.0949,-118.676,ardac
-BC558,Stewart,,British Columbia,CA,55.9418,-129.984,"ardac,ncr"
-BC559,Takla Landing,,British Columbia,CA,55.483,-125.974,ardac
-BC560,70 Mile House,,British Columbia,CA,51.3084,-121.396,ardac
-BC561,Windermere,,British Columbia,CA,50.4667,-115.983,ardac
-BC562,Perow,,British Columbia,CA,54.5202,-126.44,ardac
-BC563,Yuquot,,British Columbia,CA,49.5957,-126.624,ardac
-BC564,Sinclair Mills,,British Columbia,CA,54.0167,-121.683,ardac
-BC565,Retallack,,British Columbia,CA,50.0414,-117.14,ardac
-BC566,Cumberland,,British Columbia,CA,49.622,-125.026,ardac
-BC567,Dolphin Beach,,British Columbia,CA,49.2884,-124.147,ardac
-BC568,Creston,,British Columbia,CA,49.1006,-116.507,ardac
-BC569,Baynes Lake,,British Columbia,CA,49.2333,-115.217,ardac
-BC570,Lower Post,,British Columbia,CA,59.9249,-128.486,"ardac,ncr"
-BC571,Skookumchuck,,British Columbia,CA,49.943,-122.408,ardac
-BC572,Harrison Mills,,British Columbia,CA,49.2559,-121.949,ardac
-BC573,Langley,,British Columbia,CA,49.1038,-122.659,ardac
-BC574,Gold Bridge,,British Columbia,CA,50.85,-122.833,ardac
-BC575,Monte Creek,,British Columbia,CA,50.6487,-119.958,ardac
-BC576,Marktosis,,British Columbia,CA,49.2786,-126.058,ardac
-BC577,Masset,,British Columbia,CA,54.0174,-132.147,ardac
-BC578,Sturdies Bay,,British Columbia,CA,48.8792,-123.319,ardac
-BC579,Telegraph Creek,,British Columbia,CA,57.9018,-131.166,"ardac,ncr"
-BC580,Shelter Point,,British Columbia,CA,49.9403,-125.191,ardac
-BC581,Westmount,,British Columbia,CA,49.3439,-123.209,ardac
-BC582,McLeod Lake,,British Columbia,CA,54.985,-123.047,ardac
-BC583,Nass Camp,,British Columbia,CA,55.2884,-129.006,ardac
-BC584,Alert Bay,,British Columbia,CA,50.5789,-126.92,ardac
-BC585,Ganges,,British Columbia,CA,48.8599,-123.507,ardac
-BC586,Hullcar,,British Columbia,CA,50.503,-119.27,ardac
-BC587,Van Anda,,British Columbia,CA,49.7583,-124.55,ardac
-BC588,Sumas,,British Columbia,CA,49.0531,-122.193,ardac
-BC589,McDame,,British Columbia,CA,59.1856,-129.225,"ardac,ncr"
-BC590,West Popkum,,British Columbia,CA,49.1822,-121.773,ardac
-BC591,Simpson Ranch,,British Columbia,CA,56.6,-122.433,ardac
-BC592,Shelley,,British Columbia,CA,54.0,-122.617,ardac
-BC593,River Jordan,,British Columbia,CA,48.4221,-124.05,ardac
-BC594,D'Arcy,,British Columbia,CA,50.55,-122.483,ardac
-BC595,Lax Kw'alaams,,British Columbia,CA,54.55,-130.433,ardac
-BC596,Fernie,,British Columbia,CA,49.5068,-115.069,ardac
-BC597,Sayward,,British Columbia,CA,50.377,-125.952,ardac
-BC598,Harrop,,British Columbia,CA,49.6016,-117.053,ardac
-BC599,Field,,British Columbia,CA,51.3945,-116.482,ardac
-BC600,Tuwanek,,British Columbia,CA,49.5442,-123.757,ardac
-BC601,Blackwater,,British Columbia,CA,53.2875,-123.151,ardac
-BC602,Lower Nicola,,British Columbia,CA,50.1597,-120.878,ardac
-BC603,Big Bay,,British Columbia,CA,50.3972,-125.135,ardac
-BC604,Elk Bay,,British Columbia,CA,50.2856,-125.436,ardac
-BC605,Lac Le Jeune,,British Columbia,CA,50.4817,-120.493,ardac
-BC606,Fairmont Hot Springs,,British Columbia,CA,50.3349,-115.856,ardac
-BC607,Douglas,,British Columbia,CA,49.0028,-122.736,ardac
-BC608,Zeballos,,British Columbia,CA,49.987,-126.847,ardac
-BC609,Juskatla,,British Columbia,CA,53.6102,-132.311,ardac
-BC610,Little River,,British Columbia,CA,49.7377,-124.914,ardac
-BC611,Port McNeill,,British Columbia,CA,50.586,-127.079,ardac
-BC612,Fort St. James,,British Columbia,CA,54.4487,-124.256,ardac
-BC613,McBride,,British Columbia,CA,53.3,-120.167,ardac
-BC614,Bennett,,British Columbia,CA,59.8451,-134.987,"ardac,ncr"
-BC615,Mirror Lake,,British Columbia,CA,49.8829,-116.902,ardac
-BC616,Enderby,,British Columbia,CA,50.5549,-119.141,ardac
-BC617,Pitt Meadows,,British Columbia,CA,49.2172,-122.686,ardac
-BC618,Farmington,,British Columbia,CA,55.9,-120.5,ardac
-BC619,Sliammon,,British Columbia,CA,49.8962,-124.601,ardac
-BC620,Klemtu,,British Columbia,CA,52.5904,-128.527,ardac
-BC621,Chemainus,,British Columbia,CA,48.9266,-123.721,ardac
-BC622,Earls Cove,,British Columbia,CA,49.75,-124.0,ardac
-BC623,Granisle,,British Columbia,CA,54.8844,-126.213,ardac
-BC624,Delkatla,,British Columbia,CA,54.0086,-132.129,ardac
-BC625,Edgewood,,British Columbia,CA,49.7833,-118.15,ardac
-BC626,Kaslo,,British Columbia,CA,49.9086,-116.911,ardac
-BC627,Metlakatla,,British Columbia,CA,54.3375,-130.443,ardac
-BC628,Allison Lake,,British Columbia,CA,49.6889,-120.601,ardac
-BC629,Port Washington,,British Columbia,CA,48.8166,-123.321,ardac
-BC630,Black Creek,,British Columbia,CA,49.8369,-125.132,ardac
-BC631,Usk,,British Columbia,CA,54.6333,-128.417,ardac
-BC632,Duck Range,,British Columbia,CA,50.6192,-119.83,ardac
-BC633,Namu,,British Columbia,CA,51.8613,-127.86,ardac
-BC634,Hasler Flat,,British Columbia,CA,55.6111,-121.967,ardac
-BC635,Cranberry,,British Columbia,CA,49.8702,-124.523,ardac
-BC636,Snake River,,British Columbia,CA,59.0364,-122.439,ardac
-BC637,Cherryville,,British Columbia,CA,50.2407,-118.621,ardac
-BC638,Remo,,British Columbia,CA,54.5007,-128.719,ardac
-BC639,Kingcome,,British Columbia,CA,50.9742,-126.175,ardac
-BC640,Giscome,,British Columbia,CA,54.0667,-122.367,ardac
-BC641,Two Mile,,British Columbia,CA,55.2687,-127.627,ardac
-BC642,Hunts Inlet,,British Columbia,CA,54.0668,-130.443,ardac
-BC643,Robson,,British Columbia,CA,49.3375,-117.691,ardac
-BC644,Willow River,,British Columbia,CA,54.0787,-122.474,ardac
-BC645,Blind Channel,,British Columbia,CA,50.4167,-125.5,ardac
-BC646,Sparwood,,British Columbia,CA,49.7326,-114.892,ardac
-BC647,Toosey,,British Columbia,CA,51.9323,-122.506,ardac
-BC648,Paterson,,British Columbia,CA,49.0067,-117.831,ardac
-BC649,Duncan,,British Columbia,CA,48.7789,-123.702,ardac
-BC650,Hixon,,British Columbia,CA,53.4204,-122.586,ardac
-BC651,Wardner,,British Columbia,CA,49.417,-115.429,ardac
-BC652,Pinantan Lake,,British Columbia,CA,50.7264,-120.036,ardac
-BC653,Garden Bay,,British Columbia,CA,49.6366,-124.034,ardac
-BC654,Musgrave Landing,,British Columbia,CA,48.7511,-123.546,ardac
-BC655,Rumble Beach,,British Columbia,CA,50.4265,-127.482,ardac
-BC656,Elko,,British Columbia,CA,49.3012,-115.111,ardac
-BC657,Canyon Hot Springs,,British Columbia,CA,51.1369,-117.852,ardac
-BC658,Deep Cove,,British Columbia,CA,49.3232,-122.948,ardac
-BC659,North Bend,,British Columbia,CA,49.8833,-121.45,ardac
-BC660,Armstrong,,British Columbia,CA,50.4461,-119.199,ardac
-BC661,Esquimalt,,British Columbia,CA,48.4289,-123.408,ardac
-BC662,Endako,,British Columbia,CA,54.0875,-125.017,ardac
-BC663,Radium Hot Springs,,British Columbia,CA,50.623,-116.08,ardac
 BC664,100 Mile House,,British Columbia,CA,51.6391,-121.294,ardac
-BC665,Mapes,,British Columbia,CA,53.8833,-123.867,ardac
-BC666,Pleasantside,,British Columbia,CA,49.2934,-122.847,ardac
-BC667,Procter,,British Columbia,CA,49.6156,-116.956,ardac
-BC668,Seaford,,British Columbia,CA,50.0833,-124.9,ardac
-BC669,Malakwa,,British Columbia,CA,50.94,-118.789,ardac
-BC670,Alexis Creek,,British Columbia,CA,52.0833,-123.283,ardac
-BC671,Canyon,,British Columbia,CA,49.0813,-116.443,ardac
-BC672,Fort Steele,,British Columbia,CA,49.6169,-115.626,ardac
-BC673,Gwa'Sala- Nakwaxda'xw,,British Columbia,CA,50.7333,-127.5,ardac
-BC674,Saltery Bay,,British Columbia,CA,49.7833,-124.183,ardac
-BC675,Dunster,,British Columbia,CA,53.127,-119.839,ardac
-BC676,Bridesville,,British Columbia,CA,49.0358,-119.142,ardac
-BC677,40 Mile Flats,,British Columbia,CA,57.9363,-130.05,"ardac,ncr"
-BC678,Hedley,,British Columbia,CA,49.3604,-120.072,ardac
-BC679,Ootischenia,,British Columbia,CA,49.2833,-117.633,ardac
-BC680,Hagwilget,,British Columbia,CA,55.2546,-127.596,ardac
-BC681,Gibsons,,British Columbia,CA,49.4018,-123.514,ardac
-BC682,Welcome Beach,,British Columbia,CA,49.48,-123.894,ardac
-BC683,Soowahlie,,British Columbia,CA,49.0814,-121.963,ardac
-BC684,Vavenby,,British Columbia,CA,51.5858,-119.726,ardac
-BC685,Bold Point,,British Columbia,CA,50.1732,-125.156,ardac
-BC686,Likely,,British Columbia,CA,52.6187,-121.565,ardac
-BC687,Dundarave,,British Columbia,CA,49.338,-123.181,ardac
-BC688,Kitkatla,,British Columbia,CA,53.7922,-130.433,ardac
-BC689,South Hazelton,,British Columbia,CA,55.2375,-127.659,ardac
-BC690,Fort Langley,,British Columbia,CA,49.1667,-122.583,ardac
-BC691,Dry Gulch,,British Columbia,CA,50.5842,-116.041,ardac
-BC692,Departure Bay,,British Columbia,CA,49.2054,-123.975,ardac
-BC693,Lillooet,,British Columbia,CA,50.6941,-121.939,ardac
-BC694,Mesachie Lake,,British Columbia,CA,48.8124,-124.125,ardac
-BC695,Jaffray,,British Columbia,CA,49.3744,-115.3,ardac
-BC696,Kitsault,,British Columbia,CA,55.4558,-129.471,ardac
-BC697,Golden,,British Columbia,CA,51.2949,-116.964,ardac
-BC698,Vanderhoof,,British Columbia,CA,54.0175,-124.002,ardac
-BC699,Red Bluff,,British Columbia,CA,52.9654,-122.461,ardac
-BC700,Port Edward,,British Columbia,CA,54.2224,-130.288,ardac
-BC701,Ocean Falls,,British Columbia,CA,52.3472,-127.689,ardac
-BC702,Promontory,,British Columbia,CA,49.1006,-121.937,ardac
-BC703,Yarrow,,British Columbia,CA,49.0833,-122.05,ardac
-BC704,Sardis,,British Columbia,CA,49.1367,-121.959,ardac
-BC705,Lardeau,,British Columbia,CA,50.143,-116.956,ardac
-BC706,Vernon,,British Columbia,CA,50.2642,-119.269,ardac
-BC707,Campbell Creek,,British Columbia,CA,50.654,-120.085,ardac
-BC708,Beaton,,British Columbia,CA,50.7333,-117.733,ardac
-BC709,Logan Lake,,British Columbia,CA,50.4913,-120.813,ardac
-BC710,Okanagan Falls,,British Columbia,CA,49.3428,-119.571,ardac
-BC711,Moricetown,,British Columbia,CA,55.0183,-127.331,ardac
-BC712,Revelstoke,,British Columbia,CA,51.0012,-118.196,ardac
-BC713,Siska,,British Columbia,CA,50.1386,-121.571,ardac
-BC714,Kitimat,,British Columbia,CA,54.051,-128.651,ardac
-BC715,Haig,,British Columbia,CA,49.3967,-121.453,ardac
-BC716,Whistler Creek,,British Columbia,CA,50.0935,-122.993,ardac
-BC717,Pavilion,,British Columbia,CA,50.8833,-121.833,ardac
-BC718,Warfield,,British Columbia,CA,49.0945,-117.749,ardac
-BC719,Fruitvale,,British Columbia,CA,49.1139,-117.548,ardac
-BC720,Mara,,British Columbia,CA,50.6853,-119.067,ardac
-BC721,Taghum,,British Columbia,CA,49.4934,-117.399,ardac
-BC722,Lawnhill,,British Columbia,CA,53.4036,-131.922,ardac
-BC723,Gold River,,British Columbia,CA,49.7807,-126.052,ardac
-BC724,Lax̱g̱altsʼap,,British Columbia,CA,55.0306,-129.575,ardac
-BC725,Ardmore,,British Columbia,CA,48.6389,-123.467,ardac
-BC726,Kakawis,,British Columbia,CA,49.189,-125.911,ardac
-BC727,Hazelton,,British Columbia,CA,55.2546,-127.676,ardac
-BC728,Cawston,,British Columbia,CA,49.1802,-119.764,ardac
-BC729,Chase,,British Columbia,CA,50.8221,-119.688,ardac
-BC730,Bear Flat,,British Columbia,CA,56.274,-121.231,ardac
-BC731,Echo Bay,,British Columbia,CA,50.7485,-126.494,ardac
-BC732,Ladysmith,,British Columbia,CA,48.9926,-123.82,ardac
-BC733,Kitsumkalum,,British Columbia,CA,54.5245,-128.672,ardac
-BC734,Kitchener,,British Columbia,CA,49.1567,-116.339,ardac
-BC735,Parson,,British Columbia,CA,51.0708,-116.632,ardac
-BC736,Sunshine Valley,,British Columbia,CA,49.2727,-121.239,ardac
-BC737,Skidegate Landing,,British Columbia,CA,53.2472,-132.008,ardac
-BC738,Southbank,,British Columbia,CA,54.0212,-125.771,ardac
-BC739,Burns Lake,,British Columbia,CA,54.2314,-125.76,ardac
-BC740,Dunsmuir,,British Columbia,CA,49.3881,-124.609,ardac
-BC741,Delbrook,,British Columbia,CA,49.343,-123.085,ardac
-BC742,Dallas,,British Columbia,CA,50.6667,-120.167,ardac
-BC743,Lake Cowichan,,British Columbia,CA,48.8261,-124.052,ardac
-BC744,Houston,,British Columbia,CA,54.397,-126.652,ardac
-BC745,Savona,,British Columbia,CA,50.7511,-120.841,ardac
-BC746,Bella Coola,,British Columbia,CA,52.3706,-126.752,ardac
-BC747,Bowser,,British Columbia,CA,49.4387,-124.685,ardac
-BC748,Kispiox,,British Columbia,CA,55.3503,-127.691,ardac
-BC749,Esperanza,,British Columbia,CA,49.8713,-126.738,ardac
-BC750,Shady Valley,,British Columbia,CA,53.9793,-122.727,ardac
-BC751,Blackpool,,British Columbia,CA,51.5969,-120.12,ardac
-BC752,Westbank,,British Columbia,CA,49.8286,-119.631,ardac
-BC753,Wilmer,,British Columbia,CA,50.5426,-116.063,ardac
-BC754,Laidlaw,,British Columbia,CA,49.3223,-121.618,ardac
-BC755,Tseycum,,British Columbia,CA,48.6645,-123.448,ardac
-BC756,Youbou,,British Columbia,CA,48.8726,-124.199,ardac
-BC757,Pendleton Bay,,British Columbia,CA,54.5167,-125.717,ardac
-BC758,Ashton Creek,,British Columbia,CA,50.556,-119.013,ardac
-BC759,Fraser Lake,,British Columbia,CA,54.0583,-124.847,ardac
-BC760,Danskin,,British Columbia,CA,53.9889,-125.792,ardac
-BC761,Willow Valley,,British Columbia,CA,55.8563,-120.872,ardac
-BC762,Meadow Creek,,British Columbia,CA,50.2392,-116.973,ardac
-BC763,Seymour Heights,,British Columbia,CA,49.3192,-123.002,ardac
-BC764,Sikanni Chief,,British Columbia,CA,57.2346,-122.695,ardac
-BC765,Caesars,,British Columbia,CA,50.0667,-119.5,ardac
-BC766,Crofton,,British Columbia,CA,48.8632,-123.643,ardac
-BC767,Good Hope Lake,,British Columbia,CA,59.2936,-129.289,"ardac,ncr"
-BC768,Whyac,,British Columbia,CA,48.6691,-124.846,ardac
-BC769,Refuge Cove,,British Columbia,CA,50.1238,-124.836,ardac
-BC770,Marysville,,British Columbia,CA,49.6373,-115.956,ardac
-BC771,Tofino,,British Columbia,CA,49.1505,-125.906,ardac
-BC772,Maple Ridge,,British Columbia,CA,49.2174,-122.598,ardac
-BC773,Traders Cove,,British Columbia,CA,49.9361,-119.504,ardac
-BC774,Tsay Keh Dene,,British Columbia,CA,56.8918,-124.963,"ardac,ncr"
-BC775,Clinton,,British Columbia,CA,51.0942,-121.587,ardac
-BC776,Port Clements,,British Columbia,CA,53.6852,-132.179,ardac
-BC777,Osoyoos,,British Columbia,CA,49.0311,-119.465,ardac
-BC778,Bliss Landing,,British Columbia,CA,50.0366,-124.816,ardac
-BC779,Kyuquot,,British Columbia,CA,50.0281,-127.377,ardac
-BC780,Beaverdell,,British Columbia,CA,49.4368,-119.089,ardac
-BC781,New Denver,,British Columbia,CA,49.9917,-117.374,ardac
-BC782,150 Mile House,,British Columbia,CA,52.1147,-121.935,ardac
-BC783,Sicamous,,British Columbia,CA,50.835,-118.98,ardac
-BC784,Telegraph Cove,,British Columbia,CA,50.5457,-126.828,ardac
-BC785,Towdystan,,British Columbia,CA,52.2634,-125.087,ardac
-BC786,Cinema,,British Columbia,CA,53.2333,-122.45,ardac
-BC787,Nakusp,,British Columbia,CA,50.2418,-117.799,ardac
-BC788,Kingcome Inlet,,British Columbia,CA,50.95,-126.2,ardac
-BC789,Sooke,,British Columbia,CA,48.3823,-123.728,ardac
-BC790,Courtenay,,British Columbia,CA,49.6889,-124.999,ardac
-BC791,Boston Flats,,British Columbia,CA,50.7699,-121.304,ardac
-BC792,Jade City,,British Columbia,CA,59.2469,-129.655,"ardac,ncr"
-BC793,Spillimacheen,,British Columbia,CA,50.9072,-116.364,ardac
-BC794,Ashcroft,,British Columbia,CA,50.721,-121.28,ardac
-BC795,Hollyburn,,British Columbia,CA,49.3324,-123.163,ardac
-BC796,Honeymoon Bay,,British Columbia,CA,48.815,-124.173,ardac
-BC797,Ocean Grove,,British Columbia,CA,49.9524,-125.202,ardac
-BC798,Tranquille,,British Columbia,CA,50.72,-120.521,ardac
-BC799,Huntingdon,,British Columbia,CA,49.0051,-122.266,ardac
-BC800,Brookmere,,British Columbia,CA,49.8181,-120.875,ardac
-BC801,Opitsat,,British Columbia,CA,49.1751,-125.912,ardac
-BC802,Dogwood Valley,,British Columbia,CA,49.4845,-121.425,ardac
-BC803,Anzac,,British Columbia,CA,54.7667,-122.5,ardac
-BC804,Salmo,,British Columbia,CA,49.1916,-117.277,ardac
-BC805,Walhachin,,British Columbia,CA,50.7515,-120.991,ardac
-BC806,Kimberley,,British Columbia,CA,49.6871,-115.983,ardac
-BC807,Oyama,,British Columbia,CA,50.1111,-119.368,ardac
-BC808,Nanaimo,,British Columbia,CA,49.1659,-123.939,ardac
-BC809,Oliver,,British Columbia,CA,49.1826,-119.553,ardac
-BC810,Caulfeild,,British Columbia,CA,49.3416,-123.26,ardac
-BC811,Wycliffe,,British Columbia,CA,49.6013,-115.861,ardac
-BC812,White Rock,,British Columbia,CA,49.0252,-122.796,ardac
-BC813,Sorrento,,British Columbia,CA,50.8782,-119.467,ardac
-BC814,Alpine Meadows,,British Columbia,CA,50.15,-122.967,ardac
-BC815,Eastgate,,British Columbia,CA,49.1375,-120.612,ardac
-BC816,Britannia Beach,,British Columbia,CA,49.628,-123.204,ardac
-BC817,Celista,,British Columbia,CA,50.9444,-119.349,ardac
-BC818,Ta Ta Creek,,British Columbia,CA,49.7833,-115.783,ardac
-BC819,Redstone,,British Columbia,CA,52.1333,-123.7,ardac
-BC820,Spuzzum,,British Columbia,CA,49.6886,-121.417,ardac
-BC821,Stellako,,British Columbia,CA,54.0622,-124.903,ardac
-BC822,Glenemma,,British Columbia,CA,50.4694,-119.352,ardac
-BC823,Lavington,,British Columbia,CA,50.2313,-119.107,ardac
-BC824,Mayne,,British Columbia,CA,48.8501,-123.297,ardac
-BC825,Kaleden,,British Columbia,CA,49.3928,-119.596,ardac
-BC826,Trout Lake,,British Columbia,CA,50.6472,-117.539,ardac
-BC827,Gitwinksihlkw,,British Columbia,CA,55.1937,-129.219,ardac
-BC828,Crawford Bay,,British Columbia,CA,49.6766,-116.822,ardac
-BC829,Coalmont,,British Columbia,CA,49.5089,-120.695,ardac
-BC830,Semiahmoo,,British Columbia,CA,49.0126,-122.766,ardac
-BC831,Soda Creek,,British Columbia,CA,52.3275,-122.275,ardac
-BC832,Rolla,,British Columbia,CA,55.8986,-120.143,ardac
-BC833,Kingsgate,,British Columbia,CA,49.0024,-116.178,ardac
-BC834,Ellison,,British Columbia,CA,49.9363,-119.358,ardac
-BC835,Dorreen,,British Columbia,CA,54.8389,-128.346,ardac
-BC836,Westbridge,,British Columbia,CA,49.1715,-118.975,ardac
-BC837,Prespatou,,British Columbia,CA,56.9223,-121.063,ardac
-BC838,Cokato,,British Columbia,CA,49.4667,-115.067,ardac
-BC839,Lasqueti,,British Columbia,CA,49.4918,-124.347,ardac
-BC840,Langdale,,British Columbia,CA,49.4341,-123.477,ardac
-BC841,Glen Vowell,,British Columbia,CA,55.3135,-127.677,ardac
-BC842,Christina Lake,,British Columbia,CA,49.0392,-118.216,ardac
-BC843,Fort Nelson,,British Columbia,CA,58.8056,-122.697,ardac
-BC844,Rosedale,,British Columbia,CA,49.182,-121.804,ardac
-BC845,Magna Bay,,British Columbia,CA,50.9618,-119.284,ardac
-BC846,Howser,,British Columbia,CA,50.3,-116.95,ardac
-BC847,Ainsworth Hot Springs,,British Columbia,CA,49.7343,-116.913,ardac
-BC848,Germansen Landing,,British Columbia,CA,55.7833,-124.7,ardac
-BC849,Rutland,,British Columbia,CA,49.8883,-119.391,ardac
-BC850,Tappen,,British Columbia,CA,50.784,-119.331,ardac
-BC851,Sewall,,British Columbia,CA,53.7625,-132.298,ardac
-BC852,Hosmer,,British Columbia,CA,49.5897,-114.964,ardac
-BC853,Grindrod,,British Columbia,CA,50.6276,-119.123,ardac
-BC854,Bonnet Hill,,British Columbia,CA,53.9,-122.617,ardac
-BC855,Dease Lake,,British Columbia,CA,58.4394,-129.996,"ardac,ncr"
-BC856,Rayleigh,,British Columbia,CA,50.7974,-120.32,ardac
-BC857,New Hazelton,,British Columbia,CA,55.2466,-127.586,ardac
-BC858,Rock Creek,,British Columbia,CA,49.0596,-118.999,ardac
-BC859,Annis,,British Columbia,CA,50.7907,-119.082,ardac
-BC860,Rose Harbour,,British Columbia,CA,52.1477,-131.085,ardac
-BC861,Bella Bella,,British Columbia,CA,52.1639,-128.144,ardac
-BC862,Buckhorn,,British Columbia,CA,53.7942,-122.655,ardac
-BC863,Heffley Creek,,British Columbia,CA,50.8583,-120.271,ardac
-BC864,Shearwater,,British Columbia,CA,52.1466,-128.092,ardac
-BC865,Forest Grove,,British Columbia,CA,51.7667,-121.1,ardac
-BC866,Cache Creek,,British Columbia,CA,50.8119,-121.323,ardac
-BC867,Wildwood,,British Columbia,CA,49.891,-124.557,ardac
-BC868,Keremeos,,British Columbia,CA,49.2064,-119.826,ardac
-BC869,Albreda,,British Columbia,CA,52.6375,-119.162,ardac
-BC870,Yale,,British Columbia,CA,49.5632,-121.43,ardac
-BC871,Durieu,,British Columbia,CA,49.2175,-122.235,ardac
-BC872,Lund,,British Columbia,CA,49.9818,-124.757,ardac
-BC873,Avola,,British Columbia,CA,51.7812,-119.323,ardac
-BC874,Kitamaat Village,,British Columbia,CA,53.9737,-128.647,ardac
-BC875,Stoner,,British Columbia,CA,53.6291,-122.662,ardac
-BC876,Tachie,,British Columbia,CA,54.6548,-124.758,ardac
-BC877,Qualicum Beach,,British Columbia,CA,49.3475,-124.442,ardac
-BC878,Lynn Valley,,British Columbia,CA,49.3416,-123.033,ardac
-BC879,Chehalis,,British Columbia,CA,49.2918,-121.911,ardac
-BC880,Harrison Hot Springs,,British Columbia,CA,49.3,-121.783,ardac
-BC881,Dodge Cove,,British Columbia,CA,54.2878,-130.387,ardac
-BC882,Dawson Creek,,British Columbia,CA,55.7595,-120.235,ardac
-BC883,Krestova,,British Columbia,CA,49.4447,-117.582,ardac
-BC884,Silver River,,British Columbia,CA,49.5756,-121.818,ardac
-BC885,French Creek,,British Columbia,CA,49.3471,-124.36,ardac
-BC886,Montrose,,British Columbia,CA,49.0788,-117.591,ardac
-BC887,Slocan,,British Columbia,CA,49.7667,-117.467,ardac
-BC888,Sidney,,British Columbia,CA,48.65,-123.4,ardac
-BC889,Raspberry,,British Columbia,CA,49.3358,-117.657,ardac
-BC890,Rossland,,British Columbia,CA,49.0775,-117.801,ardac
-BC891,McCulloch,,British Columbia,CA,49.7948,-119.19,ardac
-BC892,Bell II,,British Columbia,CA,56.7444,-129.794,ardac
-BC893,Glade,,British Columbia,CA,49.3964,-117.535,ardac
-BC894,Wonowon,,British Columbia,CA,56.7288,-121.814,ardac
-BC895,Comox,,British Columbia,CA,49.6739,-124.928,ardac
-BC896,Burton,,British Columbia,CA,49.9856,-117.88,ardac
-BC897,Maple Bay,,British Columbia,CA,48.8158,-123.613,ardac
-BC898,Tsawout,,British Columbia,CA,48.588,-123.387,ardac
-BC899,Coombs,,British Columbia,CA,49.3044,-124.418,ardac
-BC900,South Shalalth,,British Columbia,CA,50.7288,-122.244,ardac
-BC901,Lazo,,British Columbia,CA,49.7139,-124.909,ardac
-BC902,Bonnington Falls,,British Columbia,CA,49.4667,-117.483,ardac
-BC903,Bell Acres,,British Columbia,CA,49.078,-121.866,ardac
-BC904,Zamora,,British Columbia,CA,49.15,-118.983,ardac
-BC905,Brilliant,,British Columbia,CA,49.3217,-117.643,ardac
-BC906,Cascade,,British Columbia,CA,49.0187,-118.207,ardac
-BC907,Donnely Landing,,British Columbia,CA,49.625,-124.043,ardac
-BC908,Steamboat,,British Columbia,CA,58.6756,-123.712,ardac
-BC909,Merritt,,British Columbia,CA,50.1114,-120.79,ardac
-BC910,Gingolx,,British Columbia,CA,54.9944,-129.954,ardac
-BC911,Canoe,,British Columbia,CA,50.7515,-119.227,ardac
-BC912,Groundbirch,,British Columbia,CA,55.78,-120.923,ardac
-BC913,Moyie,,British Columbia,CA,49.2888,-115.832,ardac
-BC914,Lytton,,British Columbia,CA,50.2316,-121.583,ardac
-BC915,Royston,,British Columbia,CA,49.6454,-124.945,ardac
-BC916,Westsyde,,British Columbia,CA,50.7637,-120.348,ardac
-BC917,Ksan,,British Columbia,CA,55.2497,-127.678,ardac
-BC918,Tulameen,,British Columbia,CA,49.5458,-120.758,ardac
-BC919,Deep Bay,,British Columbia,CA,49.4642,-124.725,ardac
-BC920,Barnhartvale,,British Columbia,CA,50.6505,-120.17,ardac
-BC921,Fulford Harbour,,British Columbia,CA,48.7706,-123.45,ardac
-BC922,Ymir,,British Columbia,CA,49.2833,-117.217,ardac
-BC923,Rosebery,,British Columbia,CA,50.0333,-117.411,ardac
-BC924,Altona,,British Columbia,CA,56.8775,-120.954,ardac
-BC925,Meziadin Junction,,British Columbia,CA,56.0997,-129.305,ardac
-BC926,Nahun,,British Columbia,CA,50.0833,-119.5,ardac
-BC927,Edgewater,,British Columbia,CA,50.7,-116.133,ardac
-BC928,Shirley,,British Columbia,CA,48.3898,-123.904,ardac
-BC929,Sunnybrae,,British Columbia,CA,50.7732,-119.27,ardac
-BC930,Lumby,,British Columbia,CA,50.25,-118.967,ardac
-BC931,Merville,,British Columbia,CA,49.7848,-125.057,ardac
-BC932,Wells,,British Columbia,CA,53.1041,-121.571,ardac
-BC933,Telkwa,,British Columbia,CA,54.6972,-127.05,ardac
-BC934,Topley,,British Columbia,CA,54.5068,-126.301,ardac
-BC935,Anahim Lake,,British Columbia,CA,52.4614,-125.303,ardac
-BC936,Thornhill,,British Columbia,CA,54.5125,-128.54,ardac
-BC937,Hatzic Island,,British Columbia,CA,49.1624,-122.236,ardac
-BC938,Rich Bar,,British Columbia,CA,52.9149,-122.456,ardac
-BC939,Yaculta,,British Columbia,CA,50.0217,-125.195,ardac
-BC940,Old Town,,British Columbia,CA,49.55,-115.967,ardac
-BC941,Shoreacres,,British Columbia,CA,49.4307,-117.527,ardac
-BC942,Bear Lake,,British Columbia,CA,54.4959,-122.679,ardac
-BC943,Clayhurst,,British Columbia,CA,56.1868,-120.03,ardac
-BC944,Fraser,,British Columbia,CA,59.7159,-135.049,"ardac,ncr"
-BC945,Hydraulic,,British Columbia,CA,52.6148,-121.707,ardac
-BC946,Union Bay,,British Columbia,CA,49.5802,-124.885,ardac
-BC947,Weneez,,British Columbia,CA,53.9677,-123.98,ardac
-BC948,Riondel,,British Columbia,CA,49.7618,-116.856,ardac
-BC949,Marshall School Junction,,British Columbia,CA,49.7111,-124.509,ardac
-BC950,Shawnigan Lake,,British Columbia,CA,48.6535,-123.622,ardac
-BC951,Kilkerran,,British Columbia,CA,55.8395,-120.272,ardac
-BC952,Seven Mile Corner,,British Columbia,CA,55.8976,-120.324,ardac
-BC953,Red Rock,,British Columbia,CA,53.6886,-122.671,ardac
-BC954,Errington,,British Columbia,CA,49.2889,-124.37,ardac
-BC955,Egmont,,British Columbia,CA,49.75,-123.933,ardac
-BC956,Kinnaird,,British Columbia,CA,49.2834,-117.651,ardac
-BC957,Olalla,,British Columbia,CA,49.2634,-119.829,ardac
-BC958,Little Fort,,British Columbia,CA,51.4249,-120.207,ardac
-BC959,Lions Bay,,British Columbia,CA,49.4591,-123.236,ardac
-BC960,Cassidy,,British Columbia,CA,49.05,-123.883,ardac
-BC961,Kitwanga,,British Columbia,CA,55.1,-128.067,ardac
-BC962,Silverton,,British Columbia,CA,49.9528,-117.358,ardac
-BC963,Pleasant Camp,,British Columbia,CA,59.4546,-136.365,"ardac,ncr"
-BC964,Westholme,,British Columbia,CA,48.8667,-123.7,ardac
-BC965,Montney,,British Columbia,CA,56.4503,-120.926,ardac
-BC966,Wynndel,,British Columbia,CA,49.18,-116.552,ardac
-BC967,Extension,,British Columbia,CA,49.1005,-123.958,ardac
-BC968,Cottonwood,,British Columbia,CA,53.0522,-122.156,ardac
-BC969,Spences Bridge,,British Columbia,CA,50.4234,-121.344,ardac
-BC970,Bessborough,,British Columbia,CA,55.8109,-120.506,ardac
-BC971,Hemlock Valley,,British Columbia,CA,49.3769,-121.935,ardac
-BC972,Falkland,,British Columbia,CA,50.5009,-119.557,ardac
-BC973,Agassiz,,British Columbia,CA,49.2333,-121.767,ardac
-BC974,Clearbrook,,British Columbia,CA,49.05,-122.333,ardac
-BC975,Winter Harbour,,British Columbia,CA,50.5167,-128.033,ardac
-BC976,Sointula,,British Columbia,CA,50.6333,-127.017,ardac
-BC977,Horsefly,,British Columbia,CA,52.3333,-121.417,ardac
-BC978,Noralee,,British Columbia,CA,53.9833,-126.433,ardac
-BC979,Esler,,British Columbia,CA,52.1042,-122.184,ardac
-BC980,Goodlow,,British Columbia,CA,56.3336,-120.136,ardac
-BC981,Brackendale,,British Columbia,CA,49.7667,-123.15,ardac
 BC982,103 Mile,,British Columbia,CA,51.689,-121.314,ardac
 BC983,105 Mile House,,British Columbia,CA,51.7069,-121.331,ardac
+BC409,108 Mile Ranch,,British Columbia,CA,51.7281,-121.351,ardac
 BC984,122 Mile House,,British Columbia,CA,51.8483,-121.599,ardac
 BC985,141 Mile House,,British Columbia,CA,51.994,-121.846,ardac
+BC782,150 Mile House,,British Columbia,CA,52.1147,-121.935,ardac
+BC677,40 Mile Flats,,British Columbia,CA,57.9363,-130.05,"ardac,ncr"
+BC560,70 Mile House,,British Columbia,CA,51.3084,-121.396,ardac
+BC29,93 Mile,,British Columbia,CA,51.5748,-121.341,ardac
+BC170,Abbotsford,,British Columbia,CA,49.0477,-122.27,ardac
+BC68,Aberdeen,,British Columbia,CA,49.0503,-122.411,ardac
+BC70,Adams Lake,,British Columbia,CA,50.7366,-119.321,ardac
+BC1040,Adams Lake Marine Park,,BC,CA,51.1809,-119.5743,ardac
+BC1041,Adams Lake Park - Bush Creek Site,,BC,CA,50.9876,-119.726,ardac
+BC973,Agassiz,,British Columbia,CA,49.2333,-121.767,ardac
 BC986,Ahousat,,British Columbia,CA,49.2842,-126.074,ardac
+BC847,Ainsworth Hot Springs,,British Columbia,CA,49.7343,-116.913,ardac
 BC987,Akisqnuk,,British Columbia,CA,50.4512,-115.96,ardac
+BC1042,Alaksen National Wildlife Area,,BC,CA,49.1003,-123.1728,ardac
+BC275,Albert Head,,British Columbia,CA,48.3911,-123.503,ardac
+BC869,Albreda,,British Columbia,CA,52.6375,-119.162,ardac
+BC300,Aldergrove,,British Columbia,CA,49.0576,-122.471,ardac
+BC584,Alert Bay,,British Columbia,CA,50.5789,-126.92,ardac
+BC1043,Alexandra Bridge Park,,BC,CA,49.7055,-121.4069,ardac
+BC670,Alexis Creek,,British Columbia,CA,52.0833,-123.283,ardac
+BC370,Aleza Lake,,British Columbia,CA,54.1143,-122.034,ardac
+BC1044,Aleza Lake Ecological Reserve,,BC,CA,54.0819,-122.1013,ardac
+BC352,Alice Arm,,British Columbia,CA,55.4728,-129.478,ardac
+BC1045,Alice Lake Park,,BC,CA,49.7822,-123.1175,ardac
+BC401,Alkali Lake,,British Columbia,CA,51.788,-122.227,ardac
+BC1046,Allison Harbour Marine Park,,BC,CA,51.0512,-127.5027,ardac
+BC628,Allison Lake,,British Columbia,CA,49.6889,-120.601,ardac
+BC1047,Allison Lake Park,,BC,CA,49.6827,-120.6034,ardac
+BC814,Alpine Meadows,,British Columbia,CA,50.15,-122.967,ardac
+BC924,Altona,,British Columbia,CA,56.8775,-120.954,ardac
+BC1048,Ambrose Lake Ecological Reserve,,BC,CA,49.7313,-124.0221,ardac
+BC935,Anahim Lake,,British Columbia,CA,52.4614,-125.303,ardac
+BC1049,Anarchist Protected Area,,BC,CA,49.0576,-119.4201,ardac
+BC1050,Anderson Bay Park,,BC,CA,49.5132,-124.1355,ardac
+BC1051,Anderson Flats Park,,BC,CA,55.2441,-127.6651,ardac
+BC440,Anglemont,,British Columbia,CA,50.9667,-119.167,ardac
+BC538,Anmore,,British Columbia,CA,49.3115,-122.849,ardac
+BC1052,Anne Vallee (Triangle Island) Ecological Reserve,,BC,CA,50.8625,-129.083,ardac
+BC859,Annis,,British Columbia,CA,50.7907,-119.082,ardac
+BC803,Anzac,,British Columbia,CA,54.7667,-122.5,ardac
+BC35,Apex Mountain Resort,,British Columbia,CA,49.3942,-119.907,ardac
+BC1053,Apodaca Park,,BC,CA,49.3546,-123.3403,ardac
+BC1054,Arbutus Grove Park,,BC,CA,49.2488,-124.151,ardac
+BC62,Arbutus Ridge,,British Columbia,CA,48.6933,-123.54,ardac
+BC725,Ardmore,,British Columbia,CA,48.6389,-123.467,ardac
+BC185,Argenta,,British Columbia,CA,50.1667,-116.917,ardac
+BC660,Armstrong,,British Columbia,CA,50.4461,-119.199,ardac
+BC414,Arras,,British Columbia,CA,55.7535,-120.526,ardac
+BC1055,Arrow Lakes Park,,BC,CA,50.0194,-118.0328,ardac
+BC1056,Artlish Caves Park,,BC,CA,50.1392,-126.9058,ardac
+BC794,Ashcroft,,British Columbia,CA,50.721,-121.28,ardac
+BC758,Ashton Creek,,British Columbia,CA,50.556,-119.013,ardac
+BC443,Atlin,,British Columbia,CA,59.5679,-133.697,"ardac,ncr"
+BC437,Attachie,,British Columbia,CA,56.2205,-121.423,ardac
+BC873,Avola,,British Columbia,CA,51.7812,-119.323,ardac
+BC1057,Babine Lake Marine Park,,BC,CA,54.675,-125.8915,ardac
+BC1058,Baeria Rocks Ecological Reserve,,BC,CA,48.9533,-125.1536,ardac
+BC86,Baker Creek,,British Columbia,CA,52.9274,-123.017,ardac
 BC988,Baker Trails,,British Columbia,CA,49.0854,-121.927,ardac
+BC482,Baldy Hughes,,British Columbia,CA,53.6246,-122.933,ardac
+BC446,Balfour,,British Columbia,CA,49.6283,-116.972,ardac
+BC1059,Ballingall Islets Ecological Reserve,,BC,CA,48.907,-123.4591,ardac
+BC39,Balmoral,,British Columbia,CA,50.8531,-119.355,ardac
+BC1060,Bamberton Park,,BC,CA,48.606,-123.5271,ardac
+BC537,Bamfield,,British Columbia,CA,48.8312,-125.133,ardac
+BC1061,Banana Island Park,,BC,CA,50.7264,-119.7713,ardac
 BC989,Bankeir,,British Columbia,CA,49.7107,-120.225,ardac
+BC1062,Barkerville Park,,BC,CA,53.0877,-121.5133,ardac
+BC210,Barlow Creek,,British Columbia,CA,53.023,-122.445,ardac
 BC990,Barney's Bar,,British Columbia,CA,49.7845,-124.444,ardac
+BC920,Barnhartvale,,British Columbia,CA,50.6505,-120.17,ardac
+BC297,Barrett Lake,,British Columbia,CA,54.45,-126.75,ardac
+BC456,Barriere,,British Columbia,CA,51.1819,-120.133,ardac
+BC1063,Baynes Island Ecological Reserve,,BC,CA,49.7723,-123.1742,ardac
+BC569,Baynes Lake,,British Columbia,CA,49.2333,-115.217,ardac
 BC991,Bear Camp,,British Columbia,CA,59.9167,-136.8,"ardac,ncr"
+BC23,Bear Creek,,British Columbia,CA,49.529,-121.761,ardac
+BC1064,Bear Creek Park,,BC,CA,49.9295,-119.5198,ardac
+BC730,Bear Flat,,British Columbia,CA,56.274,-121.231,ardac
+BC1065,Bear Glacier Park,,BC,CA,56.0983,-129.6725,ardac
+BC1066,Bear Island Conservancy,,BC,CA,54.9253,-126.2546,ardac
+BC942,Bear Lake,,British Columbia,CA,54.4959,-122.679,ardac
+BC708,Beaton,,British Columbia,CA,50.7333,-117.733,ardac
+BC1067,Beatton Park,,BC,CA,56.3262,-120.9433,ardac
+BC523,Beatton Ranch,,British Columbia,CA,56.7333,-122.583,ardac
+BC1068,Beatton River Park,,BC,CA,56.1002,-120.3769,ardac
+BC1069,Beaumont Park,,BC,CA,54.0562,-124.6162,ardac
+BC1070,Beaver Creek Park,,BC,CA,49.0615,-117.6116,ardac
+BC1071,Beaver Point Park,,BC,CA,48.7707,-123.4027,ardac
+BC780,Beaverdell,,British Columbia,CA,49.4368,-119.089,ardac
+BC413,Beaverley,,British Columbia,CA,53.8172,-122.881,ardac
+BC1072,Bedard Aspen Park,,BC,CA,50.6635,-121.5109,ardac
+BC1073,Bednesti Lake Ecological Reserve,,BC,CA,53.8612,-123.4457,ardac
+BC56,Beecher Bay,,British Columbia,CA,48.3367,-123.609,ardac
+BC376,Belcarra,,British Columbia,CA,49.3182,-122.928,ardac
+BC903,Bell Acres,,British Columbia,CA,49.078,-121.866,ardac
+BC892,Bell II,,British Columbia,CA,56.7444,-129.794,ardac
+BC861,Bella Bella,,British Columbia,CA,52.1639,-128.144,ardac
+BC746,Bella Coola,,British Columbia,CA,52.3706,-126.752,ardac
+BC1074,Bella Coola Estuary Conservancy,,BC,CA,52.381,-126.7728,ardac
+BC1075,Bellhouse Park,,BC,CA,48.8722,-123.3119,ardac
+BC614,Bennett,,British Columbia,CA,59.8451,-134.987,"ardac,ncr"
+BC1076,Beresford Island Ecological Reserve,,BC,CA,50.79,-128.7754,ardac
+BC970,Bessborough,,British Columbia,CA,55.8109,-120.506,ardac
+BC156,Big Bar Creek,,British Columbia,CA,51.1829,-122.117,ardac
+BC1077,Big Bar Lake Park,,BC,CA,51.311,-121.8145,ardac
+BC603,Big Bay,,British Columbia,CA,50.3972,-125.135,ardac
+BC1078,Big Bunsby Marine Park,,BC,CA,50.1079,-127.5103,ardac
+BC1079,Big Creek Ecological Reserve,,BC,CA,51.8362,-122.6982,ardac
+BC228,Big Lake Ranch,,British Columbia,CA,52.4049,-121.876,ardac
 BC992,Big White,,British Columbia,CA,49.7214,-118.94,ardac
+BC1080,Big White Mountain Ecological Reserve,,BC,CA,49.7582,-118.9365,ardac
+BC1081,Bijoux Falls Park,,BC,CA,55.3124,-122.6689,ardac
+BC26,Birch Island,,British Columbia,CA,51.5971,-119.91,ardac
 BC993,Birchdale,,British Columbia,CA,50.0344,-116.874,ardac
+BC265,Birken,,British Columbia,CA,50.4833,-122.617,ardac
+BC1082,Bishop Bay - Monkey Beach Corridor Conservancy,,BC,CA,53.4863,-128.9657,ardac
+BC630,Black Creek,,British Columbia,CA,49.8369,-125.132,ardac
+BC188,Black Pines,,British Columbia,CA,50.9339,-120.258,ardac
+BC438,Black Point,,British Columbia,CA,49.774,-124.394,ardac
+BC1083,Blackcomb Glacier Park,,BC,CA,50.0941,-122.8732,ardac
+BC751,Blackpool,,British Columbia,CA,51.5969,-120.12,ardac
+BC601,Blackwater,,British Columbia,CA,53.2875,-123.151,ardac
+BC1084,Blackwater Creek Ecological Reserve,,BC,CA,55.5597,-123.6435,ardac
+BC354,Blaeberry,,British Columbia,CA,51.4333,-117.067,ardac
+BC1085,Blanket Creek Park,,BC,CA,50.833,-118.083,ardac
+BC371,Blind Bay,,British Columbia,CA,50.8833,-119.383,ardac
+BC645,Blind Channel,,British Columbia,CA,50.4167,-125.5,ardac
+BC778,Bliss Landing,,British Columbia,CA,50.0366,-124.816,ardac
+BC410,Bloedel,,British Columbia,CA,50.1167,-125.383,ardac
+BC344,Blowhole,,British Columbia,CA,49.8292,-126.676,ardac
+BC1086,Blue Earth Lake Park,,BC,CA,50.5992,-121.5061,ardac
+BC299,Blue River,,British Columbia,CA,52.1061,-119.306,ardac
+BC1087,Blue River Black Spruce Park,,BC,CA,52.1382,-119.2738,ardac
+BC1088,Blue River Pine Park,,BC,CA,52.1139,-119.289,ardac
 BC994,Blue Springs,,British Columbia,CA,50.25,-118.85,ardac
+BC1089,Blue/Dease Rivers Ecological Reserve,,BC,CA,59.871,-129.2353,ardac
+BC112,Blueberry Creek,,British Columbia,CA,49.246,-117.659,ardac
+BC127,Blueberry River,,British Columbia,CA,56.7035,-121.114,ardac
+BC278,Boat Basin,,British Columbia,CA,49.4792,-126.425,ardac
+BC340,Bob Quinn Lake,,British Columbia,CA,56.9722,-130.247,ardac
+BC1090,Bodega Ridge Park,,BC,CA,48.9579,-123.5326,ardac
+BC685,Bold Point,,British Columbia,CA,50.1732,-125.156,ardac
+BC71,Bonaparte,,British Columbia,CA,50.8383,-121.378,ardac
+BC854,Bonnet Hill,,British Columbia,CA,53.9,-122.617,ardac
+BC902,Bonnington Falls,,British Columbia,CA,49.4667,-117.483,ardac
+BC1091,Boothman's Oxbow Park,,BC,CA,49.0146,-118.3546,ardac
+BC217,Boothroyd,,British Columbia,CA,49.9638,-121.485,ardac
+BC1092,Border Lake Park,,BC,CA,56.354,-130.7141,ardac
+BC463,Boring Ranch,,British Columbia,CA,56.95,-122.7,ardac
+BC535,Boston Bar,,British Columbia,CA,49.8624,-121.443,ardac
+BC791,Boston Flats,,British Columbia,CA,50.7699,-121.304,ardac
+BC342,Boswell,,British Columbia,CA,49.4503,-116.764,ardac
+BC246,Bouchie Lake,,British Columbia,CA,53.0262,-122.597,ardac
+BC1093,Boulder Creek Park,,BC,CA,55.1068,-127.43,ardac
+BC1094,Boundary Bay Wildlife Management Area,,BC,CA,49.0562,-123.0185,ardac
+BC1095,Boundary Creek Park,,BC,CA,49.058,-118.6959,ardac
+BC1096,Bowen Island Ecological Reserve,,BC,CA,49.3589,-123.359,ardac
+BC747,Bowser,,British Columbia,CA,49.4387,-124.685,ardac
+BC1097,Bowser Ecological Reserve,,BC,CA,49.4408,-124.7411,ardac
+BC1098,Boyle Point Park,,BC,CA,49.4799,-124.6987,ardac
+BC981,Brackendale,,British Columbia,CA,49.7667,-123.15,ardac
+BC1099,Brackendale Eagles Park,,BC,CA,49.7564,-123.1664,ardac
 BC995,Brady Ranch,,British Columbia,CA,56.8333,-122.633,ardac
+BC258,Braeloch,,British Columbia,CA,49.7833,-119.517,ardac
+BC1100,Brandywine Falls Park,,BC,CA,50.0334,-123.1188,ardac
+BC393,Brem River,,British Columbia,CA,50.4392,-124.671,ardac
+BC551,Brentwood Bay,,British Columbia,CA,48.5683,-123.456,ardac
+BC420,Brew Bay,,British Columbia,CA,49.7758,-124.371,ardac
+BC1101,Bridal Veil Falls Park,,BC,CA,49.1821,-121.7414,ardac
+BC676,Bridesville,,British Columbia,CA,49.0358,-119.142,ardac
+BC199,Bridge Lake,,British Columbia,CA,51.4786,-120.726,ardac
+BC1102,Bridge Lake Park,,BC,CA,51.4903,-120.6969,ardac
+BC59,Bridge River,,British Columbia,CA,50.7808,-121.975,ardac
+BC1103,Bright Angel Park,,BC,CA,48.7353,-123.6794,ardac
+BC905,Brilliant,,British Columbia,CA,49.3217,-117.643,ardac
+BC1104,Brim River Hot Springs Protected Area,,BC,CA,53.5201,-128.3567,ardac
+BC541,Brisco,,British Columbia,CA,50.8333,-116.267,ardac
+BC816,Britannia Beach,,British Columbia,CA,49.628,-123.204,ardac
+BC505,Broman Lake,,British Columbia,CA,54.4203,-126.135,ardac
+BC1105,Bromley Rock Park,,BC,CA,49.415,-120.2617,ardac
+BC800,Brookmere,,British Columbia,CA,49.8181,-120.875,ardac
+BC264,Brookswood,,British Columbia,CA,49.0718,-122.666,ardac
+BC239,Brouse,,British Columbia,CA,50.2167,-117.75,ardac
+BC1106,Browne Lake Ecological Reserve,,BC,CA,49.8227,-119.1988,ardac
+BC1107,Browne Lake Park,,BC,CA,49.8234,-119.1887,ardac
+BC1108,Buccaneer Bay Park,,BC,CA,49.495,-123.9908,ardac
+BC1109,Buck Hills Road Ecological Reserve,,BC,CA,50.1492,-118.9864,ardac
+BC862,Buckhorn,,British Columbia,CA,53.7942,-122.655,ardac
+BC126,Buckinghorse River,,British Columbia,CA,57.3901,-122.842,ardac
+BC1110,Buckinghorse River Way Park,,BC,CA,57.3848,-122.8411,ardac
+BC367,Buckley Bay,,British Columbia,CA,49.5333,-124.857,ardac
+BC542,Buick,,British Columbia,CA,56.7625,-121.27,ardac
+BC486,Bulkley House,,British Columbia,CA,55.703,-126.228,ardac
+BC1111,Bulkley Junction Park,,BC,CA,55.2354,-127.678,ardac
+BC1112,Bull Canyon Park,,BC,CA,52.0916,-123.3768,ardac
+BC391,Bull Harbour,,British Columbia,CA,50.9177,-127.931,ardac
+BC76,Bull River,,British Columbia,CA,49.4701,-115.448,ardac
+BC1113,Burges and James Gadsen Park,,BC,CA,51.4075,-117.0548,ardac
+BC1114,Burgoyne Bay Park,,BC,CA,48.785,-123.5171,ardac
+BC345,Burnaby,,British Columbia,CA,49.2521,-122.962,ardac
+BC739,Burns Lake,,British Columbia,CA,54.2314,-125.76,ardac
+BC1115,Burns Lake Park,,BC,CA,54.1996,-125.7217,ardac
+BC1116,Burnt Cabin Bog Ecological Reserve,,BC,CA,54.7502,-126.9084,ardac
+BC117,Burrard,,British Columbia,CA,49.3099,-122.978,ardac
+BC896,Burton,,British Columbia,CA,49.9856,-117.88,ardac
+BC1117,Buse Lake Protected Area,,BC,CA,50.6151,-120.0307,ardac
+BC359,Butedale,,British Columbia,CA,53.15,-128.7,ardac
+BC1118,Byers/Conroy/Harvey/Sinnett Islands Ecological Reserve,,BC,CA,52.5286,-129.3788,ardac
+BC866,Cache Creek,,British Columbia,CA,50.8119,-121.323,ardac
+BC765,Caesars,,British Columbia,CA,50.0667,-119.5,ardac
+BC124,Cahilty,,British Columbia,CA,50.95,-120.017,ardac
+BC1119,Caligata Lake Park,,BC,CA,51.7408,-119.8362,ardac
+BC1120,Call Lake Park,,BC,CA,54.7642,-127.0915,ardac
+BC1121,Campbell Brown (Kalamalka Lake) Ecological Reserve,,BC,CA,50.158,-119.3747,ardac
+BC707,Campbell Creek,,British Columbia,CA,50.654,-120.085,ardac
+BC488,Campbell River,,British Columbia,CA,50.0167,-125.242,ardac
+BC500,Canal Flats,,British Columbia,CA,50.1576,-115.817,ardac
+BC1122,Canal Flats Park,,BC,CA,50.1782,-115.8189,ardac
+BC1123,Canim Beach Park,,BC,CA,51.8257,-120.8698,ardac
+BC196,Canim Lake,,British Columbia,CA,51.7726,-120.986,ardac
+BC911,Canoe,,British Columbia,CA,50.7515,-119.227,ardac
+BC1124,Canoe Islets Ecological Reserve,,BC,CA,49.0277,-123.5882,ardac
+BC671,Canyon,,British Columbia,CA,49.0813,-116.443,ardac
+BC657,Canyon Hot Springs,,British Columbia,CA,51.1369,-117.852,ardac
+BC134,Cape Mudge,,British Columbia,CA,50.0214,-125.293,ardac
+BC1125,Cardiff Mountain Ecological Reserve,,BC,CA,51.4875,-123.7674,ardac
+BC1126,Cariboo Nature Park,,BC,CA,51.8814,-121.664,ardac
+BC501,Carmi,,British Columbia,CA,49.5009,-119.122,ardac
 BC996,Carrolls Landing,,British Columbia,CA,50.0333,-117.9,ardac
+BC1127,Carter Bay Conservancy,,BC,CA,52.8368,-128.3826,ardac
+BC906,Cascade,,British Columbia,CA,49.0187,-118.207,ardac
+BC960,Cassidy,,British Columbia,CA,49.05,-123.883,ardac
+BC1128,Castle Rock Hoodoos Park,,BC,CA,51.1133,-120.8743,ardac
+BC513,Castlegar,,British Columbia,CA,49.3218,-117.66,ardac
+BC1129,Catala Island Marine Park,,BC,CA,49.8379,-127.0518,ardac
+BC1130,Cathedral Protected Area,,BC,CA,49.135,-120.1095,ardac
+BC1131,Catherine Creek Ecological Reserve,,BC,CA,55.2012,-127.4431,ardac
+BC810,Caulfeild,,British Columbia,CA,49.3416,-123.26,ardac
+BC728,Cawston,,British Columbia,CA,49.1802,-119.764,ardac
+BC520,Caycuse,,British Columbia,CA,48.8943,-124.366,ardac
+BC247,Cayoose Creek,,British Columbia,CA,50.6721,-121.932,ardac
+BC494,Cecil Lake,,British Columbia,CA,56.306,-120.577,ardac
+BC1132,Cecil Lake Ecological Reserve,,BC,CA,56.3992,-120.5246,ardac
+BC314,Cedar,,British Columbia,CA,49.1043,-123.854,ardac
+BC1133,Cedar Point Park,,BC,CA,52.5769,-121.5377,ardac
+BC418,Cedarside,,British Columbia,CA,52.7823,-119.25,ardac
+BC549,Cedarvale,,British Columbia,CA,55.0194,-128.329,ardac
+BC377,Ceepeecee,,British Columbia,CA,49.8732,-126.711,ardac
+BC817,Celista,,British Columbia,CA,50.9444,-119.349,ardac
+BC190,Central Saanich,,British Columbia,CA,48.5669,-123.397,ardac
+BC1134,Cetan/Thurston Bay Conservancy,,BC,CA,50.3701,-125.3168,ardac
+BC530,Chamiss Bay,,British Columbia,CA,50.0694,-127.287,ardac
+BC1135,Charlie Cole Creek Ecological Reserve,,BC,CA,59.4175,-131.8945,ardac
+BC211,Charlie Lake,,British Columbia,CA,56.2974,-120.985,ardac
+BC1136,Charlie Lake Park,,BC,CA,56.3113,-120.9961,ardac
+BC729,Chase,,British Columbia,CA,50.8221,-119.688,ardac
+BC176,Chasm,,British Columbia,CA,51.2167,-121.483,ardac
+BC1137,Chasm Ecological Reserve,,BC,CA,51.2262,-121.4977,ardac
+BC379,Cheam,,British Columbia,CA,49.1942,-121.776,ardac
+BC1138,Checleset Bay Ecological Reserve,,BC,CA,50.1033,-127.555,ardac
+BC879,Chehalis,,British Columbia,CA,49.2918,-121.911,ardac
+BC621,Chemainus,,British Columbia,CA,48.9266,-123.721,ardac
+BC1139,Chemainus River Park,,BC,CA,48.8407,-123.8254,ardac
+BC372,Cherry Creek,,British Columbia,CA,49.2827,-124.787,ardac
+BC230,Cherry Point,,British Columbia,CA,48.7277,-123.584,ardac
+BC637,Cherryville,,British Columbia,CA,50.2407,-118.621,ardac
+BC49,Cheslatta,,British Columbia,CA,53.8167,-125.8,ardac
 BC997,Cheslatta Carrier,,British Columbia,CA,54.0014,-125.708,ardac
+BC350,Chetwynd,,British Columbia,CA,55.6949,-121.619,ardac
+BC149,Chezacut,,British Columbia,CA,52.3993,-124.028,ardac
+BC1140,Chickens Neck Mountain Ecological Reserve,,BC,CA,58.9259,-129.9301,ardac
+BC1141,Chilako River Ecological Reserve,,BC,CA,53.5422,-123.9619,ardac
+BC430,Chilanko Forks,,British Columbia,CA,52.1199,-124.061,ardac
+BC1142,Chilanko Marsh Wildlife Management Area,,BC,CA,52.1071,-124.139,ardac
+BC257,Chilliwack,,British Columbia,CA,49.175,-121.942,ardac
+BC1143,Chilliwack River Ecological Reserve,,BC,CA,49.0061,-121.4127,ardac
+BC1144,Chilliwack River Park,,BC,CA,49.0792,-121.8869,ardac
+BC42,Chinook Cove,,British Columbia,CA,51.2333,-120.167,ardac
+BC1145,Choquette Hot Springs Park,,BC,CA,56.8329,-131.7567,ardac
+BC427,Christian Valley,,British Columbia,CA,49.5513,-118.802,ardac
+BC1146,Christie Islet Migratory Bird Sanctuary,,BC,CA,49.4996,-123.3019,ardac
+BC1147,Christie Memorial Park,,BC,CA,49.3479,-119.574,ardac
+BC842,Christina Lake,,British Columbia,CA,49.0392,-118.216,ardac
+BC1148,Christina Lake Park,,BC,CA,49.0427,-118.2188,ardac
+BC1149,Chu Chua Cottonwood Park,,BC,CA,51.3396,-120.1704,ardac
+BC1150,Chunamon Creek Ecological Reserve,,BC,CA,56.2218,-124.4389,ardac
+BC786,Cinema,,British Columbia,CA,53.2333,-122.45,ardac
+BC1151,Cinema Bog Ecological Reserve,,BC,CA,53.2439,-122.4409,ardac
+BC390,Cinnabar Valley,,British Columbia,CA,49.1033,-123.926,ardac
+BC1152,Cinnemousun Narrows Park,,BC,CA,50.9926,-119.0146,ardac
+BC469,Clairmont,,British Columbia,CA,56.2559,-120.9,ardac
+BC1153,Clanninick Creek Ecological Reserve,,BC,CA,50.0638,-127.3876,ardac
+BC1154,Claud Elliot Creek Ecological Reserve,,BC,CA,50.3249,-126.563,ardac
+BC1155,Claud Elliot Lake Park,,BC,CA,50.3154,-126.5513,ardac
+BC943,Clayhurst,,British Columbia,CA,56.1868,-120.03,ardac
+BC1156,Clayhurst Ecological Reserve,,BC,CA,56.1418,-120.0205,ardac
+BC974,Clearbrook,,British Columbia,CA,49.05,-122.333,ardac
+BC245,Clearwater,,British Columbia,CA,51.65,-120.033,ardac
+BC1157,Cleland Island Ecological Reserve,,BC,CA,49.1713,-126.0913,ardac
 BC998,Clemretta,,British Columbia,CA,54.0038,-126.285,ardac
+BC775,Clinton,,British Columbia,CA,51.0942,-121.587,ardac
+BC546,Clo-oose,,British Columbia,CA,48.6629,-124.822,ardac
+BC1158,Close-To-The-Edge Park,,BC,CA,54.0557,-121.0102,ardac
+BC1159,Close-To-The-Edge Protected Area,,BC,CA,54.0639,-121.0398,ardac
+BC317,Cloverdale,,British Columbia,CA,49.1117,-122.725,ardac
+BC1160,Cluxewe Wildlife Management Area,,BC,CA,50.6143,-127.1956,ardac
+BC1161,Clyak Estuary Conservancy,,BC,CA,51.8867,-127.3557,ardac
+BC34,Coal Harbour,,British Columbia,CA,50.6,-127.583,ardac
+BC103,Coal River,,British Columbia,CA,59.65,-126.933,"ardac,ncr"
+BC829,Coalmont,,British Columbia,CA,49.5089,-120.695,ardac
+BC319,Cobble Hill,,British Columbia,CA,48.6915,-123.585,ardac
+BC1162,Codville Lagoon Marine Park,,BC,CA,52.0608,-127.8494,ardac
+BC1163,Cody Caves Park,,BC,CA,49.7283,-116.9517,ardac
+BC838,Cokato,,British Columbia,CA,49.4667,-115.067,ardac
+BC545,Coldstream,,British Columbia,CA,50.2292,-119.227,ardac
+BC507,Coldwater,,British Columbia,CA,50.0358,-120.859,ardac
+BC1164,Coldwater River Park,,BC,CA,49.7352,-121.0081,ardac
+BC466,Colleymount,,British Columbia,CA,54.0333,-126.15,ardac
+BC1165,Collinson Point Park,,BC,CA,48.8616,-123.3608,ardac
+BC1166,Columbia Lake Ecological Reserve,,BC,CA,50.1991,-115.8235,ardac
+BC1167,Columbia Lake Park,,BC,CA,50.2965,-115.8477,ardac
+BC398,Colwood,,British Columbia,CA,48.4321,-123.497,ardac
+BC95,Commodore Heights,,British Columbia,CA,52.1667,-122.133,ardac
+BC895,Comox,,British Columbia,CA,49.6739,-124.928,ardac
+BC1168,Comox Lake Bluffs Ecological Reserve,,BC,CA,49.6384,-125.1113,ardac
+BC1169,Conkle Lake Park,,BC,CA,49.171,-119.1017,ardac
 BC999,Cook's Ferry,,British Columbia,CA,50.4223,-121.32,ardac
+BC899,Coombs,,British Columbia,CA,49.3044,-124.418,ardac
+BC18,Cooper Creek,,British Columbia,CA,50.2023,-116.963,ardac
+BC1170,Copeland Islands Marine Park,,BC,CA,50.0077,-124.8115,ardac
+BC1171,Coquihalla Canyon Park,,BC,CA,49.3709,-121.3708,ardac
+BC1172,Coquihalla River Park,,BC,CA,49.4617,-121.2608,ardac
+BC153,Coquitlam,,British Columbia,CA,49.2539,-122.849,ardac
+BC1173,Coquitlam River Wildlife Manangement Areas,,BC,CA,49.2259,-122.8033,ardac
+BC1174,Cormorant Channel Marine Park,,BC,CA,50.5851,-126.8397,ardac
+BC1175,Coste Rocks Park,,BC,CA,53.8062,-128.7878,ardac
+BC968,Cottonwood,,British Columbia,CA,53.0522,-122.156,ardac
+BC1176,Cottonwood River Park,,BC,CA,53.1715,-122.4884,ardac
+BC1177,Cougar Canyon Ecological Reserve,,BC,CA,50.1527,-119.3203,ardac
+BC790,Courtenay,,British Columbia,CA,49.6889,-124.999,ardac
+BC80,Cowichan,,British Columbia,CA,48.7688,-123.68,ardac
+BC504,Cowichan Bay,,British Columbia,CA,48.7371,-123.62,ardac
+BC77,Cowichan Station,,British Columbia,CA,48.7294,-123.666,ardac
+BC635,Cranberry,,British Columbia,CA,49.8702,-124.523,ardac
+BC2,Cranberry Junction,,British Columbia,CA,55.5999,-128.5395,ardac
+BC458,Cranbrook,,British Columbia,CA,49.5155,-115.759,ardac
+BC1178,Cranstown Point Conservancy,,BC,CA,51.3685,-127.7685,ardac
+BC828,Crawford Bay,,British Columbia,CA,49.6766,-116.822,ardac
+BC433,Crescent Spur,,British Columbia,CA,53.5717,-120.695,ardac
+BC568,Creston,,British Columbia,CA,49.1006,-116.507,ardac
+BC113,Criss Creek,,British Columbia,CA,51.05,-120.733,ardac
+BC766,Crofton,,British Columbia,CA,48.8632,-123.643,ardac
+BC1179,Crooked River Park,,BC,CA,54.475,-122.6818,ardac
+BC294,Crowsnest,,British Columbia,CA,49.6368,-114.695,ardac
+BC1180,Crowsnest Park,,BC,CA,49.6515,-114.699,ardac
+BC47,Cultus Lake,,British Columbia,CA,49.0714,-121.966,ardac
+BC566,Cumberland,,British Columbia,CA,49.622,-125.026,ardac
+BC1181,Cummins River Protected Area,,BC,CA,52.052,-118.2003,ardac
+BC594,D'Arcy,,British Columbia,CA,50.55,-122.483,ardac
+BC1182,Dala-Kildala Rivers Estuaries Park,,BC,CA,53.834,-128.4979,ardac
+BC1183,Dall River Old Growth Park,,BC,CA,58.6598,-127.7075,ardac
+BC742,Dallas,,British Columbia,CA,50.6667,-120.167,ardac
+BC760,Danskin,,British Columbia,CA,53.9889,-125.792,ardac
+BC491,Darfield,,British Columbia,CA,51.3,-120.183,ardac
+BC386,Dashwood,,British Columbia,CA,49.3621,-124.506,ardac
+BC61,Davis Bay,,British Columbia,CA,49.4453,-123.726,ardac
+BC1184,Davis Lake Park,,BC,CA,49.2967,-122.2396,ardac
+BC1185,Dawley Passage Park,,BC,CA,49.1446,-125.7838,ardac
+BC882,Dawson Creek,,British Columbia,CA,55.7595,-120.235,ardac
+BC467,Dawsons Landing,,British Columbia,CA,51.5805,-127.586,ardac
+BC1186,Dead Man's Island Park,,BC,CA,54.2073,-125.7326,ardac
+BC855,Dease Lake,,British Columbia,CA,58.4394,-129.996,"ardac,ncr"
+BC441,Decker Lake,,British Columbia,CA,54.3,-125.833,ardac
+BC919,Deep Bay,,British Columbia,CA,49.4642,-124.725,ardac
+BC658,Deep Cove,,British Columbia,CA,49.3232,-122.948,ardac
+BC3,Deep Creek,,British Columbia,CA,50.6094,-119.213,ardac
+BC429,Deer Park,,British Columbia,CA,49.4167,-118.05,ardac
 BC1000,Deerholme,,British Columbia,CA,48.7528,-123.758,ardac
+BC142,Deka Lake,,British Columbia,CA,51.6083,-120.85,ardac
+BC741,Delbrook,,British Columbia,CA,49.343,-123.085,ardac
+BC624,Delkatla,,British Columbia,CA,54.0086,-132.129,ardac
+BC1187,Denison-Bonneau Park,,BC,CA,50.1574,-118.7391,ardac
+BC308,Denman Island,,British Columbia,CA,49.5358,-124.813,ardac
+BC692,Departure Bay,,British Columbia,CA,49.2054,-123.975,ardac
+BC492,Deroche,,British Columbia,CA,49.1914,-122.081,ardac
+BC1188,Diana Lake Park,,BC,CA,54.228,-130.1622,ardac
+BC1189,Dionisio Point Park,,BC,CA,49.0058,-123.5746,ardac
+BC1190,Discovery Island Marine Park,,BC,CA,48.424,-123.2367,ardac
+BC268,Ditidaht,,British Columbia,CA,48.8091,-124.67,ardac
+BC1191,Dixie Cove Marine Park,,BC,CA,50.0508,-127.1987,ardac
+BC1192,Doc English Bluff Ecological Reserve,,BC,CA,51.9407,-122.2758,ardac
+BC881,Dodge Cove,,British Columbia,CA,54.2878,-130.387,ardac
+BC65,Dog Creek,,British Columbia,CA,52.0944,-122.114,ardac
+BC802,Dogwood Valley,,British Columbia,CA,49.4845,-121.425,ardac
+BC101,Doig River,,British Columbia,CA,56.5711,-120.494,ardac
 BC1001,Dokie Siding,,British Columbia,CA,55.6625,-121.734,ardac
+BC567,Dolphin Beach,,British Columbia,CA,49.2884,-124.147,ardac
+BC5,Dome Creek,,British Columbia,CA,53.7425,-121.026,ardac
+BC4,Donald,,British Columbia,CA,51.4958,-117.174,ardac
+BC374,Donald Landing,,British Columbia,CA,54.4833,-125.65,ardac
+BC907,Donnely Landing,,British Columbia,CA,49.625,-124.043,ardac
+BC835,Dorreen,,British Columbia,CA,54.8389,-128.346,ardac
+BC607,Douglas,,British Columbia,CA,49.0028,-122.736,ardac
+BC1193,Downing Park,,BC,CA,51.0058,-121.7808,ardac
+BC1194,Drewry Point Park,,BC,CA,49.4151,-116.811,ardac
+BC1195,Driftwood Canyon Park,,BC,CA,54.826,-127.0223,ardac
+BC1196,Drizzle Lake Ecological Reserve,,BC,CA,53.9279,-132.071,ardac
+BC1197,Drumbeg Park,,BC,CA,49.1341,-123.6966,ardac
+BC691,Dry Gulch,,British Columbia,CA,50.5842,-116.041,ardac
+BC1198,Dry Gulch Park,,BC,CA,50.586,-116.0356,ardac
+BC1199,Drywilliam Lake Ecological Reserve,,BC,CA,54.0619,-124.7029,ardac
+BC1200,Duck Lake Protected Area,,BC,CA,49.8657,-124.4457,ardac
+BC632,Duck Range,,British Columbia,CA,50.6192,-119.83,ardac
+BC318,Dugan Lake,,British Columbia,CA,52.1667,-121.925,ardac
+BC1201,Duke of Edinburgh Ecological Reserve,,BC,CA,51.0206,-127.7205,ardac
+BC649,Duncan,,British Columbia,CA,48.7789,-123.702,ardac
 BC1002,Duncanby Landing,,British Columbia,CA,51.4065,-127.644,ardac
+BC687,Dundarave,,British Columbia,CA,49.338,-123.181,ardac
+BC740,Dunsmuir,,British Columbia,CA,49.3881,-124.609,ardac
+BC675,Dunster,,British Columbia,CA,53.127,-119.839,ardac
+BC871,Durieu,,British Columbia,CA,49.2175,-122.235,ardac
+BC1202,Dzawadi/Klinaklini Estuary Conservancy,,BC,CA,51.097,-125.6093,ardac
+BC6,Eagle Bay,,British Columbia,CA,50.9333,-119.217,ardac
+BC1203,Eagle Bay Park,,BC,CA,53.7999,-128.7099,ardac
+BC32,Eagle Creek,,British Columbia,CA,51.8597,-120.866,ardac
+BC118,Eagle Heights,,British Columbia,CA,48.7563,-123.703,ardac
+BC1204,Eagle River Park,,BC,CA,50.9741,-118.6729,ardac
+BC1205,Eakin Creek Canyon Park,,BC,CA,51.4512,-120.226,ardac
+BC1206,Eakin Creek Floodplain Park,,BC,CA,51.4719,-120.3219,ardac
+BC622,Earls Cove,,British Columbia,CA,49.75,-124.0,ardac
+BC251,East Pine,,British Columbia,CA,55.7167,-121.217,ardac
+BC1207,East Pine Park,,BC,CA,55.7195,-121.2236,ardac
+BC222,East Sooke,,British Columbia,CA,48.3645,-123.686,ardac
 BC1003,East Wellington,,British Columbia,CA,49.1838,-124.018,ardac
+BC815,Eastgate,,British Columbia,CA,49.1375,-120.612,ardac
+BC731,Echo Bay,,British Columbia,CA,50.7485,-126.494,ardac
+BC1208,Echo Bay Marine Park,,BC,CA,50.7507,-126.4941,ardac
+BC1209,Echo Lake Park,,BC,CA,50.2029,-118.7077,ardac
+BC435,Eddontenajon,,British Columbia,CA,57.8221,-129.958,"ardac,ncr"
+BC927,Edgewater,,British Columbia,CA,50.7,-116.133,ardac
+BC625,Edgewood,,British Columbia,CA,49.7833,-118.15,ardac
+BC955,Egmont,,British Columbia,CA,49.75,-123.933,ardac
+BC260,Ehatisaht,,British Columbia,CA,49.8833,-126.85,ardac
+BC1210,Elephant Hill Park,,BC,CA,50.7604,-121.2775,ardac
+BC604,Elk Bay,,British Columbia,CA,50.2856,-125.436,ardac
+BC1211,Elk Valley Park,,BC,CA,49.6238,-114.9385,ardac
+BC310,Elkford,,British Columbia,CA,50.0123,-114.93,ardac
+BC656,Elko,,British Columbia,CA,49.3012,-115.111,ardac
+BC1212,Elko Park,,BC,CA,49.2979,-115.1184,ardac
+BC1213,Ellis Island Ecological Reserve,,BC,CA,54.0761,-124.7237,ardac
+BC834,Ellison,,British Columbia,CA,49.9363,-119.358,ardac
+BC1214,Ellison Park,,BC,CA,50.1746,-119.4324,ardac
+BC1215,Emory Creek Park,,BC,CA,49.5118,-121.4154,ardac
+BC662,Endako,,British Columbia,CA,54.0875,-125.017,ardac
+BC616,Enderby,,British Columbia,CA,50.5549,-119.141,ardac
+BC1216,English Lake Park,,BC,CA,50.915,-118.3326,ardac
+BC1217,Englishman River Falls Park,,BC,CA,49.2473,-124.3517,ardac
+BC161,Englishman River North,,British Columbia,CA,49.3233,-124.281,ardac
+BC272,Englishman River South,,British Columbia,CA,49.2779,-124.275,ardac
+BC1218,Epper Passage Park,,BC,CA,49.2198,-125.9528,ardac
+BC1219,Epsom Park,,BC,CA,50.5735,-121.3035,ardac
+BC503,Erie,,British Columbia,CA,49.1912,-117.337,ardac
+BC1220,Erie Creek Park,,BC,CA,49.1896,-117.305,ardac
+BC954,Errington,,British Columbia,CA,49.2889,-124.37,ardac
+BC979,Esler,,British Columbia,CA,52.1042,-122.184,ardac
+BC749,Esperanza,,British Columbia,CA,49.8713,-126.738,ardac
+BC661,Esquimalt,,British Columbia,CA,48.4289,-123.408,ardac
+BC1221,Esquimalt Lagoon Migratory Bird Sanctuary,,BC,CA,48.4264,-123.4678,ardac
+BC387,Estevan Point,,British Columbia,CA,49.3782,-126.534,ardac
+BC1222,Ethel F. Wilson Memorial Park,,BC,CA,54.4182,-125.6875,ardac
+BC1223,Ethelda Bay - Tennant Island Conservany,,BC,CA,53.057,-129.6623,ardac
+BC1224,Evans Lake Ecological Reserve,,BC,CA,49.8596,-117.6988,ardac
+BC1225,Eves Park,,BC,CA,48.8612,-123.6982,ardac
+BC1226,Exchamsiks River Park,,BC,CA,54.336,-129.2959,ardac
+BC967,Extension,,British Columbia,CA,49.1005,-123.958,ardac
+BC1227,F.H. Barber Park,,BC,CA,49.3135,-121.635,ardac
+BC358,Fair Harbour,,British Columbia,CA,50.0565,-127.101,ardac
+BC606,Fairmont Hot Springs,,British Columbia,CA,50.3349,-115.856,ardac
+BC972,Falkland,,British Columbia,CA,50.5009,-119.557,ardac
+BC333,Fanny Bay,,British Columbia,CA,49.4901,-124.813,ardac
+BC618,Farmington,,British Columbia,CA,55.9,-120.5,ardac
+BC84,Farrell Creek,,British Columbia,CA,56.1228,-121.738,ardac
+BC524,Fauquier,,British Columbia,CA,49.8667,-118.067,ardac
+BC171,Federal Ranch,,British Columbia,CA,56.4,-122.383,ardac
+BC450,Ferguson,,British Columbia,CA,50.6833,-117.483,ardac
+BC517,Fern Ridge,,British Columbia,CA,49.0483,-122.656,ardac
+BC596,Fernie,,British Columbia,CA,49.5068,-115.069,ardac
+BC69,Fernwood,,British Columbia,CA,48.9089,-123.528,ardac
+BC1228,Ferry Island Park,,BC,CA,49.2021,-121.7807,ardac
+BC599,Field,,British Columbia,CA,51.3945,-116.482,ardac
+BC1229,Field's Lease Ecological Reserve,,BC,CA,49.058,-119.5176,ardac
+BC1230,Fillongley Park,,BC,CA,49.5436,-124.762,ardac
+BC1231,Finn Creek Park,,BC,CA,51.8969,-119.3211,ardac
+BC133,Fintry,,British Columbia,CA,50.1316,-119.506,ardac
+BC1232,Fintry Park,,BC,CA,50.1377,-119.5123,ardac
+BC426,Fireside,,British Columbia,CA,59.6705,-127.136,"ardac,ncr"
+BC165,Firvale,,British Columbia,CA,52.4385,-126.292,ardac
+BC1233,Foch-Gilttoyees Protected Area,,BC,CA,53.773,-129.0245,ardac
+BC303,Foreman,,British Columbia,CA,53.95,-122.683,ardac
+BC865,Forest Grove,,British Columbia,CA,51.7667,-121.1,ardac
+BC78,Fort Babine,,British Columbia,CA,55.3223,-126.626,ardac
+BC444,Fort Fraser,,British Columbia,CA,54.06,-124.55,ardac
+BC1234,Fort George Canyon Park,,BC,CA,53.6802,-122.7213,ardac
+BC690,Fort Langley,,British Columbia,CA,49.1667,-122.583,ardac
+BC843,Fort Nelson,,British Columbia,CA,58.8056,-122.697,ardac
+BC1235,Fort Nelson River Ecological Reserve,,BC,CA,58.9591,-122.509,ardac
+BC341,Fort Rupert,,British Columbia,CA,50.6889,-127.42,ardac
+BC612,Fort St. James,,British Columbia,CA,54.4487,-124.256,ardac
+BC493,Fort St. John,,British Columbia,CA,56.2461,-120.845,ardac
+BC672,Fort Steele,,British Columbia,CA,49.6169,-115.626,ardac
+BC385,Fort Ware,,British Columbia,CA,57.4252,-125.633,"ardac,ncr"
+BC1236,Forward Harbour Conservancy,,BC,CA,50.4776,-125.76,ardac
+BC1237,Fossli Park,,BC,CA,49.2489,-124.9493,ardac
+BC295,Fosthall,,British Columbia,CA,50.3488,-117.935,ardac
+BC1238,Francis Point Ecological Reserve,,BC,CA,49.6142,-124.0632,ardac
+BC1239,Francis Point Park,,BC,CA,49.6121,-124.0571,ardac
+BC1240,Francois Lake Protected Area,,BC,CA,53.9863,-125.0399,ardac
+BC89,Franklin Camp,,British Columbia,CA,48.9722,-124.742,ardac
 BC1004,François Lake,,British Columbia,CA,54.0517,-125.7419,ardac
+BC944,Fraser,,British Columbia,CA,59.7159,-135.049,"ardac,ncr"
+BC759,Fraser Lake,,British Columbia,CA,54.0583,-124.847,ardac
+BC1241,Fraser River Ecological Reserve,,BC,CA,49.1741,-122.0188,ardac
+BC1242,French Beach Park,,BC,CA,48.3927,-123.9426,ardac
+BC885,French Creek,,British Columbia,CA,49.3471,-124.36,ardac
+BC719,Fruitvale,,British Columbia,CA,49.1139,-117.548,ardac
+BC921,Fulford Harbour,,British Columbia,CA,48.7706,-123.45,ardac
+BC1243,Gabriola Sands Park,,BC,CA,49.1946,-123.8571,ardac
+BC164,Galena Bay,,British Columbia,CA,50.6667,-117.85,ardac
+BC1244,Galiano Island Ecological Reserve,,BC,CA,48.982,-123.5546,ardac
+BC138,Gambier Harbour,,British Columbia,CA,49.3728,-123.414,ardac
+BC1245,Gamble Creek Ecological Reserve,,BC,CA,54.2049,-130.0221,ardac
+BC325,Gang Ranch,,British Columbia,CA,51.5538,-122.351,ardac
+BC585,Ganges,,British Columbia,CA,48.8599,-123.507,ardac
+BC653,Garden Bay,,British Columbia,CA,49.6366,-124.034,ardac
+BC1246,Garden Bay Marine Park,,BC,CA,49.6389,-124.0082,ardac
+BC100,Garibaldi,,British Columbia,CA,49.9667,-123.15,ardac
+BC292,Garibaldi Highlands,,British Columbia,CA,49.7417,-123.135,ardac
+BC41,Gateway,,British Columbia,CA,51.6808,-121.211,ardac
+BC475,Genelle,,British Columbia,CA,49.2139,-117.691,ardac
+BC1247,George C. Reifel Migratory Bird Sanctuary,,BC,CA,49.1014,-123.1807,ardac
 BC1005,Georgetown Mills,,British Columbia,CA,54.4716,-130.398,ardac
+BC848,Germansen Landing,,British Columbia,CA,55.7833,-124.7,ardac
+BC1248,Gibson Marine Park,,BC,CA,49.2636,-126.0733,ardac
+BC681,Gibsons,,British Columbia,CA,49.4018,-123.514,ardac
+BC464,Gillies Bay,,British Columbia,CA,49.6833,-124.483,ardac
+BC1249,Gilnockie Creek Ecological Reserve,,BC,CA,49.0117,-115.6513,ardac
+BC37,Gilpin,,British Columbia,CA,49.0063,-118.329,ardac
+BC1250,Gilpin Grasslands Park,,BC,CA,49.0168,-118.2988,ardac
+BC910,Gingolx,,British Columbia,CA,54.9944,-129.954,ardac
+BC640,Giscome,,British Columbia,CA,54.0667,-122.367,ardac
+BC1251,Giscome Portage Trail Protected Area,,BC,CA,54.2349,-122.5753,ardac
 BC1006,Gitanyow,,British Columbia,CA,55.2676,-128.072,ardac
+BC1252,Gitnadoiks River Protected Area,,BC,CA,54.3194,-129.2113,ardac
+BC827,Gitwinksihlkw,,British Columbia,CA,55.1937,-129.219,ardac
+BC893,Glade,,British Columbia,CA,49.3964,-117.535,ardac
+BC841,Glen Vowell,,British Columbia,CA,55.3135,-127.677,ardac
+BC822,Glenemma,,British Columbia,CA,50.4694,-119.352,ardac
+BC88,Glenmerry,,British Columbia,CA,49.1,-117.667,ardac
+BC399,Glenrosa,,British Columbia,CA,49.8472,-119.667,ardac
+BC1253,Goat Cove Conservancy,,BC,CA,52.7741,-128.3937,ardac
+BC1254,God's Pocket Marine Park,,BC,CA,50.8389,-127.5668,ardac
+BC1255,Goguka Creek Protected Area,,BC,CA,58.4997,-122.6791,ardac
+BC574,Gold Bridge,,British Columbia,CA,50.85,-122.833,ardac
+BC1256,Gold Muchalat Park,,BC,CA,49.8665,-126.1012,ardac
+BC723,Gold River,,British Columbia,CA,49.7807,-126.052,ardac
+BC697,Golden,,British Columbia,CA,51.2949,-116.964,ardac
+BC1257,Goldpan Park,,BC,CA,50.3481,-121.3903,ardac
+BC1258,Goldstream Park,,BC,CA,48.4736,-123.5486,ardac
+BC767,Good Hope Lake,,British Columbia,CA,59.2936,-129.289,"ardac,ncr"
+BC980,Goodlow,,British Columbia,CA,56.3336,-120.136,ardac
+BC422,Goose Bay,,British Columbia,CA,51.38,-127.657,ardac
+BC1259,Goose Bay Conservancy,,BC,CA,51.3871,-127.6651,ardac
+BC1260,Gordon Bay Park,,BC,CA,48.8343,-124.1983,ardac
+BC1261,Gowlland Tod Park,,BC,CA,48.5409,-123.511,ardac
+BC388,Grand Forks,,British Columbia,CA,49.029,-118.453,ardac
 BC1007,Grand Haven,,British Columbia,CA,56.2402,-120.899,ardac
+BC623,Granisle,,British Columbia,CA,54.8844,-126.213,ardac
+BC394,Granite Bay,,British Columbia,CA,50.2333,-125.3,ardac
+BC522,Grantham,,British Columbia,CA,49.7628,-125.021,ardac
+BC192,Grasmere,,British Columbia,CA,49.1,-115.083,ardac
+BC271,Grassy Plains,,British Columbia,CA,53.967,-125.888,ardac
+BC397,Gravelle Ferry,,British Columbia,CA,52.85,-122.233,ardac
+BC362,Gray Creek,,British Columbia,CA,49.6333,-116.783,ardac
+BC1262,Green Inlet Marine Park,,BC,CA,52.9213,-128.483,ardac
+BC1263,Green Lake Park,,BC,CA,51.4177,-121.1816,ardac
+BC1264,Green Mountain Wildlife Management Area,,BC,CA,49.0576,-124.3407,ardac
+BC1265,Greenstone Mountain Park,,BC,CA,50.612,-120.6453,ardac
+BC557,Greenwood,,British Columbia,CA,49.0949,-118.676,ardac
+BC853,Grindrod,,British Columbia,CA,50.6276,-119.123,ardac
+BC1266,Grohman Narrows Park,,BC,CA,49.4957,-117.3443,ardac
+BC912,Groundbirch,,British Columbia,CA,55.78,-120.923,ardac
+BC1267,Gunboat Harbour Conservancy,,BC,CA,53.9212,-130.1382,ardac
+BC673,Gwa'Sala- Nakwaxda'xw,,British Columbia,CA,50.7333,-127.5,ardac
+BC177,Hagensborg,,British Columbia,CA,52.3864,-126.557,ardac
+BC680,Hagwilget,,British Columbia,CA,55.2546,-127.596,ardac
+BC1268,Hai Lake - Mount Herman Park,,BC,CA,54.4165,-128.613,ardac
+BC715,Haig,,British Columbia,CA,49.3967,-121.453,ardac
+BC1269,Hakai Conservation Study Area,,BC,CA,51.936,-127.9738,ardac
+BC200,Halalt,,British Columbia,CA,48.8769,-123.692,ardac
+BC1270,Haley Lake Ecological Reserve,,BC,CA,49.0136,-124.3149,ardac
+BC291,Halfmoon Bay,,British Columbia,CA,49.5146,-123.909,ardac
+BC1271,Halkett Bay Park,,BC,CA,49.4581,-123.3317,ardac
+BC21,Hall,,British Columbia,CA,49.374,-117.243,ardac
+BC154,Hanceville,,British Columbia,CA,51.9417,-123.099,ardac
+BC1272,Harbour-Dudgeon Lakes Park,,BC,CA,51.5726,-119.1569,ardac
+BC146,Hardwicke Island,,British Columbia,CA,50.4167,-125.917,ardac
+BC1273,Hardy Island Marine Park,,BC,CA,49.7285,-124.216,ardac
+BC1274,Harmony Islands Marine Park,,BC,CA,49.8649,-124.0163,ardac
+BC880,Harrison Hot Springs,,British Columbia,CA,49.3,-121.783,ardac
+BC572,Harrison Mills,,British Columbia,CA,49.2559,-121.949,ardac
 BC1008,Harrogate,,British Columbia,CA,50.9833,-116.45,ardac
+BC598,Harrop,,British Columbia,CA,49.6016,-117.053,ardac
+BC1275,Harry Lake Aspen Park,,BC,CA,50.7924,-121.5425,ardac
+BC543,Hartley Bay,,British Columbia,CA,53.4203,-129.256,ardac
+BC634,Hasler Flat,,British Columbia,CA,55.6111,-121.967,ardac
+BC937,Hatzic Island,,British Columbia,CA,49.1624,-122.236,ardac
+BC1276,Hayne's Lease Ecological Reserve,,BC,CA,49.0874,-119.5187,ardac
+BC1277,Haynes Point Park,,BC,CA,49.0165,-119.4504,ardac
+BC727,Hazelton,,British Columbia,CA,55.2546,-127.676,ardac
+BC375,Headquarters,,British Columbia,CA,49.7646,-125.115,ardac
+BC307,Health Bay,,British Columbia,CA,50.6939,-126.597,ardac
+BC1278,Heather Lake Ecological Reserve,,BC,CA,55.5156,-123.2522,ardac
+BC678,Hedley,,British Columbia,CA,49.3604,-120.072,ardac
+BC863,Heffley Creek,,British Columbia,CA,50.8583,-120.271,ardac
+BC1279,Helliwell Park,,BC,CA,49.5186,-124.5983,ardac
+BC1280,Hemer Park,,BC,CA,49.0993,-123.8314,ardac
+BC971,Hemlock Valley,,British Columbia,CA,49.3769,-121.935,ardac
+BC1281,Hen?mdzl Mekola/Yorke Island Conservancy,,BC,CA,50.4469,-125.9791,ardac
+BC1282,Herald Park,,BC,CA,50.7906,-119.2034,ardac
+BC472,Heriot Bay,,British Columbia,CA,50.1002,-125.213,ardac
+BC128,Hesquiat,,British Columbia,CA,49.3959,-126.471,ardac
+BC1283,Hesquiat Lake Park,,BC,CA,49.5016,-126.3874,ardac
+BC431,Heydon Bay,,British Columbia,CA,50.5781,-125.576,ardac
+BC1284,High Lakes Basin Park,,BC,CA,51.382,-120.4192,ardac
+BC187,Highlands,,British Columbia,CA,48.5144,-123.516,ardac
+BC468,Hilliers,,British Columbia,CA,49.3068,-124.483,ardac
+BC27,Hills,,British Columbia,CA,50.1089,-117.493,ardac
+BC1285,Hitchie Creek Park,,BC,CA,48.7953,-124.7403,ardac
+BC650,Hixon,,British Columbia,CA,53.4204,-122.586,ardac
+BC451,Holberg,,British Columbia,CA,50.6623,-128.011,ardac
+BC1286,Hole-in-the-Wall Park,,BC,CA,55.1462,-121.8542,ardac
+BC1287,Holliday Creek Arch Protected Area,,BC,CA,53.2169,-119.8629,ardac
+BC795,Hollyburn,,British Columbia,CA,49.3324,-123.163,ardac
+BC288,Holmwood,,British Columbia,CA,50.6189,-119.954,ardac
+BC550,Homalco,,British Columbia,CA,49.9526,-125.243,ardac
+BC1288,Homathko Estuary Park,,BC,CA,50.9364,-124.8446,ardac
+BC796,Honeymoon Bay,,British Columbia,CA,48.815,-124.173,ardac
+BC1289,Honeymoon Bay Ecological Reserve,,BC,CA,48.8267,-124.2051,ardac
+BC449,Hope,,British Columbia,CA,49.3802,-121.43,ardac
+BC242,Hornby Island,,British Columbia,CA,49.5227,-124.642,ardac
+BC1290,Horne Lake Caves Park,,BC,CA,49.3452,-124.7554,ardac
+BC1291,Horneline Creek Park,,BC,CA,59.0011,-127.2836,ardac
+BC977,Horsefly,,British Columbia,CA,52.3333,-121.417,ardac
+BC1292,Horsefly Lake Park,,BC,CA,52.389,-121.287,ardac
+BC460,Horseshoe Bay,,British Columbia,CA,49.3674,-123.273,ardac
+BC852,Hosmer,,British Columbia,CA,49.5897,-114.964,ardac
+BC328,Hot Springs Cove,,British Columbia,CA,49.352,-126.26,ardac
+BC744,Houston,,British Columbia,CA,54.397,-126.652,ardac
+BC846,Howser,,British Columbia,CA,50.3,-116.95,ardac
+BC1293,Hudson Rocks Ecological Reserve,,BC,CA,49.2254,-123.9245,ardac
+BC459,Hudson's Hope,,British Columbia,CA,56.0319,-121.907,ardac
+BC586,Hullcar,,British Columbia,CA,50.503,-119.27,ardac
+BC799,Huntingdon,,British Columbia,CA,49.0051,-122.266,ardac
+BC642,Hunts Inlet,,British Columbia,CA,54.0668,-130.443,ardac
+BC132,Hupacasath,,British Columbia,CA,49.2657,-124.826,ardac
+BC93,Huscroft,,British Columbia,CA,49.0167,-116.467,ardac
+BC122,Huu-ay-aht,,British Columbia,CA,48.8012,-125.122,ardac
+BC22,Hyde Creek,,British Columbia,CA,50.5805,-127.0,ardac
+BC945,Hydraulic,,British Columbia,CA,52.6148,-121.707,ardac
+BC1294,Hyland River Park,,BC,CA,59.962,-128.1449,ardac
 BC1009,Imperial Ranchettes,,British Columbia,CA,51.613,-121.183,ardac
+BC1295,Inkaneep Park,,BC,CA,49.2261,-119.5407,ardac
+BC1296,Inonaklin Park,,BC,CA,49.7774,-118.139,ardac
+BC490,Invermere,,British Columbia,CA,50.5007,-116.038,ardac
+BC424,Iskut,,British Columbia,CA,57.8466,-129.983,"ardac,ncr"
+BC1297,Iskut River Hot Springs Park,,BC,CA,57.0837,-130.3606,ardac
+BC368,Isle Pierre,,British Columbia,CA,53.95,-123.25,ardac
+BC1298,Jackman Flats Park,,BC,CA,52.9357,-119.3889,ardac
+BC1299,Jackpine Remnant Protected Area,,BC,CA,59.2309,-123.339,ardac
+BC1300,Jackson Narrows Marine Park,,BC,CA,52.5244,-128.3017,ardac
+BC792,Jade City,,British Columbia,CA,59.2469,-129.655,"ardac,ncr"
+BC695,Jaffray,,British Columbia,CA,49.3744,-115.3,ardac
+BC1301,James Chabot Park,,BC,CA,50.5112,-116.0237,ardac
+BC1302,Jedediah Island Marine Park,,BC,CA,49.4991,-124.2023,ardac
+BC85,Jersey,,British Columbia,CA,49.1,-117.233,ardac
+BC1303,Jesse Falls Protected Area,,BC,CA,53.8385,-128.8647,ardac
+BC1304,Jewel Lake Park,,BC,CA,49.1823,-118.6027,ardac
+BC1305,Jimsmith Lake Park,,BC,CA,49.4827,-115.841,ardac
+BC1306,John Dean Park,,BC,CA,48.6145,-123.448,ardac
 BC1010,Johnsons Landing,,British Columbia,CA,50.0833,-116.883,ardac
+BC1307,Johnstone Creek Park,,BC,CA,49.0469,-119.0491,ardac
+BC1308,Juniper Beach Park,,BC,CA,50.7881,-121.0849,ardac
+BC609,Juskatla,,British Columbia,CA,53.6102,-132.311,ardac
+BC1309,K'distsausk/Turtle Point Conservancy,,BC,CA,53.3179,-129.2763,ardac
+BC1310,K'nabiyaaxl/Ashdown Conservancy,,BC,CA,53.0623,-129.2123,ardac
+BC726,Kakawis,,British Columbia,CA,49.189,-125.911,ardac
+BC825,Kaleden,,British Columbia,CA,49.3928,-119.596,ardac
+BC518,Kamloops,,British Columbia,CA,50.6783,-120.348,ardac
+BC407,Kanaka Bar,,British Columbia,CA,50.1127,-121.561,ardac
+BC626,Kaslo,,British Columbia,CA,49.9086,-116.911,ardac
+BC1311,Katherine Tye (Vedder Crossing) Ecological Reserve,,BC,CA,49.0935,-121.9293,ardac
+BC366,Kedleston,,British Columbia,CA,50.3167,-119.183,ardac
+BC1312,Kekuli Bay Park,,BC,CA,50.1844,-119.339,ardac
+BC16,Kelly Lake,,British Columbia,CA,51.0124,-121.7658,ardac
+BC381,Kelowna,,British Columbia,CA,49.8833,-119.483,ardac
+BC502,Kemano,,British Columbia,CA,53.5573,-127.933,ardac
 BC1011,Kendrick Camp,,British Columbia,CA,49.7244,-126.651,ardac
+BC1313,Kennedy Lake Park,,BC,CA,49.0472,-125.5613,ardac
+BC1314,Kennedy River Bog Park,,BC,CA,49.0984,-125.6215,ardac
+BC1315,Kentucky-Alleyne Park,,BC,CA,49.9134,-120.5687,ardac
+BC868,Keremeos,,British Columbia,CA,49.2064,-119.826,ardac
+BC1316,Keremeos Columns Park,,BC,CA,49.2492,-119.7896,ardac
+BC304,Kersley,,British Columbia,CA,52.8358,-122.418,ardac
+BC1317,Kettle River Recreation Area,,BC,CA,49.1092,-118.985,ardac
+BC60,Kettle Valley,,British Columbia,CA,49.0536,-118.945,ardac
+BC1318,Khutzeymateen Inlet West Conservancy,,BC,CA,54.6754,-130.1189,ardac
+BC1319,Kickininee Park,,BC,CA,49.5455,-119.6288,ardac
+BC1320,Kikomun Creek Park,,BC,CA,49.2419,-115.2473,ardac
+BC1321,Kilbella Estuary Conservancy,,BC,CA,51.719,-127.3438,ardac
+BC1322,Kilby Park,,BC,CA,49.2373,-121.9628,ardac
+BC195,Kildala Arm,,British Columbia,CA,53.8333,-128.483,ardac
+BC951,Kilkerran,,British Columbia,CA,55.8395,-120.272,ardac
 BC1012,Killiney Beach,,British Columbia,CA,50.1899,-119.506,ardac
+BC806,Kimberley,,British Columbia,CA,49.6871,-115.983,ardac
+BC232,Kimsquit,,British Columbia,CA,52.8296,-126.964,ardac
+BC1323,Kimsquit Estuary Conservancy,,BC,CA,52.8834,-127.0871,ardac
+BC1324,Kin Beach Park,,BC,CA,49.7279,-124.8974,ardac
+BC1325,King George VI Park,,BC,CA,49.0124,-117.8255,ardac
+BC639,Kingcome,,British Columbia,CA,50.9742,-126.175,ardac
+BC788,Kingcome Inlet,,British Columbia,CA,50.95,-126.2,ardac
+BC1326,Kingcome River / Atlatzi River Ecological Reserve,,BC,CA,51.0464,-126.1382,ardac
+BC17,Kingfisher,,British Columbia,CA,50.6167,-118.733,ardac
+BC1327,Kingfisher Creek Park,,BC,CA,50.7962,-118.8116,ardac
+BC833,Kingsgate,,British Columbia,CA,49.0024,-116.178,ardac
+BC956,Kinnaird,,British Columbia,CA,49.2834,-117.651,ardac
+BC1328,Kiskatinaw Park,,BC,CA,55.96,-120.5645,ardac
+BC1329,Kiskatinaw River Park,,BC,CA,56.0906,-120.1503,ardac
+BC748,Kispiox,,British Columbia,CA,55.3503,-127.691,ardac
+BC874,Kitamaat Village,,British Columbia,CA,53.9737,-128.647,ardac
+BC734,Kitchener,,British Columbia,CA,49.1567,-116.339,ardac
+BC714,Kitimat,,British Columbia,CA,54.051,-128.651,ardac
+BC1330,Kitimat River Park,,BC,CA,54.1126,-128.6064,ardac
+BC688,Kitkatla,,British Columbia,CA,53.7922,-130.433,ardac
+BC696,Kitsault,,British Columbia,CA,55.4558,-129.471,ardac
+BC447,Kitseguecla,,British Columbia,CA,55.0857,-127.818,ardac
+BC145,Kitselas,,British Columbia,CA,54.6167,-128.417,ardac
+BC1331,Kitson Island Marine Park,,BC,CA,54.1783,-130.3158,ardac
+BC733,Kitsumkalum,,British Columbia,CA,54.5245,-128.672,ardac
+BC1332,Kitsumkalum Lake North Protected Area,,BC,CA,54.8198,-128.7942,ardac
+BC1333,Kitsumkalum Park,,BC,CA,54.7214,-128.7696,ardac
+BC1334,Kitty Coleman Beach Park,,BC,CA,49.7885,-124.996,ardac
+BC961,Kitwanga,,British Columbia,CA,55.1,-128.067,ardac
+BC1335,Kitwanga Mountain Park,,BC,CA,55.1139,-128.1546,ardac
+BC87,Klahoose,,British Columbia,CA,50.1281,-124.925,ardac
+BC1336,Klanawa River Ecological Reserve,,BC,CA,48.7423,-124.9293,ardac
+BC1337,Klaskish River Ecological Reserve,,BC,CA,50.2677,-127.7148,ardac
+BC1338,Kleanza Creek Park,,BC,CA,54.5972,-128.396,ardac
+BC514,Kleena Kleene,,British Columbia,CA,51.9504,-124.847,ardac
+BC620,Klemtu,,British Columbia,CA,52.5904,-128.527,ardac
+BC279,Kluskus,,British Columbia,CA,53.0904,-124.493,ardac
+BC10,Kobes,,British Columbia,CA,56.6389,-121.65,ardac
+BC1339,Kokanee Creek Park,,BC,CA,49.6069,-117.1217,ardac
+BC1340,Koksilah River Park,,BC,CA,48.6492,-123.7315,ardac
+BC425,Kootenay Bay,,British Columbia,CA,49.6849,-116.866,ardac
+BC136,Kootenay Crossing,,British Columbia,CA,50.8833,-116.05,ardac
+BC1341,Kootenay Lake Park,,BC,CA,49.5724,-116.8492,ardac
+BC1342,Kotcho Lake Ecological Reserve,,BC,CA,59.0708,-121.0958,ardac
+BC1343,Kotcho Lake Village Site Park,,BC,CA,59.0213,-121.0847,ardac
+BC883,Krestova,,British Columbia,CA,49.4447,-117.582,ardac
+BC917,Ksan,,British Columbia,CA,55.2497,-127.678,ardac
+BC1344,Ktisgaidz/MacDonald Bay Conservancy,,BC,CA,53.1997,-129.3272,ardac
+BC526,Kuskonook,,British Columbia,CA,49.3,-116.65,ardac
+BC67,Kwakiutl,,British Columbia,CA,50.6931,-127.411,ardac
+BC1345,Kwatna Estuary Conservancy,,BC,CA,52.1046,-127.3732,ardac
+BC158,Kwaw-kwaw-Apilt,,British Columbia,CA,49.1641,-121.98,ardac
+BC779,Kyuquot,,British Columbia,CA,50.0281,-127.377,ardac
+BC1346,Lac La Hache Park,,BC,CA,51.8582,-121.6372,ardac
+BC605,Lac Le Jeune,,British Columbia,CA,50.4817,-120.493,ardac
+BC1347,Lac Le Jeune Park,,BC,CA,50.4811,-120.4731,ardac
+BC135,Lac la Hache,,British Columbia,CA,51.8145,-121.465,ardac
+BC531,Ladner,,British Columbia,CA,49.0917,-123.078,ardac
+BC732,Ladysmith,,British Columbia,CA,48.9926,-123.82,ardac
+BC754,Laidlaw,,British Columbia,CA,49.3223,-121.618,ardac
+BC743,Lake Cowichan,,British Columbia,CA,48.8261,-124.052,ardac
+BC454,Lake Errock,,British Columbia,CA,49.2291,-122.012,ardac
+BC343,Lakelse Lake,,British Columbia,CA,54.3804,-128.546,ardac
+BC1348,Lakelse Lake Park,,BC,CA,54.3966,-128.5337,ardac
+BC360,Lang Bay,,British Columbia,CA,49.7792,-124.346,ardac
+BC840,Langdale,,British Columbia,CA,49.4341,-123.477,ardac
+BC412,Langford,,British Columbia,CA,48.4566,-123.497,ardac
+BC573,Langley,,British Columbia,CA,49.1038,-122.659,ardac
+BC556,Lantzville,,British Columbia,CA,49.2532,-124.082,ardac
+BC1349,Larcom Lagoon Conservancy,,BC,CA,55.4016,-129.7394,ardac
+BC705,Lardeau,,British Columbia,CA,50.143,-116.956,ardac
+BC839,Lasqueti,,British Columbia,CA,49.4918,-124.347,ardac
+BC1350,Lasqueti Island Ecological Reserve,,BC,CA,49.4628,-124.2893,ardac
+BC823,Lavington,,British Columbia,CA,50.2313,-119.107,ardac
+BC1351,Lawn Point Park,,BC,CA,50.3369,-127.9669,ardac
+BC722,Lawnhill,,British Columbia,CA,53.4036,-131.922,ardac
+BC1352,Lax Kul Nii Luutiksm/Bonilla Conservancy,,BC,CA,53.4876,-130.6092,ardac
+BC595,Lax Kw'alaams,,British Columbia,CA,54.55,-130.433,ardac
+BC724,Lax̱g̱altsʼap,,British Columbia,CA,55.0306,-129.575,ardac
+BC901,Lazo,,British Columbia,CA,49.7139,-124.909,ardac
+BC1353,Lazo Marsh - North East Comox Wildlife Management Area,,BC,CA,49.6902,-124.9,ardac
+BC52,Lee Creek,,British Columbia,CA,50.9078,-119.534,ardac
+BC74,Lemoray,,British Columbia,CA,55.5389,-122.483,ardac
+BC1354,Lepas Bay Ecological Reserve,,BC,CA,54.1736,-133.0434,ardac
+BC1355,Lew Creek Ecological Reserve,,BC,CA,50.5345,-117.4428,ardac
+BC108,Lheidli T'enneh,,British Columbia,CA,54.0101,-122.616,ardac
+BC58,Liard River Suspension Bridge,,British Columbia,CA,59.4127,-126.0959,"ardac,ncr"
+BC73,Lighthouse Point,,British Columbia,CA,48.8687,-123.284,ardac
+BC686,Likely,,British Columbia,CA,52.6187,-121.565,ardac
+BC693,Lillooet,,British Columbia,CA,50.6941,-121.939,ardac
+BC1356,Lily Pad Lake Ecological Reserve,,BC,CA,50.1404,-118.9749,ardac
+BC1357,Limestone Islands Wildife Management Area,,BC,CA,52.9082,-131.6146,ardac
+BC234,Lindell Beach,,British Columbia,CA,49.0333,-122.017,ardac
+BC959,Lions Bay,,British Columbia,CA,49.4591,-123.236,ardac
+BC194,Lister,,British Columbia,CA,49.0474,-116.463,ardac
+BC1358,Little Andrews Bay Marine Park,,BC,CA,53.7957,-126.6412,ardac
+BC958,Little Fort,,British Columbia,CA,51.4249,-120.207,ardac
+BC1359,Little Qualicum Falls Park,,BC,CA,49.296,-124.5909,ardac
+BC610,Little River,,British Columbia,CA,49.7377,-124.914,ardac
+BC205,Little Shuswap Lake,,British Columbia,CA,50.8758,-119.612,ardac
+BC1360,Lockhart Beach Park,,BC,CA,49.5087,-116.7873,ardac
+BC709,Logan Lake,,British Columbia,CA,50.4913,-120.813,ardac
+BC479,Lone Butte,,British Columbia,CA,51.5579,-121.216,ardac
+BC1361,Long Island Conservancy,,BC,CA,54.8856,-126.1367,ardac
+BC208,Loon Lake,,British Columbia,CA,51.0833,-121.3,ardac
+BC1362,Loon Lake Park,,BC,CA,51.1049,-121.2573,ardac
+BC547,Loos,,British Columbia,CA,53.6021,-120.719,ardac
+BC94,Louis Creek,,British Columbia,CA,51.1401,-120.122,ardac
+BC1363,Loveland Bay Park,,BC,CA,50.0502,-125.4468,ardac
+BC1364,Lowe Inlet Marine Park,,BC,CA,53.5565,-129.5854,ardac
+BC54,Lower Kootenay,,British Columbia,CA,49.0663,-116.512,ardac
+BC602,Lower Nicola,,British Columbia,CA,50.1597,-120.878,ardac
+BC1365,Lower Nimpkish Park,,BC,CA,50.5367,-127.0094,ardac
+BC570,Lower Post,,British Columbia,CA,59.9249,-128.486,"ardac,ncr"
+BC1366,Lower Skeena River Park,,BC,CA,54.3117,-129.2987,ardac
+BC1367,Lucy Islands Conservancy,,BC,CA,54.2962,-130.6209,ardac
+BC157,Lumberton,,British Columbia,CA,49.4238,-115.877,ardac
+BC930,Lumby,,British Columbia,CA,50.25,-118.967,ardac
+BC872,Lund,,British Columbia,CA,49.9818,-124.757,ardac
+BC1368,Lundmark Bog Protected Area,,BC,CA,54.6476,-128.6797,ardac
+BC878,Lynn Valley,,British Columbia,CA,49.3416,-123.033,ardac
+BC914,Lytton,,British Columbia,CA,50.2316,-121.583,ardac
+BC1369,Mabel Lake Park,,BC,CA,50.4588,-118.7251,ardac
+BC1370,MacMillan Park,,BC,CA,49.2817,-124.6679,ardac
+BC346,Mackenzie,,British Columbia,CA,55.3353,-123.096,ardac
+BC1371,Mackinnon Esker Ecological Reserve,,BC,CA,54.8288,-123.5774,ardac
+BC487,Madeira Park,,British Columbia,CA,49.6157,-124.02,ardac
+BC845,Magna Bay,,British Columbia,CA,50.9618,-119.284,ardac
+BC159,Mahatta River,,British Columbia,CA,50.4586,-127.798,ardac
+BC1372,Mahoney Lake Ecological Reserve,,BC,CA,49.2895,-119.5815,ardac
+BC172,Mahood Falls,,British Columbia,CA,51.8426,-120.639,ardac
+BC1373,Mahpahkum-Ahkwuna Deserters-Walker Conservancy,,BC,CA,50.8933,-127.5073,ardac
+BC102,Malahat,,British Columbia,CA,48.6128,-123.523,ardac
+BC669,Malakwa,,British Columbia,CA,50.94,-118.789,ardac
+BC1374,Malaspina Park,,BC,CA,50.0367,-124.7782,ardac
+BC57,Malibu,,British Columbia,CA,50.1671,-123.851,ardac
+BC516,Manning Park,,British Columbia,CA,49.0668,-120.782,ardac
+BC497,Manson Creek,,British Columbia,CA,55.6667,-124.483,ardac
+BC402,Mansons Landing,,British Columbia,CA,50.0581,-124.98,ardac
+BC1375,Mansons Landing Park,,BC,CA,50.0653,-124.9831,ardac
+BC1376,Manzanita Cove Conservancy,,BC,CA,54.7584,-130.4466,ardac
+BC665,Mapes,,British Columbia,CA,53.8833,-123.867,ardac
+BC897,Maple Bay,,British Columbia,CA,48.8158,-123.613,ardac
+BC772,Maple Ridge,,British Columbia,CA,49.2174,-122.598,ardac
+BC1377,Maquinna Marine Protected Area,,BC,CA,49.3731,-126.2756,ardac
+BC720,Mara,,British Columbia,CA,50.6853,-119.067,ardac
+BC1378,Mara Meadows Ecological Reserve,,BC,CA,50.69,-119.1134,ardac
+BC1379,Mara Meadows Park,,BC,CA,50.6986,-119.1047,ardac
+BC1380,Mara Park,,BC,CA,50.7239,-119.0343,ardac
+BC1381,Marble Canyon Park,,BC,CA,50.848,-121.7134,ardac
+BC248,Marilla,,British Columbia,CA,53.7,-125.85,ardac
+BC576,Marktosis,,British Columbia,CA,49.2786,-126.058,ardac
+BC1382,Marl Creek Park,,BC,CA,51.505,-117.2016,ardac
+BC949,Marshall School Junction,,British Columbia,CA,49.7111,-124.509,ardac
+BC1383,Martha Creek Park,,BC,CA,51.1485,-118.202,ardac
 BC1013,Martin Prairie,,British Columbia,CA,50.6624,-119.812,ardac
+BC770,Marysville,,British Columbia,CA,49.6373,-115.956,ardac
+BC577,Masset,,British Columbia,CA,54.0174,-132.147,ardac
 BC1014,Matilpi,,British Columbia,CA,50.5494,-126.184,ardac
+BC98,Matsqui,,British Columbia,CA,49.006,-122.476,ardac
+BC1384,Maxhamish Lake Park,,BC,CA,59.836,-123.257,ardac
+BC824,Mayne,,British Columbia,CA,48.8501,-123.297,ardac
+BC181,Mayook,,British Columbia,CA,49.4869,-115.577,ardac
+BC613,McBride,,British Columbia,CA,53.3,-120.167,ardac
+BC1385,McConnell Lake Park,,BC,CA,50.5226,-120.4596,ardac
+BC891,McCulloch,,British Columbia,CA,49.7948,-119.19,ardac
+BC589,McDame,,British Columbia,CA,59.1856,-129.225,"ardac,ncr"
+BC1386,McDonald Creek Park,,BC,CA,50.1423,-117.8134,ardac
+BC13,McDonalds Landing,,British Columbia,CA,54.0,-126.033,ardac
+BC406,McKearney Ranch,,British Columbia,CA,56.6333,-122.467,ardac
+BC521,McLeese Lake,,British Columbia,CA,52.4137,-122.296,ardac
+BC582,McLeod Lake,,British Columbia,CA,54.985,-123.047,ardac
+BC312,McLure,,British Columbia,CA,51.0539,-120.225,ardac
+BC1387,McQueen Creek Ecological Reserve,,BC,CA,50.8196,-120.3414,ardac
+BC105,Meachen,,British Columbia,CA,49.6207,-116.267,ardac
+BC762,Meadow Creek,,British Columbia,CA,50.2392,-116.973,ardac
+BC28,Meadows,,British Columbia,CA,49.1859,-117.396,ardac
+BC1388,Megin River Ecological Reserve,,BC,CA,49.4375,-126.083,ardac
+BC1389,Memory Island Park,,BC,CA,48.611,-123.633,ardac
+BC1390,Meridian Road (Vanderhoof) Ecological Reserve,,BC,CA,53.6503,-124.0184,ardac
+BC909,Merritt,,British Columbia,CA,50.1114,-120.79,ardac
+BC931,Merville,,British Columbia,CA,49.7848,-125.057,ardac
+BC694,Mesachie Lake,,British Columbia,CA,48.8124,-124.125,ardac
+BC533,Metchosin,,British Columbia,CA,48.3756,-123.529,ardac
+BC627,Metlakatla,,British Columbia,CA,54.3375,-130.443,ardac
+BC925,Meziadin Junction,,British Columbia,CA,56.0997,-129.305,ardac
+BC1391,Meziadin Lake Park,,BC,CA,56.0858,-129.3001,ardac
+BC20,Mica Creek,,British Columbia,CA,52.0059,-118.562,ardac
+BC478,Middle River,,British Columbia,CA,54.8761,-125.13,ardac
+BC408,Midway,,British Columbia,CA,49.0071,-118.773,ardac
 BC1015,Mile 62 1/2,,British Columbia,CA,56.4084,-121.157,ardac
+BC509,Mill Bay,,British Columbia,CA,48.6449,-123.556,ardac
+BC434,Minstrel Island,,British Columbia,CA,50.6154,-126.308,ardac
+BC147,Miocene,,British Columbia,CA,52.2503,-121.771,ardac
+BC1392,Miracle Beach Park,,BC,CA,49.8459,-125.0974,ardac
+BC615,Mirror Lake,,British Columbia,CA,49.8829,-116.902,ardac
+BC216,Mission,,British Columbia,CA,49.1376,-122.304,ardac
+BC1393,Misty Lake Ecological Reserve,,BC,CA,50.6076,-127.2621,ardac
+BC473,Mitchell Bay,,British Columbia,CA,50.6333,-126.85,ardac
+BC1394,Mitlenatch Island Nature Park,,BC,CA,49.9502,-125.0046,ardac
+BC241,Miworth,,British Columbia,CA,53.9399,-122.949,ardac
+BC287,Moberly Lake,,British Columbia,CA,55.8333,-121.758,ardac
+BC1395,Moberly Lake Park,,BC,CA,55.8074,-121.694,ardac
+BC403,Moha,,British Columbia,CA,50.8641,-122.17,ardac
+BC1396,Monck Park,,BC,CA,50.1753,-120.5384,ardac
+BC1397,Montague Harbour Marine Park,,BC,CA,48.9002,-123.4049,ardac
+BC575,Monte Creek,,British Columbia,CA,50.6487,-119.958,ardac
+BC1398,Monte Creek Park,,BC,CA,50.6497,-119.9471,ardac
+BC240,Monte Lake,,British Columbia,CA,50.5254,-119.832,ardac
+BC1399,Monte Lake Park,,BC,CA,50.5002,-119.8315,ardac
+BC965,Montney,,British Columbia,CA,56.4503,-120.926,ardac
+BC886,Montrose,,British Columbia,CA,49.0788,-117.591,ardac
+BC1400,Moore/McKenny/Whitmore Islands Ecological Reserve,,BC,CA,52.6546,-129.4334,ardac
+BC423,Mooyah Bay,,British Columbia,CA,49.6295,-126.458,ardac
+BC1401,Morden Colliery Historic Park,,BC,CA,49.0957,-123.8722,ardac
+BC554,Moresby Camp,,British Columbia,CA,53.0475,-132.029,ardac
+BC1402,Morice River Ecological Reserve,,BC,CA,54.2347,-126.8621,ardac
+BC711,Moricetown,,British Columbia,CA,55.0183,-127.331,ardac
+BC1403,Morrissey Park,,BC,CA,49.3898,-115.0171,ardac
+BC1404,Morton Lake Park,,BC,CA,50.1244,-125.4787,ardac
 BC1016,Mount Baldy,,British Columbia,CA,49.1522,-119.237,ardac
+BC163,Mount Currie,,British Columbia,CA,50.3249,-122.656,ardac
+BC1405,Mount Derby Ecological Reserve,,BC,CA,50.4411,-126.5528,ardac
+BC1406,Mount Elliot Ecological Reserve,,BC,CA,50.3091,-126.5089,ardac
+BC1407,Mount Elphinstone Park,,BC,CA,49.4474,-123.6314,ardac
+BC1408,Mount Erskine Park,,BC,CA,48.8489,-123.549,ardac
+BC1409,Mount Fernie Park,,BC,CA,49.4886,-115.1017,ardac
+BC1410,Mount Geoffery Escarpment Park,,BC,CA,49.506,-124.6824,ardac
+BC1411,Mount Maxwell Ecological Reserve,,BC,CA,48.8138,-123.5464,ardac
+BC1412,Mount Maxwell Park,,BC,CA,48.8038,-123.5149,ardac
+BC120,Mount Robson,,British Columbia,CA,53.0309,-119.228,ardac
+BC1413,Mount Robson Corridor Protected Area,,BC,CA,52.9495,-118.8864,ardac
+BC1414,Mount Robson Protected Area,,BC,CA,53.0114,-119.2908,ardac
+BC1415,Mount Sabine Ecological Reserve,,BC,CA,50.1854,-115.7959,ardac
+BC1416,Mount Savona Park,,BC,CA,50.6939,-120.8001,ardac
+BC1417,Mount Tinsdale Ecological Reserve,,BC,CA,53.0216,-121.2703,ardac
+BC1418,Mount Tuam Ecological Reserve,,BC,CA,48.7286,-123.4696,ardac
+BC1419,Mount Tzuhalem Ecological Reserve,,BC,CA,48.7903,-123.6379,ardac
+BC913,Moyie,,British Columbia,CA,49.2888,-115.832,ardac
+BC1420,Moyie Lake Park,,BC,CA,49.3719,-115.8381,ardac
+BC51,Mud Bay,,British Columbia,CA,49.4667,-124.8,ardac
+BC1421,Mud Lake Delta Park,,BC,CA,52.1198,-119.1574,ardac
+BC227,Mud River,,British Columbia,CA,53.7612,-123.012,ardac
+BC1422,Mudzenchoot Park,,BC,CA,55.0362,-124.4418,ardac
+BC140,Muncho Lake,,British Columbia,CA,58.9333,-125.767,"ardac,ncr"
+BC506,Murrayville,,British Columbia,CA,49.0904,-122.616,ardac
+BC1423,Murrin Park,,BC,CA,49.6438,-123.2077,ardac
+BC654,Musgrave Landing,,British Columbia,CA,48.7511,-123.546,ardac
+BC336,Musqueam,,British Columbia,CA,49.2298,-123.2,ardac
+BC1424,Myra-Bellevue Protected Area,,BC,CA,49.7825,-119.3323,ardac
+BC209,Myrtle Point,,British Columbia,CA,49.8012,-124.481,ardac
 BC1017,Nadleh Whuten,,British Columbia,CA,54.0885,-124.598,ardac
+BC1425,Nahatlatch Protected Area,,BC,CA,50.0075,-121.6891,ardac
+BC926,Nahun,,British Columbia,CA,50.0833,-119.5,ardac
+BC1426,Nairn Falls Park,,BC,CA,50.2917,-122.8235,ardac
+BC445,Nak'azdli,,British Columbia,CA,54.4309,-124.248,ardac
+BC787,Nakusp,,British Columbia,CA,50.2418,-117.799,ardac
+BC1427,Nalbeelah Creek Wetlands Park,,BC,CA,54.1438,-128.5752,ardac
+BC455,Namgis,,British Columbia,CA,50.5919,-126.944,ardac
+BC633,Namu,,British Columbia,CA,51.8613,-127.86,ardac
+BC1428,Namu Corridor Conservancy,,BC,CA,51.9123,-127.7446,ardac
+BC808,Nanaimo,,British Columbia,CA,49.1659,-123.939,ardac
+BC1429,Nancy Greene Park,,BC,CA,49.2518,-117.9444,ardac
+BC483,Nanoose Bay,,British Columbia,CA,49.2667,-124.2,ardac
+BC392,Naramata,,British Columbia,CA,49.5942,-119.587,ardac
+BC583,Nass Camp,,British Columbia,CA,55.2884,-129.006,ardac
+BC141,Nazko,,British Columbia,CA,52.9435,-123.581,ardac
+BC1430,Nechako River Ecological Reserve,,BC,CA,53.9278,-123.2353,ardac
+BC1431,Nechako River Migratory Bird Sanctuary,,BC,CA,54.0214,-124.0343,ardac
 BC1018,Nee-Tahi-Buhn,,British Columbia,CA,54.0074,-125.956,ardac
+BC1432,Negetl/Nekite Estuary Conservancy,,BC,CA,51.4008,-127.1248,ardac
+BC529,Nelson,,British Columbia,CA,49.4975,-117.282,ardac
+BC235,Nelway,,British Columbia,CA,49.0147,-117.273,ardac
+BC296,Nemaiah Valley,,British Columbia,CA,51.4776,-123.887,ardac
+BC231,Neskonlith,,British Columbia,CA,50.7739,-119.716,ardac
+BC1433,Netalzul Meadows Park,,BC,CA,55.2366,-127.033,ardac
+BC442,New Aiyansh,,British Columbia,CA,55.2003,-129.072,ardac
 BC1019,New Brighton,,British Columbia,CA,49.45,-123.433,ardac
+BC781,New Denver,,British Columbia,CA,49.9917,-117.374,ardac
+BC857,New Hazelton,,British Columbia,CA,55.2466,-127.586,ardac
+BC353,New Westminster,,British Columbia,CA,49.2167,-122.917,ardac
+BC1434,Newcastle Island Marine Park,,BC,CA,49.1916,-123.9346,ardac
+BC25,Niagara,,British Columbia,CA,49.1071,-118.466,ardac
+BC527,Nicholson,,British Columbia,CA,51.2481,-116.901,ardac
+BC1435,Nickel Plate Park,,BC,CA,49.4049,-119.9471,ardac
+BC1436,Nicolum River Park,,BC,CA,49.363,-121.3432,ardac
+BC1437,Nilkitkwa Lake Park,,BC,CA,55.3898,-126.6569,ardac
+BC83,Nimpkish,,British Columbia,CA,50.3333,-126.917,ardac
+BC1438,Nimpkish River Ecological Reserve,,BC,CA,50.0836,-126.4634,ardac
+BC167,Nimpo Lake,,British Columbia,CA,52.3364,-125.14,ardac
+BC1439,Nisga'a Memorial Lava Bed Corridor Protected Area,,BC,CA,55.1896,-129.0813,ardac
+BC1440,Niskonlith Lake Park,,BC,CA,50.7972,-119.776,ardac
+BC1441,Nitinat Lake Ecological Reserve,,BC,CA,48.7661,-124.7222,ardac
+BC1442,Nitinat River Park,,BC,CA,48.884,-124.5939,ardac
+BC178,Nooaitch,,British Columbia,CA,50.1545,-121.041,ardac
+BC66,Nootka,,British Columbia,CA,49.6248,-126.627,ardac
+BC978,Noralee,,British Columbia,CA,53.9833,-126.433,ardac
+BC1443,Norbury Lake Park,,BC,CA,49.5409,-115.4846,ardac
+BC659,North Bend,,British Columbia,CA,49.8833,-121.45,ardac
+BC277,North Delta,,British Columbia,CA,49.1547,-122.911,ardac
+BC179,North Saanich,,British Columbia,CA,48.6217,-123.421,ardac
+BC1444,North Spit Conservancy,,BC,CA,55.2556,-126.581,ardac
+BC1445,North Thompson Islands Park,,BC,CA,51.3706,-120.1783,ardac
+BC1446,North Thompson Oxbows East Park,,BC,CA,52.4813,-119.2434,ardac
+BC1447,North Thompson Oxbows Jensen Island Park,,BC,CA,50.8688,-120.2836,ardac
+BC1448,North Thompson Oxbows Manteau Park,,BC,CA,52.4903,-119.3242,ardac
+BC1449,North Thompson River Park,,BC,CA,51.6269,-120.0861,ardac
+BC432,North Vancouver,,British Columbia,CA,49.3142,-123.067,ardac
+BC1450,Northern Rocky Mountains Protected Area,,BC,CA,58.6596,-124.4569,ardac
+BC256,Notch Hill,,British Columbia,CA,50.8528,-119.435,ardac
 BC1020,Nuchatlaht,,British Columbia,CA,49.9901,-126.94,ardac
+BC1451,Nuchatlitz Park,,BC,CA,49.8125,-126.967,ardac
+BC261,Nukko Lake,,British Columbia,CA,54.0833,-122.983,ardac
+BC238,Nulki,,British Columbia,CA,53.9185,-124.197,ardac
+BC477,Oak Bay,,British Columbia,CA,48.4301,-123.309,ardac
+BC1452,Oak Bay Islands Ecological Reserve,,BC,CA,48.4312,-123.25,ardac
+BC701,Ocean Falls,,British Columbia,CA,52.3472,-127.689,ardac
+BC797,Ocean Grove,,British Columbia,CA,49.9524,-125.202,ardac
+BC1453,Octopus Islands Park,,BC,CA,50.2646,-125.2348,ardac
+BC347,Ogden,,British Columbia,CA,50.7819,-122.822,ardac
+BC710,Okanagan Falls,,British Columbia,CA,49.3428,-119.571,ardac
+BC1454,Okanagan Falls Park,,BC,CA,49.3409,-119.581,ardac
+BC1455,Okanagan Lake Park,,BC,CA,49.6856,-119.7262,ardac
+BC339,Okanagan Mission,,British Columbia,CA,49.8167,-119.483,ardac
+BC1456,Okeover Arm Park,,BC,CA,49.9915,-124.7145,ardac
+BC957,Olalla,,British Columbia,CA,49.2634,-119.829,ardac
+BC324,Old Fort,,British Columbia,CA,55.0376,-126.318,ardac
+BC31,Old Fort St. John,,British Columbia,CA,56.2022,-120.823,ardac
+BC1457,Old Man Lake Park,,BC,CA,54.409,-126.4011,ardac
+BC7,Old Massett,G̱aw,British Columbia,CA,54.0418,-132.184,ardac
+BC940,Old Town,,British Columbia,CA,49.55,-115.967,ardac
+BC809,Oliver,,British Columbia,CA,49.1826,-119.553,ardac
+BC1458,Oliver Cove Marine Park,,BC,CA,52.311,-128.3532,ardac
+BC43,Oliver's Landing,,British Columbia,CA,49.5833,-123.221,ardac
+BC1459,One Island Lake Park,,BC,CA,55.3053,-120.2775,ardac
+BC337,Oona River,,British Columbia,CA,53.9469,-130.256,ardac
+BC679,Ootischenia,,British Columbia,CA,49.2833,-117.633,ardac
+BC221,Ootsa Lake,,British Columbia,CA,53.8068,-126.042,ardac
+BC801,Opitsat,,British Columbia,CA,49.1751,-125.912,ardac
+BC129,Oregon Jack Creek,,British Columbia,CA,50.6667,-121.267,ardac
+BC1460,Oregon Jack Park,,BC,CA,50.6378,-121.4945,ardac
+BC160,Osborn,,British Columbia,CA,56.6042,-120.378,ardac
+BC496,Osland,,British Columbia,CA,54.1333,-130.167,ardac
+BC777,Osoyoos,,British Columbia,CA,49.0311,-119.465,ardac
+BC1461,Otter Lake Park,,BC,CA,49.586,-120.7742,ardac
+BC323,Oweekeno,,British Columbia,CA,51.6853,-127.207,ardac
+BC404,Owen Bay,,British Columbia,CA,50.3169,-125.214,ardac
+BC1462,Owyacumish River Park,,BC,CA,53.5384,-128.4307,ardac
+BC807,Oyama,,British Columbia,CA,50.1111,-119.368,ardac
+BC525,Oyster River,,British Columbia,CA,49.8738,-125.129,ardac
+BC1463,Paarens Beach Park,,BC,CA,54.4185,-124.38,ardac
+BC226,Pacheedaht,,British Columbia,CA,48.581,-124.405,ardac
+BC1464,Painted Bluffs Park,,BC,CA,50.7957,-120.7433,ardac
+BC1,Panorama Mountain Resort,,British Columbia,CA,50.4583,-116.237,ardac
 BC1021,Park Siding,,British Columbia,CA,49.1725,-117.493,ardac
+BC1465,Parker Lake Ecological Reserve,,BC,CA,58.8122,-122.9046,ardac
+BC348,Parksville,,British Columbia,CA,49.3227,-124.327,ardac
+BC1466,Parksville-Qualicum Beach Wildlife Management Area,,BC,CA,49.2991,-124.3167,ardac
+BC735,Parson,,British Columbia,CA,51.0708,-116.632,ardac
+BC648,Paterson,,British Columbia,CA,49.0067,-117.831,ardac
+BC1467,Patsuk Creek Ecological Reserve,,BC,CA,55.637,-123.3755,ardac
+BC1468,Paul Lake Park,,BC,CA,50.7434,-120.1317,ardac
+BC1469,Paul Lake Recreation Area,,BC,CA,50.7356,-120.1624,ardac
+BC373,Pauquachin,,British Columbia,CA,48.6204,-123.453,ardac
+BC717,Pavilion,,British Columbia,CA,50.8833,-121.833,ardac
+BC1470,Peace Arch Park,,BC,CA,49.0045,-122.7581,ardac
+BC289,Peachland,,British Columbia,CA,49.7786,-119.736,ardac
 BC1022,Peejay,,British Columbia,CA,56.8833,-120.617,ardac
+BC498,Pemberton,,British Columbia,CA,50.3167,-122.8,ardac
+BC104,Pemberton Meadows,,British Columbia,CA,50.4417,-122.917,ardac
+BC757,Pendleton Bay,,British Columbia,CA,54.5167,-125.717,ardac
+BC286,Penelakut,,British Columbia,CA,48.9749,-123.641,ardac
+BC1471,Pennask Lake Park,,BC,CA,49.9901,-120.0991,ardac
+BC499,Penny,,British Columbia,CA,53.8474,-121.284,ardac
+BC1472,Penrose Island Marine Park,,BC,CA,51.4819,-127.7284,ardac
+BC301,Penticton,,British Columbia,CA,49.4822,-119.585,ardac
+BC562,Perow,,British Columbia,CA,54.5202,-126.44,ardac
+BC1473,Petroglyph Park,,BC,CA,49.1406,-123.9262,ardac
+BC197,Phillips Arm,,British Columbia,CA,50.5459,-125.356,ardac
+BC1474,Phillips Estuary/?Nacinuxw Conservancy,,BC,CA,50.6015,-125.328,ardac
+BC1475,Pillar Park,,BC,CA,50.5891,-119.6319,ardac
+BC1476,Pilot Bay Park,,BC,CA,49.6373,-116.8638,ardac
+BC652,Pinantan Lake,,British Columbia,CA,50.7264,-120.036,ardac
+BC436,Pinchi,,British Columbia,CA,54.5706,-124.493,ardac
+BC249,Pinchi Lake,,British Columbia,CA,54.6272,-124.404,ardac
+BC1477,Pine River Breaks Park,,BC,CA,55.6893,-121.3692,ardac
+BC24,Pine Valley,,British Columbia,CA,52.1753,-122.09,ardac
+BC30,Pineview,,British Columbia,CA,53.8367,-122.658,ardac
+BC91,Pink Mountain,,British Columbia,CA,57.0357,-122.507,ardac
+BC1478,Pink Mountain Park,,BC,CA,57.0702,-122.883,ardac
+BC1479,Pinnacles Park,,BC,CA,52.9791,-122.5605,ardac
+BC1480,Pirates Cove Marine Park,,BC,CA,49.0959,-123.7253,ardac
+BC617,Pitt Meadows,,British Columbia,CA,49.2172,-122.686,ardac
+BC1481,Pitt Polder Ecological Reserve,,BC,CA,49.324,-122.6387,ardac
+BC963,Pleasant Camp,,British Columbia,CA,59.4546,-136.365,"ardac,ncr"
+BC666,Pleasantside,,British Columbia,CA,49.2934,-122.847,ardac
+BC1482,Plumper Cove Marine Park,,BC,CA,49.4047,-123.4666,ardac
+BC356,Pope Landing,,British Columbia,CA,49.6145,-124.048,ardac
+BC214,Popkum,,British Columbia,CA,49.2002,-121.736,ardac
+BC96,Porcher Island,,British Columbia,CA,54.0867,-130.392,ardac
+BC1483,Porpoise Bay Park,,BC,CA,49.5069,-123.7481,ardac
+BC419,Port Alberni,,British Columbia,CA,49.2417,-124.8,ardac
+BC151,Port Alice,,British Columbia,CA,50.3833,-127.45,ardac
+BC1484,Port Arthur Conservancy,,BC,CA,54.7505,-126.065,ardac
+BC776,Port Clements,,British Columbia,CA,53.6852,-132.179,ardac
+BC309,Port Coquitlam,,British Columbia,CA,49.2567,-122.762,ardac
+BC700,Port Edward,,British Columbia,CA,54.2224,-130.288,ardac
+BC421,Port Hardy,,British Columbia,CA,50.7189,-127.507,ardac
+BC611,Port McNeill,,British Columbia,CA,50.586,-127.079,ardac
+BC215,Port Moody,,British Columbia,CA,49.2786,-122.868,ardac
+BC285,Port Neville,,British Columbia,CA,50.4993,-126.081,ardac
+BC349,Port Renfrew,,British Columbia,CA,48.5574,-124.405,ardac
+BC629,Port Washington,,British Columbia,CA,48.8166,-123.321,ardac
+BC1485,Portage Brule Rapids Ecological Reserve,,BC,CA,59.6397,-126.9064,ardac
+BC1486,Portage Brule Rapids Protected Area,,BC,CA,59.6491,-126.8996,ardac
+BC1487,Porteau Cove Park,,BC,CA,49.5592,-123.2334,ardac
+BC1488,Porteau Cove Recreation Area,,BC,CA,49.5594,-123.2358,ardac
+BC244,Powder King,,British Columbia,CA,55.3505,-122.615,ardac
+BC173,Powell River,,British Columbia,CA,49.872,-124.546,ardac
+BC262,Premier Lake,,British Columbia,CA,49.9517,-115.659,ardac
+BC1489,Premier Lake Park,,BC,CA,49.9114,-115.643,ardac
+BC837,Prespatou,,British Columbia,CA,56.9223,-121.063,ardac
+BC259,Prince George,,British Columbia,CA,53.9116,-122.776,ardac
+BC481,Prince Rupert,,British Columbia,CA,54.315,-130.315,ardac
+BC1490,Princess Louisa Marine Park,,BC,CA,50.1993,-123.7817,ardac
+BC395,Princeton,,British Columbia,CA,49.4524,-120.514,ardac
+BC322,Pritchard,,British Columbia,CA,50.6851,-119.812,ardac
+BC1491,Pritchard Park,,BC,CA,50.6885,-119.826,ardac
+BC667,Procter,,British Columbia,CA,49.6156,-116.956,ardac
+BC8,Progress,,British Columbia,CA,55.7817,-120.716,ardac
+BC702,Promontory,,British Columbia,CA,49.1006,-121.937,ardac
+BC79,Prophet River,,British Columbia,CA,58.0943,-122.71,ardac
+BC1492,Prophet River Hotsprings Park,,BC,CA,57.6518,-124.024,ardac
+BC1493,Prophet River Wayside Park,,BC,CA,57.9747,-122.7766,ardac
+BC1494,Prudhomme Lake Park,,BC,CA,54.2408,-130.1318,ardac
+BC204,Punchaw,,British Columbia,CA,53.4306,-123.182,ardac
+BC1495,Puntchesaukt Lake Park,,BC,CA,52.9824,-122.9386,ardac
+BC1496,Pure Lake Park,,BC,CA,53.8652,-132.0803,ardac
+BC1497,Pyramid Creek Falls Park,,BC,CA,52.3559,-119.1662,ardac
+BC109,Qualicum,,British Columbia,CA,49.4,-124.617,ardac
+BC255,Qualicum Bay,,British Columbia,CA,49.4045,-124.633,ardac
+BC877,Qualicum Beach,,British Columbia,CA,49.3475,-124.442,ardac
+BC1498,Qualicum National Wildlife Area,,BC,CA,49.3559,-124.4616,ardac
+BC484,Quathiaski Cove,,British Columbia,CA,50.0454,-125.21,ardac
+BC123,Quatsino,,British Columbia,CA,50.6151,-127.574,ardac
+BC1499,Quatsino Park,,BC,CA,50.494,-127.8189,ardac
+BC1500,Qudes/Gillard-Jimmy Judd Islands Conservancy,,BC,CA,50.3911,-125.1613,ardac
 BC1023,Queens Cove,,British Columbia,CA,49.8833,-126.983,ardac
+BC495,Quesnel,,British Columbia,CA,52.9806,-122.504,ardac
+BC150,Quesnel Forks,,British Columbia,CA,52.6564,-121.663,ardac
+BC1501,Qwiquallaaq/Boat Bay Conservancy,,BC,CA,50.5368,-126.6146,ardac
+BC1502,Race Rocks Ecological Reserve,,BC,CA,48.2976,-123.5311,ardac
+BC663,Radium Hot Springs,,British Columbia,CA,50.623,-116.08,ardac
+BC1503,Raft Cove Park,,BC,CA,50.5848,-128.2305,ardac
+BC1504,Rainbow Alley Park,,BC,CA,55.335,-126.6417,ardac
+BC1505,Ram Creek Ecological Reserve,,BC,CA,50.0341,-115.6007,ardac
+BC544,Ranchero,,British Columbia,CA,50.657,-119.198,ardac
+BC889,Raspberry,,British Columbia,CA,49.3358,-117.657,ardac
+BC1506,Raspberry Harbour Ecological Reserve,,BC,CA,56.0981,-124.2512,ardac
+BC1507,Rathtrevor Beach Park,,BC,CA,49.3207,-124.2699,ardac
+BC856,Rayleigh,,British Columbia,CA,50.7974,-120.32,ardac
+BC207,Read Island,,British Columbia,CA,50.1812,-125.086,ardac
+BC1508,Read Island Park,,BC,CA,50.1444,-125.1323,ardac
+BC1509,Rearguard Falls Park,,BC,CA,52.9733,-119.3647,ardac
+BC1510,Rebecca Spit Marine Park,,BC,CA,50.1003,-125.1883,ardac
+BC699,Red Bluff,,British Columbia,CA,52.9654,-122.461,ardac
+BC1511,Red Bluff Park,,BC,CA,54.8508,-126.1803,ardac
+BC953,Red Rock,,British Columbia,CA,53.6886,-122.671,ardac
+BC819,Redstone,,British Columbia,CA,52.1333,-123.7,ardac
+BC1512,Reef Island Wildlife Management Area,,BC,CA,52.8709,-131.5183,ardac
+BC769,Refuge Cove,,British Columbia,CA,50.1238,-124.836,ardac
+BC212,Reid Lake,,British Columbia,CA,53.9667,-123.1,ardac
+BC638,Remo,,British Columbia,CA,54.5007,-128.719,ardac
+BC465,Renata,,British Columbia,CA,49.4268,-118.107,ardac
+BC1513,Rendezvous Island South Park,,BC,CA,50.2606,-125.0333,ardac
+BC1514,Rescue Bay Conservancy,,BC,CA,52.5175,-128.2962,ardac
+BC1515,Restoration Bay Conservancy,,BC,CA,52.0236,-127.6264,ardac
+BC565,Retallack,,British Columbia,CA,50.0414,-117.14,ardac
+BC712,Revelstoke,,British Columbia,CA,51.0012,-118.196,ardac
+BC180,Rhone,,British Columbia,CA,49.219,-119.018,ardac
+BC938,Rich Bar,,British Columbia,CA,52.9149,-122.456,ardac
+BC280,Richmond,,British Columbia,CA,49.1539,-123.158,ardac
+BC948,Riondel,,British Columbia,CA,49.7618,-116.856,ardac
+BC313,Riske Creek,,British Columbia,CA,51.9596,-122.518,ardac
+BC593,River Jordan,,British Columbia,CA,48.4221,-124.05,ardac
+BC270,Rivers Inlet,,British Columbia,CA,51.6842,-127.259,ardac
+BC555,Roberts Creek,,British Columbia,CA,49.426,-123.646,ardac
+BC1516,Roberts Creek Park,,BC,CA,49.4419,-123.6723,ardac
+BC1517,Roberts Memorial Park,,BC,CA,49.0623,-123.7744,ardac
+BC643,Robson,,British Columbia,CA,49.3375,-117.691,ardac
+BC1518,Robson Bight (Michael Bigg) Ecologcial Reserve,,BC,CA,50.4815,-126.5659,ardac
+BC45,Rock Bay,,British Columbia,CA,50.3323,-125.486,ardac
+BC1519,Rock Bay Marine Park,,BC,CA,50.3262,-125.4421,ardac
+BC858,Rock Creek,,British Columbia,CA,49.0596,-118.999,ardac
+BC1520,Rock Creek Park,,BC,CA,49.0563,-119.0003,ardac
+BC1521,Roderick Haig-Brown Park,,BC,CA,50.9151,-119.6141,ardac
+BC33,Roe Lake,,British Columbia,CA,51.5208,-120.831,ardac
+BC315,Rogers Pass,,British Columbia,CA,51.3009,-117.521,ardac
+BC832,Rolla,,British Columbia,CA,55.8986,-120.143,ardac
+BC1522,Rolla Canyon Ecological Reserve,,BC,CA,55.8798,-120.0056,ardac
+BC1523,Rolley Lake Park,,BC,CA,49.2435,-122.3868,ardac
+BC225,Roosville,,British Columbia,CA,49.0236,-115.047,ardac
+BC1524,Roscoe Bay Park,,BC,CA,50.1591,-124.7745,ardac
+BC860,Rose Harbour,,British Columbia,CA,52.1477,-131.085,ardac
+BC1525,Rose Islets Ecological Reserve,,BC,CA,49.0087,-123.6442,ardac
+BC254,Rose Prairie,,British Columbia,CA,56.5087,-120.783,ardac
+BC1526,Rose Spit Ecological Reserve,,BC,CA,54.1587,-131.6621,ardac
+BC923,Rosebery,,British Columbia,CA,50.0333,-117.411,ardac
+BC1527,Rosebery Park,,BC,CA,50.0353,-117.4037,ardac
+BC844,Rosedale,,British Columbia,CA,49.182,-121.804,ardac
+BC1528,Rosewall Creek Park,,BC,CA,49.454,-124.7776,ardac
+BC1529,Ross Lake Ecological Reserve,,BC,CA,49.0039,-121.0506,ardac
+BC1530,Ross Lake Park,,BC,CA,55.2597,-127.5239,ardac
+BC890,Rossland,,British Columbia,CA,49.0775,-117.801,ardac
+BC169,Rosswood,,British Columbia,CA,54.8,-128.767,ardac
+BC411,Round Lake,,British Columbia,CA,54.6648,-126.923,ardac
+BC915,Royston,,British Columbia,CA,49.6454,-124.945,ardac
+BC229,Ruby Creek,,British Columbia,CA,49.3468,-121.597,ardac
+BC1531,Ruckle Park,,BC,CA,48.7809,-123.3887,ardac
+BC1532,Rugged Point Marine Park,,BC,CA,49.9628,-127.2388,ardac
+BC655,Rumble Beach,,British Columbia,CA,50.4265,-127.482,ardac
+BC1533,Ruth Lake Park,,BC,CA,51.827,-121.0312,ardac
+BC849,Rutland,,British Columbia,CA,49.8883,-119.391,ardac
+BC1534,Ryan Park,,BC,CA,49.1353,-116.0311,ardac
+BC198,Saanich,,British Columbia,CA,48.4878,-123.388,ardac
+BC223,Saanichton,,British Columbia,CA,48.6,-123.417,ardac
+BC1535,Sabine Channel Marine Park,,BC,CA,49.5132,-124.2841,ardac
+BC72,Saik'uz,,British Columbia,CA,53.945,-124.109,ardac
+BC804,Salmo,,British Columbia,CA,49.1916,-117.277,ardac
+BC439,Salmon Arm,,British Columbia,CA,50.7,-119.267,ardac
+BC206,Salmon Valley,,British Columbia,CA,54.0833,-122.7,ardac
+BC461,Saltair,,British Columbia,CA,48.9571,-123.774,ardac
+BC674,Saltery Bay,,British Columbia,CA,49.7833,-124.183,ardac
+BC1536,Saltery Bay Park,,BC,CA,49.783,-124.196,ardac
 BC1024,Samahquam,,British Columbia,CA,50.0513,-122.539,ardac
+BC1537,San Juan Ridge Ecological Reserve,,BC,CA,48.5306,-124.1019,ardac
+BC1538,San Juan River Estuary Ecological Reserve,,BC,CA,48.5739,-124.3676,ardac
+BC137,Sanca,,British Columbia,CA,49.3917,-116.735,ardac
+BC1539,Sanctuary Bay Conservancy,,BC,CA,55.0428,-126.2657,ardac
+BC1540,Sand Point Conservancy,,BC,CA,54.7128,-125.9721,ardac
+BC448,Sandon,,British Columbia,CA,49.9833,-117.233,ardac
+BC380,Sandspit,,British Columbia,CA,53.2479,-131.814,ardac
+BC1541,Sandwell Park,,BC,CA,49.1861,-123.8175,ardac
+BC1542,Sandy Island Marine Park,,BC,CA,49.6202,-124.8507,ardac
+BC1543,Santa Getrudis-Boca del Infierno Park,,BC,CA,49.6109,-126.6293,ardac
+BC534,Saratoga Beach,,British Columbia,CA,49.8595,-125.116,ardac
+BC704,Sardis,,British Columbia,CA,49.1367,-121.959,ardac
+BC1544,Sargeant Bay Park,,BC,CA,49.4861,-123.87,ardac
+BC148,Sarita,,British Columbia,CA,48.8833,-125.033,ardac
+BC1545,Sartine Islands Ecological Reserve,,BC,CA,50.8195,-128.9128,ardac
+BC321,Saseenos,,British Columbia,CA,48.3908,-123.669,ardac
+BC193,Saturna,,British Columbia,CA,48.7945,-123.195,ardac
 BC1025,Saulteau,,British Columbia,CA,55.835,-121.656,ardac
+BC745,Savona,,British Columbia,CA,50.7511,-120.841,ardac
+BC597,Sayward,,British Columbia,CA,50.377,-125.952,ardac
+BC81,Scotch Creek,,British Columbia,CA,50.9014,-119.451,ardac
+BC162,Scowlitz,,British Columbia,CA,49.2425,-122.002,ardac
+BC220,Seabird Island,,British Columbia,CA,49.2542,-121.731,ardac
+BC668,Seaford,,British Columbia,CA,50.0833,-124.9,ardac
+BC452,Sechelt,,British Columbia,CA,49.4794,-123.762,ardac
+BC1546,Sechelt Inlets Marine Park,,BC,CA,49.6721,-123.7853,ardac
+BC383,Secret Cove,,British Columbia,CA,49.5363,-123.952,ardac
+BC1547,Seeley Lake Park,,BC,CA,55.1983,-127.69,ardac
 BC1026,Selma Park,,British Columbia,CA,49.4585,-123.733,ardac
+BC830,Semiahmoo,,British Columbia,CA,49.0126,-122.766,ardac
+BC121,Seton Lake,,British Columbia,CA,50.7047,-122.281,ardac
+BC369,Seton Portage,,British Columbia,CA,50.7069,-122.289,ardac
+BC1548,Seton Portage Historic Park,,BC,CA,50.7064,-122.2933,ardac
+BC952,Seven Mile Corner,,British Columbia,CA,55.8976,-120.324,ardac
+BC851,Sewall,,British Columbia,CA,53.7625,-132.298,ardac
+BC175,Sewell Inlet,,British Columbia,CA,52.8749,-131.987,ardac
+BC378,Seymour Arm,,British Columbia,CA,51.2484,-118.94,ardac
+BC763,Seymour Heights,,British Columbia,CA,49.3192,-123.002,ardac
+BC306,Shackan,,British Columbia,CA,50.284,-121.178,ardac
+BC750,Shady Valley,,British Columbia,CA,53.9793,-122.727,ardac
+BC329,Shalalth,,British Columbia,CA,50.7294,-122.215,ardac
+BC1549,Shannon Falls Park,,BC,CA,49.6656,-123.1622,ardac
+BC316,Shawl Bay,,British Columbia,CA,50.8433,-126.56,ardac
+BC950,Shawnigan Lake,,British Columbia,CA,48.6535,-123.622,ardac
+BC864,Shearwater,,British Columbia,CA,52.1466,-128.092,ardac
+BC1550,Shearwater Hot Springs Conservancy,,BC,CA,53.4504,-128.5584,ardac
+BC592,Shelley,,British Columbia,CA,54.0,-122.617,ardac
+BC11,Shelter Bay Ferry Terminal,,British Columbia,CA,50.6358,-117.929,ardac
+BC580,Shelter Point,,British Columbia,CA,49.9403,-125.191,ardac
+BC928,Shirley,,British Columbia,CA,48.3898,-123.904,ardac
+BC941,Shoreacres,,British Columbia,CA,49.4307,-117.527,ardac
 BC1027,Shoreholme,,British Columbia,CA,50.3,-117.85,ardac
+BC462,Shulus,,British Columbia,CA,50.1373,-120.853,ardac
+BC417,Shuswap Falls,,British Columbia,CA,50.294,-118.805,ardac
+BC1551,Shuswap Lake Marine Park,,BC,CA,51.025,-119.0325,ardac
+BC1552,Shuswap Lake Park,,BC,CA,50.9095,-119.4243,ardac
+BC1553,Shuswap River Islands Park,,BC,CA,50.5532,-118.8923,ardac
+BC355,Shutty Bench,,British Columbia,CA,49.9629,-116.907,ardac
+BC783,Sicamous,,British Columbia,CA,50.835,-118.98,ardac
+BC888,Sidney,,British Columbia,CA,48.65,-123.4,ardac
+BC764,Sikanni Chief,,British Columbia,CA,57.2346,-122.695,ardac
+BC1554,Sikanni Chief Falls Protected Area,,BC,CA,57.2609,-122.9941,ardac
+BC1555,Silver Beach Park,,BC,CA,51.2398,-118.9573,ardac
+BC266,Silver Creek,,British Columbia,CA,50.5961,-119.365,ardac
+BC1556,Silver Lake Park,,BC,CA,49.3152,-121.4122,ardac
+BC884,Silver River,,British Columbia,CA,49.5756,-121.818,ardac
+BC213,Silver Star,,British Columbia,CA,50.3572,-119.059,ardac
+BC962,Silverton,,British Columbia,CA,49.9528,-117.358,ardac
+BC90,Simpcw,,British Columbia,CA,51.2654,-120.151,ardac
+BC1557,Simpson Lake East Conservancy,,BC,CA,53.6358,-129.4872,ardac
+BC591,Simpson Ranch,,British Columbia,CA,56.6,-122.433,ardac
+BC1558,Simson Park,,BC,CA,49.4821,-123.9653,ardac
+BC564,Sinclair Mills,,British Columbia,CA,54.0167,-121.683,ardac
+BC252,Sinkut River,,British Columbia,CA,53.9538,-123.857,ardac
+BC415,Sion,,British Columbia,CA,49.0207,-118.484,ardac
+BC1559,Sir Alexander Mackenzie Park,,BC,CA,52.3802,-127.4711,ardac
+BC713,Siska,,British Columbia,CA,50.1386,-121.571,ardac
 BC1028,Six Mile,,British Columbia,CA,49.5785,-117.225,ardac
+BC1560,Six Mile Hill Protected Area,,BC,CA,50.7485,-120.722,ardac
+BC53,Six Mile Point,,British Columbia,CA,50.773,-120.7419,ardac
+BC1561,Skagit River Cottonwoods Ecological Reserve,,BC,CA,49.1661,-121.1174,ardac
+BC1562,Skagit River Forest Ecological Reserve,,BC,CA,49.1018,-121.1255,ardac
+BC1563,Skagit River Rhododendron Ecological Reserve,,BC,CA,49.0728,-121.136,ardac
+BC1564,Skedans Islands Wildlife Management Area,,BC,CA,52.9554,-131.572,ardac
+BC1565,Skeena Bank Conservancy,,BC,CA,54.1779,-129.9561,ardac
+BC1566,Skeena River Ecological Reserve,,BC,CA,54.3196,-129.3127,ardac
+BC453,Skidegate,,British Columbia,CA,53.2715,-131.988,ardac
+BC737,Skidegate Landing,,British Columbia,CA,53.2472,-132.008,ardac
+BC1567,Skihist Ecological Reserve,,BC,CA,50.2599,-121.5253,ardac
+BC1568,Skihist Park,,BC,CA,50.252,-121.5099,ardac
 BC1029,Skin Tyee,,British Columbia,CA,53.9486,-125.652,ardac
+BC571,Skookumchuck,,British Columbia,CA,49.943,-122.408,ardac
+BC1569,Skookumchuck Narrows Park,,BC,CA,49.7401,-123.9089,ardac
+BC1570,Skookumchuck Rapids Park,,BC,CA,50.6102,-118.7526,ardac
+BC536,Skuppah,,British Columbia,CA,50.1885,-121.578,ardac
+BC1571,Skwaha Lake Ecological Reserve,,BC,CA,50.4068,-121.501,ardac
+BC1572,Skwelwil'em Squamish Estuary Wildlife Management Area,,BC,CA,49.7052,-123.1757,ardac
+BC1573,Sleeping Beauty Mountain Park,,BC,CA,54.5901,-128.7659,ardac
+BC97,Slesse Park,,British Columbia,CA,49.0805,-121.821,ardac
+BC619,Sliammon,,British Columbia,CA,49.8962,-124.601,ardac
+BC1574,Slim Creek Park,,BC,CA,53.7628,-121.1839,ardac
+BC887,Slocan,,British Columbia,CA,49.7667,-117.467,ardac
+BC1575,Small Inlet Marine Park,,BC,CA,50.252,-125.2872,ardac
+BC1576,Smelt Bay Park,,BC,CA,50.0315,-124.9929,ardac
+BC1577,Smith River Falls - Fort Halkett Park,,BC,CA,59.5645,-126.465,ardac
+BC474,Smithers,,British Columbia,CA,54.7825,-127.166,ardac
+BC1578,Smithers Island Conservancy,,BC,CA,52.7606,-129.0713,ardac
+BC269,Smithers Landing,,British Columbia,CA,55.054,-126.526,ardac
+BC1579,Smuggler Cove Marine Park,,BC,CA,49.5155,-123.9555,ardac
+BC636,Snake River,,British Columbia,CA,59.0364,-122.439,ardac
+BC539,Snug Cove,,British Columbia,CA,49.3829,-123.336,ardac
+BC174,Snuneymuxw,,British Columbia,CA,49.1499,-123.929,ardac
+BC1580,Soap Lake Ecological Reserve,,BC,CA,50.378,-121.3149,ardac
+BC831,Soda Creek,,British Columbia,CA,52.3275,-122.275,ardac
+BC976,Sointula,,British Columbia,CA,50.6333,-127.017,ardac
+BC1581,Solander Island Ecological Reserve,,BC,CA,50.1113,-127.9403,ardac
+BC182,Solsqua,,British Columbia,CA,50.8707,-118.94,ardac
+BC184,Songhees,,British Columbia,CA,48.4461,-123.422,ardac
+BC789,Sooke,,British Columbia,CA,48.3823,-123.728,ardac
+BC1582,Sooke Mountain Park,,BC,CA,48.4388,-123.6573,ardac
+BC1583,Sooke Potholes Park,,BC,CA,48.4289,-123.7121,ardac
+BC683,Soowahlie,,British Columbia,CA,49.0814,-121.963,ardac
+BC813,Sorrento,,British Columbia,CA,50.8782,-119.467,ardac
+BC1584,South Arm Marshes Wildlife Management Area,,BC,CA,49.1028,-123.1037,ardac
 BC1030,South Bentinck,,British Columbia,CA,52.0444,-126.667,ardac
+BC689,South Hazelton,,British Columbia,CA,55.2375,-127.659,ardac
 BC1031,South Lakeside,,British Columbia,CA,52.1083,-122.097,ardac
+BC1585,South Okanagan Wildlife Management Area,,BC,CA,49.1154,-119.5415,ardac
+BC900,South Shalalth,,British Columbia,CA,50.7288,-122.244,ardac
+BC183,South Surrey,,British Columbia,CA,49.0543,-122.833,ardac
 BC1032,South Taylor,,British Columbia,CA,56.1068,-120.634,ardac
+BC334,South Wellington,,British Columbia,CA,49.0941,-123.887,ardac
+BC738,Southbank,,British Columbia,CA,54.0212,-125.771,ardac
+BC1586,Sowchea Bay Park,,BC,CA,54.4201,-124.4495,ardac
+BC106,Spallumcheen,,British Columbia,CA,50.5314,-119.147,ardac
+BC646,Sparwood,,British Columbia,CA,49.7326,-114.892,ardac
+BC1587,Spatsizi Headwaters Park,,BC,CA,57.0984,-128.7573,ardac
+BC1588,Spectacle Lake Park,,BC,CA,48.5789,-123.5702,ardac
+BC969,Spences Bridge,,British Columbia,CA,50.4234,-121.344,ardac
+BC1589,Spider Lake Park,,BC,CA,49.343,-124.6315,ardac
+BC793,Spillimacheen,,British Columbia,CA,50.9072,-116.364,ardac
+BC405,Springhouse,,British Columbia,CA,51.9667,-122.133,ardac
+BC130,Sproat Lake,,British Columbia,CA,49.2766,-124.924,ardac
+BC1590,Sproat Lake Park,,BC,CA,49.2956,-124.928,ardac
+BC820,Spuzzum,,British Columbia,CA,49.6886,-121.417,ardac
+BC75,Squamish,,British Columbia,CA,49.3221,-123.13,ardac
+BC143,Squeah,,British Columbia,CA,49.5042,-121.42,ardac
+BC1591,Squitty Bay Park,,BC,CA,49.4522,-124.1659,ardac
 BC1033,St. Joseph Mission,,British Columbia,CA,52.0667,-121.95,ardac
+BC110,St. Mary's,,British Columbia,CA,49.6203,-115.696,ardac
+BC1592,Stafford Estuary Conservancy,,BC,CA,50.7229,-125.4232,ardac
+BC1593,Stair Creek Conservancy,,BC,CA,53.7409,-129.095,ardac
+BC1594,Stamp River Park,,BC,CA,49.3386,-124.9239,ardac
+BC1595,Stawamus Chief Park,,BC,CA,49.684,-123.1366,ardac
+BC908,Steamboat,,British Columbia,CA,58.6756,-123.712,ardac
+BC1596,Steelhead Park,,BC,CA,50.7529,-120.8685,ardac
+BC821,Stellako,,British Columbia,CA,54.0622,-124.903,ardac
+BC1597,Stemwinder Park,,BC,CA,49.3708,-120.1363,ardac
+BC250,Stewardson Inlet,,British Columbia,CA,49.4217,-126.316,ardac
+BC558,Stewart,,British Columbia,CA,55.9418,-129.984,"ardac,ncr"
+BC40,Stillwater,,British Columbia,CA,49.7667,-124.3,ardac
+BC875,Stoner,,British Columbia,CA,53.6291,-122.662,ardac
+BC1598,Stoyoma Creek Ecological Reserve,,BC,CA,49.8788,-121.3876,ardac
+BC1599,Stuart Lake Marine Park,,BC,CA,54.6164,-124.806,ardac
+BC1600,Stuart Lake Park,,BC,CA,54.6232,-124.6443,ardac
+BC46,Stump Lake,,British Columbia,CA,50.3883,-120.328,ardac
+BC578,Sturdies Bay,,British Columbia,CA,48.8792,-123.319,ardac
+BC1601,Sturgeon Bank Wildlife Management Area,,BC,CA,49.2116,-123.2398,ardac
+BC1602,Sue Channel Park,,BC,CA,53.7191,-128.8668,ardac
 BC1034,Sugarcane,,British Columbia,CA,52.1088,-121.995,ardac
+BC1603,Sukunka Falls Park,,BC,CA,55.3254,-121.716,ardac
+BC155,Sullivan Bay,,British Columbia,CA,50.8833,-126.817,ardac
+BC588,Sumas,,British Columbia,CA,49.0531,-122.193,ardac
+BC470,Summerland,,British Columbia,CA,49.6054,-119.673,ardac
+BC189,Summit Lake,,British Columbia,CA,54.25,-122.633,ardac
+BC1604,Summit Lake Park,,BC,CA,50.1559,-117.654,ardac
+BC15,Summit Lake Provincial Park,,British Columbia,CA,50.1523,-117.661,ardac
+BC267,Sun Peaks,,British Columbia,CA,50.878,-119.908,ardac
+BC1605,Sun-Oka Beach Park,,BC,CA,49.5645,-119.6329,ardac
+BC1606,Sunbeam Creek Ecological Reserve,,BC,CA,53.3519,-120.1142,ardac
+BC528,Sunningdale,,British Columbia,CA,49.1167,-117.717,ardac
+BC929,Sunnybrae,,British Columbia,CA,50.7732,-119.27,ardac
+BC12,Sunnyside,,British Columbia,CA,54.6538,-124.732,ardac
+BC283,Sunset Prairie,,British Columbia,CA,55.8397,-120.764,ardac
+BC736,Sunshine Valley,,British Columbia,CA,49.2727,-121.239,ardac
+BC201,Surge Narrows,,British Columbia,CA,50.2306,-125.109,ardac
+BC1607,Surge Narrows Park,,BC,CA,50.2331,-125.1491,ardac
+BC237,Surrey,,British Columbia,CA,49.1745,-122.828,ardac
+BC1608,Sutton Pass Ecological Reserve,,BC,CA,49.2805,-125.3515,ardac
+BC1609,Swan Creek Protected Area,,BC,CA,54.451,-128.0947,ardac
+BC1610,Swan Lake Park,,BC,CA,55.5281,-120.0283,ardac
+BC548,Swartz Bay,,British Columbia,CA,48.6827,-123.413,ardac
+BC168,T'Sou-Ke,,British Columbia,CA,48.3861,-123.698,ardac
+BC131,T'it'q'et,,British Columbia,CA,50.5833,-121.85,ardac
+BC818,Ta Ta Creek,,British Columbia,CA,49.7833,-115.783,ardac
+BC1611,Tacheeda Lakes Ecological Reserve,,BC,CA,54.6755,-122.5097,ardac
+BC876,Tachie,,British Columbia,CA,54.6548,-124.758,ardac
+BC721,Taghum,,British Columbia,CA,49.4934,-117.399,ardac
+BC282,Tahsis,,British Columbia,CA,49.9303,-126.655,ardac
+BC1612,Tahsish River Ecological Reserve,,BC,CA,50.1475,-127.1188,ardac
+BC1613,Takla Lake Ecological Reserve,,BC,CA,55.3247,-125.8072,ardac
+BC1614,Takla Lake Marine Park,,BC,CA,55.4163,-125.9327,ardac
+BC559,Takla Landing,,British Columbia,CA,55.483,-125.974,ardac
+BC365,Takysie Lake,,British Columbia,CA,53.8833,-125.867,ardac
+BC850,Tappen,,British Columbia,CA,50.784,-119.331,ardac
+BC1615,Tarahne Park,,BC,CA,59.5779,-133.7046,ardac
+BC152,Tatalrose,,British Columbia,CA,53.9833,-125.983,ardac
+BC107,Tatla Lake,,British Columbia,CA,51.9,-124.6,ardac
+BC186,Tatlayoko Lake,,British Columbia,CA,51.7167,-124.433,ardac
+BC331,Tatogga,,British Columbia,CA,57.7163,-129.987,"ardac,ncr"
+BC139,Tatton,,British Columbia,CA,51.7057,-121.385,ardac
+BC511,Taylor,,British Columbia,CA,56.1544,-120.68,ardac
+BC1616,Taylor Arm Park,,BC,CA,49.2772,-125.0511,ardac
+BC1617,Taylor Landing Park,,BC,CA,56.1345,-120.6659,ardac
+BC236,Tchesinkut Lake,,British Columbia,CA,54.0823,-125.738,ardac
+BC1618,Teakerne Arm Park,,BC,CA,50.203,-124.8426,ardac
+BC144,Telachick,,British Columbia,CA,53.8621,-123.182,ardac
+BC784,Telegraph Cove,,British Columbia,CA,50.5457,-126.828,ardac
+BC579,Telegraph Creek,,British Columbia,CA,57.9018,-131.166,"ardac,ncr"
+BC933,Telkwa,,British Columbia,CA,54.6972,-127.05,ardac
+BC1619,Ten Mile Lake Park,,BC,CA,53.0704,-122.4427,ardac
+BC1620,Ten Mile Point Ecological Reserve,,BC,CA,48.4509,-123.2661,ardac
+BC508,Terrace,,British Columbia,CA,54.5234,-128.598,ardac
+BC166,Thompson Sound,,British Columbia,CA,50.8037,-126.008,ardac
+BC936,Thornhill,,British Columbia,CA,54.5125,-128.54,ardac
+BC1621,Three Sisters Lakes Park,,BC,CA,53.5355,-122.5302,ardac
+BC1622,Thulme Falls Conservancy,,BC,CA,54.4876,-129.9952,ardac
+BC1623,Thunder Hill Park,,BC,CA,50.1672,-115.8546,ardac
+BC1624,Thurston Bay Marine Park,,BC,CA,50.3666,-125.3216,ardac
+BC471,Tintagel,,British Columbia,CA,54.2029,-125.593,ardac
+BC191,Tipella,,British Columbia,CA,49.7446,-122.154,ardac
+BC114,Tl'etinqox,,British Columbia,CA,52.0119,-123.1719,ardac
+BC276,Tlell,,British Columbia,CA,53.5667,-131.933,ardac
+BC203,Toad River,,British Columbia,CA,58.85,-125.233,"ardac,ncr"
+BC1625,Toad River Hot Springs Park,,BC,CA,58.9256,-125.0824,ardac
+BC771,Tofino,,British Columbia,CA,49.1505,-125.906,ardac
+BC1626,Tofino Mudflats Wildlife Management Area,,BC,CA,49.1139,-125.8585,ardac
+BC647,Toosey,,British Columbia,CA,51.9323,-122.506,ardac
+BC934,Topley,,British Columbia,CA,54.5068,-126.301,ardac
+BC9,Topley Landing,,British Columbia,CA,54.8084,-126.1387,ardac
+BC1627,Topley Landing Park,,BC,CA,54.811,-126.1434,ardac
+BC116,Toquaht,,British Columbia,CA,48.9959,-125.379,ardac
+BC1628,Torkelsen Lake Ecological Reserve,,BC,CA,55.1251,-126.6635,ardac
+BC1629,Tow Hill Ecological Reserve,,BC,CA,54.0541,-131.8475,ardac
+BC785,Towdystan,,British Columbia,CA,52.2634,-125.087,ardac
+BC274,Tower Lake,,British Columbia,CA,56.0155,-120.561,ardac
+BC773,Traders Cove,,British Columbia,CA,49.9361,-119.504,ardac
+BC416,Trail,,British Columbia,CA,49.1,-117.7,ardac
+BC1630,Tranquil Creek Park,,BC,CA,49.3157,-125.621,ardac
+BC798,Tranquille,,British Columbia,CA,50.72,-120.521,ardac
+BC1631,Tranquille Ecological Reserve,,BC,CA,50.7581,-120.5757,ardac
+BC1632,Tranquille Wildlife Management Area,,BC,CA,50.7146,-120.5015,ardac
+BC1633,Trembleur Lake Park,,BC,CA,54.8277,-125.2325,ardac
+BC1634,Trial Islands Ecological Reserve,,BC,CA,48.4011,-123.3054,ardac
+BC1635,Tribune Bay Park,,BC,CA,49.529,-124.6406,ardac
+BC1636,Trout Creek Ecological Reserve,,BC,CA,49.5554,-119.7075,ardac
+BC826,Trout Lake,,British Columbia,CA,50.6472,-117.539,ardac
+BC1637,Truman Dagnus Locheed Park,,BC,CA,50.2208,-119.3727,ardac
+BC82,Tsartlip,,British Columbia,CA,48.5856,-123.456,ardac
+BC898,Tsawout,,British Columbia,CA,48.588,-123.387,ardac
+BC281,Tsawwassen,,British Columbia,CA,49.0357,-123.094,ardac
+BC774,Tsay Keh Dene,,British Columbia,CA,56.8918,-124.963,"ardac,ncr"
+BC532,Tseshaht,,British Columbia,CA,49.268,-124.858,ardac
+BC755,Tseycum,,British Columbia,CA,48.6645,-123.448,ardac
+BC1638,Tsintsunko Lake Park,,BC,CA,51.0579,-120.482,ardac
+BC1639,Tsitika Mountain Ecological Reserve,,BC,CA,50.4418,-126.6237,ardac
+BC1640,Tsitika River Ecological Reserve,,BC,CA,50.3168,-126.422,ardac
+BC1641,Tudyah Lake Park,,BC,CA,55.0624,-123.0342,ardac
+BC918,Tulameen,,British Columbia,CA,49.5458,-120.758,ardac
+BC219,Tulsequah,,British Columbia,CA,58.6577,-133.544,"ardac,ncr"
+BC457,Tumbler Ridge,,British Columbia,CA,55.1333,-121.0,ardac
+BC600,Tuwanek,,British Columbia,CA,49.5442,-123.757,ardac
+BC1642,Tweedsmuir Corridor Protected Area,,BC,CA,53.4048,-127.3009,ardac
+BC476,Twidwell Bend,,British Columbia,CA,55.6155,-121.571,ardac
+BC641,Two Mile,,British Columbia,CA,55.2687,-127.627,ardac
+BC1643,Tyhee Lake Park,,BC,CA,54.7065,-127.0384,ardac
+BC552,Tzeachten,,British Columbia,CA,49.115,-121.939,ardac
 BC1035,Tête Jaune Cache,,British Columbia,CA,52.9667,-119.429,ardac
+BC111,Uchucklesaht,,British Columbia,CA,49.0274,-125.045,ardac
+BC332,Ucluelet,,British Columbia,CA,48.9399,-125.528,ardac
+BC1644,Ugwiwey/Cape Caution-Blunden Bay Conservancy,,BC,CA,51.1842,-127.7666,ardac
+BC946,Union Bay,,British Columbia,CA,49.5802,-124.885,ardac
+BC1645,Union Passage Marine Park,,BC,CA,53.4113,-129.4391,ardac
 BC1036,University Hill,,British Columbia,CA,49.2669,-123.242,ardac
+BC302,Upper Fraser,,British Columbia,CA,54.1082,-121.931,ardac
+BC305,Upper Halfway,,British Columbia,CA,56.5176,-122.226,ardac
+BC64,Upper Nicola,,British Columbia,CA,50.137,-120.278,ardac
+BC1646,Upper Shuswap River Ecological Reserve,,BC,CA,50.6678,-118.3563,ardac
+BC1647,Upper Violet Creek Park,,BC,CA,50.721,-119.1379,ardac
+BC631,Usk,,British Columbia,CA,54.6333,-128.417,ardac
+BC382,Valemount,,British Columbia,CA,52.8305,-119.265,ardac
+BC311,Valleyview,,British Columbia,CA,50.6738,-120.25,ardac
+BC587,Van Anda,,British Columbia,CA,49.7583,-124.55,ardac
+BC1648,Vance Creek Ecological Reserve,,BC,CA,50.3056,-118.9515,ardac
+BC284,Vancouver,,British Columbia,CA,49.2448,-123.115,ardac
+BC698,Vanderhoof,,British Columbia,CA,54.0175,-124.002,ardac
+BC1649,Vaseux Lake Migratory Bird Sanctuary,,BC,CA,49.2951,-119.5366,ardac
+BC1650,Vaseux Lake Park,,BC,CA,49.3001,-119.5318,ardac
+BC1651,Vaseux-Bighorn National Wildlife Area,,BC,CA,49.2818,-119.5211,ardac
+BC684,Vavenby,,British Columbia,CA,51.5858,-119.726,ardac
+BC363,Vedder Crossing,,British Columbia,CA,49.1062,-121.971,ardac
+BC428,Vermilion Crossing,,British Columbia,CA,51.0333,-115.983,ardac
+BC706,Vernon,,British Columbia,CA,50.2642,-119.269,ardac
+BC1652,Victor Lake Park,,BC,CA,50.9559,-118.4024,ardac
+BC553,Victoria,,British Columbia,CA,48.4334,-123.362,ardac
+BC1653,Victoria Harbour Migratory Bird Sanctuary,,BC,CA,48.4093,-123.3286,ardac
+BC364,Vidette,,British Columbia,CA,51.1667,-120.9,ardac
+BC327,View Royal,,British Columbia,CA,48.4583,-123.45,ardac
 BC1037,Village of Queen Charlotte,,British Columbia,CA,53.2565,-132.094,ardac
+BC125,Wabi Hill,,British Columbia,CA,55.6707,-121.532,ardac
+BC540,Wadhams,,British Columbia,CA,51.5171,-127.519,ardac
+BC1654,Wahkash Point Conservancy,,BC,CA,50.9766,-125.5248,ardac
+BC1655,Wakeman Estuary Conservancy,,BC,CA,51.041,-126.5222,ardac
+BC1656,Wakes Cove Park,,BC,CA,49.1216,-123.702,ardac
+BC1657,Wales Harbour Conservancy,,BC,CA,54.7574,-130.5885,ardac
+BC805,Walhachin,,British Columbia,CA,50.7515,-120.991,ardac
+BC1658,Walhachin Oxbows Park,,BC,CA,50.7505,-120.9307,ardac
+BC1659,Wallace Island Marine Park,,BC,CA,48.9429,-123.5521,ardac
+BC1660,Walloper Lake Park,,BC,CA,50.4817,-120.5377,ardac
+BC338,Walnut Grove,,British Columbia,CA,49.1806,-122.648,ardac
+BC1661,Walsh Cove Park,,BC,CA,50.2686,-124.8024,ardac
+BC1662,Wap Creek Park,,BC,CA,50.7355,-118.5898,ardac
+BC651,Wardner,,British Columbia,CA,49.417,-115.429,ardac
+BC1663,Wardner Park,,BC,CA,49.4164,-115.4213,ardac
+BC718,Warfield,,British Columbia,CA,49.0945,-117.749,ardac
+BC351,Wasa,,British Columbia,CA,49.7833,-115.733,ardac
+BC1664,Wasa Lake Park,,BC,CA,49.7874,-115.7358,ardac
+BC1665,Wawley/Seymour Estuary Conservancy,,BC,CA,51.2059,-126.6678,ardac
+BC512,Weewanie,,British Columbia,CA,53.6917,-128.79,ardac
+BC1666,Weewanie Hot Springs Park,,BC,CA,53.6977,-128.7871,ardac
+BC682,Welcome Beach,,British Columbia,CA,49.48,-123.894,ardac
+BC932,Wells,,British Columbia,CA,53.1041,-121.571,ardac
+BC1667,Wendle Park,,BC,CA,53.1203,-121.5065,ardac
+BC947,Weneez,,British Columbia,CA,53.9677,-123.98,ardac
+BC1668,West Lake Park,,BC,CA,53.7364,-122.8608,ardac
+BC14,West Moberly,,British Columbia,CA,55.8272,-121.852,ardac
+BC590,West Popkum,,British Columbia,CA,49.1822,-121.773,ardac
+BC1669,West Shawnigan Lake Park,,BC,CA,48.641,-123.6513,ardac
+BC752,Westbank,,British Columbia,CA,49.8286,-119.631,ardac
+BC836,Westbridge,,British Columbia,CA,49.1715,-118.975,ardac
+BC964,Westholme,,British Columbia,CA,48.8667,-123.7,ardac
+BC581,Westmount,,British Columbia,CA,49.3439,-123.209,ardac
+BC400,Westside,,British Columbia,CA,49.8822,-119.535,ardac
+BC916,Westsyde,,British Columbia,CA,50.7637,-120.348,ardac
+BC55,Westview,,British Columbia,CA,49.8364,-124.525,ardac
+BC1670,Westwick Lakes Ecological Reserve,,BC,CA,51.9885,-122.1574,ardac
+BC263,Westwold,,British Columbia,CA,50.4679,-119.747,ardac
+BC63,Wet'suwet'en Village,,British Columbia,CA,54.3359,-125.89,ardac
+BC1671,Weymer Creek Park,,BC,CA,49.8829,-126.6157,ardac
+BC1672,Whaleboat Island Marine Park,,BC,CA,49.0737,-123.693,ardac
+BC510,Whaletown,,British Columbia,CA,50.1012,-125.047,ardac
+BC1673,Whipsaw Creek Ecological Reserve,,BC,CA,49.3773,-120.5914,ardac
+BC1674,Whiskers Point Park,,BC,CA,54.9054,-122.936,ardac
+BC233,Whisky Creek,,British Columbia,CA,49.3082,-124.508,ardac
 BC1038,Whispering Pines/Clinton,,British Columbia,CA,50.9848,-120.245,ardac
+BC485,Whistler,,British Columbia,CA,50.1215,-122.962,ardac
+BC716,Whistler Creek,,British Columbia,CA,50.0935,-122.993,ardac
+BC50,White Lake,,British Columbia,CA,50.8798,-119.302,ardac
+BC1675,White Lake Park,,BC,CA,50.8885,-119.2448,ardac
+BC1676,White River Park,,BC,CA,50.1404,-126.0331,ardac
+BC812,White Rock,,British Columbia,CA,49.0252,-122.796,ardac
+BC768,Whyac,,British Columbia,CA,48.6691,-124.846,ardac
+BC1677,Widgeon Valley National Wildlife Area,,BC,CA,49.3714,-122.6355,ardac
+BC867,Wildwood,,British Columbia,CA,49.891,-124.557,ardac
+BC36,Wiley,,British Columbia,CA,54.515,-126.334,ardac
+BC293,Williams Beach,,British Columbia,CA,49.834,-125.061,ardac
+BC1678,Williams Creek Ecological Reserve,,BC,CA,54.3696,-128.244,ardac
+BC326,Williams Lake,,British Columbia,CA,52.1415,-122.143,ardac
+BC389,Williamsons Landing,,British Columbia,CA,49.4497,-123.469,ardac
+BC644,Willow River,,British Columbia,CA,54.0787,-122.474,ardac
+BC761,Willow Valley,,British Columbia,CA,55.8563,-120.872,ardac
+BC753,Wilmer,,British Columbia,CA,50.5426,-116.063,ardac
+BC19,Wilson Creek,,British Columbia,CA,49.4409,-123.713,ardac
+BC519,Wilson Landing,,British Columbia,CA,49.9821,-119.497,ardac
+BC561,Windermere,,British Columbia,CA,50.4667,-115.983,ardac
+BC1679,Windermere Lake Park,,BC,CA,50.4215,-115.9671,ardac
+BC330,Winfield,,British Columbia,CA,50.0333,-119.402,ardac
+BC384,Winlaw,,British Columbia,CA,49.6144,-117.55,ardac
+BC975,Winter Harbour,,British Columbia,CA,50.5167,-128.033,ardac
+BC1680,Winter Inlet Conservancy,,BC,CA,54.8063,-130.4338,ardac
+BC1681,Wire Cache Park,,BC,CA,51.7226,-119.3484,ardac
+BC298,Wistaria,,British Columbia,CA,53.8474,-126.28,ardac
+BC1682,Wistaria Park,,BC,CA,53.8571,-126.3189,ardac
+BC894,Wonowon,,British Columbia,CA,56.7288,-121.814,ardac
+BC1683,Wood Mountain Ski Park,,BC,CA,49.6594,-125.1655,ardac
+BC253,Woodcock,,British Columbia,CA,55.0667,-128.233,ardac
+BC1684,Woodley Range Ecological Reserve,,BC,CA,49.0258,-123.8219,ardac
+BC515,Woodsdale,,British Columbia,CA,50.0495,-119.39,ardac
+BC489,Woss,,British Columbia,CA,50.2167,-126.6,ardac
+BC1685,Wrinkly Face Park,,BC,CA,50.0398,-119.3097,ardac
+BC811,Wycliffe,,British Columbia,CA,49.6013,-115.861,ardac
+BC966,Wynndel,,British Columbia,CA,49.18,-116.552,ardac
+BC218,Xaxli'p,,British Columbia,CA,50.7372,-121.862,ardac
+BC92,Xeni Gwet'in,,British Columbia,CA,51.4243,-124.089,ardac
+BC939,Yaculta,,British Columbia,CA,50.0217,-125.195,ardac
+BC335,Yahk,,British Columbia,CA,49.085,-116.082,ardac
+BC1686,Yahk Park,,BC,CA,49.0805,-116.0959,ardac
+BC273,Yaku,,British Columbia,CA,54.1923,-133.003,ardac
+BC870,Yale,,British Columbia,CA,49.5632,-121.43,ardac
+BC1687,Yale Garry Oak Ecological Reserve,,BC,CA,49.5674,-121.3968,ardac
+BC396,Yankee Flats,,British Columbia,CA,50.5164,-119.375,ardac
+BC1688,Yard Creek Park,,BC,CA,50.9014,-118.8208,ardac
+BC361,Yarksis,,British Columbia,CA,49.1654,-125.971,ardac
+BC703,Yarrow,,British Columbia,CA,49.0833,-122.05,ardac
+BC480,Yekooche,,British Columbia,CA,54.5992,-125.072,ardac
+BC1689,Yellow Point Bog Ecological Reserve,,BC,CA,49.0532,-123.7842,ardac
+BC922,Ymir,,British Columbia,CA,49.2833,-117.217,ardac
+BC756,Youbou,,British Columbia,CA,48.8726,-124.199,ardac
+BC224,Yreka,,British Columbia,CA,50.4638,-127.558,ardac
+BC563,Yuquot,,British Columbia,CA,49.5957,-126.624,ardac
+BC904,Zamora,,British Columbia,CA,49.15,-118.983,ardac
+BC608,Zeballos,,British Columbia,CA,49.987,-126.847,ardac
+BC1690,Zumtela Bay Conservancy,,BC,CA,54.5812,-130.3728,ardac
