@@ -252,6 +252,8 @@ def find_nearest_neighbors(
 
 def save_updated_csv(df, output_path):
     """Save the updated DataFrame to a CSV file."""
+    if "index" in df.columns:
+        df = df.drop(columns=["index"])
     if DEBUG:
         df.to_csv(f"debug/{output_path.name}", index=False)
     else:
