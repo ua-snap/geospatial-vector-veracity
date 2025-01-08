@@ -50,6 +50,7 @@ schema = {
         "longitude": "float",
         "km2ocean": "float",
         "tags": "str",
+        "is_coastal": "bool",
         "type": "str",
     },
     "Y_PRECISION": 4,
