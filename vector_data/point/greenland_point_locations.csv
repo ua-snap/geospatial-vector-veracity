@@ -1,4 +1,4 @@
-id,name,alt_name,Region,Country,latitude,longitude,tags
+id,name,alt_name,region,country,latitude,longitude,tags
 GL1,Ilulissat,,Avannaata,GL,69.2167,-51.1,ardac
 GL2,Uummannaq,,Avannaata,GL,70.6747,-52.1264,ardac
 GL3,Upernavik,,Avannaata,GL,72.7869,-56.1472,ardac
