@@ -15,13 +15,9 @@ from shapely.geometry import Point
 
 file_tags = {
     "alaska_point_locations.csv": ["eds", "ardac"],
-    "alberta_point_locations.csv": ["ardac"],
-    "british_columbia_point_locations.csv": ["ardac"],
-    "manitoba_point_locations.csv": ["ardac"],
-    "northwest_territories_point_locations.csv": ["ardac"],
-    "saskatchewan_point_locations.csv": ["ardac"],
-    "yukon_point_locations.csv": ["ardac"],
 }
+
+tags_for_all_locations = ["ardac"]
 
 check_within_iem = [
     "alaska_point_locations.csv",
@@ -78,13 +74,19 @@ for path in glob.iglob("../vector_data/point/*.csv"):
 
     if "tags" not in communities.columns:
         communities["tags"] = ""
+        columns = list(columns) + ["tags"]
 
     # Add "eds" to all communities with ID in eds_only
     communities["tags"] = communities["tags"].astype(str)
     communities.loc[communities["id"].isin(eds_only), "tags"] = "eds"
 
     # Add tags to communities that are not in eds_only
-    tags = file_tags[file]
+    tags = tags_for_all_locations.copy()
+
+    if file in file_tags:
+        tags += file_tags[file]
+    tags = list(set(tags))
+    tags = sorted(tags)
     communities.loc[~communities["id"].isin(eds_only), "tags"] = ",".join(tags)
 
     if file in check_within_iem:
@@ -102,7 +104,8 @@ for path in glob.iglob("../vector_data/point/*.csv"):
         # Tag remaining communities with "ncr"
         tags = communities.loc[iem_communities, "tags"].str.split(",")
         tags = tags.apply(lambda x: x + ["ncr"])
-        communities.loc[iem_communities, "tags"] = tags.str.join(",")
+        tags = tags.apply(sorted)
+        communities.loc[iem_communities, "tags"] = tags.apply(lambda x: ",".join(x))
 
         # Remove the geometry column before writing to CSV
         communities = communities.drop(columns="geometry")
