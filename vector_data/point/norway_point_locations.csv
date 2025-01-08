@@ -1,675 +1,675 @@
-id,name,alt_name,region,country,latitude,longitude,tags
-NO1,Åseral,,Agder,NO,58.6173,7.4112,ardac
-NO2,Audnedal,,Agder,NO,58.2838,7.3549,ardac
-NO3,Farsund,,Agder,NO,58.0954,6.804,ardac
-NO4,Flekkefjord,,Agder,NO,58.2979,6.6635,ardac
-NO5,Hægebostad,,Agder,NO,58.3757,7.2197,ardac
-NO6,Justvik,,Agder,NO,58.1969,8.0311,ardac
-NO7,Kristiansand,,Agder,NO,58.1464,7.9969,ardac
-NO8,Kvinesdal,,Agder,NO,58.2389,6.7145,ardac
-NO9,Liknes,,Agder,NO,58.3122,6.9618,ardac
-NO10,Lindesnes,,Agder,NO,58.0844,7.3016,ardac
-NO11,Lyngdal,,Agder,NO,58.1383,7.0684,ardac
-NO12,Mandal,,Agder,NO,58.0263,7.4501,ardac
-NO13,Marnardal,,Agder,NO,58.198,7.528,ardac
-NO14,Nodeland,,Agder,NO,58.1552,7.8358,ardac
-NO15,Sirdal,,Agder,NO,58.6651,6.7159,ardac
-NO16,Skålevik,,Agder,NO,58.0796,8.016,ardac
-NO17,Songdalen,,Agder,NO,58.1527,7.8368,ardac
-NO18,Søgne,,Agder,NO,58.0966,7.8149,ardac
-NO19,Strai,,Agder,NO,58.1893,7.9283,ardac
-NO20,Tonstad,,Agder,NO,58.6626,6.7169,ardac
-NO21,Tveit,,Agder,NO,58.2337,8.122,ardac
-NO22,Vanse,,Agder,NO,58.0981,6.6918,ardac
-NO23,Vennesla,,Agder,NO,58.3427,7.976,ardac
-NO24,Vestbygd,,Agder,NO,58.0999,6.587,ardac
-NO25,Vigeland,,Agder,NO,58.0844,7.305,ardac
-NO26,Alvdal,,Innlandet,NO,62.1085,10.6348,ardac
-NO27,Åmot,,Innlandet,NO,61.132,11.3733,ardac
-NO28,Åsnes,,Innlandet,NO,60.6136,12.012,ardac
-NO29,Bagn,,Innlandet,NO,60.8225,9.5521,ardac
-NO30,Brumunddal,,Innlandet,NO,60.881,10.9395,ardac
-NO31,Dokka,,Innlandet,NO,60.835,10.0736,ardac
-NO32,Dombås,,Innlandet,NO,62.0755,9.1279,ardac
-NO33,Dovre,,Innlandet,NO,61.9858,9.2495,ardac
-NO34,Eidskog,,Innlandet,NO,59.9856,12.125,ardac
-NO35,Elverum,,Innlandet,NO,60.8816,11.5631,ardac
-NO36,Engerdal,,Innlandet,NO,61.7577,11.9597,ardac
-NO37,Etnedal,,Innlandet,NO,60.8887,9.6403,ardac
-NO38,Fagernes,,Innlandet,NO,60.9858,9.2324,ardac
-NO39,Folldal,,Innlandet,NO,62.1333,9.9971,ardac
-NO40,Fossbergom,,Innlandet,NO,61.8377,8.5684,ardac
-NO41,Gausdal,,Innlandet,NO,61.2269,10.2215,ardac
-NO42,Gjøvik,,Innlandet,NO,60.7947,10.6929,ardac
-NO43,Gran,,Innlandet,NO,60.3929,10.5605,ardac
-NO44,Grua,,Innlandet,NO,60.257,10.6622,ardac
-NO45,Grue,,Innlandet,NO,60.4513,12.0549,ardac
-NO46,Hamar,,Innlandet,NO,60.7945,11.068,ardac
-NO47,Hov,,Innlandet,NO,60.6987,10.3519,ardac
-NO48,Hundorp,,Innlandet,NO,61.5552,9.9407,ardac
-NO49,Innbygda,,Innlandet,NO,61.3148,12.2637,ardac
-NO50,Jevnaker,,Innlandet,NO,60.2406,10.3859,ardac
-NO51,Kirkenær,,Innlandet,NO,60.4579,12.0586,ardac
-NO52,Kongsvinger,,Innlandet,NO,60.1912,11.9992,ardac
-NO53,Koppang,,Innlandet,NO,61.5722,11.0466,ardac
-NO54,Lena,,Innlandet,NO,60.6739,10.8132,ardac
-NO55,Lesja,,Innlandet,NO,62.1179,8.8626,ardac
-NO56,Lillehammer,,Innlandet,NO,61.1146,10.4674,ardac
-NO57,Lom,,Innlandet,NO,61.8364,8.5681,ardac
-NO58,Løten,,Innlandet,NO,60.8177,11.3437,ardac
-NO59,Lunner,,Innlandet,NO,60.2946,10.6086,ardac
-NO60,Moelv,,Innlandet,NO,60.9333,10.7,ardac
-NO61,Nord-Aurdal,,Innlandet,NO,60.9853,9.2366,ardac
-NO62,Nord-Fron,,Innlandet,NO,61.5956,9.7483,ardac
-NO63,Nord-Odal,,Innlandet,NO,60.392,11.5415,ardac
-NO64,Nordre Land,,Innlandet,NO,60.8347,10.0754,ardac
-NO65,Os,,Innlandet,NO,62.4954,11.2281,ardac
-NO66,Otta,,Innlandet,NO,61.7712,9.5353,ardac
-NO67,Østre Toten,,Innlandet,NO,60.6766,10.82,ardac
-NO68,Øyer,,Innlandet,NO,61.265,10.413,ardac
-NO69,Øystre Slidre,,Innlandet,NO,61.1338,9.0787,ardac
-NO70,Raufoss,,Innlandet,NO,60.726,10.6133,ardac
-NO71,Reinsvoll,,Innlandet,NO,60.6798,10.6218,ardac
-NO72,Rena,,Innlandet,NO,61.1322,11.3716,ardac
-NO73,Rendalen,,Innlandet,NO,61.89,11.0769,ardac
-NO74,Ringebu,,Innlandet,NO,61.5298,10.1418,ardac
-NO75,Ringsaker,,Innlandet,NO,60.8822,10.9503,ardac
-NO76,Sand,,Innlandet,NO,60.3922,11.5403,ardac
-NO77,Sel,,Innlandet,NO,61.7728,9.5342,ardac
-NO78,Skarnes,,Innlandet,NO,60.2539,11.6849,ardac
-NO79,Skjåk,,Innlandet,NO,61.8835,8.2649,ardac
-NO80,Skotterud,,Innlandet,NO,59.9828,12.1283,ardac
-NO81,Skreia,,Innlandet,NO,60.6526,10.9356,ardac
-NO82,Søndre Land,,Innlandet,NO,60.6994,10.3509,ardac
-NO83,Sør-Aurdal,,Innlandet,NO,60.8224,9.5484,ardac
-NO84,Sør-Fron,,Innlandet,NO,61.5565,9.9395,ardac
-NO85,Sør-Odal,,Innlandet,NO,60.2546,11.6825,ardac
-NO86,Spetalen,,Innlandet,NO,60.1833,11.9,ardac
-NO87,Stange,,Innlandet,NO,60.7158,11.1907,ardac
-NO88,Stor-Elvdal,,Innlandet,NO,61.572,11.0476,ardac
-NO89,Tolga,,Innlandet,NO,62.4098,10.9977,ardac
-NO90,Tretten,,Innlandet,NO,61.3142,10.3007,ardac
-NO91,Trysil,,Innlandet,NO,61.3155,12.2642,ardac
-NO92,Tynset,,Innlandet,NO,62.2739,10.7763,ardac
-NO93,Vågå,,Innlandet,NO,61.8757,9.0957,ardac
-NO94,Vågåmo,,Innlandet,NO,61.8751,9.0967,ardac
-NO95,Våler,,Innlandet,NO,60.6785,11.8331,ardac
-NO96,Vang,,Innlandet,NO,61.1256,8.5717,ardac
-NO97,Vestre Slidre,,Innlandet,NO,61.0884,8.982,ardac
-NO98,Vestre Toten,,Innlandet,NO,60.7259,10.6076,ardac
-NO99,Vinstra,,Innlandet,NO,61.595,9.7513,ardac
-NO100,Ålesund,,Møre og Romsdal,NO,62.4723,6.1549,ardac
-NO101,Åndalsnes,,Møre og Romsdal,NO,62.5675,7.6871,ardac
-NO102,Aukra,,Møre og Romsdal,NO,62.805,6.8872,ardac
-NO103,Aure,,Møre og Romsdal,NO,63.2675,8.5278,ardac
-NO104,Averøy,,Møre og Romsdal,NO,63.0534,7.6327,ardac
-NO105,Batnfjordsøra,,Møre og Romsdal,NO,62.8946,7.6725,ardac
-NO106,Brattvåg,,Møre og Romsdal,NO,62.5999,6.4443,ardac
-NO107,Eide,,Møre og Romsdal,NO,62.9157,7.445,ardac
-NO108,Eidsvåg,,Møre og Romsdal,NO,62.7766,8.0655,ardac
-NO109,Elnesvågen,,Møre og Romsdal,NO,62.8543,7.1377,ardac
-NO110,Fræna,,Møre og Romsdal,NO,62.8538,7.1538,ardac
-NO111,Giske,,Møre og Romsdal,NO,62.5007,6.1347,ardac
-NO112,Gjemnes,,Møre og Romsdal,NO,62.8938,7.6771,ardac
-NO113,Halsa,,Møre og Romsdal,NO,63.1186,8.3154,ardac
-NO114,Haram,,Møre og Romsdal,NO,62.599,6.4448,ardac
-NO115,Hareid,,Møre og Romsdal,NO,62.3674,6.0211,ardac
-NO116,Herøy,,Møre og Romsdal,NO,62.3333,5.636,ardac
-NO117,Hjelset,,Møre og Romsdal,NO,62.7805,7.4928,ardac
-NO118,Hopen,,Møre og Romsdal,NO,63.4654,8.0144,ardac
-NO119,Kristiansund,,Møre og Romsdal,NO,63.1115,7.732,ardac
-NO120,Larsnes,,Møre og Romsdal,NO,62.2028,5.5773,ardac
-NO121,Midsund,,Møre og Romsdal,NO,62.6761,6.6778,ardac
-NO122,Molde,,Møre og Romsdal,NO,62.7381,7.1588,ardac
-NO123,Nesset,,Møre og Romsdal,NO,62.7762,8.0662,ardac
-NO124,Norddal,,Møre og Romsdal,NO,62.2991,7.2615,ardac
-NO125,Nordstranda,,Møre og Romsdal,NO,62.5138,6.1317,ardac
-NO126,Ørskog,,Møre og Romsdal,NO,62.4845,6.8203,ardac
-NO127,Ørsta,,Møre og Romsdal,NO,62.1994,6.1308,ardac
-NO128,Rauma,,Møre og Romsdal,NO,62.5681,7.6861,ardac
-NO129,Rensvik,,Møre og Romsdal,NO,63.0984,7.8203,ardac
-NO130,Sande,,Møre og Romsdal,NO,62.2046,5.5797,ardac
-NO131,Sandøy,,Møre og Romsdal,NO,62.7817,6.4688,ardac
-NO132,Sjøholt,,Møre og Romsdal,NO,62.4826,6.8138,ardac
-NO133,Skodje,,Møre og Romsdal,NO,62.5031,6.6982,ardac
-NO134,Smøla,,Møre og Romsdal,NO,63.4653,8.0181,ardac
-NO135,Steinshamn,,Møre og Romsdal,NO,62.7839,6.4707,ardac
-NO136,Stordal,,Møre og Romsdal,NO,62.3821,6.9871,ardac
-NO137,Stranda,,Møre og Romsdal,NO,62.3113,6.9312,ardac
-NO138,Sula,,Møre og Romsdal,NO,62.4445,6.2123,ardac
-NO139,Sunndal,,Møre og Romsdal,NO,62.6746,8.5619,ardac
-NO140,Sunndalsøra,,Møre og Romsdal,NO,62.6752,8.5633,ardac
-NO141,Surnadal,,Møre og Romsdal,NO,62.9753,8.7249,ardac
-NO142,Sykkylven,,Møre og Romsdal,NO,62.3896,6.5783,ardac
-NO143,Tingvoll,,Møre og Romsdal,NO,62.9119,8.2067,ardac
-NO144,Tomra,,Møre og Romsdal,NO,62.5812,6.9311,ardac
-NO145,Ulstein,,Møre og Romsdal,NO,62.3442,5.8524,ardac
-NO146,Ulsteinvik,,Møre og Romsdal,NO,62.3432,5.8487,ardac
-NO147,Ulsteinvik weather pws station,,Møre og Romsdal,NO,62.3434,5.8439,ardac
-NO148,Vanylven,,Møre og Romsdal,NO,62.1,5.5583,ardac
-NO149,Vatne,,Møre og Romsdal,NO,62.5583,6.6171,ardac
-NO150,Vestnes,,Møre og Romsdal,NO,62.6213,7.0897,ardac
-NO151,Volda,,Møre og Romsdal,NO,62.1468,6.068,ardac
-NO152,Alstahaug,,Nordland,NO,65.9756,12.5684,ardac
-NO153,Andenes,,Nordland,NO,69.3143,16.1194,ardac
-NO154,Andøy,,Nordland,NO,69.0803,15.7764,ardac
-NO155,Ballangen,,Nordland,NO,68.3437,16.8332,ardac
-NO156,Beiarn,,Nordland,NO,67.0073,14.573,ardac
-NO157,Bindal,,Nordland,NO,65.0878,12.3775,ardac
-NO158,Bjerkvik,,Nordland,NO,68.5492,17.5571,ardac
-NO159,Bodø,,Nordland,NO,67.2833,14.3832,ardac
-NO160,Bogen,,Nordland,NO,68.5265,16.9928,ardac
-NO161,Bø,,Nordland,NO,68.6882,14.479,ardac
-NO162,Brønnøy,,Nordland,NO,65.4679,12.2063,ardac
-NO163,Brønnøysund,,Nordland,NO,65.4749,12.2129,ardac
-NO164,Dønna,,Nordland,NO,66.1061,12.4819,ardac
-NO165,Evenes,,Nordland,NO,68.5233,17.0089,ardac
-NO166,Evjen,,Nordland,NO,68.2667,13.7333,ardac
-NO167,Fauske,,Nordland,NO,67.2596,15.3941,ardac
-NO168,Flakstad,,Nordland,NO,68.0929,13.2331,ardac
-NO169,Gildeskål,,Nordland,NO,67.0339,14.0258,ardac
-NO170,Gladstad,,Nordland,NO,65.6768,11.9622,ardac
-NO171,Glomfjord,,Nordland,NO,66.8166,13.944,ardac
-NO172,Grane,,Nordland,NO,65.5387,13.385,ardac
-NO173,Gravdal,,Nordland,NO,68.1183,13.5534,ardac
-NO174,Hadsel,,Nordland,NO,68.5633,14.9084,ardac
-NO175,Hamarøy,,Nordland,NO,68.0838,15.6167,ardac
-NO176,Hattfjelldal,,Nordland,NO,65.5977,13.9895,ardac
-NO177,Hauknes,,Nordland,NO,66.2833,14.0667,ardac
-NO178,Hemnes,,Nordland,NO,66.0771,13.8135,ardac
-NO179,Hemnesberget,,Nordland,NO,66.2249,13.6164,ardac
-NO180,Herøy,,Nordland,NO,65.9843,12.2892,ardac
-NO181,Inndyr,,Nordland,NO,67.0335,14.0266,ardac
-NO182,Kabelvåg,,Nordland,NO,68.2107,14.4755,ardac
-NO183,Kjøpsvik,,Nordland,NO,68.097,16.3742,ardac
-NO184,Korgen,,Nordland,NO,66.0766,13.8216,ardac
-NO185,Leirfjord,,Nordland,NO,66.0635,12.9367,ardac
-NO186,Leknes,,Nordland,NO,68.1475,13.6115,ardac
-NO187,Leland,,Nordland,NO,66.0641,12.9433,ardac
-NO188,Løding,,Nordland,NO,67.3006,14.7385,ardac
-NO189,Lødingen,,Nordland,NO,68.41,15.9901,ardac
-NO190,Løpsmarka,,Nordland,NO,67.3134,14.4493,ardac
-NO191,Lurøy,,Nordland,NO,66.4189,12.8425,ardac
-NO192,Melbu,,Nordland,NO,68.5025,14.7996,ardac
-NO193,Meløy,,Nordland,NO,66.872,13.7076,ardac
-NO194,Mo i Rana,,Nordland,NO,66.3128,14.1428,ardac
-NO195,Mosjøen,,Nordland,NO,65.836,13.1908,ardac
-NO196,Moskenes,,Nordland,NO,67.9347,13.0911,ardac
-NO197,Myre,,Nordland,NO,68.914,15.0784,ardac
-NO198,Narvik,,Nordland,NO,68.439,17.4278,ardac
-NO199,Nesna,,Nordland,NO,66.198,13.0223,ardac
-NO200,Øksnes,,Nordland,NO,68.9146,15.087,ardac
-NO201,Ørnes,,Nordland,NO,66.8688,13.7058,ardac
-NO202,Rana,,Nordland,NO,66.3112,14.14,ardac
-NO203,Reine,,Nordland,NO,67.9325,13.0896,ardac
-NO204,Rognan,,Nordland,NO,67.1002,15.3909,ardac
-NO205,Rødøy,,Nordland,NO,66.712,13.2853,ardac
-NO206,Røst,,Nordland,NO,67.5173,12.1156,ardac
-NO207,Saltdal,,Nordland,NO,67.1014,15.3946,ardac
-NO208,Sandnessjøen,,Nordland,NO,66.0217,12.6316,ardac
-NO209,Sortland,,Nordland,NO,68.6962,15.4117,ardac
-NO210,Sømna,,Nordland,NO,65.3138,12.1673,ardac
-NO211,Sørfold,,Nordland,NO,67.348,15.5945,ardac
-NO212,Sørland,,Nordland,NO,67.6656,12.6978,ardac
-NO213,Steigen,,Nordland,NO,67.7763,15.0162,ardac
-NO214,Stokmarknes,,Nordland,NO,68.5646,14.9108,ardac
-NO215,Straume,,Nordland,NO,68.6888,14.4721,ardac
-NO216,Straumen,,Nordland,NO,67.3477,15.6049,ardac
-NO217,Svolvær,,Nordland,NO,68.2342,14.5683,ardac
-NO218,Terråk,,Nordland,NO,65.087,12.3715,ardac
-NO219,Tjeldsund,,Nordland,NO,68.5556,16.3617,ardac
-NO220,Træna,,Nordland,NO,66.5016,12.0965,ardac
-NO221,Trofors,,Nordland,NO,65.5334,13.4063,ardac
-NO222,Tysfjord,,Nordland,NO,68.0977,16.3759,ardac
-NO223,Vågan,,Nordland,NO,68.2322,14.5623,ardac
-NO224,Værøy,,Nordland,NO,67.6637,12.6934,ardac
-NO225,Vefsn,,Nordland,NO,65.8411,13.2002,ardac
-NO226,Vega,,Nordland,NO,65.6754,11.9646,ardac
-NO227,Vestvågøy,,Nordland,NO,68.1483,13.6112,ardac
-NO228,Vevelstad,,Nordland,NO,65.7,12.4392,ardac
-NO229,Vik,,Nordland,NO,65.3125,12.1673,ardac
-NO230,Oslo,,Oslo,NO,59.9127,10.7461,ardac
-NO231,Sjølyststranda,,Oslo,NO,59.9211,10.6802,ardac
-NO232,Åkrehamn,,Rogaland,NO,59.2605,5.1869,ardac
-NO233,Bjerkreim,,Rogaland,NO,58.6305,6.0813,ardac
-NO234,Bokn,,Rogaland,NO,59.2306,5.4352,ardac
-NO235,Bryne,,Rogaland,NO,58.7354,5.6477,ardac
-NO236,Egersund,,Rogaland,NO,58.4513,5.9997,ardac
-NO237,Eigersund,,Rogaland,NO,58.4524,6.0031,ardac
-NO238,Eike,,Rogaland,NO,59.3983,5.3639,ardac
-NO239,Finnøy,,Rogaland,NO,59.1712,5.874,ardac
-NO240,Forsand,,Rogaland,NO,58.8993,6.0964,ardac
-NO241,Gjesdal,,Rogaland,NO,58.7648,5.855,ardac
-NO242,Hå,,Rogaland,NO,58.6161,5.645,ardac
-NO243,Hauge i Dalane,,Rogaland,NO,58.3436,6.2812,ardac
-NO244,Haugesund,,Rogaland,NO,59.4102,5.2755,ardac
-NO245,Hjelmeland,,Rogaland,NO,59.2367,6.1791,ardac
-NO246,Hommersåk,,Rogaland,NO,58.9256,5.851,ardac
-NO247,Jørpeland,,Rogaland,NO,59.0225,6.0408,ardac
-NO248,Judaberg,,Rogaland,NO,59.172,5.8762,ardac
-NO249,Karmøy,,Rogaland,NO,59.2808,5.3053,ardac
-NO250,Klepp,,Rogaland,NO,58.7766,5.6301,ardac
-NO251,Kopervik,,Rogaland,NO,59.2835,5.3067,ardac
-NO252,Kvitsøy,,Rogaland,NO,59.0647,5.4054,ardac
-NO253,Lund,,Rogaland,NO,58.4572,6.5487,ardac
-NO254,Lyefjell,,Rogaland,NO,58.7354,5.7362,ardac
-NO255,Moi,,Rogaland,NO,58.4567,6.5518,ardac
-NO256,Nærbø,,Rogaland,NO,58.6655,5.6379,ardac
-NO257,Ølen,,Rogaland,NO,59.6044,5.808,ardac
-NO258,Randaberg,,Rogaland,NO,58.9987,5.6206,ardac
-NO259,Rennesøy,,Rogaland,NO,59.099,5.6997,ardac
-NO260,Sandnes,,Rogaland,NO,58.8476,5.7286,ardac
-NO261,Sauda,,Rogaland,NO,59.6507,6.3531,ardac
-NO262,Sæveland,,Rogaland,NO,59.2667,5.2,ardac
-NO263,Skudeneshavn,,Rogaland,NO,59.1486,5.2569,ardac
-NO264,Sokndal,,Rogaland,NO,58.3426,6.2943,ardac
-NO265,Sola,,Rogaland,NO,58.8881,5.6473,ardac
-NO266,Stavanger,,Rogaland,NO,58.9694,5.7286,ardac
-NO267,Strand,,Rogaland,NO,59.0235,6.0434,ardac
-NO268,Suldal,,Rogaland,NO,59.4857,6.2522,ardac
-NO269,Tananger,,Rogaland,NO,58.9362,5.5741,ardac
-NO270,Tau,,Rogaland,NO,59.0648,5.9225,ardac
-NO271,Time,,Rogaland,NO,58.7364,5.653,ardac
-NO272,Tysvær,,Rogaland,NO,59.4216,5.4478,ardac
-NO273,Utsira,,Rogaland,NO,59.3057,4.8862,ardac
-NO274,Varhaug,,Rogaland,NO,58.6181,5.657,ardac
-NO275,Vedavågen,,Rogaland,NO,59.2948,5.2187,ardac
-NO276,Vigrestad,,Rogaland,NO,58.571,5.6818,ardac
-NO277,Vikeså,,Rogaland,NO,58.6376,6.0913,ardac
-NO278,Vikevåg,,Rogaland,NO,59.0975,5.6979,ardac
-NO279,Vindafjord,,Rogaland,NO,59.6054,5.8078,ardac
-NO280,Vormedal,,Rogaland,NO,59.3561,5.3196,ardac
-NO281,Alta,,Troms og Finnmark,NO,69.9768,23.2963,ardac
-NO282,Ávanuorri,,Troms og Finnmark,NO,70.9963,24.6622,ardac
-NO283,Balsfjord,,Troms og Finnmark,NO,69.2402,19.2265,ardac
-NO284,Bardu,,Troms og Finnmark,NO,68.8606,18.3505,ardac
-NO285,Båtsfjord,,Troms og Finnmark,NO,70.6343,29.7175,ardac
-NO286,Berg,,Troms og Finnmark,NO,69.4444,17.2995,ardac
-NO287,Berlevåg,,Troms og Finnmark,NO,70.8578,29.0864,ardac
-NO288,Bjørnevatn,,Troms og Finnmark,NO,69.6675,29.9872,ardac
-NO289,Borkenes,,Troms og Finnmark,NO,68.7726,16.1712,ardac
-NO290,Dyrøy,,Troms og Finnmark,NO,69.0915,17.6909,ardac
-NO291,Evenskjer,,Troms og Finnmark,NO,68.5828,16.572,ardac
-NO292,Finnsnes,,Troms og Finnmark,NO,69.2296,17.9811,ardac
-NO293,Gamvik,,Troms og Finnmark,NO,71.0411,27.8514,ardac
-NO294,Gratangen,,Troms og Finnmark,NO,68.6927,17.5319,ardac
-NO295,Gryllefjord,,Troms og Finnmark,NO,69.363,17.0528,ardac
-NO296,Hammerfest,,Troms og Finnmark,NO,70.6626,23.683,ardac
-NO297,Hansnes,,Troms og Finnmark,NO,69.967,19.6275,ardac
-NO298,Harstad,,Troms og Finnmark,NO,68.799,16.5293,ardac
-NO299,Hasvik,,Troms og Finnmark,NO,70.5916,22.3027,ardac
-NO300,Honningsvåg,,Troms og Finnmark,NO,70.9821,25.9704,ardac
-NO301,Ibestad,,Troms og Finnmark,NO,68.7787,17.1766,ardac
-NO302,Kåfjord,,Troms og Finnmark,NO,69.604,20.5346,ardac
-NO303,Kárášjohka,,Troms og Finnmark,NO,69.4719,25.5112,ardac
-NO304,Karasjok,,Troms og Finnmark,NO,69.4722,25.5189,ardac
-NO305,Karlsøy,,Troms og Finnmark,NO,69.9619,19.6181,ardac
-NO306,Kautokeino,,Troms og Finnmark,NO,69.0115,23.0415,ardac
-NO307,Kirkenes,,Troms og Finnmark,NO,69.7271,30.0458,ardac
-NO308,Kjøllefjord,,Troms og Finnmark,NO,70.9457,27.3465,ardac
-NO309,Kvalsund,,Troms og Finnmark,NO,70.4991,23.9739,ardac
-NO310,Kvæfjord,,Troms og Finnmark,NO,68.772,16.1729,ardac
-NO311,Kvænangen,,Troms og Finnmark,NO,69.9389,22.0494,ardac
-NO312,Lakselv,,Troms og Finnmark,NO,70.0513,24.9718,ardac
-NO313,Lavangen,,Troms og Finnmark,NO,68.7472,17.8056,ardac
-NO314,Lebesby,,Troms og Finnmark,NO,70.9454,27.3513,ardac
-NO315,Lenvik,,Troms og Finnmark,NO,69.2311,17.9874,ardac
-NO316,Loppa,,Troms og Finnmark,NO,70.2395,22.3514,ardac
-NO317,Lyngen,,Troms og Finnmark,NO,69.5762,20.217,ardac
-NO318,Lyngseidet,,Troms og Finnmark,NO,69.5763,20.2189,ardac
-NO319,Målselv,,Troms og Finnmark,NO,69.1239,18.615,ardac
-NO320,Måsøy,,Troms og Finnmark,NO,70.9965,24.6615,ardac
-NO321,Mehamn,,Troms og Finnmark,NO,71.0414,27.8513,ardac
-NO322,Moen,,Troms og Finnmark,NO,69.1304,18.6123,ardac
-NO323,Nesseby,,Troms og Finnmark,NO,69.8854,28.4337,ardac
-NO324,Nordkapp,,Troms og Finnmark,NO,70.9781,25.9747,ardac
-NO325,Nordreisa,,Troms og Finnmark,NO,69.7683,21.0257,ardac
-NO326,Olderdalen,,Troms og Finnmark,NO,69.6041,20.5327,ardac
-NO327,Øksfjord,,Troms og Finnmark,NO,70.2394,22.3507,ardac
-NO328,Porsanger,,Troms og Finnmark,NO,70.0521,24.9559,ardac
-NO329,Rypefjord,,Troms og Finnmark,NO,70.6413,23.6721,ardac
-NO330,Salangen,,Troms og Finnmark,NO,68.8767,17.8338,ardac
-NO331,Setermoen,,Troms og Finnmark,NO,68.861,18.3486,ardac
-NO332,Sjøvegan,,Troms og Finnmark,NO,68.8736,17.8471,ardac
-NO333,Skånland,,Troms og Finnmark,NO,68.5838,16.5731,ardac
-NO334,Skjervøy,,Troms og Finnmark,NO,70.0338,20.9737,ardac
-NO335,Sør-Varanger,,Troms og Finnmark,NO,69.7286,30.0426,ardac
-NO336,Sørreisa,,Troms og Finnmark,NO,69.147,18.1563,ardac
-NO337,Storfjord,,Troms og Finnmark,NO,69.2686,19.9609,ardac
-NO338,Storslett,,Troms og Finnmark,NO,69.7678,21.0247,ardac
-NO339,Storsteinnes,,Troms og Finnmark,NO,69.2408,19.2344,ardac
-NO340,Tana,,Troms og Finnmark,NO,70.1998,28.1849,ardac
-NO341,Torsken,,Troms og Finnmark,NO,69.3618,17.0538,ardac
-NO342,Tranøy,,Troms og Finnmark,NO,69.1702,17.7348,ardac
-NO343,Tromsø,,Troms og Finnmark,NO,69.6496,18.957,ardac
-NO344,Vadsø,,Troms og Finnmark,NO,70.0741,29.7492,ardac
-NO345,Vardø,,Troms og Finnmark,NO,70.3704,31.1087,ardac
-NO346,Å i Åfjord,,Trøndelag,NO,63.9607,10.2247,ardac
-NO347,Åfjord,,Trøndelag,NO,63.962,10.2259,ardac
-NO348,Agdenes,,Trøndelag,NO,63.5058,9.8262,ardac
-NO349,Berkåk,,Trøndelag,NO,62.825,10.0118,ardac
-NO350,Bjugn,,Trøndelag,NO,63.7652,9.8094,ardac
-NO351,Botngård,,Trøndelag,NO,63.7648,9.8086,ardac
-NO352,Brekstad,,Trøndelag,NO,63.687,9.6654,ardac
-NO353,Fillan,,Trøndelag,NO,63.6064,8.9696,ardac
-NO354,Flatanger,,Trøndelag,NO,64.4128,11.0329,ardac
-NO355,Fosnes,,Trøndelag,NO,64.6591,11.2654,ardac
-NO356,Frosta,,Trøndelag,NO,63.5891,10.7423,ardac
-NO357,Frøya,,Trøndelag,NO,63.7301,8.8243,ardac
-NO358,Grong,,Trøndelag,NO,64.464,12.3111,ardac
-NO359,Hemne,,Trøndelag,NO,63.291,9.0889,ardac
-NO360,Hitra,,Trøndelag,NO,63.5453,8.7803,ardac
-NO361,Holtålen,,Trøndelag,NO,62.8432,11.2928,ardac
-NO362,Hommelvik,,Trøndelag,NO,63.4108,10.7942,ardac
-NO363,Høylandet,,Trøndelag,NO,64.6276,12.3004,ardac
-NO364,Inderøy,,Trøndelag,NO,63.8783,11.2842,ardac
-NO365,Indre Fosen,,Trøndelag,NO,63.589,9.9585,ardac
-NO366,Klæbu,,Trøndelag,NO,63.3006,10.4819,ardac
-NO367,Kolvereid,,Trøndelag,NO,64.8655,11.6047,ardac
-NO368,Kyrksæterøra,,Trøndelag,NO,63.2906,9.0891,ardac
-NO369,Lauvsnes,,Trøndelag,NO,64.5006,10.894,ardac
-NO370,Leka,,Trøndelag,NO,65.0924,11.7051,ardac
-NO371,Levanger,,Trøndelag,NO,63.7459,11.2999,ardac
-NO372,Lierne,,Trøndelag,NO,64.4641,13.5925,ardac
-NO373,Lundamo,,Trøndelag,NO,63.1522,10.2856,ardac
-NO374,Malm,,Trøndelag,NO,64.0753,11.224,ardac
-NO375,Malvik,,Trøndelag,NO,63.4106,10.7938,ardac
-NO376,Meldal,,Trøndelag,NO,63.046,9.7109,ardac
-NO377,Melhus,,Trøndelag,NO,63.2876,10.2769,ardac
-NO378,Meråker,,Trøndelag,NO,63.4142,11.7456,ardac
-NO379,Midtre Gauldal,,Trøndelag,NO,63.039,10.287,ardac
-NO380,Namdalseid,,Trøndelag,NO,64.1084,10.9186,ardac
-NO381,Namsos,,Trøndelag,NO,64.4784,11.5418,ardac
-NO382,Namsskogan,,Trøndelag,NO,64.926,13.1593,ardac
-NO383,Nærøy,,Trøndelag,NO,64.863,11.6051,ardac
-NO384,Oppdal,,Trøndelag,NO,62.595,9.6876,ardac
-NO385,Orkdal,,Trøndelag,NO,63.2999,9.8437,ardac
-NO386,Osen,,Trøndelag,NO,64.2988,10.5128,ardac
-NO387,Overhalla,,Trøndelag,NO,64.4938,11.9475,ardac
-NO388,Ørland,,Trøndelag,NO,63.6857,9.6663,ardac
-NO389,Raarvihke - Røyrvik,,Trøndelag,NO,64.8838,13.5631,ardac
-NO390,Ranemsletta,,Trøndelag,NO,64.4945,11.9491,ardac
-NO391,Rennebu,,Trøndelag,NO,62.8286,10.0049,ardac
-NO392,Rindal,,Trøndelag,NO,63.0551,9.2127,ardac
-NO393,Roan,,Trøndelag,NO,64.1728,10.2251,ardac
-NO394,Røros,,Trøndelag,NO,62.5756,11.3873,ardac
-NO395,Rørvik,,Trøndelag,NO,64.8619,11.2397,ardac
-NO396,Røyrvik,,Trøndelag,NO,64.8839,13.5626,ardac
-NO397,Selbu,,Trøndelag,NO,63.2177,11.0394,ardac
-NO398,Sistranda,,Trøndelag,NO,63.7252,8.8332,ardac
-NO399,Skaun,,Trøndelag,NO,63.3239,10.0675,ardac
-NO400,Skogn,,Trøndelag,NO,63.7037,11.1926,ardac
-NO401,Snåase,,Trøndelag,NO,64.2457,12.3778,ardac
-NO402,Snåase - Snåsa,,Trøndelag,NO,64.2461,12.3829,ardac
-NO403,Snillfjord,,Trøndelag,NO,63.3997,9.5019,ardac
-NO404,Steinkjer,,Trøndelag,NO,64.193,11.3851,ardac
-NO405,Stjørdal,,Trøndelag,NO,63.567,11.0273,ardac
-NO406,Stjørdalshalsen,,Trøndelag,NO,63.4681,10.9262,ardac
-NO407,Straumen,,Trøndelag,NO,63.8716,11.2962,ardac
-NO408,Trondheim,,Trøndelag,NO,63.4281,10.3969,ardac
-NO409,Tydal,,Trøndelag,NO,63.0448,11.6504,ardac
-NO410,Verdal,,Trøndelag,NO,63.9002,11.7272,ardac
-NO411,Verran,,Trøndelag,NO,64.071,11.218,ardac
-NO412,Vikna,,Trøndelag,NO,64.8636,11.242,ardac
-NO413,Årøysund,,Vestfold og Telemark,NO,59.1832,10.4574,ardac
-NO414,Åsgårdstrand,,Vestfold og Telemark,NO,59.3494,10.4695,ardac
-NO415,Bamble,,Vestfold og Telemark,NO,59.0015,9.7457,ardac
-NO416,Barkåker,,Vestfold og Telemark,NO,59.3186,10.3896,ardac
-NO417,Berger,,Vestfold og Telemark,NO,59.5499,10.3864,ardac
-NO418,Bø,,Vestfold og Telemark,NO,59.4128,9.0662,ardac
-NO419,Dalen,,Vestfold og Telemark,NO,59.445,8.0049,ardac
-NO420,Drangedal,,Vestfold og Telemark,NO,59.0966,9.0596,ardac
-NO421,Færder,,Vestfold og Telemark,NO,59.2279,10.4153,ardac
-NO422,Fyresdal,,Vestfold og Telemark,NO,59.1865,8.0895,ardac
-NO423,Gullhaug,,Vestfold og Telemark,NO,59.5013,10.2522,ardac
-NO424,Gvarv,,Vestfold og Telemark,NO,59.3877,9.1724,ardac
-NO425,Herre,,Vestfold og Telemark,NO,59.1035,9.562,ardac
-NO426,Hjartdal,,Vestfold og Telemark,NO,59.6128,8.9494,ardac
-NO427,Holmestrand,,Vestfold og Telemark,NO,59.4898,10.3152,ardac
-NO428,Horten,,Vestfold og Telemark,NO,59.4155,10.4853,ardac
-NO429,Kragerø,,Vestfold og Telemark,NO,58.8679,9.411,ardac
-NO430,Kviteseid,,Vestfold og Telemark,NO,59.4019,8.4946,ardac
-NO431,Larvik,,Vestfold og Telemark,NO,59.0523,10.027,ardac
-NO432,Lunde,,Vestfold og Telemark,NO,59.2983,9.1027,ardac
-NO433,Melsomvik,,Vestfold og Telemark,NO,59.2239,10.3362,ardac
-NO434,Nissedal,,Vestfold og Telemark,NO,59.0196,8.5213,ardac
-NO435,Nome,,Vestfold og Telemark,NO,59.2814,9.2568,ardac
-NO436,Notodden,,Vestfold og Telemark,NO,59.5599,9.2605,ardac
-NO437,Porsgrunn,,Vestfold og Telemark,NO,59.1419,9.6568,ardac
-NO438,Prestestranda,,Vestfold og Telemark,NO,59.0977,9.0587,ardac
-NO439,Re,,Vestfold og Telemark,NO,59.3506,10.2476,ardac
-NO440,Rjukan,,Vestfold og Telemark,NO,59.8789,8.5941,ardac
-NO441,Sande,,Vestfold og Telemark,NO,59.5936,10.2076,ardac
-NO442,Sandefjord,,Vestfold og Telemark,NO,59.1288,10.2197,ardac
-NO443,Sauherad,,Vestfold og Telemark,NO,59.3964,9.2491,ardac
-NO444,Seljord,,Vestfold og Telemark,NO,59.4827,8.6267,ardac
-NO445,Selvik,,Vestfold og Telemark,NO,59.5665,10.26,ardac
-NO446,Sem,,Vestfold og Telemark,NO,59.2823,10.33,ardac
-NO447,Siljan,,Vestfold og Telemark,NO,59.2825,9.7337,ardac
-NO448,Skien,,Vestfold og Telemark,NO,59.2075,9.6105,ardac
-NO449,Skoppum,,Vestfold og Telemark,NO,59.3861,10.4108,ardac
-NO450,Stavern,,Vestfold og Telemark,NO,59.0,10.0333,ardac
-NO451,Stokke,,Vestfold og Telemark,NO,59.2226,10.3006,ardac
-NO452,Svelvik,,Vestfold og Telemark,NO,59.6068,10.4023,ardac
-NO453,Tinn,,Vestfold og Telemark,NO,59.8349,9.1353,ardac
-NO454,Tjøme,,Vestfold og Telemark,NO,59.1109,10.3933,ardac
-NO455,Tokke,,Vestfold og Telemark,NO,59.4457,8.0139,ardac
-NO456,Tønsberg,,Vestfold og Telemark,NO,59.2675,10.4076,ardac
-NO457,Ulefoss,,Vestfold og Telemark,NO,59.2825,9.2655,ardac
-NO458,Vinje,,Vestfold og Telemark,NO,59.5692,7.989,ardac
-NO459,Ågotnes,,Vestland,NO,60.4031,5.0193,ardac
-NO460,Årdal,,Vestland,NO,61.2364,7.702,ardac
-NO461,Årdalstangen,,Vestland,NO,61.2358,7.7037,ardac
-NO462,Askøy,,Vestland,NO,60.4092,5.226,ardac
-NO463,Askvoll,,Vestland,NO,61.3485,5.0532,ardac
-NO464,Aurland,,Vestland,NO,60.9056,7.1873,ardac
-NO465,Austevoll,,Vestland,NO,60.0958,5.2272,ardac
-NO466,Austrheim,,Vestland,NO,60.7774,4.9323,ardac
-NO467,Balestrand,,Vestland,NO,61.2081,6.5355,ardac
-NO468,Bergen,,Vestland,NO,60.392,5.328,ardac
-NO469,Bømlo,,Vestland,NO,59.7938,5.1762,ardac
-NO470,Bremanger,,Vestland,NO,61.7686,5.2891,ardac
-NO471,Dale,,Vestland,NO,60.5864,5.8189,ardac
-NO472,Eid,,Vestland,NO,61.9068,5.9932,ardac
-NO473,Eidfjord,,Vestland,NO,60.4674,7.0697,ardac
-NO474,Eikelandsosen,,Vestland,NO,60.2418,5.7443,ardac
-NO475,Eivindvik,,Vestland,NO,60.9813,5.075,ardac
-NO476,Espeland,,Vestland,NO,60.3825,5.4657,ardac
-NO477,Etne,,Vestland,NO,59.6647,5.9344,ardac
-NO478,Farnes,,Vestland,NO,61.3085,7.7969,ardac
-NO479,Fedje,,Vestland,NO,60.7787,4.7197,ardac
-NO480,Fitjar,,Vestland,NO,59.9174,5.3164,ardac
-NO481,Fjaler,,Vestland,NO,61.3638,5.3981,ardac
-NO482,Fjell,,Vestland,NO,60.3627,5.1219,ardac
-NO483,Flora,,Vestland,NO,61.5999,5.0314,ardac
-NO484,Florø,,Vestland,NO,61.5996,5.0328,ardac
-NO485,Førde,,Vestland,NO,61.4505,5.854,ardac
-NO486,Frekhaug,,Vestland,NO,60.5132,5.2425,ardac
-NO487,Fusa,,Vestland,NO,60.2407,5.7446,ardac
-NO488,Gaular,,Vestland,NO,61.3256,5.7952,ardac
-NO489,Gaupne,,Vestland,NO,61.4047,7.2946,ardac
-NO490,Gloppen,,Vestland,NO,61.7773,6.2156,ardac
-NO491,Granvin,,Vestland,NO,60.5263,6.7218,ardac
-NO492,Gulen,,Vestland,NO,60.9819,5.0741,ardac
-NO493,Hagavik,,Vestland,NO,60.1808,5.4015,ardac
-NO494,Hardbakke,,Vestland,NO,61.0756,4.8411,ardac
-NO495,Hermansverk,,Vestland,NO,61.1846,6.8502,ardac
-NO496,Hornindal,,Vestland,NO,61.9693,6.5225,ardac
-NO497,Høyanger,,Vestland,NO,61.2188,6.0731,ardac
-NO498,Hylkje,,Vestland,NO,60.5103,5.3544,ardac
-NO499,Hyllestad,,Vestland,NO,61.1704,5.2961,ardac
-NO500,Indre Arna,,Vestland,NO,60.4177,5.4709,ardac
-NO501,Jondal,,Vestland,NO,60.2762,6.2526,ardac
-NO502,Jølster,,Vestland,NO,61.5692,6.4835,ardac
-NO503,Kinsarvik,,Vestland,NO,60.3757,6.7195,ardac
-NO504,Knappskog,,Vestland,NO,60.3791,5.056,ardac
-NO505,Knarvik,,Vestland,NO,60.5453,5.2821,ardac
-NO506,Kvam,,Vestland,NO,60.3698,6.1434,ardac
-NO507,Kvinnherad,,Vestland,NO,59.9842,6.0123,ardac
-NO508,Lærdal,,Vestland,NO,61.0984,7.481,ardac
-NO509,Lærdalsøyri,,Vestland,NO,61.1,7.4737,ardac
-NO510,Leikanger,,Vestland,NO,61.1856,6.822,ardac
-NO511,Leirvik,,Vestland,NO,59.7798,5.5005,ardac
-NO512,Lindås,,Vestland,NO,60.5491,5.2856,ardac
-NO513,Lonevåg,,Vestland,NO,60.5256,5.4956,ardac
-NO514,Luster,,Vestland,NO,61.4031,7.2979,ardac
-NO515,Måløy,,Vestland,NO,61.9354,5.1136,ardac
-NO516,Manger,,Vestland,NO,60.6415,5.0414,ardac
-NO517,Masfjorden,,Vestland,NO,60.7995,5.3004,ardac
-NO518,Meland,,Vestland,NO,60.5178,5.2406,ardac
-NO519,Modalen,,Vestland,NO,60.8174,5.8079,ardac
-NO520,Mosterhamn,,Vestland,NO,59.6992,5.3859,ardac
-NO521,Naustdal,,Vestland,NO,61.5103,5.7172,ardac
-NO522,Nordfjordeid,,Vestland,NO,61.9122,5.9856,ardac
-NO523,Norheimsund,,Vestland,NO,60.3709,6.1456,ardac
-NO524,Odda,,Vestland,NO,60.067,6.5454,ardac
-NO525,Os,,Vestland,NO,60.1855,5.4696,ardac
-NO526,Osterøy,,Vestland,NO,60.5239,5.5055,ardac
-NO527,Øygarden,,Vestland,NO,60.5904,4.8389,ardac
-NO528,Øystese,,Vestland,NO,60.3883,6.1925,ardac
-NO529,Radøy,,Vestland,NO,60.6419,5.0411,ardac
-NO530,Rosendal,,Vestland,NO,59.9859,6.0116,ardac
-NO531,Rubbestadneset,,Vestland,NO,59.8156,5.2682,ardac
-NO532,Sagvåg,,Vestland,NO,59.7814,5.39,ardac
-NO533,Samnanger,,Vestland,NO,60.3775,5.7622,ardac
-NO534,Sandane,,Vestland,NO,61.7728,6.215,ardac
-NO535,Sande,,Vestland,NO,61.3251,5.7977,ardac
-NO536,Sandsli,,Vestland,NO,60.3032,5.2855,ardac
-NO537,Selje,,Vestland,NO,62.0426,5.3445,ardac
-NO538,Skogsvågen,,Vestland,NO,60.2551,5.1016,ardac
-NO539,Sogndal,,Vestland,NO,61.2314,7.103,ardac
-NO540,Solund,,Vestland,NO,61.0739,4.8388,ardac
-NO541,Stord,,Vestland,NO,59.7809,5.4998,ardac
-NO542,Storebø,,Vestland,NO,60.0949,5.2271,ardac
-NO543,Straume,,Vestland,NO,60.3613,5.122,ardac
-NO544,Stryn,,Vestland,NO,61.9041,6.724,ardac
-NO545,Sund,,Vestland,NO,60.2702,5.0723,ardac
-NO546,Sveio,,Vestland,NO,59.543,5.3541,ardac
-NO547,Svelgen,,Vestland,NO,61.7698,5.2954,ardac
-NO548,Syfteland,,Vestland,NO,60.238,5.4529,ardac
-NO549,Tysnes,,Vestland,NO,60.0408,5.5313,ardac
-NO550,Ullensvang,,Vestland,NO,60.375,6.7207,ardac
-NO551,Ulvik,,Vestland,NO,60.5672,6.9187,ardac
-NO552,Vågsøy,,Vestland,NO,61.9354,5.114,ardac
-NO553,Vaksdal,,Vestland,NO,60.5903,5.8227,ardac
-NO554,Vik,,Vestland,NO,61.0886,6.5851,ardac
-NO555,Voss,,Vestland,NO,60.6278,6.4183,ardac
-NO556,Ytre Arna,,Vestland,NO,60.4618,5.4327,ardac
-NO557,Ytrebygda,,Vestland,NO,60.305,5.2824,ardac
-NO558,Ål,,Viken,NO,60.6303,8.5612,ardac
-NO559,Åneby,,Viken,NO,60.0893,10.87,ardac
-NO560,Aremark,,Viken,NO,59.222,11.6958,ardac
-NO561,Årnes,,Viken,NO,60.1224,11.4701,ardac
-NO562,Åros,,Viken,NO,59.7061,10.5109,ardac
-NO563,Ås,,Viken,NO,59.6637,10.791,ardac
-NO564,Ask,,Viken,NO,60.0713,11.0362,ardac
-NO565,Asker,,Viken,NO,59.8373,10.436,ardac
-NO566,Askim,,Viken,NO,59.5846,11.1608,ardac
-NO567,Auli,,Viken,NO,60.0345,11.3605,ardac
-NO568,Aurskog-Høland,,Viken,NO,59.8832,11.5649,ardac
-NO569,Aursmoen,,Viken,NO,59.9276,11.4428,ardac
-NO570,Bærum,,Viken,NO,59.89,10.5265,ardac
-NO571,Billingstad,,Viken,NO,59.8755,10.4823,ardac
-NO572,Bjørkelangen,,Viken,NO,59.8836,11.564,ardac
-NO573,Blakstad,,Viken,NO,59.8191,10.4645,ardac
-NO574,Drammen,,Viken,NO,59.7439,10.2045,ardac
-NO575,Drøbak,,Viken,NO,59.6633,10.6298,ardac
-NO576,Eidsberg,,Viken,NO,59.5515,11.3359,ardac
-NO577,Eidsvoll,,Viken,NO,60.3289,11.2612,ardac
-NO578,Enebakk,,Viken,NO,59.7645,11.1449,ardac
-NO579,Fagerstrand,,Viken,NO,59.7375,10.594,ardac
-NO580,Fet,,Viken,NO,59.9222,11.1678,ardac
-NO581,Fetsund,,Viken,NO,59.9246,11.1571,ardac
-NO582,Fjellfoten,,Viken,NO,60.0897,11.4722,ardac
-NO583,Flå,,Viken,NO,60.4291,9.4661,ardac
-NO584,Flateby,,Viken,NO,59.8295,11.1535,ardac
-NO585,Flesberg,,Viken,NO,59.8328,9.5831,ardac
-NO586,Fossby,,Viken,NO,59.2222,11.6993,ardac
-NO587,Fredrikstad,,Viken,NO,59.2176,10.9379,ardac
-NO588,Frogn,,Viken,NO,59.6667,10.6357,ardac
-NO589,Frogner,,Viken,NO,60.0246,11.1028,ardac
-NO590,Geilo,,Viken,NO,60.5337,8.2054,ardac
-NO591,Gjerdrum,,Viken,NO,60.0716,11.036,ardac
-NO592,Gol,,Viken,NO,60.6995,8.9502,ardac
-NO593,Halden,,Viken,NO,59.1226,11.3871,ardac
-NO594,Hemsedal,,Viken,NO,60.8611,8.5654,ardac
-NO595,Hobøl,,Viken,NO,59.6225,10.9498,ardac
-NO596,Hol,,Viken,NO,60.6153,8.3019,ardac
-NO597,Hole,,Viken,NO,60.0802,10.2784,ardac
-NO598,Hønefoss,,Viken,NO,60.168,10.2565,ardac
-NO599,Hurdal,,Viken,NO,60.4352,11.0671,ardac
-NO600,Hurum,,Viken,NO,59.614,10.4576,ardac
-NO601,Hvaler,,Viken,NO,59.0281,11.0311,ardac
-NO602,Hvittingfoss,,Viken,NO,59.4857,10.0117,ardac
-NO603,Jessheim,,Viken,NO,60.1415,11.1752,ardac
-NO604,Karlshus,,Viken,NO,59.352,10.8723,ardac
-NO605,Kløfta,,Viken,NO,60.0741,11.1381,ardac
-NO606,Knappstad,,Viken,NO,59.6242,11.0327,ardac
-NO607,Kongsberg,,Viken,NO,59.6652,9.6465,ardac
-NO608,Krødsherad,,Viken,NO,60.1794,9.6212,ardac
-NO609,Larkollen,,Viken,NO,59.332,10.6669,ardac
-NO610,Leirsund,,Viken,NO,59.9968,11.0875,ardac
-NO611,Lervik,,Viken,NO,59.2712,10.7461,ardac
-NO612,Lier,,Viken,NO,59.7866,10.2459,ardac
-NO613,Lillestrøm,,Viken,NO,59.956,11.0492,ardac
-NO614,Lørenskog,,Viken,NO,59.9321,10.9608,ardac
-NO615,Lysaker,,Viken,NO,59.9099,10.6355,ardac
-NO616,Marker,,Viken,NO,59.4795,11.6592,ardac
-NO617,Maura,,Viken,NO,60.2583,11.0319,ardac
-NO618,Modum,,Viken,NO,59.9735,10.0047,ardac
-NO619,Moss,,Viken,NO,59.4344,10.6597,ardac
-NO620,Mysen,,Viken,NO,59.5535,11.3258,ardac
-NO621,Nannestad,,Viken,NO,60.2171,11.012,ardac
-NO622,Nedre Eiker,,Viken,NO,59.7502,10.0074,ardac
-NO623,Nes,,Viken,NO,60.1225,11.4657,ardac
-NO624,Nesbyen,,Viken,NO,60.5681,9.1027,ardac
-NO625,Neskollen,,Viken,NO,60.1216,11.3393,ardac
-NO626,Nesodden,,Viken,NO,59.8422,10.6494,ardac
-NO627,Nesoddtangen,,Viken,NO,59.8624,10.6631,ardac
-NO628,Nittedal,,Viken,NO,60.0428,10.8817,ardac
-NO629,Nore og Uvdal,,Viken,NO,60.2671,8.9464,ardac
-NO630,Noresund,,Viken,NO,60.1799,9.6241,ardac
-NO631,Oppegård,,Viken,NO,59.8115,10.7971,ardac
-NO632,Ørje,,Viken,NO,59.4802,11.6602,ardac
-NO633,Øvre Eiker,,Viken,NO,59.7711,9.9084,ardac
-NO634,Prestfoss,,Viken,NO,60.0434,9.6352,ardac
-NO635,Råde,,Viken,NO,59.3516,10.8714,ardac
-NO636,Råholt,,Viken,NO,60.2751,11.179,ardac
-NO637,Rakkestad,,Viken,NO,59.4282,11.3435,ardac
-NO638,Rælingen,,Viken,NO,59.9263,11.0653,ardac
-NO639,Ringerike,,Viken,NO,60.1602,10.2566,ardac
-NO640,Rollag,,Viken,NO,59.9841,9.2949,ardac
-NO641,Rotnes,,Viken,NO,60.0571,10.8614,ardac
-NO642,Rømskog,,Viken,NO,59.7497,11.8112,ardac
-NO643,Røyken,,Viken,NO,59.7402,10.4132,ardac
-NO644,Rygge,,Viken,NO,59.4063,10.693,ardac
-NO645,Ryggebyen,,Viken,NO,59.375,10.75,ardac
-NO646,Sarpsborg,,Viken,NO,59.2815,11.1117,ardac
-NO647,Sætre,,Viken,NO,59.6813,10.5275,ardac
-NO648,Sigdal,,Viken,NO,60.0459,9.6367,ardac
-NO649,Skedsmo,,Viken,NO,59.9545,11.0395,ardac
-NO650,Ski,,Viken,NO,59.7205,10.8388,ardac
-NO651,Skiptvet,,Viken,NO,59.4775,11.1617,ardac
-NO652,Skjærhalden,,Viken,NO,59.0253,11.0369,ardac
-NO653,Skjeberg,,Viken,NO,59.2115,11.1903,ardac
-NO654,Skoger,,Viken,NO,59.7133,10.2536,ardac
-NO655,Skui,,Viken,NO,59.9275,10.4475,ardac
-NO656,Sørum,,Viken,NO,59.9871,11.2402,ardac
-NO657,Sørumsand,,Viken,NO,59.9862,11.2415,ardac
-NO658,Spydeberg,,Viken,NO,59.6203,11.0807,ardac
-NO659,Tofte,,Viken,NO,59.5428,10.5614,ardac
-NO660,Tomter,,Viken,NO,59.6591,10.9949,ardac
-NO661,Tranby,,Viken,NO,59.8085,10.2611,ardac
-NO662,Trøgstad,,Viken,NO,59.6402,11.3189,ardac
-NO663,Ullensaker,,Viken,NO,60.144,11.1744,ardac
-NO664,Våler,,Viken,NO,59.4887,10.8655,ardac
-NO665,Vestby,,Viken,NO,59.6023,10.7481,ardac
-NO666,Vikersund,,Viken,NO,59.9684,9.9911,ardac
-NO667,Olonkinbyen,,Jan Mayen,NO,70.922,-8.715,ardac
-NO668,Longyearbyen,,Svalbard,NO,78.22,15.65,ardac
-NO669,Ny-Ålesund,,Svalbard,NO,78.925,11.9222,ardac
-NO669,Bjørnøya,,Svalbard,NO,74.44,19.0475,ardac
-NO670,Hopen,,Svalbard,NO,76.55,25.1167,ardac
-NO672,"Polish Polar Station, Hornsund",Isbjørnhamna,Svalbard,NO,77.0,15.55,ardac
-NO671,Pyramiden,,Svalbard,NO,78.6561,16.325,ardac
-NO672,Barentsburg,,Svalbard,NO,78.0667,14.2167,ardac
+id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal
+NO1,Åseral,,Agder,NO,58.6173,7.4112,ardac,50.8,True
+NO2,Audnedal,,Agder,NO,58.2838,7.3549,ardac,23.9,True
+NO3,Farsund,,Agder,NO,58.0954,6.804,ardac,0.5,True
+NO4,Flekkefjord,,Agder,NO,58.2979,6.6635,ardac,0.7,True
+NO5,Hægebostad,,Agder,NO,58.3757,7.2197,ardac,24.7,True
+NO6,Justvik,,Agder,NO,58.1969,8.0311,ardac,0.8,True
+NO7,Kristiansand,,Agder,NO,58.1464,7.9969,ardac,0.7,True
+NO8,Kvinesdal,,Agder,NO,58.2389,6.7145,ardac,1.9,True
+NO9,Liknes,,Agder,NO,58.3122,6.9618,ardac,8.2,True
+NO10,Lindesnes,,Agder,NO,58.0844,7.3016,ardac,4.2,True
+NO11,Lyngdal,,Agder,NO,58.1383,7.0684,ardac,4.7,True
+NO12,Mandal,,Agder,NO,58.0263,7.4501,ardac,3.6,True
+NO13,Marnardal,,Agder,NO,58.198,7.528,ardac,16.6,True
+NO14,Nodeland,,Agder,NO,58.1552,7.8358,ardac,7.7,True
+NO15,Sirdal,,Agder,NO,58.6651,6.7159,ardac,34.2,True
+NO16,Skålevik,,Agder,NO,58.0796,8.016,ardac,3.8,True
+NO17,Songdalen,,Agder,NO,58.1527,7.8368,ardac,7.5,True
+NO18,Søgne,,Agder,NO,58.0966,7.8149,ardac,4.6,True
+NO19,Strai,,Agder,NO,58.1893,7.9283,ardac,5.7,True
+NO20,Tonstad,,Agder,NO,58.6626,6.7169,ardac,34.4,True
+NO21,Tveit,,Agder,NO,58.2337,8.122,ardac,5.5,True
+NO22,Vanse,,Agder,NO,58.0981,6.6918,ardac,1.8,True
+NO23,Vennesla,,Agder,NO,58.3427,7.976,ardac,13.5,True
+NO24,Vestbygd,,Agder,NO,58.0999,6.587,ardac,2.7,True
+NO25,Vigeland,,Agder,NO,58.0844,7.305,ardac,4.3,True
+NO26,Alvdal,,Innlandet,NO,62.1085,10.6348,ardac,124.0,False
+NO27,Åmot,,Innlandet,NO,61.132,11.3733,ardac,141.5,False
+NO28,Åsnes,,Innlandet,NO,60.6136,12.012,ardac,106.7,False
+NO29,Bagn,,Innlandet,NO,60.8225,9.5521,ardac,110.0,False
+NO30,Brumunddal,,Innlandet,NO,60.881,10.9395,ardac,109.3,False
+NO31,Dokka,,Innlandet,NO,60.835,10.0736,ardac,108.6,False
+NO32,Dombås,,Innlandet,NO,62.0755,9.1279,ardac,71.6,True
+NO33,Dovre,,Innlandet,NO,61.9858,9.2495,ardac,83.4,True
+NO34,Eidskog,,Innlandet,NO,59.9856,12.125,ardac,77.2,True
+NO35,Elverum,,Innlandet,NO,60.8816,11.5631,ardac,118.6,False
+NO36,Engerdal,,Innlandet,NO,61.7577,11.9597,ardac,190.0,False
+NO37,Etnedal,,Innlandet,NO,60.8887,9.6403,ardac,111.5,False
+NO38,Fagernes,,Innlandet,NO,60.9858,9.2324,ardac,87.1,True
+NO39,Folldal,,Innlandet,NO,62.1333,9.9971,ardac,95.0,True
+NO40,Fossbergom,,Innlandet,NO,61.8377,8.5684,ardac,65.7,True
+NO41,Gausdal,,Innlandet,NO,61.2269,10.2215,ardac,135.2,False
+NO42,Gjøvik,,Innlandet,NO,60.7947,10.6929,ardac,98.7,True
+NO43,Gran,,Innlandet,NO,60.3929,10.5605,ardac,54.3,True
+NO44,Grua,,Innlandet,NO,60.257,10.6622,ardac,38.6,True
+NO45,Grue,,Innlandet,NO,60.4513,12.0549,ardac,95.6,True
+NO46,Hamar,,Innlandet,NO,60.7945,11.068,ardac,100.9,False
+NO47,Hov,,Innlandet,NO,60.6987,10.3519,ardac,89.9,True
+NO48,Hundorp,,Innlandet,NO,61.5552,9.9407,ardac,124.9,False
+NO49,Innbygda,,Innlandet,NO,61.3148,12.2637,ardac,178.9,False
+NO50,Jevnaker,,Innlandet,NO,60.2406,10.3859,ardac,40.4,True
+NO51,Kirkenær,,Innlandet,NO,60.4579,12.0586,ardac,96.3,True
+NO52,Kongsvinger,,Innlandet,NO,60.1912,11.9992,ardac,77.0,True
+NO53,Koppang,,Innlandet,NO,61.5722,11.0466,ardac,177.9,False
+NO54,Lena,,Innlandet,NO,60.6739,10.8132,ardac,85.5,True
+NO55,Lesja,,Innlandet,NO,62.1179,8.8626,ardac,62.5,True
+NO56,Lillehammer,,Innlandet,NO,61.1146,10.4674,ardac,135.1,False
+NO57,Lom,,Innlandet,NO,61.8364,8.5681,ardac,65.6,True
+NO58,Løten,,Innlandet,NO,60.8177,11.3437,ardac,107.5,False
+NO59,Lunner,,Innlandet,NO,60.2946,10.6086,ardac,43.0,True
+NO60,Moelv,,Innlandet,NO,60.9333,10.7,ardac,114.3,False
+NO61,Nord-Aurdal,,Innlandet,NO,60.9853,9.2366,ardac,87.3,True
+NO62,Nord-Fron,,Innlandet,NO,61.5956,9.7483,ardac,116.0,False
+NO63,Nord-Odal,,Innlandet,NO,60.392,11.5415,ardac,71.1,True
+NO64,Nordre Land,,Innlandet,NO,60.8347,10.0754,ardac,108.6,False
+NO65,Os,,Innlandet,NO,62.4954,11.2281,ardac,99.3,True
+NO66,Otta,,Innlandet,NO,61.7712,9.5353,ardac,108.6,False
+NO67,Østre Toten,,Innlandet,NO,60.6766,10.82,ardac,85.8,True
+NO68,Øyer,,Innlandet,NO,61.265,10.413,ardac,145.4,False
+NO69,Øystre Slidre,,Innlandet,NO,61.1338,9.0787,ardac,75.0,True
+NO70,Raufoss,,Innlandet,NO,60.726,10.6133,ardac,91.2,True
+NO71,Reinsvoll,,Innlandet,NO,60.6798,10.6218,ardac,86.0,True
+NO72,Rena,,Innlandet,NO,61.1322,11.3716,ardac,141.5,False
+NO73,Rendalen,,Innlandet,NO,61.89,11.0769,ardac,156.6,False
+NO74,Ringebu,,Innlandet,NO,61.5298,10.1418,ardac,134.5,False
+NO75,Ringsaker,,Innlandet,NO,60.8822,10.9503,ardac,109.5,False
+NO76,Sand,,Innlandet,NO,60.3922,11.5403,ardac,71.1,True
+NO77,Sel,,Innlandet,NO,61.7728,9.5342,ardac,108.6,False
+NO78,Skarnes,,Innlandet,NO,60.2539,11.6849,ardac,65.9,True
+NO79,Skjåk,,Innlandet,NO,61.8835,8.2649,ardac,57.6,True
+NO80,Skotterud,,Innlandet,NO,59.9828,12.1283,ardac,77.3,True
+NO81,Skreia,,Innlandet,NO,60.6526,10.9356,ardac,84.0,True
+NO82,Søndre Land,,Innlandet,NO,60.6994,10.3509,ardac,90.0,True
+NO83,Sør-Aurdal,,Innlandet,NO,60.8224,9.5484,ardac,109.8,False
+NO84,Sør-Fron,,Innlandet,NO,61.5565,9.9395,ardac,124.9,False
+NO85,Sør-Odal,,Innlandet,NO,60.2546,11.6825,ardac,65.8,True
+NO86,Spetalen,,Innlandet,NO,60.1833,11.9,ardac,71.7,True
+NO87,Stange,,Innlandet,NO,60.7158,11.1907,ardac,94.1,True
+NO88,Stor-Elvdal,,Innlandet,NO,61.572,11.0476,ardac,178.0,False
+NO89,Tolga,,Innlandet,NO,62.4098,10.9977,ardac,102.9,False
+NO90,Tretten,,Innlandet,NO,61.3142,10.3007,ardac,139.6,False
+NO91,Trysil,,Innlandet,NO,61.3155,12.2642,ardac,179.0,False
+NO92,Tynset,,Innlandet,NO,62.2739,10.7763,ardac,114.1,False
+NO93,Vågå,,Innlandet,NO,61.8757,9.0957,ardac,91.5,True
+NO94,Vågåmo,,Innlandet,NO,61.8751,9.0967,ardac,91.5,True
+NO95,Våler,,Innlandet,NO,60.6785,11.8331,ardac,106.3,False
+NO96,Vang,,Innlandet,NO,61.1256,8.5717,ardac,48.5,True
+NO97,Vestre Slidre,,Innlandet,NO,61.0884,8.982,ardac,70.9,True
+NO98,Vestre Toten,,Innlandet,NO,60.7259,10.6076,ardac,91.2,True
+NO99,Vinstra,,Innlandet,NO,61.595,9.7513,ardac,116.1,False
+NO100,Ålesund,,Møre og Romsdal,NO,62.4723,6.1549,ardac,3.8,True
+NO101,Åndalsnes,,Møre og Romsdal,NO,62.5675,7.6871,ardac,3.6,True
+NO102,Aukra,,Møre og Romsdal,NO,62.805,6.8872,ardac,0.1,True
+NO103,Aure,,Møre og Romsdal,NO,63.2675,8.5278,ardac,1.3,True
+NO104,Averøy,,Møre og Romsdal,NO,63.0534,7.6327,ardac,0.4,True
+NO105,Batnfjordsøra,,Møre og Romsdal,NO,62.8946,7.6725,ardac,2.2,True
+NO106,Brattvåg,,Møre og Romsdal,NO,62.5999,6.4443,ardac,5.1,True
+NO107,Eide,,Møre og Romsdal,NO,62.9157,7.445,ardac,0.3,True
+NO108,Eidsvåg,,Møre og Romsdal,NO,62.7766,8.0655,ardac,0.5,True
+NO109,Elnesvågen,,Møre og Romsdal,NO,62.8543,7.1377,ardac,0.6,True
+NO110,Fræna,,Møre og Romsdal,NO,62.8538,7.1538,ardac,1.2,True
+NO111,Giske,,Møre og Romsdal,NO,62.5007,6.1347,ardac,6.5,True
+NO112,Gjemnes,,Møre og Romsdal,NO,62.8938,7.6771,ardac,2.2,True
+NO113,Halsa,,Møre og Romsdal,NO,63.1186,8.3154,ardac,0.9,True
+NO114,Haram,,Møre og Romsdal,NO,62.599,6.4448,ardac,5.1,True
+NO115,Hareid,,Møre og Romsdal,NO,62.3674,6.0211,ardac,0.7,True
+NO116,Herøy,,Møre og Romsdal,NO,62.3333,5.636,ardac,1.0,True
+NO117,Hjelset,,Møre og Romsdal,NO,62.7805,7.4928,ardac,1.8,True
+NO118,Hopen,,Møre og Romsdal,NO,63.4654,8.0144,ardac,1.0,True
+NO119,Kristiansund,,Møre og Romsdal,NO,63.1115,7.732,ardac,1.8,True
+NO120,Larsnes,,Møre og Romsdal,NO,62.2028,5.5773,ardac,1.8,True
+NO121,Midsund,,Møre og Romsdal,NO,62.6761,6.6778,ardac,0.8,True
+NO122,Molde,,Møre og Romsdal,NO,62.7381,7.1588,ardac,7.9,True
+NO123,Nesset,,Møre og Romsdal,NO,62.7762,8.0662,ardac,0.5,True
+NO124,Norddal,,Møre og Romsdal,NO,62.2991,7.2615,ardac,1.7,True
+NO125,Nordstranda,,Møre og Romsdal,NO,62.5138,6.1317,ardac,6.9,True
+NO126,Ørskog,,Møre og Romsdal,NO,62.4845,6.8203,ardac,1.7,True
+NO127,Ørsta,,Møre og Romsdal,NO,62.1994,6.1308,ardac,3.5,True
+NO128,Rauma,,Møre og Romsdal,NO,62.5681,7.6861,ardac,3.6,True
+NO129,Rensvik,,Møre og Romsdal,NO,63.0984,7.8203,ardac,1.4,True
+NO130,Sande,,Møre og Romsdal,NO,62.2046,5.5797,ardac,1.6,True
+NO131,Sandøy,,Møre og Romsdal,NO,62.7817,6.4688,ardac,12.4,True
+NO132,Sjøholt,,Møre og Romsdal,NO,62.4826,6.8138,ardac,1.3,True
+NO133,Skodje,,Møre og Romsdal,NO,62.5031,6.6982,ardac,1.3,True
+NO134,Smøla,,Møre og Romsdal,NO,63.4653,8.0181,ardac,1.1,True
+NO135,Steinshamn,,Møre og Romsdal,NO,62.7839,6.4707,ardac,12.4,True
+NO136,Stordal,,Møre og Romsdal,NO,62.3821,6.9871,ardac,0.9,True
+NO137,Stranda,,Møre og Romsdal,NO,62.3113,6.9312,ardac,2.1,True
+NO138,Sula,,Møre og Romsdal,NO,62.4445,6.2123,ardac,0.4,True
+NO139,Sunndal,,Møre og Romsdal,NO,62.6746,8.5619,ardac,0.9,True
+NO140,Sunndalsøra,,Møre og Romsdal,NO,62.6752,8.5633,ardac,0.8,True
+NO141,Surnadal,,Møre og Romsdal,NO,62.9753,8.7249,ardac,2.9,True
+NO142,Sykkylven,,Møre og Romsdal,NO,62.3896,6.5783,ardac,0.9,True
+NO143,Tingvoll,,Møre og Romsdal,NO,62.9119,8.2067,ardac,0.2,True
+NO144,Tomra,,Møre og Romsdal,NO,62.5812,6.9311,ardac,0.5,True
+NO145,Ulstein,,Møre og Romsdal,NO,62.3442,5.8524,ardac,2.0,True
+NO146,Ulsteinvik,,Møre og Romsdal,NO,62.3432,5.8487,ardac,1.8,True
+NO147,Ulsteinvik weather pws station,,Møre og Romsdal,NO,62.3434,5.8439,ardac,1.7,True
+NO148,Vanylven,,Møre og Romsdal,NO,62.1,5.5583,ardac,1.2,True
+NO149,Vatne,,Møre og Romsdal,NO,62.5583,6.6171,ardac,0.4,True
+NO150,Vestnes,,Møre og Romsdal,NO,62.6213,7.0897,ardac,1.1,True
+NO151,Volda,,Møre og Romsdal,NO,62.1468,6.068,ardac,1.4,True
+NO152,Alstahaug,,Nordland,NO,65.9756,12.5684,ardac,1.9,True
+NO153,Andenes,,Nordland,NO,69.3143,16.1194,ardac,0.6,True
+NO154,Andøy,,Nordland,NO,69.0803,15.7764,ardac,4.5,True
+NO155,Ballangen,,Nordland,NO,68.3437,16.8332,ardac,1.3,True
+NO156,Beiarn,,Nordland,NO,67.0073,14.573,ardac,1.2,True
+NO157,Bindal,,Nordland,NO,65.0878,12.3775,ardac,0.5,True
+NO158,Bjerkvik,,Nordland,NO,68.5492,17.5571,ardac,2.2,True
+NO159,Bodø,,Nordland,NO,67.2833,14.3832,ardac,1.2,True
+NO160,Bogen,,Nordland,NO,68.5265,16.9928,ardac,1.9,True
+NO161,Bø,,Nordland,NO,68.6882,14.479,ardac,2.6,True
+NO162,Brønnøy,,Nordland,NO,65.4679,12.2063,ardac,0.8,True
+NO163,Brønnøysund,,Nordland,NO,65.4749,12.2129,ardac,0.7,True
+NO164,Dønna,,Nordland,NO,66.1061,12.4819,ardac,0.7,True
+NO165,Evenes,,Nordland,NO,68.5233,17.0089,ardac,1.7,True
+NO166,Evjen,,Nordland,NO,68.2667,13.7333,ardac,1.2,True
+NO167,Fauske,,Nordland,NO,67.2596,15.3941,ardac,2.7,True
+NO168,Flakstad,,Nordland,NO,68.0929,13.2331,ardac,0.3,True
+NO169,Gildeskål,,Nordland,NO,67.0339,14.0258,ardac,0.4,True
+NO170,Gladstad,,Nordland,NO,65.6768,11.9622,ardac,1.3,True
+NO171,Glomfjord,,Nordland,NO,66.8166,13.944,ardac,1.8,True
+NO172,Grane,,Nordland,NO,65.5387,13.385,ardac,29.4,True
+NO173,Gravdal,,Nordland,NO,68.1183,13.5534,ardac,0.3,True
+NO174,Hadsel,,Nordland,NO,68.5633,14.9084,ardac,1.0,True
+NO175,Hamarøy,,Nordland,NO,68.0838,15.6167,ardac,0.4,True
+NO176,Hattfjelldal,,Nordland,NO,65.5977,13.9895,ardac,47.2,True
+NO177,Hauknes,,Nordland,NO,66.2833,14.0667,ardac,0.8,True
+NO178,Hemnes,,Nordland,NO,66.0771,13.8135,ardac,7.8,True
+NO179,Hemnesberget,,Nordland,NO,66.2249,13.6164,ardac,1.2,True
+NO180,Herøy,,Nordland,NO,65.9843,12.2892,ardac,3.4,True
+NO181,Inndyr,,Nordland,NO,67.0335,14.0266,ardac,0.4,True
+NO182,Kabelvåg,,Nordland,NO,68.2107,14.4755,ardac,1.8,True
+NO183,Kjøpsvik,,Nordland,NO,68.097,16.3742,ardac,2.0,True
+NO184,Korgen,,Nordland,NO,66.0766,13.8216,ardac,7.8,True
+NO185,Leirfjord,,Nordland,NO,66.0635,12.9367,ardac,0.5,True
+NO186,Leknes,,Nordland,NO,68.1475,13.6115,ardac,1.6,True
+NO187,Leland,,Nordland,NO,66.0641,12.9433,ardac,0.8,True
+NO188,Løding,,Nordland,NO,67.3006,14.7385,ardac,3.2,True
+NO189,Lødingen,,Nordland,NO,68.41,15.9901,ardac,2.1,True
+NO190,Løpsmarka,,Nordland,NO,67.3134,14.4493,ardac,1.9,True
+NO191,Lurøy,,Nordland,NO,66.4189,12.8425,ardac,0.6,True
+NO192,Melbu,,Nordland,NO,68.5025,14.7996,ardac,1.7,True
+NO193,Meløy,,Nordland,NO,66.872,13.7076,ardac,1.5,True
+NO194,Mo i Rana,,Nordland,NO,66.3128,14.1428,ardac,0.5,True
+NO195,Mosjøen,,Nordland,NO,65.836,13.1908,ardac,2.2,True
+NO196,Moskenes,,Nordland,NO,67.9347,13.0911,ardac,0.9,True
+NO197,Myre,,Nordland,NO,68.914,15.0784,ardac,0.5,True
+NO198,Narvik,,Nordland,NO,68.439,17.4278,ardac,1.9,True
+NO199,Nesna,,Nordland,NO,66.198,13.0223,ardac,0.4,True
+NO200,Øksnes,,Nordland,NO,68.9146,15.087,ardac,0.9,True
+NO201,Ørnes,,Nordland,NO,66.8688,13.7058,ardac,1.2,True
+NO202,Rana,,Nordland,NO,66.3112,14.14,ardac,0.6,True
+NO203,Reine,,Nordland,NO,67.9325,13.0896,ardac,1.1,True
+NO204,Rognan,,Nordland,NO,67.1002,15.3909,ardac,0.7,True
+NO205,Rødøy,,Nordland,NO,66.712,13.2853,ardac,1.4,True
+NO206,Røst,,Nordland,NO,67.5173,12.1156,ardac,43.3,True
+NO207,Saltdal,,Nordland,NO,67.1014,15.3946,ardac,0.9,True
+NO208,Sandnessjøen,,Nordland,NO,66.0217,12.6316,ardac,0.2,True
+NO209,Sortland,,Nordland,NO,68.6962,15.4117,ardac,0.6,True
+NO210,Sømna,,Nordland,NO,65.3138,12.1673,ardac,1.8,True
+NO211,Sørfold,,Nordland,NO,67.348,15.5945,ardac,1.1,True
+NO212,Sørland,,Nordland,NO,67.6656,12.6978,ardac,16.5,True
+NO213,Steigen,,Nordland,NO,67.7763,15.0162,ardac,0.2,True
+NO214,Stokmarknes,,Nordland,NO,68.5646,14.9108,ardac,1.0,True
+NO215,Straume,,Nordland,NO,68.6888,14.4721,ardac,2.4,True
+NO216,Straumen,,Nordland,NO,67.3477,15.6049,ardac,0.7,True
+NO217,Svolvær,,Nordland,NO,68.2342,14.5683,ardac,1.6,True
+NO218,Terråk,,Nordland,NO,65.087,12.3715,ardac,0.4,True
+NO219,Tjeldsund,,Nordland,NO,68.5556,16.3617,ardac,0.8,True
+NO220,Træna,,Nordland,NO,66.5016,12.0965,ardac,32.9,True
+NO221,Trofors,,Nordland,NO,65.5334,13.4063,ardac,30.2,True
+NO222,Tysfjord,,Nordland,NO,68.0977,16.3759,ardac,2.1,True
+NO223,Vågan,,Nordland,NO,68.2322,14.5623,ardac,1.4,True
+NO224,Værøy,,Nordland,NO,67.6637,12.6934,ardac,16.7,True
+NO225,Vefsn,,Nordland,NO,65.8411,13.2002,ardac,2.0,True
+NO226,Vega,,Nordland,NO,65.6754,11.9646,ardac,1.1,True
+NO227,Vestvågøy,,Nordland,NO,68.1483,13.6112,ardac,1.6,True
+NO228,Vevelstad,,Nordland,NO,65.7,12.4392,ardac,0.4,True
+NO229,Vik,,Nordland,NO,65.3125,12.1673,ardac,1.9,True
+NO230,Oslo,,Oslo,NO,59.9127,10.7461,ardac,2.0,True
+NO231,Sjølyststranda,,Oslo,NO,59.9211,10.6802,ardac,1.1,True
+NO232,Åkrehamn,,Rogaland,NO,59.2605,5.1869,ardac,0.9,True
+NO233,Bjerkreim,,Rogaland,NO,58.6305,6.0813,ardac,18.6,True
+NO234,Bokn,,Rogaland,NO,59.2306,5.4352,ardac,0.2,True
+NO235,Bryne,,Rogaland,NO,58.7354,5.6477,ardac,7.8,True
+NO236,Egersund,,Rogaland,NO,58.4513,5.9997,ardac,1.9,True
+NO237,Eigersund,,Rogaland,NO,58.4524,6.0031,ardac,2.1,True
+NO238,Eike,,Rogaland,NO,59.3983,5.3639,ardac,0.4,True
+NO239,Finnøy,,Rogaland,NO,59.1712,5.874,ardac,7.0,True
+NO240,Forsand,,Rogaland,NO,58.8993,6.0964,ardac,2.2,True
+NO241,Gjesdal,,Rogaland,NO,58.7648,5.855,ardac,14.0,True
+NO242,Hå,,Rogaland,NO,58.6161,5.645,ardac,3.1,True
+NO243,Hauge i Dalane,,Rogaland,NO,58.3436,6.2812,ardac,3.4,True
+NO244,Haugesund,,Rogaland,NO,59.4102,5.2755,ardac,3.0,True
+NO245,Hjelmeland,,Rogaland,NO,59.2367,6.1791,ardac,2.8,True
+NO246,Hommersåk,,Rogaland,NO,58.9256,5.851,ardac,2.2,True
+NO247,Jørpeland,,Rogaland,NO,59.0225,6.0408,ardac,1.2,True
+NO248,Judaberg,,Rogaland,NO,59.172,5.8762,ardac,7.1,True
+NO249,Karmøy,,Rogaland,NO,59.2808,5.3053,ardac,0.6,True
+NO250,Klepp,,Rogaland,NO,58.7766,5.6301,ardac,6.0,True
+NO251,Kopervik,,Rogaland,NO,59.2835,5.3067,ardac,0.7,True
+NO252,Kvitsøy,,Rogaland,NO,59.0647,5.4054,ardac,8.8,True
+NO253,Lund,,Rogaland,NO,58.4572,6.5487,ardac,16.0,True
+NO254,Lyefjell,,Rogaland,NO,58.7354,5.7362,ardac,12.8,True
+NO255,Moi,,Rogaland,NO,58.4567,6.5518,ardac,15.9,True
+NO256,Nærbø,,Rogaland,NO,58.6655,5.6379,ardac,5.2,True
+NO257,Ølen,,Rogaland,NO,59.6044,5.808,ardac,2.8,True
+NO258,Randaberg,,Rogaland,NO,58.9987,5.6206,ardac,2.6,True
+NO259,Rennesøy,,Rogaland,NO,59.099,5.6997,ardac,1.9,True
+NO260,Sandnes,,Rogaland,NO,58.8476,5.7286,ardac,2.3,True
+NO261,Sauda,,Rogaland,NO,59.6507,6.3531,ardac,2.4,True
+NO262,Sæveland,,Rogaland,NO,59.2667,5.2,ardac,1.5,True
+NO263,Skudeneshavn,,Rogaland,NO,59.1486,5.2569,ardac,0.5,True
+NO264,Sokndal,,Rogaland,NO,58.3426,6.2943,ardac,3.4,True
+NO265,Sola,,Rogaland,NO,58.8881,5.6473,ardac,2.7,True
+NO266,Stavanger,,Rogaland,NO,58.9694,5.7286,ardac,1.1,True
+NO267,Strand,,Rogaland,NO,59.0235,6.0434,ardac,1.4,True
+NO268,Suldal,,Rogaland,NO,59.4857,6.2522,ardac,2.0,True
+NO269,Tananger,,Rogaland,NO,58.9362,5.5741,ardac,0.8,True
+NO270,Tau,,Rogaland,NO,59.0648,5.9225,ardac,2.7,True
+NO271,Time,,Rogaland,NO,58.7364,5.653,ardac,8.2,True
+NO272,Tysvær,,Rogaland,NO,59.4216,5.4478,ardac,2.0,True
+NO273,Utsira,,Rogaland,NO,59.3057,4.8862,ardac,16.3,True
+NO274,Varhaug,,Rogaland,NO,58.6181,5.657,ardac,3.7,True
+NO275,Vedavågen,,Rogaland,NO,59.2948,5.2187,ardac,1.2,True
+NO276,Vigrestad,,Rogaland,NO,58.571,5.6818,ardac,1.9,True
+NO277,Vikeså,,Rogaland,NO,58.6376,6.0913,ardac,19.6,True
+NO278,Vikevåg,,Rogaland,NO,59.0975,5.6979,ardac,1.8,True
+NO279,Vindafjord,,Rogaland,NO,59.6054,5.8078,ardac,2.7,True
+NO280,Vormedal,,Rogaland,NO,59.3561,5.3196,ardac,0.7,True
+NO281,Alta,,Troms og Finnmark,NO,69.9768,23.2963,ardac,1.5,True
+NO282,Ávanuorri,,Troms og Finnmark,NO,70.9963,24.6622,ardac,2.0,True
+NO283,Balsfjord,,Troms og Finnmark,NO,69.2402,19.2265,ardac,0.9,True
+NO284,Bardu,,Troms og Finnmark,NO,68.8606,18.3505,ardac,20.4,True
+NO285,Båtsfjord,,Troms og Finnmark,NO,70.6343,29.7175,ardac,0.8,True
+NO286,Berg,,Troms og Finnmark,NO,69.4444,17.2995,ardac,1.2,True
+NO287,Berlevåg,,Troms og Finnmark,NO,70.8578,29.0864,ardac,0.9,True
+NO288,Bjørnevatn,,Troms og Finnmark,NO,69.6675,29.9872,ardac,2.9,True
+NO289,Borkenes,,Troms og Finnmark,NO,68.7726,16.1712,ardac,0.3,True
+NO290,Dyrøy,,Troms og Finnmark,NO,69.0915,17.6909,ardac,0.5,True
+NO291,Evenskjer,,Troms og Finnmark,NO,68.5828,16.572,ardac,0.6,True
+NO292,Finnsnes,,Troms og Finnmark,NO,69.2296,17.9811,ardac,0.7,True
+NO293,Gamvik,,Troms og Finnmark,NO,71.0411,27.8514,ardac,0.2,True
+NO294,Gratangen,,Troms og Finnmark,NO,68.6927,17.5319,ardac,1.6,True
+NO295,Gryllefjord,,Troms og Finnmark,NO,69.363,17.0528,ardac,0.2,True
+NO296,Hammerfest,,Troms og Finnmark,NO,70.6626,23.683,ardac,0.4,True
+NO297,Hansnes,,Troms og Finnmark,NO,69.967,19.6275,ardac,0.8,True
+NO298,Harstad,,Troms og Finnmark,NO,68.799,16.5293,ardac,1.1,True
+NO299,Hasvik,,Troms og Finnmark,NO,70.5916,22.3027,ardac,1.1,True
+NO300,Honningsvåg,,Troms og Finnmark,NO,70.9821,25.9704,ardac,0.5,True
+NO301,Ibestad,,Troms og Finnmark,NO,68.7787,17.1766,ardac,1.6,True
+NO302,Kåfjord,,Troms og Finnmark,NO,69.604,20.5346,ardac,0.7,True
+NO303,Kárášjohka,,Troms og Finnmark,NO,69.4719,25.5112,ardac,67.7,True
+NO304,Karasjok,,Troms og Finnmark,NO,69.4722,25.5189,ardac,67.7,True
+NO305,Karlsøy,,Troms og Finnmark,NO,69.9619,19.6181,ardac,1.4,True
+NO306,Kautokeino,,Troms og Finnmark,NO,69.0115,23.0415,ardac,88.5,True
+NO307,Kirkenes,,Troms og Finnmark,NO,69.7271,30.0458,ardac,0.8,True
+NO308,Kjøllefjord,,Troms og Finnmark,NO,70.9457,27.3465,ardac,0.4,True
+NO309,Kvalsund,,Troms og Finnmark,NO,70.4991,23.9739,ardac,2.4,True
+NO310,Kvæfjord,,Troms og Finnmark,NO,68.772,16.1729,ardac,0.2,True
+NO311,Kvænangen,,Troms og Finnmark,NO,69.9389,22.0494,ardac,0.1,True
+NO312,Lakselv,,Troms og Finnmark,NO,70.0513,24.9718,ardac,1.9,True
+NO313,Lavangen,,Troms og Finnmark,NO,68.7472,17.8056,ardac,0.9,True
+NO314,Lebesby,,Troms og Finnmark,NO,70.9454,27.3513,ardac,0.4,True
+NO315,Lenvik,,Troms og Finnmark,NO,69.2311,17.9874,ardac,0.5,True
+NO316,Loppa,,Troms og Finnmark,NO,70.2395,22.3514,ardac,1.2,True
+NO317,Lyngen,,Troms og Finnmark,NO,69.5762,20.217,ardac,2.8,True
+NO318,Lyngseidet,,Troms og Finnmark,NO,69.5763,20.2189,ardac,2.8,True
+NO319,Målselv,,Troms og Finnmark,NO,69.1239,18.615,ardac,13.1,True
+NO320,Måsøy,,Troms og Finnmark,NO,70.9965,24.6615,ardac,2.1,True
+NO321,Mehamn,,Troms og Finnmark,NO,71.0414,27.8513,ardac,0.2,True
+NO322,Moen,,Troms og Finnmark,NO,69.1304,18.6123,ardac,12.4,True
+NO323,Nesseby,,Troms og Finnmark,NO,69.8854,28.4337,ardac,24.2,True
+NO324,Nordkapp,,Troms og Finnmark,NO,70.9781,25.9747,ardac,0.2,True
+NO325,Nordreisa,,Troms og Finnmark,NO,69.7683,21.0257,ardac,2.2,True
+NO326,Olderdalen,,Troms og Finnmark,NO,69.6041,20.5327,ardac,0.7,True
+NO327,Øksfjord,,Troms og Finnmark,NO,70.2394,22.3507,ardac,1.2,True
+NO328,Porsanger,,Troms og Finnmark,NO,70.0521,24.9559,ardac,2.3,True
+NO329,Rypefjord,,Troms og Finnmark,NO,70.6413,23.6721,ardac,0.6,True
+NO330,Salangen,,Troms og Finnmark,NO,68.8767,17.8338,ardac,0.8,True
+NO331,Setermoen,,Troms og Finnmark,NO,68.861,18.3486,ardac,20.3,True
+NO332,Sjøvegan,,Troms og Finnmark,NO,68.8736,17.8471,ardac,0.2,True
+NO333,Skånland,,Troms og Finnmark,NO,68.5838,16.5731,ardac,0.7,True
+NO334,Skjervøy,,Troms og Finnmark,NO,70.0338,20.9737,ardac,0.3,True
+NO335,Sør-Varanger,,Troms og Finnmark,NO,69.7286,30.0426,ardac,0.9,True
+NO336,Sørreisa,,Troms og Finnmark,NO,69.147,18.1563,ardac,0.8,True
+NO337,Storfjord,,Troms og Finnmark,NO,69.2686,19.9609,ardac,0.5,True
+NO338,Storslett,,Troms og Finnmark,NO,69.7678,21.0247,ardac,2.2,True
+NO339,Storsteinnes,,Troms og Finnmark,NO,69.2408,19.2344,ardac,0.6,True
+NO340,Tana,,Troms og Finnmark,NO,70.1998,28.1849,ardac,0.9,True
+NO341,Torsken,,Troms og Finnmark,NO,69.3618,17.0538,ardac,0.3,True
+NO342,Tranøy,,Troms og Finnmark,NO,69.1702,17.7348,ardac,1.1,True
+NO343,Tromsø,,Troms og Finnmark,NO,69.6496,18.957,ardac,3.8,True
+NO344,Vadsø,,Troms og Finnmark,NO,70.0741,29.7492,ardac,3.3,True
+NO345,Vardø,,Troms og Finnmark,NO,70.3704,31.1087,ardac,1.8,True
+NO346,Å i Åfjord,,Trøndelag,NO,63.9607,10.2247,ardac,2.6,True
+NO347,Åfjord,,Trøndelag,NO,63.962,10.2259,ardac,2.7,True
+NO348,Agdenes,,Trøndelag,NO,63.5058,9.8262,ardac,1.3,True
+NO349,Berkåk,,Trøndelag,NO,62.825,10.0118,ardac,51.0,True
+NO350,Bjugn,,Trøndelag,NO,63.7652,9.8094,ardac,1.6,True
+NO351,Botngård,,Trøndelag,NO,63.7648,9.8086,ardac,1.5,True
+NO352,Brekstad,,Trøndelag,NO,63.687,9.6654,ardac,1.1,True
+NO353,Fillan,,Trøndelag,NO,63.6064,8.9696,ardac,1.6,True
+NO354,Flatanger,,Trøndelag,NO,64.4128,11.0329,ardac,7.3,True
+NO355,Fosnes,,Trøndelag,NO,64.6591,11.2654,ardac,2.4,True
+NO356,Frosta,,Trøndelag,NO,63.5891,10.7423,ardac,1.6,True
+NO357,Frøya,,Trøndelag,NO,63.7301,8.8243,ardac,0.4,True
+NO358,Grong,,Trøndelag,NO,64.464,12.3111,ardac,29.5,True
+NO359,Hemne,,Trøndelag,NO,63.291,9.0889,ardac,0.4,True
+NO360,Hitra,,Trøndelag,NO,63.5453,8.7803,ardac,3.8,True
+NO361,Holtålen,,Trøndelag,NO,62.8432,11.2928,ardac,68.8,True
+NO362,Hommelvik,,Trøndelag,NO,63.4108,10.7942,ardac,0.8,True
+NO363,Høylandet,,Trøndelag,NO,64.6276,12.3004,ardac,25.1,True
+NO364,Inderøy,,Trøndelag,NO,63.8783,11.2842,ardac,1.3,True
+NO365,Indre Fosen,,Trøndelag,NO,63.589,9.9585,ardac,2.8,True
+NO366,Klæbu,,Trøndelag,NO,63.3006,10.4819,ardac,10.3,True
+NO367,Kolvereid,,Trøndelag,NO,64.8655,11.6047,ardac,0.4,True
+NO368,Kyrksæterøra,,Trøndelag,NO,63.2906,9.0891,ardac,0.4,True
+NO369,Lauvsnes,,Trøndelag,NO,64.5006,10.894,ardac,1.4,True
+NO370,Leka,,Trøndelag,NO,65.0924,11.7051,ardac,1.2,True
+NO371,Levanger,,Trøndelag,NO,63.7459,11.2999,ardac,3.6,True
+NO372,Lierne,,Trøndelag,NO,64.4641,13.5925,ardac,84.0,True
+NO373,Lundamo,,Trøndelag,NO,63.1522,10.2856,ardac,12.9,True
+NO374,Malm,,Trøndelag,NO,64.0753,11.224,ardac,0.4,True
+NO375,Malvik,,Trøndelag,NO,63.4106,10.7938,ardac,0.8,True
+NO376,Meldal,,Trøndelag,NO,63.046,9.7109,ardac,32.1,True
+NO377,Melhus,,Trøndelag,NO,63.2876,10.2769,ardac,0.7,True
+NO378,Meråker,,Trøndelag,NO,63.4142,11.7456,ardac,41.7,True
+NO379,Midtre Gauldal,,Trøndelag,NO,63.039,10.287,ardac,25.5,True
+NO380,Namdalseid,,Trøndelag,NO,64.1084,10.9186,ardac,15.5,True
+NO381,Namsos,,Trøndelag,NO,64.4784,11.5418,ardac,2.1,True
+NO382,Namsskogan,,Trøndelag,NO,64.926,13.1593,ardac,33.6,True
+NO383,Nærøy,,Trøndelag,NO,64.863,11.6051,ardac,0.2,True
+NO384,Oppdal,,Trøndelag,NO,62.595,9.6876,ardac,56.3,True
+NO385,Orkdal,,Trøndelag,NO,63.2999,9.8437,ardac,2.9,True
+NO386,Osen,,Trøndelag,NO,64.2988,10.5128,ardac,1.1,True
+NO387,Overhalla,,Trøndelag,NO,64.4938,11.9475,ardac,13.9,True
+NO388,Ørland,,Trøndelag,NO,63.6857,9.6663,ardac,1.2,True
+NO389,Raarvihke - Røyrvik,,Trøndelag,NO,64.8838,13.5631,ardac,51.7,True
+NO390,Ranemsletta,,Trøndelag,NO,64.4945,11.9491,ardac,13.9,True
+NO391,Rennebu,,Trøndelag,NO,62.8286,10.0049,ardac,50.7,True
+NO392,Rindal,,Trøndelag,NO,63.0551,9.2127,ardac,22.2,True
+NO393,Roan,,Trøndelag,NO,64.1728,10.2251,ardac,2.1,True
+NO394,Røros,,Trøndelag,NO,62.5756,11.3873,ardac,96.1,True
+NO395,Rørvik,,Trøndelag,NO,64.8619,11.2397,ardac,0.6,True
+NO396,Røyrvik,,Trøndelag,NO,64.8839,13.5626,ardac,51.7,True
+NO397,Selbu,,Trøndelag,NO,63.2177,11.0394,ardac,25.4,True
+NO398,Sistranda,,Trøndelag,NO,63.7252,8.8332,ardac,0.7,True
+NO399,Skaun,,Trøndelag,NO,63.3239,10.0675,ardac,1.6,True
+NO400,Skogn,,Trøndelag,NO,63.7037,11.1926,ardac,1.8,True
+NO401,Snåase,,Trøndelag,NO,64.2457,12.3778,ardac,43.5,True
+NO402,Snåase - Snåsa,,Trøndelag,NO,64.2461,12.3829,ardac,43.7,True
+NO403,Snillfjord,,Trøndelag,NO,63.3997,9.5019,ardac,1.3,True
+NO404,Steinkjer,,Trøndelag,NO,64.193,11.3851,ardac,8.5,True
+NO405,Stjørdal,,Trøndelag,NO,63.567,11.0273,ardac,5.2,True
+NO406,Stjørdalshalsen,,Trøndelag,NO,63.4681,10.9262,ardac,0.5,True
+NO407,Straumen,,Trøndelag,NO,63.8716,11.2962,ardac,1.0,True
+NO408,Trondheim,,Trøndelag,NO,63.4281,10.3969,ardac,1.7,True
+NO409,Tydal,,Trøndelag,NO,63.0448,11.6504,ardac,59.0,True
+NO410,Verdal,,Trøndelag,NO,63.9002,11.7272,ardac,15.9,True
+NO411,Verran,,Trøndelag,NO,64.071,11.218,ardac,0.4,True
+NO412,Vikna,,Trøndelag,NO,64.8636,11.242,ardac,0.7,True
+NO413,Årøysund,,Vestfold og Telemark,NO,59.1832,10.4574,ardac,6.8,True
+NO414,Åsgårdstrand,,Vestfold og Telemark,NO,59.3494,10.4695,ardac,1.4,True
+NO415,Bamble,,Vestfold og Telemark,NO,59.0015,9.7457,ardac,1.9,True
+NO416,Barkåker,,Vestfold og Telemark,NO,59.3186,10.3896,ardac,4.5,True
+NO417,Berger,,Vestfold og Telemark,NO,59.5499,10.3864,ardac,1.0,True
+NO418,Bø,,Vestfold og Telemark,NO,59.4128,9.0662,ardac,42.3,True
+NO419,Dalen,,Vestfold og Telemark,NO,59.445,8.0049,ardac,83.4,True
+NO420,Drangedal,,Vestfold og Telemark,NO,59.0966,9.0596,ardac,27.5,True
+NO421,Færder,,Vestfold og Telemark,NO,59.2279,10.4153,ardac,2.9,True
+NO422,Fyresdal,,Vestfold og Telemark,NO,59.1865,8.0895,ardac,75.1,True
+NO423,Gullhaug,,Vestfold og Telemark,NO,59.5013,10.2522,ardac,2.4,True
+NO424,Gvarv,,Vestfold og Telemark,NO,59.3877,9.1724,ardac,36.4,True
+NO425,Herre,,Vestfold og Telemark,NO,59.1035,9.562,ardac,0.2,True
+NO426,Hjartdal,,Vestfold og Telemark,NO,59.6128,8.9494,ardac,64.4,True
+NO427,Holmestrand,,Vestfold og Telemark,NO,59.4898,10.3152,ardac,1.1,True
+NO428,Horten,,Vestfold og Telemark,NO,59.4155,10.4853,ardac,0.5,True
+NO429,Kragerø,,Vestfold og Telemark,NO,58.8679,9.411,ardac,1.0,True
+NO430,Kviteseid,,Vestfold og Telemark,NO,59.4019,8.4946,ardac,67.2,True
+NO431,Larvik,,Vestfold og Telemark,NO,59.0523,10.027,ardac,2.2,True
+NO432,Lunde,,Vestfold og Telemark,NO,59.2983,9.1027,ardac,31.8,True
+NO433,Melsomvik,,Vestfold og Telemark,NO,59.2239,10.3362,ardac,1.0,True
+NO434,Nissedal,,Vestfold og Telemark,NO,59.0196,8.5213,ardac,44.3,True
+NO435,Nome,,Vestfold og Telemark,NO,59.2814,9.2568,ardac,24.1,True
+NO436,Notodden,,Vestfold og Telemark,NO,59.5599,9.2605,ardac,51.6,True
+NO437,Porsgrunn,,Vestfold og Telemark,NO,59.1419,9.6568,ardac,1.9,True
+NO438,Prestestranda,,Vestfold og Telemark,NO,59.0977,9.0587,ardac,27.5,True
+NO439,Re,,Vestfold og Telemark,NO,59.3506,10.2476,ardac,10.9,True
+NO440,Rjukan,,Vestfold og Telemark,NO,59.8789,8.5941,ardac,92.8,True
+NO441,Sande,,Vestfold og Telemark,NO,59.5936,10.2076,ardac,4.1,True
+NO442,Sandefjord,,Vestfold og Telemark,NO,59.1288,10.2197,ardac,1.6,True
+NO443,Sauherad,,Vestfold og Telemark,NO,59.3964,9.2491,ardac,35.0,True
+NO444,Seljord,,Vestfold og Telemark,NO,59.4827,8.6267,ardac,65.7,True
+NO445,Selvik,,Vestfold og Telemark,NO,59.5665,10.26,ardac,1.0,True
+NO446,Sem,,Vestfold og Telemark,NO,59.2823,10.33,ardac,2.1,True
+NO447,Siljan,,Vestfold og Telemark,NO,59.2825,9.7337,ardac,17.9,True
+NO448,Skien,,Vestfold og Telemark,NO,59.2075,9.6105,ardac,8.6,True
+NO449,Skoppum,,Vestfold og Telemark,NO,59.3861,10.4108,ardac,3.1,True
+NO450,Stavern,,Vestfold og Telemark,NO,59.0,10.0333,ardac,0.7,True
+NO451,Stokke,,Vestfold og Telemark,NO,59.2226,10.3006,ardac,2.1,True
+NO452,Svelvik,,Vestfold og Telemark,NO,59.6068,10.4023,ardac,0.6,True
+NO453,Tinn,,Vestfold og Telemark,NO,59.8349,9.1353,ardac,62.2,True
+NO454,Tjøme,,Vestfold og Telemark,NO,59.1109,10.3933,ardac,4.9,True
+NO455,Tokke,,Vestfold og Telemark,NO,59.4457,8.0139,ardac,83.9,True
+NO456,Tønsberg,,Vestfold og Telemark,NO,59.2675,10.4076,ardac,0.6,True
+NO457,Ulefoss,,Vestfold og Telemark,NO,59.2825,9.2655,ardac,23.9,True
+NO458,Vinje,,Vestfold og Telemark,NO,59.5692,7.989,ardac,81.4,True
+NO459,Ågotnes,,Vestland,NO,60.4031,5.0193,ardac,1.0,True
+NO460,Årdal,,Vestland,NO,61.2364,7.702,ardac,0.6,True
+NO461,Årdalstangen,,Vestland,NO,61.2358,7.7037,ardac,0.6,True
+NO462,Askøy,,Vestland,NO,60.4092,5.226,ardac,2.1,True
+NO463,Askvoll,,Vestland,NO,61.3485,5.0532,ardac,1.8,True
+NO464,Aurland,,Vestland,NO,60.9056,7.1873,ardac,1.9,True
+NO465,Austevoll,,Vestland,NO,60.0958,5.2272,ardac,1.0,True
+NO466,Austrheim,,Vestland,NO,60.7774,4.9323,ardac,2.3,True
+NO467,Balestrand,,Vestland,NO,61.2081,6.5355,ardac,0.5,True
+NO468,Bergen,,Vestland,NO,60.392,5.328,ardac,1.7,True
+NO469,Bømlo,,Vestland,NO,59.7938,5.1762,ardac,3.2,True
+NO470,Bremanger,,Vestland,NO,61.7686,5.2891,ardac,5.2,True
+NO471,Dale,,Vestland,NO,60.5864,5.8189,ardac,6.2,True
+NO472,Eid,,Vestland,NO,61.9068,5.9932,ardac,1.7,True
+NO473,Eidfjord,,Vestland,NO,60.4674,7.0697,ardac,1.4,True
+NO474,Eikelandsosen,,Vestland,NO,60.2418,5.7443,ardac,2.0,True
+NO475,Eivindvik,,Vestland,NO,60.9813,5.075,ardac,1.1,True
+NO476,Espeland,,Vestland,NO,60.3825,5.4657,ardac,5.5,True
+NO477,Etne,,Vestland,NO,59.6647,5.9344,ardac,3.3,True
+NO478,Farnes,,Vestland,NO,61.3085,7.7969,ardac,10.1,True
+NO479,Fedje,,Vestland,NO,60.7787,4.7197,ardac,11.5,True
+NO480,Fitjar,,Vestland,NO,59.9174,5.3164,ardac,2.8,True
+NO481,Fjaler,,Vestland,NO,61.3638,5.3981,ardac,2.3,True
+NO482,Fjell,,Vestland,NO,60.3627,5.1219,ardac,1.5,True
+NO483,Flora,,Vestland,NO,61.5999,5.0314,ardac,4.0,True
+NO484,Florø,,Vestland,NO,61.5996,5.0328,ardac,4.0,True
+NO485,Førde,,Vestland,NO,61.4505,5.854,ardac,2.6,True
+NO486,Frekhaug,,Vestland,NO,60.5132,5.2425,ardac,2.3,True
+NO487,Fusa,,Vestland,NO,60.2407,5.7446,ardac,2.0,True
+NO488,Gaular,,Vestland,NO,61.3256,5.7952,ardac,9.5,True
+NO489,Gaupne,,Vestland,NO,61.4047,7.2946,ardac,1.2,True
+NO490,Gloppen,,Vestland,NO,61.7773,6.2156,ardac,2.2,True
+NO491,Granvin,,Vestland,NO,60.5263,6.7218,ardac,1.7,True
+NO492,Gulen,,Vestland,NO,60.9819,5.0741,ardac,1.2,True
+NO493,Hagavik,,Vestland,NO,60.1808,5.4015,ardac,2.0,True
+NO494,Hardbakke,,Vestland,NO,61.0756,4.8411,ardac,0.9,True
+NO495,Hermansverk,,Vestland,NO,61.1846,6.8502,ardac,2.2,True
+NO496,Hornindal,,Vestland,NO,61.9693,6.5225,ardac,10.3,True
+NO497,Høyanger,,Vestland,NO,61.2188,6.0731,ardac,2.5,True
+NO498,Hylkje,,Vestland,NO,60.5103,5.3544,ardac,1.1,True
+NO499,Hyllestad,,Vestland,NO,61.1704,5.2961,ardac,2.9,True
+NO500,Indre Arna,,Vestland,NO,60.4177,5.4709,ardac,2.0,True
+NO501,Jondal,,Vestland,NO,60.2762,6.2526,ardac,2.4,True
+NO502,Jølster,,Vestland,NO,61.5692,6.4835,ardac,21.9,True
+NO503,Kinsarvik,,Vestland,NO,60.3757,6.7195,ardac,2.8,True
+NO504,Knappskog,,Vestland,NO,60.3791,5.056,ardac,3.6,True
+NO505,Knarvik,,Vestland,NO,60.5453,5.2821,ardac,1.6,True
+NO506,Kvam,,Vestland,NO,60.3698,6.1434,ardac,0.7,True
+NO507,Kvinnherad,,Vestland,NO,59.9842,6.0123,ardac,1.7,True
+NO508,Lærdal,,Vestland,NO,61.0984,7.481,ardac,2.5,True
+NO509,Lærdalsøyri,,Vestland,NO,61.1,7.4737,ardac,2.1,True
+NO510,Leikanger,,Vestland,NO,61.1856,6.822,ardac,0.8,True
+NO511,Leirvik,,Vestland,NO,59.7798,5.5005,ardac,1.4,True
+NO512,Lindås,,Vestland,NO,60.5491,5.2856,ardac,1.3,True
+NO513,Lonevåg,,Vestland,NO,60.5256,5.4956,ardac,5.8,True
+NO514,Luster,,Vestland,NO,61.4031,7.2979,ardac,1.2,True
+NO515,Måløy,,Vestland,NO,61.9354,5.1136,ardac,0.2,True
+NO516,Manger,,Vestland,NO,60.6415,5.0414,ardac,3.2,True
+NO517,Masfjorden,,Vestland,NO,60.7995,5.3004,ardac,0.9,True
+NO518,Meland,,Vestland,NO,60.5178,5.2406,ardac,2.2,True
+NO519,Modalen,,Vestland,NO,60.8174,5.8079,ardac,9.5,True
+NO520,Mosterhamn,,Vestland,NO,59.6992,5.3859,ardac,1.8,True
+NO521,Naustdal,,Vestland,NO,61.5103,5.7172,ardac,1.3,True
+NO522,Nordfjordeid,,Vestland,NO,61.9122,5.9856,ardac,1.3,True
+NO523,Norheimsund,,Vestland,NO,60.3709,6.1456,ardac,0.7,True
+NO524,Odda,,Vestland,NO,60.067,6.5454,ardac,2.0,True
+NO525,Os,,Vestland,NO,60.1855,5.4696,ardac,0.3,True
+NO526,Osterøy,,Vestland,NO,60.5239,5.5055,ardac,6.3,True
+NO527,Øygarden,,Vestland,NO,60.5904,4.8389,ardac,0.3,True
+NO528,Øystese,,Vestland,NO,60.3883,6.1925,ardac,0.5,True
+NO529,Radøy,,Vestland,NO,60.6419,5.0411,ardac,3.2,True
+NO530,Rosendal,,Vestland,NO,59.9859,6.0116,ardac,1.7,True
+NO531,Rubbestadneset,,Vestland,NO,59.8156,5.2682,ardac,1.5,True
+NO532,Sagvåg,,Vestland,NO,59.7814,5.39,ardac,0.9,True
+NO533,Samnanger,,Vestland,NO,60.3775,5.7622,ardac,1.6,True
+NO534,Sandane,,Vestland,NO,61.7728,6.215,ardac,1.9,True
+NO535,Sande,,Vestland,NO,61.3251,5.7977,ardac,9.7,True
+NO536,Sandsli,,Vestland,NO,60.3032,5.2855,ardac,3.7,True
+NO537,Selje,,Vestland,NO,62.0426,5.3445,ardac,0.7,True
+NO538,Skogsvågen,,Vestland,NO,60.2551,5.1016,ardac,0.4,True
+NO539,Sogndal,,Vestland,NO,61.2314,7.103,ardac,7.3,True
+NO540,Solund,,Vestland,NO,61.0739,4.8388,ardac,0.9,True
+NO541,Stord,,Vestland,NO,59.7809,5.4998,ardac,1.3,True
+NO542,Storebø,,Vestland,NO,60.0949,5.2271,ardac,0.9,True
+NO543,Straume,,Vestland,NO,60.3613,5.122,ardac,1.5,True
+NO544,Stryn,,Vestland,NO,61.9041,6.724,ardac,2.3,True
+NO545,Sund,,Vestland,NO,60.2702,5.0723,ardac,0.9,True
+NO546,Sveio,,Vestland,NO,59.543,5.3541,ardac,3.4,True
+NO547,Svelgen,,Vestland,NO,61.7698,5.2954,ardac,5.5,True
+NO548,Syfteland,,Vestland,NO,60.238,5.4529,ardac,4.4,True
+NO549,Tysnes,,Vestland,NO,60.0408,5.5313,ardac,2.3,True
+NO550,Ullensvang,,Vestland,NO,60.375,6.7207,ardac,2.9,True
+NO551,Ulvik,,Vestland,NO,60.5672,6.9187,ardac,1.6,True
+NO552,Vågsøy,,Vestland,NO,61.9354,5.114,ardac,0.2,True
+NO553,Vaksdal,,Vestland,NO,60.5903,5.8227,ardac,6.3,True
+NO554,Vik,,Vestland,NO,61.0886,6.5851,ardac,2.7,True
+NO555,Voss,,Vestland,NO,60.6278,6.4183,ardac,17.9,True
+NO556,Ytre Arna,,Vestland,NO,60.4618,5.4327,ardac,1.2,True
+NO557,Ytrebygda,,Vestland,NO,60.305,5.2824,ardac,3.5,True
+NO558,Ål,,Viken,NO,60.6303,8.5612,ardac,80.5,True
+NO559,Åneby,,Viken,NO,60.0893,10.87,ardac,22.3,True
+NO560,Aremark,,Viken,NO,59.222,11.6958,ardac,23.0,True
+NO561,Årnes,,Viken,NO,60.1224,11.4701,ardac,47.7,True
+NO562,Åros,,Viken,NO,59.7061,10.5109,ardac,0.6,True
+NO563,Ås,,Viken,NO,59.6637,10.791,ardac,9.3,True
+NO564,Ask,,Viken,NO,60.0713,11.0362,ardac,25.7,True
+NO565,Asker,,Viken,NO,59.8373,10.436,ardac,2.2,True
+NO566,Askim,,Viken,NO,59.5846,11.1608,ardac,28.4,True
+NO567,Auli,,Viken,NO,60.0345,11.3605,ardac,37.5,True
+NO568,Aurskog-Høland,,Viken,NO,59.8832,11.5649,ardac,45.2,True
+NO569,Aursmoen,,Viken,NO,59.9276,11.4428,ardac,38.7,True
+NO570,Bærum,,Viken,NO,59.89,10.5265,ardac,0.9,True
+NO571,Billingstad,,Viken,NO,59.8755,10.4823,ardac,1.5,True
+NO572,Bjørkelangen,,Viken,NO,59.8836,11.564,ardac,45.1,True
+NO573,Blakstad,,Viken,NO,59.8191,10.4645,ardac,1.4,True
+NO574,Drammen,,Viken,NO,59.7439,10.2045,ardac,2.0,True
+NO575,Drøbak,,Viken,NO,59.6633,10.6298,ardac,0.7,True
+NO576,Eidsberg,,Viken,NO,59.5515,11.3359,ardac,37.3,True
+NO577,Eidsvoll,,Viken,NO,60.3289,11.2612,ardac,56.4,True
+NO578,Enebakk,,Viken,NO,59.7645,11.1449,ardac,22.9,True
+NO579,Fagerstrand,,Viken,NO,59.7375,10.594,ardac,2.1,True
+NO580,Fet,,Viken,NO,59.9222,11.1678,ardac,23.4,True
+NO581,Fetsund,,Viken,NO,59.9246,11.1571,ardac,22.9,True
+NO582,Fjellfoten,,Viken,NO,60.0897,11.4722,ardac,45.9,True
+NO583,Flå,,Viken,NO,60.4291,9.4661,ardac,84.9,True
+NO584,Flateby,,Viken,NO,59.8295,11.1535,ardac,22.2,True
+NO585,Flesberg,,Viken,NO,59.8328,9.5831,ardac,37.9,True
+NO586,Fossby,,Viken,NO,59.2222,11.6993,ardac,23.2,True
+NO587,Fredrikstad,,Viken,NO,59.2176,10.9379,ardac,3.1,True
+NO588,Frogn,,Viken,NO,59.6667,10.6357,ardac,1.1,True
+NO589,Frogner,,Viken,NO,60.0246,11.1028,ardac,24.7,True
+NO590,Geilo,,Viken,NO,60.5337,8.2054,ardac,60.2,True
+NO591,Gjerdrum,,Viken,NO,60.0716,11.036,ardac,25.7,True
+NO592,Gol,,Viken,NO,60.6995,8.9502,ardac,90.0,True
+NO593,Halden,,Viken,NO,59.1226,11.3871,ardac,2.6,True
+NO594,Hemsedal,,Viken,NO,60.8611,8.5654,ardac,62.4,True
+NO595,Hobøl,,Viken,NO,59.6225,10.9498,ardac,16.8,True
+NO596,Hol,,Viken,NO,60.6153,8.3019,ardac,66.5,True
+NO597,Hole,,Viken,NO,60.0802,10.2784,ardac,26.2,True
+NO598,Hønefoss,,Viken,NO,60.168,10.2565,ardac,35.4,True
+NO599,Hurdal,,Viken,NO,60.4352,11.0671,ardac,62.2,True
+NO600,Hurum,,Viken,NO,59.614,10.4576,ardac,1.9,True
+NO601,Hvaler,,Viken,NO,59.0281,11.0311,ardac,0.8,True
+NO602,Hvittingfoss,,Viken,NO,59.4857,10.0117,ardac,14.8,True
+NO603,Jessheim,,Viken,NO,60.1415,11.1752,ardac,36.7,True
+NO604,Karlshus,,Viken,NO,59.352,10.8723,ardac,6.9,True
+NO605,Kløfta,,Viken,NO,60.0741,11.1381,ardac,29.8,True
+NO606,Knappstad,,Viken,NO,59.6242,11.0327,ardac,21.4,True
+NO607,Kongsberg,,Viken,NO,59.6652,9.6465,ardac,33.1,True
+NO608,Krødsherad,,Viken,NO,60.1794,9.6212,ardac,60.1,True
+NO609,Larkollen,,Viken,NO,59.332,10.6669,ardac,0.5,True
+NO610,Leirsund,,Viken,NO,59.9968,11.0875,ardac,22.2,True
+NO611,Lervik,,Viken,NO,59.2712,10.7461,ardac,0.4,True
+NO612,Lier,,Viken,NO,59.7866,10.2459,ardac,5.4,True
+NO613,Lillestrøm,,Viken,NO,59.956,11.0492,ardac,18.1,True
+NO614,Lørenskog,,Viken,NO,59.9321,10.9608,ardac,12.6,True
+NO615,Lysaker,,Viken,NO,59.9099,10.6355,ardac,1.7,True
+NO616,Marker,,Viken,NO,59.4795,11.6592,ardac,41.8,True
+NO617,Maura,,Viken,NO,60.2583,11.0319,ardac,43.2,True
+NO618,Modum,,Viken,NO,59.9735,10.0047,ardac,29.3,True
+NO619,Moss,,Viken,NO,59.4344,10.6597,ardac,0.4,True
+NO620,Mysen,,Viken,NO,59.5535,11.3258,ardac,36.8,True
+NO621,Nannestad,,Viken,NO,60.2171,11.012,ardac,38.6,True
+NO622,Nedre Eiker,,Viken,NO,59.7502,10.0074,ardac,12.5,True
+NO623,Nes,,Viken,NO,60.1225,11.4657,ardac,47.5,True
+NO624,Nesbyen,,Viken,NO,60.5681,9.1027,ardac,106.0,False
+NO625,Neskollen,,Viken,NO,60.1216,11.3393,ardac,41.7,True
+NO626,Nesodden,,Viken,NO,59.8422,10.6494,ardac,1.7,True
+NO627,Nesoddtangen,,Viken,NO,59.8624,10.6631,ardac,0.8,True
+NO628,Nittedal,,Viken,NO,60.0428,10.8817,ardac,18.2,True
+NO629,Nore og Uvdal,,Viken,NO,60.2671,8.9464,ardac,93.0,True
+NO630,Noresund,,Viken,NO,60.1799,9.6241,ardac,60.0,True
+NO631,Oppegård,,Viken,NO,59.8115,10.7971,ardac,2.8,True
+NO632,Ørje,,Viken,NO,59.4802,11.6602,ardac,41.9,True
+NO633,Øvre Eiker,,Viken,NO,59.7711,9.9084,ardac,18.5,True
+NO634,Prestfoss,,Viken,NO,60.0434,9.6352,ardac,47.9,True
+NO635,Råde,,Viken,NO,59.3516,10.8714,ardac,6.8,True
+NO636,Råholt,,Viken,NO,60.2751,11.179,ardac,48.9,True
+NO637,Rakkestad,,Viken,NO,59.4282,11.3435,ardac,27.5,True
+NO638,Rælingen,,Viken,NO,59.9263,11.0653,ardac,17.9,True
+NO639,Ringerike,,Viken,NO,60.1602,10.2566,ardac,34.6,True
+NO640,Rollag,,Viken,NO,59.9841,9.2949,ardac,59.4,True
+NO641,Rotnes,,Viken,NO,60.0571,10.8614,ardac,18.9,True
+NO642,Rømskog,,Viken,NO,59.7497,11.8112,ardac,59.9,True
+NO643,Røyken,,Viken,NO,59.7402,10.4132,ardac,4.4,True
+NO644,Rygge,,Viken,NO,59.4063,10.693,ardac,2.0,True
+NO645,Ryggebyen,,Viken,NO,59.375,10.75,ardac,4.7,True
+NO646,Sarpsborg,,Viken,NO,59.2815,11.1117,ardac,10.2,True
+NO647,Sætre,,Viken,NO,59.6813,10.5275,ardac,1.0,True
+NO648,Sigdal,,Viken,NO,60.0459,9.6367,ardac,48.0,True
+NO649,Skedsmo,,Viken,NO,59.9545,11.0395,ardac,17.6,True
+NO650,Ski,,Viken,NO,59.7205,10.8388,ardac,7.1,True
+NO651,Skiptvet,,Viken,NO,59.4775,11.1617,ardac,26.6,True
+NO652,Skjærhalden,,Viken,NO,59.0253,11.0369,ardac,0.6,True
+NO653,Skjeberg,,Viken,NO,59.2115,11.1903,ardac,1.8,True
+NO654,Skoger,,Viken,NO,59.7133,10.2536,ardac,1.1,True
+NO655,Skui,,Viken,NO,59.9275,10.4475,ardac,6.8,True
+NO656,Sørum,,Viken,NO,59.9871,11.2402,ardac,29.3,True
+NO657,Sørumsand,,Viken,NO,59.9862,11.2415,ardac,29.3,True
+NO658,Spydeberg,,Viken,NO,59.6203,11.0807,ardac,24.0,True
+NO659,Tofte,,Viken,NO,59.5428,10.5614,ardac,1.3,True
+NO660,Tomter,,Viken,NO,59.6591,10.9949,ardac,17.9,True
+NO661,Tranby,,Viken,NO,59.8085,10.2611,ardac,7.7,True
+NO662,Trøgstad,,Viken,NO,59.6402,11.3189,ardac,35.5,True
+NO663,Ullensaker,,Viken,NO,60.144,11.1744,ardac,36.8,True
+NO664,Våler,,Viken,NO,59.4887,10.8655,ardac,9.9,True
+NO665,Vestby,,Viken,NO,59.6023,10.7481,ardac,5.2,True
+NO666,Vikersund,,Viken,NO,59.9684,9.9911,ardac,29.2,True
+NO667,Olonkinbyen,,Jan Mayen,NO,70.922,-8.715,ardac,1.9,True
+NO668,Longyearbyen,,Svalbard,NO,78.22,15.65,ardac,1.0,True
+NO669,Ny-Ålesund,,Svalbard,NO,78.925,11.9222,ardac,1.8,True
+NO669,Bjørnøya,,Svalbard,NO,74.44,19.0475,ardac,5.2,True
+NO670,Hopen,,Svalbard,NO,76.55,25.1167,ardac,0.9,True
+NO672,"Polish Polar Station, Hornsund",Isbjørnhamna,Svalbard,NO,77.0,15.55,ardac,3.9,True
+NO671,Pyramiden,,Svalbard,NO,78.6561,16.325,ardac,1.1,True
+NO672,Barentsburg,,Svalbard,NO,78.0667,14.2167,ardac,1.0,True

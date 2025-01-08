@@ -1,101 +1,101 @@
-id,name,alt_name,region,country,latitude,longitude,tags
-IS1,Seltjarnarnes,,Capital Region,IS,64.1541,-21.9949,ardac
-IS2,Garðabær,,Capital Region,IS,64.0887,-21.923,ardac
-IS3,Hafnarfjörður,,Capital Region,IS,64.0708,-21.9993,ardac
-IS4,Kópavogur,,Capital Region,IS,64.1044,-21.9145,ardac
-IS5,Mosfellsbær,,Capital Region,IS,64.1667,-21.7,ardac
-IS6,Reykjavík,,Capital Region,IS,64.1333,-21.9,ardac
-IS7,Grundarhverfi í Kjalarnesi,,Capital Region,IS,64.2401,-21.8329,ardac
-IS8,Álftanes,,East,IS,65.3833,-13.65,ardac
-IS9,Bakkafjörður,,East,IS,66.0295,-14.8781,ardac
-IS10,Borgarnes,,East,IS,65.3328,-13.7239,ardac
-IS11,Egilsstaðir,,East,IS,64.9622,-15.1571,ardac
-IS12,Eskifjörður,,East,IS,65.0667,-14.0167,ardac
-IS13,Fáskrúðsfjörður,,East,IS,64.9313,-14.0189,ardac
-IS14,Flateyri,,East,IS,65.0367,-14.0856,ardac
-IS15,Garður,,East,IS,65.5534,-16.9727,ardac
-IS16,Hafnir,,East,IS,66.0888,-15.1126,ardac
-IS17,Húsavík,,East,IS,65.4,-13.7167,ardac
-IS18,Kópasker,,East,IS,66.3018,-16.4445,ardac
-IS19,Neskaupstaður,,East,IS,65.15,-13.6667,ardac
-IS20,Raufarhöfn,,East,IS,66.4543,-15.9511,ardac
-IS21,Reyðarfjörður,,East,IS,65.0316,-14.2183,ardac
-IS22,Reykjahlíð,,East,IS,65.6421,-16.9124,ardac
-IS23,Selfoss,,East,IS,65.7988,-16.3834,ardac
-IS24,Seyðisfjörður,,East,IS,65.3021,-13.8139,ardac
-IS25,Vogar,,East,IS,65.6187,-16.9162,ardac
-IS26,Vopnafjörður,,East,IS,65.8054,-14.6499,ardac
-IS27,Þórshöfn,,East,IS,64.9453,-13.7858,ardac
-IS28,Fellabær,,East,IS,65.2833,-14.3833,ardac
-IS29,Akranes,,Northeast,IS,65.7,-21.55,ardac
-IS30,Akureyri,,Northeast,IS,65.6835,-18.0878,ardac
-IS31,Árnes,,Northeast,IS,65.4003,-19.2518,ardac
-IS32,Bíldudalur,,Northeast,IS,65.6853,-23.5999,ardac
-IS33,Blönduós,,Northeast,IS,65.6593,-20.2808,ardac
-IS34,Bolungarvík,,Northeast,IS,66.1592,-23.2494,ardac
-IS35,Dalvík,,Northeast,IS,65.9833,-18.5,ardac
-IS36,Drangsnes,,Northeast,IS,66.3,-22.2,ardac
-IS37,Grenivík,,Northeast,IS,66.5167,-17.9833,ardac
-IS38,Grímsey,,Northeast,IS,66.5442,-18.0004,ardac
-IS39,Hauganes,,Northeast,IS,65.9167,-18.3,ardac
-IS40,Hella,,Northeast,IS,65.5,-19.2833,ardac
-IS41,Hnífsdalur,,Northeast,IS,66.1113,-23.1204,ardac
-IS42,Hofsós,,Northeast,IS,65.899,-19.413,ardac
-IS43,Hólmavík,,Northeast,IS,65.7077,-21.6707,ardac
-IS44,Hrafnagil,,Northeast,IS,65.5691,-18.0995,ardac
-IS45,Hrísey,,Northeast,IS,65.9974,-18.3783,ardac
-IS46,Hvanneyri,,Northeast,IS,66.3167,-22.45,ardac
-IS47,Ísafjörður,,Northeast,IS,65.8333,-22.4667,ardac
-IS48,Kristnes,,Northeast,IS,65.5939,-18.0887,ardac
-IS49,Laugar,,Northeast,IS,65.7216,-17.3735,ardac
-IS50,Litli-Árskógssandur,,Northeast,IS,65.9442,-18.3565,ardac
-IS51,Ólafsfjörður,,Northeast,IS,66.0887,-18.6347,ardac
-IS52,Patreksfjörður,,Northeast,IS,65.5978,-23.996,ardac
-IS53,Reykhólar,,Northeast,IS,65.4461,-22.1899,ardac
-IS54,Rif,,Northeast,IS,66.5258,-16.1717,ardac
-IS55,Sauðárkrókur,,Northeast,IS,65.75,-19.6667,ardac
-IS56,Siglufjörður,,Northeast,IS,66.1614,-18.8855,ardac
-IS57,Skagaströnd,,Northeast,IS,65.8234,-20.3087,ardac
-IS58,Súðavík,,Northeast,IS,66.0383,-22.9859,ardac
-IS59,Suðureyri,,Northeast,IS,66.1304,-23.528,ardac
-IS60,Svalbarðseyri,,Northeast,IS,65.7411,-18.0774,ardac
-IS61,Tálknafjörður,,Northeast,IS,65.6582,-24.0191,ardac
-IS62,Varmahlíð,,Northeast,IS,65.553,-19.4461,ardac
-IS63,Þingeyri,,Northeast,IS,65.879,-23.4929,ardac
-IS64,Borgarfjörður Eystri,,Northeast,IS,65.5166,-13.8166,ardac
-IS65,Lónsbakki,,Northeast,IS,65.7059,-18.1575,ardac
-IS66,Búðardalur,,Northwest,IS,65.2917,-22.2164,ardac
-IS67,Hvammstangi,,Northwest,IS,65.3971,-20.9435,ardac
-IS68,Kleppjárnsreykir,,Northwest,IS,64.6601,-21.484,ardac
-IS69,Stykkishólmur,,Northwest,IS,65.0754,-22.7298,ardac
-IS70,Brúnahlíð í Eyjafirði,,Northwest,IS,65.6547,-18.0253,ardac
-IS71,Hólar í Hjaltadal,,Northwest,IS,65.7318,-19.1119,ardac
-IS72,Eyrarbakki,,South,IS,63.8632,-21.1492,ardac
-IS73,Laugarvatn,,South,IS,64.2176,-20.7339,ardac
-IS74,Stokkseyri,,South,IS,63.8379,-21.0587,ardac
-IS75,Vestmannaeyjar,,South,IS,63.4427,-20.2734,ardac
-IS76,Þykkvibær,,South,IS,63.7459,-17.9306,ardac
-IS77,Hveragerði,,South,IS,64.0004,-21.186,ardac
-IS78,Þorlákshöfn,,South,IS,63.8559,-21.3834,ardac
-IS79,Borg í Grímsnesi,,South,IS,64.0753,-20.7627,ardac
-IS80,Brautarholt á Skeiðum,,South,IS,64.0216,-20.5193,ardac
-IS81,Höfn í Hornafirði,,South,IS,64.254,-15.212,ardac
-IS82,Kirkjubæjarklaustur,,South,IS,63.7833,-18.0667,ardac
-IS83,Nesjahverfi í Hornafirði,,South,IS,64.3144,-15.225,ardac
-IS84,Reykholt í Bláskógabyggð,,South,IS,64.15,-19.8167,ardac
-IS85,Sólheimar í Grímsnesi,,South,IS,64.0656,-20.6438,ardac
-IS86,Grindavík,,Southern Peninsula,IS,63.8385,-22.4393,ardac
-IS87,Sandgerði,,Southern Peninsula,IS,64.0376,-22.708,ardac
-IS88,Keflavík og Njarðvík,,Southern Peninsula,IS,64.0167,-22.5667,ardac
-IS89,Flúðir,,West,IS,64.1343,-20.3227,ardac
-IS90,Grundarfjörður,,West,IS,64.9231,-23.2591,ardac
-IS91,Hellissandur,,West,IS,64.9176,-23.8856,ardac
-IS92,Hvolsvöllur,,West,IS,63.7507,-20.2245,ardac
-IS93,Laugarás,,West,IS,64.1156,-20.4938,ardac
-IS94,Ólafsvík,,West,IS,64.8943,-23.7092,ardac
-IS95,Vík í Mýrdal,,West,IS,63.4194,-19.0097,ardac
-IS96,Bifröst,,West,IS,64.7623,-21.5547,ardac
-IS97,Reykholt í Borgarbyggð,,West,IS,64.54,-21.917,ardac
-IS98,Breiðdalsvík,,Westfjords,IS,64.7737,-13.9844,ardac
-IS99,Djúpivogur,,Westfjords,IS,64.6571,-14.2852,ardac
-IS100,Stöðvarfjörður,,Westfjords,IS,64.833,-13.8749,ardac
+id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal
+IS1,Seltjarnarnes,,Capital Region,IS,64.1541,-21.9949,ardac,0.8,True
+IS2,Garðabær,,Capital Region,IS,64.0887,-21.923,ardac,2.0,True
+IS3,Hafnarfjörður,,Capital Region,IS,64.0708,-21.9993,ardac,0.7,True
+IS4,Kópavogur,,Capital Region,IS,64.1044,-21.9145,ardac,0.6,True
+IS5,Mosfellsbær,,Capital Region,IS,64.1667,-21.7,ardac,1.3,True
+IS6,Reykjavík,,Capital Region,IS,64.1333,-21.9,ardac,1.3,True
+IS7,Grundarhverfi í Kjalarnesi,,Capital Region,IS,64.2401,-21.8329,ardac,0.2,True
+IS8,Álftanes,,East,IS,65.3833,-13.65,ardac,1.2,True
+IS9,Bakkafjörður,,East,IS,66.0295,-14.8781,ardac,1.1,True
+IS10,Borgarnes,,East,IS,65.3328,-13.7239,ardac,0.7,True
+IS11,Egilsstaðir,,East,IS,64.9622,-15.1571,ardac,35.3,True
+IS12,Eskifjörður,,East,IS,65.0667,-14.0167,ardac,0.3,True
+IS13,Fáskrúðsfjörður,,East,IS,64.9313,-14.0189,ardac,1.1,True
+IS14,Flateyri,,East,IS,65.0367,-14.0856,ardac,2.6,True
+IS15,Garður,,East,IS,65.5534,-16.9727,ardac,47.9,True
+IS16,Hafnir,,East,IS,66.0888,-15.1126,ardac,1.5,True
+IS17,Húsavík,,East,IS,65.4,-13.7167,ardac,2.2,True
+IS18,Kópasker,,East,IS,66.3018,-16.4445,ardac,0.3,True
+IS19,Neskaupstaður,,East,IS,65.15,-13.6667,ardac,0.6,True
+IS20,Raufarhöfn,,East,IS,66.4543,-15.9511,ardac,0.8,True
+IS21,Reyðarfjörður,,East,IS,65.0316,-14.2183,ardac,0.8,True
+IS22,Reykjahlíð,,East,IS,65.6421,-16.9124,ardac,41.9,True
+IS23,Selfoss,,East,IS,65.7988,-16.3834,ardac,34.7,True
+IS24,Seyðisfjörður,,East,IS,65.3021,-13.8139,ardac,1.0,True
+IS25,Vogar,,East,IS,65.6187,-16.9162,ardac,43.7,True
+IS26,Vopnafjörður,,East,IS,65.8054,-14.6499,ardac,6.1,True
+IS27,Þórshöfn,,East,IS,64.9453,-13.7858,ardac,2.3,True
+IS28,Fellabær,,East,IS,65.2833,-14.3833,ardac,17.6,True
+IS29,Akranes,,Northeast,IS,65.7,-21.55,ardac,1.6,True
+IS30,Akureyri,,Northeast,IS,65.6835,-18.0878,ardac,0.6,True
+IS31,Árnes,,Northeast,IS,65.4003,-19.2518,ardac,37.8,True
+IS32,Bíldudalur,,Northeast,IS,65.6853,-23.5999,ardac,0.1,True
+IS33,Blönduós,,Northeast,IS,65.6593,-20.2808,ardac,0.6,True
+IS34,Bolungarvík,,Northeast,IS,66.1592,-23.2494,ardac,2.2,True
+IS35,Dalvík,,Northeast,IS,65.9833,-18.5,ardac,1.9,True
+IS36,Drangsnes,,Northeast,IS,66.3,-22.2,ardac,0.8,True
+IS37,Grenivík,,Northeast,IS,66.5167,-17.9833,ardac,2.0,True
+IS38,Grímsey,,Northeast,IS,66.5442,-18.0004,ardac,0.8,True
+IS39,Hauganes,,Northeast,IS,65.9167,-18.3,ardac,0.6,True
+IS40,Hella,,Northeast,IS,65.5,-19.2833,ardac,26.7,True
+IS41,Hnífsdalur,,Northeast,IS,66.1113,-23.1204,ardac,0.5,True
+IS42,Hofsós,,Northeast,IS,65.899,-19.413,ardac,1.6,True
+IS43,Hólmavík,,Northeast,IS,65.7077,-21.6707,ardac,0.1,True
+IS44,Hrafnagil,,Northeast,IS,65.5691,-18.0995,ardac,8.6,True
+IS45,Hrísey,,Northeast,IS,65.9974,-18.3783,ardac,0.9,True
+IS46,Hvanneyri,,Northeast,IS,66.3167,-22.45,ardac,0.9,True
+IS47,Ísafjörður,,Northeast,IS,65.8333,-22.4667,ardac,0.4,True
+IS48,Kristnes,,Northeast,IS,65.5939,-18.0887,ardac,5.8,True
+IS49,Laugar,,Northeast,IS,65.7216,-17.3735,ardac,22.7,True
+IS50,Litli-Árskógssandur,,Northeast,IS,65.9442,-18.3565,ardac,0.8,True
+IS51,Ólafsfjörður,,Northeast,IS,66.0887,-18.6347,ardac,0.3,True
+IS52,Patreksfjörður,,Northeast,IS,65.5978,-23.996,ardac,0.7,True
+IS53,Reykhólar,,Northeast,IS,65.4461,-22.1899,ardac,0.4,True
+IS54,Rif,,Northeast,IS,66.5258,-16.1717,ardac,0.9,True
+IS55,Sauðárkrókur,,Northeast,IS,65.75,-19.6667,ardac,1.8,True
+IS56,Siglufjörður,,Northeast,IS,66.1614,-18.8855,ardac,0.3,True
+IS57,Skagaströnd,,Northeast,IS,65.8234,-20.3087,ardac,1.3,True
+IS58,Súðavík,,Northeast,IS,66.0383,-22.9859,ardac,0.7,True
+IS59,Suðureyri,,Northeast,IS,66.1304,-23.528,ardac,1.0,True
+IS60,Svalbarðseyri,,Northeast,IS,65.7411,-18.0774,ardac,1.1,True
+IS61,Tálknafjörður,,Northeast,IS,65.6582,-24.0191,ardac,2.0,True
+IS62,Varmahlíð,,Northeast,IS,65.553,-19.4461,ardac,19.6,True
+IS63,Þingeyri,,Northeast,IS,65.879,-23.4929,ardac,1.3,True
+IS64,Borgarfjörður Eystri,,Northeast,IS,65.5166,-13.8166,ardac,1.4,True
+IS65,Lónsbakki,,Northeast,IS,65.7059,-18.1575,ardac,1.2,True
+IS66,Búðardalur,,Northwest,IS,65.2917,-22.2164,ardac,3.0,True
+IS67,Hvammstangi,,Northwest,IS,65.3971,-20.9435,ardac,1.1,True
+IS68,Kleppjárnsreykir,,Northwest,IS,64.6601,-21.484,ardac,1.6,True
+IS69,Stykkishólmur,,Northwest,IS,65.0754,-22.7298,ardac,0.5,True
+IS70,Brúnahlíð í Eyjafirði,,Northwest,IS,65.6547,-18.0253,ardac,1.2,True
+IS71,Hólar í Hjaltadal,,Northwest,IS,65.7318,-19.1119,ardac,14.3,True
+IS72,Eyrarbakki,,South,IS,63.8632,-21.1492,ardac,0.5,True
+IS73,Laugarvatn,,South,IS,64.2176,-20.7339,ardac,33.9,True
+IS74,Stokkseyri,,South,IS,63.8379,-21.0587,ardac,1.5,True
+IS75,Vestmannaeyjar,,South,IS,63.4427,-20.2734,ardac,0.6,True
+IS76,Þykkvibær,,South,IS,63.7459,-17.9306,ardac,3.1,True
+IS77,Hveragerði,,South,IS,64.0004,-21.186,ardac,4.6,True
+IS78,Þorlákshöfn,,South,IS,63.8559,-21.3834,ardac,1.1,True
+IS79,Borg í Grímsnesi,,South,IS,64.0753,-20.7627,ardac,20.0,True
+IS80,Brautarholt á Skeiðum,,South,IS,64.0216,-20.5193,ardac,19.4,True
+IS81,Höfn í Hornafirði,,South,IS,64.254,-15.212,ardac,1.6,True
+IS82,Kirkjubæjarklaustur,,South,IS,63.7833,-18.0667,ardac,11.0,True
+IS83,Nesjahverfi í Hornafirði,,South,IS,64.3144,-15.225,ardac,1.7,True
+IS84,Reykholt í Bláskógabyggð,,South,IS,64.15,-19.8167,ardac,45.5,True
+IS85,Sólheimar í Grímsnesi,,South,IS,64.0656,-20.6438,ardac,22.3,True
+IS86,Grindavík,,Southern Peninsula,IS,63.8385,-22.4393,ardac,1.2,True
+IS87,Sandgerði,,Southern Peninsula,IS,64.0376,-22.708,ardac,0.7,True
+IS88,Keflavík og Njarðvík,,Southern Peninsula,IS,64.0167,-22.5667,ardac,0.5,True
+IS89,Flúðir,,West,IS,64.1343,-20.3227,ardac,33.2,True
+IS90,Grundarfjörður,,West,IS,64.9231,-23.2591,ardac,0.4,True
+IS91,Hellissandur,,West,IS,64.9176,-23.8856,ardac,2.2,True
+IS92,Hvolsvöllur,,West,IS,63.7507,-20.2245,ardac,4.7,True
+IS93,Laugarás,,West,IS,64.1156,-20.4938,ardac,29.7,True
+IS94,Ólafsvík,,West,IS,64.8943,-23.7092,ardac,2.3,True
+IS95,Vík í Mýrdal,,West,IS,63.4194,-19.0097,ardac,1.8,True
+IS96,Bifröst,,West,IS,64.7623,-21.5547,ardac,11.7,True
+IS97,Reykholt í Borgarbyggð,,West,IS,64.54,-21.917,ardac,2.5,True
+IS98,Breiðdalsvík,,Westfjords,IS,64.7737,-13.9844,ardac,1.9,True
+IS99,Djúpivogur,,Westfjords,IS,64.6571,-14.2852,ardac,0.2,True
+IS100,Stöðvarfjörður,,Westfjords,IS,64.833,-13.8749,ardac,2.0,True
