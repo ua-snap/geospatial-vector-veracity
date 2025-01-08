@@ -86,6 +86,7 @@ for path in glob.iglob("../vector_data/point/*.csv"):
     if file in file_tags:
         tags += file_tags[file]
     tags = list(set(tags))
+    tags = sorted(tags)
     communities.loc[~communities["id"].isin(eds_only), "tags"] = ",".join(tags)
 
     if file in check_within_iem:
@@ -103,7 +104,8 @@ for path in glob.iglob("../vector_data/point/*.csv"):
         # Tag remaining communities with "ncr"
         tags = communities.loc[iem_communities, "tags"].str.split(",")
         tags = tags.apply(lambda x: x + ["ncr"])
-        communities.loc[iem_communities, "tags"] = tags.str.join(",")
+        tags = tags.apply(sorted)
+        communities.loc[iem_communities, "tags"] = tags.apply(lambda x: ",".join(x))
 
         # Remove the geometry column before writing to CSV
         communities = communities.drop(columns="geometry")
