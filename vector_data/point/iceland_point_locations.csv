@@ -13,7 +13,7 @@ IS11,Egilsstaðir,,East,IS,64.9622,-15.1571,ardac,35.3,True
 IS12,Eskifjörður,,East,IS,65.0667,-14.0167,ardac,0.3,True
 IS13,Fáskrúðsfjörður,,East,IS,64.9313,-14.0189,ardac,1.1,True
 IS14,Flateyri,,East,IS,65.0367,-14.0856,ardac,2.6,True
-IS15,Garður,,East,IS,65.5534,-16.9727,ardac,47.9,True
+IS15,Garður,,East,IS,65.5534,-16.9727,ardac,48.0,True
 IS16,Hafnir,,East,IS,66.0888,-15.1126,ardac,1.5,True
 IS17,Húsavík,,East,IS,65.4,-13.7167,ardac,2.2,True
 IS18,Kópasker,,East,IS,66.3018,-16.4445,ardac,0.3,True
@@ -83,7 +83,7 @@ IS81,Höfn í Hornafirði,,South,IS,64.254,-15.212,ardac,1.6,True
 IS82,Kirkjubæjarklaustur,,South,IS,63.7833,-18.0667,ardac,11.0,True
 IS83,Nesjahverfi í Hornafirði,,South,IS,64.3144,-15.225,ardac,1.7,True
 IS84,Reykholt í Bláskógabyggð,,South,IS,64.15,-19.8167,ardac,45.5,True
-IS85,Sólheimar í Grímsnesi,,South,IS,64.0656,-20.6438,ardac,22.3,True
+IS85,Sólheimar í Grímsnesi,,South,IS,64.0656,-20.6438,ardac,22.2,True
 IS86,Grindavík,,Southern Peninsula,IS,63.8385,-22.4393,ardac,1.2,True
 IS87,Sandgerði,,Southern Peninsula,IS,64.0376,-22.708,ardac,0.7,True
 IS88,Keflavík og Njarðvík,,Southern Peninsula,IS,64.0167,-22.5667,ardac,0.5,True
@@ -91,7 +91,7 @@ IS89,Flúðir,,West,IS,64.1343,-20.3227,ardac,33.2,True
 IS90,Grundarfjörður,,West,IS,64.9231,-23.2591,ardac,0.4,True
 IS91,Hellissandur,,West,IS,64.9176,-23.8856,ardac,2.2,True
 IS92,Hvolsvöllur,,West,IS,63.7507,-20.2245,ardac,4.7,True
-IS93,Laugarás,,West,IS,64.1156,-20.4938,ardac,29.7,True
+IS93,Laugarás,,West,IS,64.1156,-20.4938,ardac,29.6,True
 IS94,Ólafsvík,,West,IS,64.8943,-23.7092,ardac,2.3,True
 IS95,Vík í Mýrdal,,West,IS,63.4194,-19.0097,ardac,1.8,True
 IS96,Bifröst,,West,IS,64.7623,-21.5547,ardac,11.7,True

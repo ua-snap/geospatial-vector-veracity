@@ -38,7 +38,7 @@ FO36,Sumba,,Suðuroy,FO,61.4039,-6.7133,ardac,0.7,True
 FO37,Nólsoy,,Suðurstreymoy,FO,62.0096,-6.6744,ardac,3.0,True
 FO38,Kaldbak,,Suðurstreymoy,FO,62.0611,-6.8287,ardac,0.9,True
 FO39,Hvalvík,,Norðurstreymoy,FO,62.1871,-7.0354,ardac,2.0,True
-FO40,Streymnes,,Norðurstreymoy,FO,62.1914,-7.0316,ardac,1.9,True
+FO40,Streymnes,,Norðurstreymoy,FO,62.1914,-7.0316,ardac,2.0,True
 FO41,Norðdepil,,Norðoyar,FO,62.2947,-6.5263,ardac,1.3,True
 FO42,Velbastaður,,Suðurstreymoy,FO,61.9831,-6.8541,ardac,1.3,True
 FO43,Skálavík,,Sandoy,FO,61.8297,-6.6658,ardac,1.9,True
@@ -87,7 +87,7 @@ FO85,Langasandur,,Norðurstreymoy,FO,62.2316,-7.0486,ardac,1.7,True
 FO86,Stykkið,,Norðurstreymoy,FO,62.1155,-7.0513,ardac,1.1,True
 FO87,Øravík,,Suðuroy,FO,61.5327,-6.8112,ardac,2.3,True
 FO88,undir Gøtueiði,,Eysturoy,FO,62.1754,-6.7753,ardac,0.7,True
-FO89,Hestur,,Suðurstreymoy,FO,61.9508,-6.8906,ardac,4.7,True
+FO89,Hestur,,Suðurstreymoy,FO,61.9508,-6.8906,ardac,4.6,True
 FO90,Ljósá,,Eysturoy,FO,62.2675,-7.0618,ardac,1.0,True
 FO91,Svínáir,,Eysturoy,FO,62.2298,-7.0257,ardac,1.1,True
 FO92,Akrar,,Suðuroy,FO,61.4557,-6.759,ardac,0.3,True
@@ -104,10 +104,10 @@ FO102,Norðradalur,,Suðurstreymoy,FO,62.0401,-6.9269,ardac,0.9,True
 FO103,Ánir,,Norðoyar,FO,62.2547,-6.5794,ardac,0.5,True
 FO104,Skælingur,,Norðurstreymoy,FO,62.096,-7.0082,ardac,1.0,True
 FO105,Lambareiði,,Eysturoy,FO,62.1393,-6.7306,ardac,1.1,True
-FO106,Syðradalur,,Norðoyar,FO,62.0187,-6.9124,ardac,2.2,True
+FO106,Syðradalur,,Norðoyar,FO,62.0187,-6.9124,ardac,2.1,True
 FO107,Kaldbaksbotnur,,Suðurstreymoy,FO,62.0654,-6.9127,ardac,2.6,True
 FO108,Stóra Dímun,,Sandoy,FO,61.6946,-6.7566,ardac,7.6,True
-FO109,Syðradalur,,Suðurstreymoy,FO,62.0187,-6.9124,ardac,2.2,True
+FO109,Syðradalur,,Suðurstreymoy,FO,62.0187,-6.9124,ardac,2.1,True
 FO110,Norðtoftir,,Norðoyar,FO,62.2755,-6.5157,ardac,1.6,True
 FO111,Skarvanes,,Sandoy,FO,61.7936,-6.7475,ardac,2.4,True
 FO112,Sund,,Suðurstreymoy,FO,62.0491,-6.846,ardac,0.5,True

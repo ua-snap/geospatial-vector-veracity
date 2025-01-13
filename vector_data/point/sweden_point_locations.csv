@@ -1,946 +1,946 @@
 id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal
 SE1,Abbekås,,Skåne,SE,55.399274,13.600275,ardac,0.6,True
-SE2,Abborrberget,,Värmland,SE,59.712128,14.202896,ardac,164.2,False
-SE3,Alberga,,Örebro,SE,59.456204,14.88012,ardac,117.2,False
+SE2,Abborrberget,,Värmland,SE,59.712128,14.202896,ardac,164.5,False
+SE3,Alberga,,Örebro,SE,59.456204,14.88012,ardac,117.3,False
 SE4,Alby,,Gotland,SE,57.819483,18.956528,ardac,2.2,True
-SE5,Alfta,,Gävleborg,SE,61.345719,16.000104,ardac,58.6,True
+SE5,Alfta,,Gävleborg,SE,61.345719,16.000104,ardac,59.0,True
 SE6,Algutsrum,,Kalmar,SE,56.679426,16.529795,ardac,6.6,True
-SE7,Alingsås,,Västra Götaland,SE,57.980745,12.45817,ardac,39.1,True
+SE7,Alingsås,,Västra Götaland,SE,57.980745,12.45817,ardac,39.2,True
 SE8,Allerum,,Skåne,SE,56.128579,12.668427,ardac,3.9,True
-SE9,Almunge,,Uppsala,SE,59.877306,18.046123,ardac,36.9,True
+SE9,Almunge,,Uppsala,SE,59.877306,18.046123,ardac,36.8,True
 SE10,Alsike,,Uppsala,SE,59.756626,17.763587,ardac,39.0,True
 SE11,Alstad,,Skåne,SE,55.454374,13.209501,ardac,10.2,True
-SE12,Alsterbro,,Kalmar,SE,56.940257,15.913943,ardac,31.9,True
-SE13,Alster,,Värmland,SE,59.398117,13.608431,ardac,131.1,False
-SE14,Alstermo,,Kronoberg,SE,56.974271,15.65268,ardac,47.5,True
-SE15,Alunda,,Uppsala,SE,60.066453,18.078071,ardac,23.7,True
-SE16,Alvesta,,Kronoberg,SE,56.863826,14.44793,ardac,79.5,True
+SE12,Alsterbro,,Kalmar,SE,56.940257,15.913943,ardac,32.0,True
+SE13,Alster,,Värmland,SE,59.398117,13.608431,ardac,131.7,False
+SE14,Alstermo,,Kronoberg,SE,56.974271,15.65268,ardac,47.6,True
+SE15,Alunda,,Uppsala,SE,60.066453,18.078071,ardac,23.6,True
+SE16,Alvesta,,Kronoberg,SE,56.863826,14.44793,ardac,79.4,True
 SE17,Alvhem,,Uppsala,SE,59.749985,17.761835,ardac,38.4,True
-SE18,Alvik,,Stockholm,SE,59.3334,17.9803,ardac,6.5,True
+SE18,Alvik,,Stockholm,SE,59.3334,17.9803,ardac,6.6,True
 SE19,Alvik,,Norrbotten,SE,65.566667,21.783333,ardac,4.8,True
-SE20,Ambjörnarp,,Västra Götaland,SE,57.421314,13.294558,ardac,70.2,True
+SE20,Ambjörnarp,,Västra Götaland,SE,57.421314,13.294558,ardac,70.4,True
 SE21,Ammenäs,,Västra Götaland,SE,58.311395,11.818407,ardac,0.7,True
 SE22,Anderslöv,,Skåne,SE,55.438877,13.318682,ardac,10.7,True
 SE23,Anderstorp,,Jönköping,SE,57.282982,13.636821,ardac,81.3,True
-SE24,Aneby,,Jönköping,SE,57.874561,14.75443,ardac,98.5,True
-SE25,Angelstad,,Kronoberg,SE,56.827591,13.763888,ardac,57.7,True
+SE24,Aneby,,Jönköping,SE,57.874561,14.75443,ardac,98.9,True
+SE25,Angelstad,,Kronoberg,SE,56.827591,13.763888,ardac,57.8,True
 SE26,Angered,,Västra Götaland,SE,57.813166,12.118917,ardac,16.9,True
 SE27,Ankarsrum,,Kalmar,SE,57.700892,16.334361,ardac,13.8,True
 SE28,Ankarsvik,,Västernorrland,SE,62.373596,17.40904,ardac,2.3,True
 SE29,Anneberg,,Halland,SE,57.539118,12.110653,ardac,9.2,True
 SE30,Annelöv,,Skåne,SE,55.836544,13.019732,ardac,5.9,True
 SE31,Antnäs,,Norrbotten,SE,65.552552,21.842872,ardac,2.0,True
-SE32,Aplared,,Västra Götaland,SE,57.650125,13.067945,ardac,63.7,True
-SE33,Arboga,,Västmanland,SE,59.394187,15.839664,ardac,84.1,True
-SE34,Arbrå,,Gävleborg,SE,61.473088,16.374964,ardac,38.1,True
-SE35,Ardala,,Västra Götaland,SE,58.362007,13.338056,ardac,85.0,True
-SE36,Arentorp,,Västra Götaland,SE,58.241915,12.873894,ardac,57.7,True
+SE32,Aplared,,Västra Götaland,SE,57.650125,13.067945,ardac,63.8,True
+SE33,Arboga,,Västmanland,SE,59.394187,15.839664,ardac,83.9,True
+SE34,Arbrå,,Gävleborg,SE,61.473088,16.374964,ardac,38.3,True
+SE35,Ardala,,Västra Götaland,SE,58.362007,13.338056,ardac,85.4,True
+SE36,Arentorp,,Västra Götaland,SE,58.241915,12.873894,ardac,58.0,True
 SE37,Arild,,Skåne,SE,56.273819,12.572109,ardac,4.2,True
-SE38,Arjeplog,,Norrbotten,SE,66.380715,17.106845,ardac,104.5,False
+SE38,Arjeplog,,Norrbotten,SE,66.380715,17.106845,ardac,104.9,False
 SE39,Arkelstorp,,Skåne,SE,56.173923,14.289774,ardac,19.7,True
-SE40,Arninge,,Stockholm,SE,59.464709,18.129501,ardac,1.1,True
+SE40,Arninge,,Stockholm,SE,59.464709,18.129501,ardac,1.0,True
 SE41,Arnö,,Södermanland,SE,56.180854,15.586153,ardac,0.2,True
 SE42,Arrie,,Skåne,SE,55.515525,13.085134,ardac,8.2,True
-SE43,Arvidsjaur,,Norrbotten,SE,65.656995,19.345614,ardac,95.8,True
-SE44,Arvidsvik,,Västra Götaland,SE,57.888471,11.591697,ardac,5.3,True
+SE43,Arvidsjaur,,Norrbotten,SE,65.656995,19.345614,ardac,96.5,True
+SE44,Arvidsvik,,Västra Götaland,SE,57.888471,11.591697,ardac,5.2,True
 SE45,Arvika,,Värmland,SE,59.654355,12.591622,ardac,92.8,True
-SE46,Askeby,,Östergötland,SE,58.406696,15.871683,ardac,30.5,True
-SE47,Askersby,,Örebro,SE,59.14896,15.474376,ardac,69.1,True
-SE48,Askersund,,Örebro,SE,58.8355,14.925755,ardac,75.8,True
+SE46,Askeby,,Östergötland,SE,58.406696,15.871683,ardac,30.4,True
+SE47,Askersby,,Örebro,SE,59.14896,15.474376,ardac,69.2,True
+SE48,Askersund,,Örebro,SE,58.8355,14.925755,ardac,76.1,True
 SE49,Asmundtorp,,Skåne,SE,55.885595,12.947194,ardac,5.0,True
-SE50,Aspeboda,,Dalarna,SE,60.560042,15.491874,ardac,93.6,True
+SE50,Aspeboda,,Dalarna,SE,60.560042,15.491874,ardac,94.1,True
 SE51,Asperö,,Västra Götaland,SE,57.646285,11.800211,ardac,2.5,True
-SE52,Aspås,,Jämtland,SE,63.365034,14.4847,ardac,157.4,False
-SE53,Avan,,Norrbotten,SE,66.109133,22.300143,ardac,27.3,True
-SE54,Avesta,,Dalarna,SE,60.146955,16.182699,ardac,82.2,True
-SE55,Axvall,,Västra Götaland,SE,58.389166,13.574769,ardac,98.9,True
-SE56,Backaryd,,Blekinge,SE,56.347209,15.154482,ardac,18.4,True
-SE57,Backa,,Gävleborg,SE,60.660842,17.076742,ardac,6.9,True
-SE58,Backe,,Västernorrland,SE,62.273599,17.143122,ardac,13.9,True
-SE59,Baggetorp,,Örebro,SE,58.905277,14.608042,ardac,95.5,True
-SE60,Baldersnäs,,Västra Götaland,SE,58.962705,12.277522,ardac,48.2,True
+SE52,Aspås,,Jämtland,SE,63.365034,14.4847,ardac,158.4,False
+SE53,Avan,,Norrbotten,SE,66.109133,22.300143,ardac,27.5,True
+SE54,Avesta,,Dalarna,SE,60.146955,16.182699,ardac,81.9,True
+SE55,Axvall,,Västra Götaland,SE,58.389166,13.574769,ardac,99.4,True
+SE56,Backaryd,,Blekinge,SE,56.347209,15.154482,ardac,18.3,True
+SE57,Backa,,Gävleborg,SE,60.660842,17.076742,ardac,7.0,True
+SE58,Backe,,Västernorrland,SE,62.273599,17.143122,ardac,14.0,True
+SE59,Baggetorp,,Örebro,SE,58.905277,14.608042,ardac,96.0,True
+SE60,Baldersnäs,,Västra Götaland,SE,58.962705,12.277522,ardac,48.5,True
 SE61,Ballingslöv,,Skåne,SE,56.214274,13.846578,ardac,42.6,True
 SE62,Balsby,,Skåne,SE,56.075362,14.21103,ardac,15.9,True
 SE63,Bammarboda,,Stockholm,SE,59.506469,18.468463,ardac,1.8,True
 SE64,Bankekind,,Östergötland,SE,58.36145,15.853222,ardac,35.1,True
-SE65,Bankeryd,,Jönköping,SE,57.863142,14.127853,ardac,130.9,False
+SE65,Bankeryd,,Jönköping,SE,57.863142,14.127853,ardac,131.2,False
 SE66,Bara,,Gotland,SE,57.588491,18.610915,ardac,9.6,True
-SE67,Barkarö,,Västmanland,SE,59.555793,16.504193,ardac,78.4,True
+SE67,Barkarö,,Västmanland,SE,59.555793,16.504193,ardac,78.8,True
 SE68,Barsebäck,,Skåne,SE,55.771661,12.956365,ardac,1.4,True
 SE69,Barsebäckshamn,,Skåne,SE,55.755836,12.905884,ardac,1.0,True
 SE70,Baskemölla,,Skåne,SE,55.591541,14.315296,ardac,1.2,True
-SE71,Bastuträsk,,Västerbotten,SE,64.021139,19.347257,ardac,51.6,True
+SE71,Bastuträsk,,Västerbotten,SE,64.021139,19.347257,ardac,51.4,True
 SE72,Beddingestrand,,Skåne,SE,55.360633,13.425184,ardac,1.3,True
-SE73,Bengtsfors,,Västra Götaland,SE,59.011644,12.245549,ardac,46.3,True
-SE74,Bengtsheden,,Dalarna,SE,60.700717,15.870233,ardac,71.6,True
+SE73,Bengtsfors,,Västra Götaland,SE,59.011644,12.245549,ardac,46.5,True
+SE74,Bengtsheden,,Dalarna,SE,60.700717,15.870233,ardac,72.0,True
 SE75,Bensbyn,,Norrbotten,SE,65.639826,22.239665,ardac,1.9,True
 SE76,Bergagård,,Halland,SE,56.981516,12.5775,ardac,11.9,True
 SE77,Berga,,Kalmar,SE,57.216667,16.033333,ardac,25.7,True
 SE78,Berga,,Östergötland,SE,58.598056,16.252222,ardac,2.8,True
 SE79,Bergby,,Gävleborg,SE,60.929064,17.041003,ardac,6.7,True
 SE80,Bergeforsen,,Västernorrland,SE,62.526318,17.373982,ardac,1.9,True
-SE81,Berg,,Jämtland,SE,62.689571,14.356633,ardac,154.0,False
+SE81,Berg,,Jämtland,SE,62.689571,14.356633,ardac,155.2,False
 SE82,Berghem,,Gävleborg,SE,61.546404,16.981166,ardac,5.3,True
 SE83,Bergkvara,,Kalmar,SE,56.39075,16.070362,ardac,3.5,True
-SE84,Berg,,Jämtland,SE,62.689571,14.356633,ardac,154.0,False
+SE84,Berg,,Jämtland,SE,62.689571,14.356633,ardac,155.2,False
 SE85,Bergnäset,,Norrbotten,SE,65.568224,22.110145,ardac,1.5,True
 SE86,Bergshammar,,Södermanland,SE,58.741404,16.912554,ardac,6.8,True
 SE87,Bergshamra,,Stockholm,SE,59.639531,18.656496,ardac,0.5,True
-SE88,Bergsjö,,Gävleborg,SE,61.983775,17.058369,ardac,15.7,True
-SE89,Bergströmshusen,,Skåne,SE,55.67668,13.17336,ardac,7.0,True
+SE88,Bergsjö,,Gävleborg,SE,61.983775,17.058369,ardac,15.8,True
+SE89,Bergströmshusen,,Skåne,SE,55.67668,13.17336,ardac,7.1,True
 SE90,Bergsviken,,Norrbotten,SE,65.307803,21.390501,ardac,1.5,True
-SE91,Bergsäng,,Värmland,SE,60.111842,13.567442,ardac,158.4,False
+SE91,Bergsäng,,Värmland,SE,60.111842,13.567442,ardac,159.3,False
 SE92,Bergvik,,Gävleborg,SE,61.255352,16.832544,ardac,15.6,True
-SE93,Berg,,Jämtland,SE,62.689571,14.356633,ardac,154.0,False
+SE93,Berg,,Jämtland,SE,62.689571,14.356633,ardac,155.2,False
 SE94,Bestorp,,Östergötland,SE,58.233475,15.733218,ardac,48.1,True
 SE95,Betsede,,Stockholm,SE,59.329785,18.431584,ardac,1.2,True
-SE96,Bettna,,Södermanland,SE,58.907255,16.638713,ardac,28.4,True
-SE97,Bie,,Södermanland,SE,59.08786,16.21166,ardac,46.8,True
+SE96,Bettna,,Södermanland,SE,58.907255,16.638713,ardac,28.5,True
+SE97,Bie,,Södermanland,SE,59.08786,16.21166,ardac,46.6,True
 SE98,Billdal,,Västra Götaland,SE,57.576997,11.942625,ardac,2.8,True
 SE99,Billeberga,,Skåne,SE,55.882914,12.999087,ardac,7.1,True
 SE100,Billinge,,Skåne,SE,55.962529,13.331781,ardac,29.1,True
-SE101,Billingsfors,,Västra Götaland,SE,58.983173,12.246167,ardac,46.3,True
-SE102,Billsta,,Västernorrland,SE,63.322877,18.514495,ardac,13.5,True
+SE101,Billingsfors,,Västra Götaland,SE,58.983173,12.246167,ardac,46.6,True
+SE102,Billsta,,Västernorrland,SE,63.322877,18.514495,ardac,13.6,True
 SE103,Birka,,Stockholm,SE,59.332728,17.544941,ardac,19.4,True
 SE104,Bjurholm,,Västerbotten,SE,63.964237,18.979487,ardac,50.6,True
-SE105,Bjursås,,Dalarna,SE,60.737604,15.45019,ardac,94.5,True
+SE105,Bjursås,,Dalarna,SE,60.737604,15.45019,ardac,95.1,True
 SE106,Bjuv,,Skåne,SE,56.084298,12.91673,ardac,14.1,True
 SE107,Bjärlöv,,Skåne,SE,56.112944,14.087109,ardac,24.0,True
-SE108,Bjärnum,,Skåne,SE,56.290441,13.711422,ardac,53.4,True
+SE108,Bjärnum,,Skåne,SE,56.290441,13.711422,ardac,53.5,True
 SE109,Bjärred,,Skåne,SE,55.722186,13.021643,ardac,0.9,True
-SE110,Bjärsjölagård,,Skåne,SE,55.723107,13.689776,ardac,31.7,True
-SE111,Bjästa,,Västernorrland,SE,63.203875,18.500273,ardac,4.3,True
-SE112,Björbo,,Dalarna,SE,60.456683,14.727251,ardac,136.9,False
-SE113,Björboholm,,Västra Götaland,SE,57.873579,12.32805,ardac,30.6,True
+SE110,Bjärsjölagård,,Skåne,SE,55.723107,13.689776,ardac,31.8,True
+SE111,Bjästa,,Västernorrland,SE,63.203875,18.500273,ardac,4.4,True
+SE112,Björbo,,Dalarna,SE,60.456683,14.727251,ardac,137.5,False
+SE113,Björboholm,,Västra Götaland,SE,57.873579,12.32805,ardac,30.7,True
 SE114,Björke,,Gävleborg,SE,60.765938,17.191293,ardac,5.3,True
-SE115,Björketorp,,Västra Götaland,SE,57.426156,12.523757,ardac,25.1,True
-SE116,Björklinge,,Uppsala,SE,60.029136,17.551431,ardac,50.4,True
-SE117,Björkskatan,,Norrbotten,SE,65.61585,22.177784,ardac,1.1,True
-SE118,Björkvik,,Södermanland,SE,58.839772,16.513832,ardac,21.8,True
-SE119,Björköby,,Jönköping,SE,57.519216,14.905918,ardac,96.2,True
+SE115,Björketorp,,Västra Götaland,SE,57.426156,12.523757,ardac,25.2,True
+SE116,Björklinge,,Uppsala,SE,60.029136,17.551431,ardac,50.3,True
+SE117,Björkskatan,,Norrbotten,SE,65.61585,22.177784,ardac,1.0,True
+SE118,Björkvik,,Södermanland,SE,58.839772,16.513832,ardac,21.7,True
+SE119,Björköby,,Jönköping,SE,57.519216,14.905918,ardac,96.6,True
 SE120,Björkö,,Kalmar,SE,57.86431,16.65667,ardac,3.0,True
-SE121,Björna,,Västernorrland,SE,63.735842,18.449723,ardac,51.5,True
+SE121,Björna,,Västernorrland,SE,63.735842,18.449723,ardac,51.8,True
 SE122,Björneborg,,Skåne,SE,55.486245,13.385036,ardac,13.2,True
-SE123,Björnlunda,,Södermanland,SE,59.066026,17.159785,ardac,25.2,True
+SE123,Björnlunda,,Södermanland,SE,59.066026,17.159785,ardac,25.3,True
 SE124,Björnås,,Västernorrland,SE,62.902228,18.346429,ardac,2.9,True
 SE125,Björnänge,,Gävleborg,SE,61.302995,17.035888,ardac,3.5,True
-SE126,Björsäter,,Västra Götaland,SE,58.658272,13.699112,ardac,111.7,False
-SE127,Blackstalund,,Uppsala,SE,59.963056,17.382621,ardac,62.3,True
+SE126,Björsäter,,Västra Götaland,SE,58.658272,13.699112,ardac,112.0,False
+SE127,Blackstalund,,Uppsala,SE,59.963056,17.382621,ardac,62.2,True
 SE128,Bleket,,Västra Götaland,SE,57.95325,11.570375,ardac,0.8,True
 SE129,Blentarp,,Skåne,SE,55.584158,13.59908,ardac,18.4,True
-SE130,Blidsberg,,Västra Götaland,SE,57.930513,13.493323,ardac,96.4,True
+SE130,Blidsberg,,Västra Götaland,SE,57.930513,13.493323,ardac,96.7,True
 SE131,Blidö,,Stockholm,SE,59.614538,18.901464,ardac,1.7,True
-SE132,Blombacka,,Värmland,SE,59.606125,13.801258,ardac,148.8,False
+SE132,Blombacka,,Värmland,SE,59.606125,13.801258,ardac,149.3,False
 SE133,Blomstermåla,,Kalmar,SE,56.98457,16.328683,ardac,6.6,True
 SE134,Blåsmark,,Norrbotten,SE,65.265284,21.292715,ardac,7.7,True
-SE135,Blötberget,,Dalarna,SE,60.126774,15.058789,ardac,132.8,False
+SE135,Blötberget,,Dalarna,SE,60.126774,15.058789,ardac,133.0,False
 SE136,Bockara,,Kalmar,SE,57.261836,16.065139,ardac,24.4,True
-SE137,Bodafors,,Jönköping,SE,57.505262,14.703379,ardac,108.4,False
-SE138,Boda,,Uppsala,SE,59.661106,16.894597,ardac,68.9,True
+SE137,Bodafors,,Jönköping,SE,57.505262,14.703379,ardac,108.8,False
+SE138,Boda,,Uppsala,SE,59.661106,16.894597,ardac,69.2,True
 SE139,Boden,,Norrbotten,SE,65.8275,21.69641,ardac,11.5,True
-SE140,Boliden,,Västerbotten,SE,64.867048,20.387333,ardac,31.1,True
-SE141,Bollebygd,,Västra Götaland,SE,57.744516,12.583187,ardac,39.5,True
-SE142,Bollnäs,,Gävleborg,SE,61.318303,16.396793,ardac,37.4,True
+SE140,Boliden,,Västerbotten,SE,64.867048,20.387333,ardac,31.3,True
+SE141,Bollebygd,,Västra Götaland,SE,57.744516,12.583187,ardac,39.6,True
+SE142,Bollnäs,,Gävleborg,SE,61.318303,16.396793,ardac,37.6,True
 SE143,Bollstabruk,,Västernorrland,SE,62.997142,17.675724,ardac,1.0,True
-SE144,Bonäs,,Dalarna,SE,61.071555,14.485861,ardac,142.5,False
-SE145,Borensberg,,Östergötland,SE,58.565658,15.280218,ardac,52.6,True
-SE146,Borggård,,Östergötland,SE,58.730203,15.55899,ardac,37.4,True
+SE144,Bonäs,,Dalarna,SE,61.071555,14.485861,ardac,143.2,False
+SE145,Borensberg,,Östergötland,SE,58.565658,15.280218,ardac,52.8,True
+SE146,Borggård,,Östergötland,SE,58.730203,15.55899,ardac,37.6,True
 SE147,Borgholm,,Kalmar,SE,56.879927,16.656137,ardac,0.8,True
-SE148,Borgstena,,Västra Götaland,SE,57.883805,13.013169,ardac,67.7,True
-SE149,Borlänge,,Dalarna,SE,60.485642,15.423456,ardac,99.0,True
+SE148,Borgstena,,Västra Götaland,SE,57.883805,13.013169,ardac,67.9,True
+SE149,Borlänge,,Dalarna,SE,60.485642,15.423456,ardac,99.4,True
 SE150,Borrby,,Skåne,SE,55.458033,14.180885,ardac,5.3,True
-SE151,Bor,,Jönköping,SE,57.117835,14.156708,ardac,94.0,True
-SE152,Borås,,Västra Götaland,SE,57.721083,12.94074,ardac,60.2,True
-SE153,Bosnäs,,Västra Götaland,SE,57.668333,12.844263,ardac,52.4,True
-SE154,Botsmark,,Västerbotten,SE,64.253403,20.246195,ardac,36.8,True
-SE155,Bottnaryd,,Jönköping,SE,57.769513,13.826133,ardac,110.5,False
+SE151,Bor,,Jönköping,SE,57.117835,14.156708,ardac,94.1,True
+SE152,Borås,,Västra Götaland,SE,57.721083,12.94074,ardac,60.3,True
+SE153,Bosnäs,,Västra Götaland,SE,57.668333,12.844263,ardac,52.5,True
+SE154,Botsmark,,Västerbotten,SE,64.253403,20.246195,ardac,37.0,True
+SE155,Bottnaryd,,Jönköping,SE,57.769513,13.826133,ardac,110.8,False
 SE156,Bovallstrand,,Västra Götaland,SE,58.474747,11.318806,ardac,1.6,True
-SE157,Boxholm,,Östergötland,SE,58.132595,15.127738,ardac,80.6,True
+SE157,Boxholm,,Östergötland,SE,58.132595,15.127738,ardac,81.0,True
 SE158,Brantevik,,Skåne,SE,55.515199,14.345963,ardac,0.5,True
 SE159,Brastad,,Västra Götaland,SE,58.382006,11.485181,ardac,3.6,True
-SE160,Braås,,Kronoberg,SE,57.059792,15.048356,ardac,84.2,True
-SE161,Bredared,,Västra Götaland,SE,57.805782,12.902985,ardac,59.3,True
-SE162,Bredaryd,,Jönköping,SE,57.174104,13.738937,ardac,78.8,True
-SE163,Bredbyn,,Västernorrland,SE,62.198527,17.230967,ardac,14.2,True
-SE164,Bredsand,,Västernorrland,SE,62.342022,17.372269,ardac,0.2,True
-SE165,Bredviken,,Västernorrland,SE,62.481596,16.46089,ardac,44.7,True
-SE166,Broaryd,,Jönköping,SE,57.120231,13.258352,ardac,52.2,True
+SE160,Braås,,Kronoberg,SE,57.059792,15.048356,ardac,84.5,True
+SE161,Bredared,,Västra Götaland,SE,57.805782,12.902985,ardac,59.5,True
+SE162,Bredaryd,,Jönköping,SE,57.174104,13.738937,ardac,78.7,True
+SE163,Bredbyn,,Västernorrland,SE,62.198527,17.230967,ardac,14.3,True
+SE164,Bredsand,,Västernorrland,SE,62.342022,17.372269,ardac,0.3,True
+SE165,Bredviken,,Västernorrland,SE,62.481596,16.46089,ardac,45.0,True
+SE166,Broaryd,,Jönköping,SE,57.120231,13.258352,ardac,52.1,True
 SE167,Broby,,Uppsala,SE,59.864782,17.825286,ardac,48.0,True
 SE168,Brokind,,Östergötland,SE,58.218153,15.681462,ardac,51.6,True
 SE169,Bromölla,,Skåne,SE,56.076158,14.468173,ardac,4.4,True
 SE170,Brottby,,Stockholm,SE,59.560959,18.238716,ardac,9.5,True
 SE171,Bro,,Gotland,SE,57.669298,18.472247,ardac,8.8,True
 SE172,Brunna,,Dalarna,SE,60.262222,16.010129,ardac,80.4,True
-SE173,Brunnsberg,,Dalarna,SE,61.207716,14.119674,ardac,159.6,False
-SE174,Brunn,,Västra Götaland,SE,57.800682,13.369513,ardac,86.5,True
-SE175,Bruzaholm,,Jönköping,SE,57.642463,15.27197,ardac,73.4,True
+SE173,Brunnsberg,,Dalarna,SE,61.207716,14.119674,ardac,160.6,False
+SE174,Brunn,,Västra Götaland,SE,57.800682,13.369513,ardac,86.9,True
+SE175,Bruzaholm,,Jönköping,SE,57.642463,15.27197,ardac,73.5,True
 SE176,Brålanda,,Västra Götaland,SE,58.563312,12.35074,ardac,37.1,True
-SE177,Bräcke,,Jämtland,SE,62.752127,15.41987,ardac,102.2,False
+SE177,Bräcke,,Jämtland,SE,62.752127,15.41987,ardac,102.9,False
 SE178,Bräkne-Hoby,,Blekinge,SE,56.22856,15.11694,ardac,5.2,True
-SE179,Brändön,,Norrbotten,SE,65.695381,22.336566,ardac,0.8,True
-SE180,Brännland,,Västerbotten,SE,64.65833,18.453399,ardac,124.5,False
+SE179,Brändön,,Norrbotten,SE,65.695381,22.336566,ardac,0.7,True
+SE180,Brännland,,Västerbotten,SE,64.65833,18.453399,ardac,124.9,False
 SE181,Brännö,,Västra Götaland,SE,57.643783,11.771863,ardac,4.2,True
 SE182,Brösarp,,Skåne,SE,55.724581,14.104728,ardac,5.7,True
 SE183,Bua,,Halland,SE,57.237037,12.122481,ardac,0.4,True
 SE184,Buerås,,Halland,SE,57.423823,11.968179,ardac,2.6,True
-SE185,Bullmark,,Västerbotten,SE,64.028582,20.483959,ardac,19.1,True
+SE185,Bullmark,,Västerbotten,SE,64.028582,20.483959,ardac,19.3,True
 SE186,Bunkeflostrand,,Skåne,SE,55.553362,12.915588,ardac,0.7,True
 SE187,Bureå,,Västerbotten,SE,64.617984,21.200493,ardac,2.2,True
 SE188,Burgsvik,,Gotland,SE,57.033211,18.276696,ardac,1.1,True
 SE189,Burlövs egnahem,,Skåne,SE,55.635827,13.101915,ardac,3.5,True
-SE190,Burseryd,,Jönköping,SE,57.375451,14.789713,ardac,101.5,False
-SE191,Burträsk,,Västerbotten,SE,64.519004,20.655786,ardac,28.8,True
+SE190,Burseryd,,Jönköping,SE,57.375451,14.789713,ardac,101.9,False
+SE191,Burträsk,,Västerbotten,SE,64.519004,20.655786,ardac,28.7,True
 SE192,Buskhyttan,,Södermanland,SE,58.665071,16.942079,ardac,0.8,True
-SE193,Butbro,,Östergötland,SE,58.716322,15.834455,ardac,21.9,True
+SE193,Butbro,,Östergötland,SE,58.716322,15.834455,ardac,22.0,True
 SE194,Bygdeå,,Västerbotten,SE,64.061088,20.853516,ardac,3.0,True
-SE195,Bygdsiljum,,Västerbotten,SE,64.350669,20.505061,ardac,30.9,True
+SE195,Bygdsiljum,,Västerbotten,SE,64.350669,20.505061,ardac,31.1,True
 SE196,Byske,,Västerbotten,SE,64.954508,21.205751,ardac,1.8,True
-SE197,Bålsta,,Uppsala,SE,59.56821,17.529364,ardac,32.4,True
+SE197,Bålsta,,Uppsala,SE,59.56821,17.529364,ardac,32.6,True
 SE198,Bårslöv,,Skåne,SE,56.011964,12.801899,ardac,3.5,True
 SE199,Båstad,,Skåne,SE,56.426789,12.860715,ardac,2.4,True
 SE200,Båtskärsnäs,,Norrbotten,SE,65.780928,23.422138,ardac,0.9,True
 SE201,Bäckaskog,,Skåne,SE,56.044299,14.33426,ardac,8.3,True
-SE202,Bäckebo,,Kalmar,SE,56.88922,16.065362,ardac,22.6,True
-SE203,Bäckefors,,Västra Götaland,SE,58.806127,12.159969,ardac,46.4,True
-SE204,Bäckhammar,,Värmland,SE,59.158939,14.190986,ardac,128.4,False
+SE202,Bäckebo,,Kalmar,SE,56.88922,16.065362,ardac,22.7,True
+SE203,Bäckefors,,Västra Götaland,SE,58.806127,12.159969,ardac,46.6,True
+SE204,Bäckhammar,,Värmland,SE,59.158939,14.190986,ardac,128.9,False
 SE205,Bälgviken,,Södermanland,SE,59.249827,16.460741,ardac,64.5,True
 SE206,Bälinge,,Norrbotten,SE,65.633333,21.933333,ardac,1.7,True
 SE207,Bälinge,,Uppsala,SE,59.948845,17.542984,ardac,55.6,True
-SE208,Bärby,,Uppsala,SE,59.856685,17.817504,ardac,47.8,True
-SE209,Bäsna,,Dalarna,SE,60.541131,15.207791,ardac,109.3,False
+SE208,Bärby,,Uppsala,SE,59.856685,17.817504,ardac,47.7,True
+SE209,Bäsna,,Dalarna,SE,60.541131,15.207791,ardac,109.8,False
 SE210,Böle,,Norrbotten,SE,65.386151,21.322539,ardac,1.8,True
 SE211,Bönan,,Gävleborg,SE,60.736131,17.303216,ardac,1.1,True
-SE212,Charlottenberg,,Värmland,SE,59.88396,12.30492,ardac,86.4,True
-SE213,Dala-Floda,,Dalarna,SE,60.507692,14.79673,ardac,132.1,False
+SE212,Charlottenberg,,Värmland,SE,59.88396,12.30492,ardac,86.9,True
+SE213,Dala-Floda,,Dalarna,SE,60.507692,14.79673,ardac,132.7,False
 SE214,Dalarö,,Stockholm,SE,59.133518,18.405239,ardac,0.9,True
-SE215,Dalby,,Skåne,SE,55.664663,13.346158,ardac,17.9,True
-SE216,Dalsjöfors,,Västra Götaland,SE,57.721698,13.106962,ardac,69.0,True
-SE217,Dals Långed,,Västra Götaland,SE,58.925905,12.306382,ardac,50.4,True
-SE218,Dals Rostock,,Västra Götaland,SE,58.714085,12.355654,ardac,49.9,True
-SE219,Dalstorp,,Västra Götaland,SE,57.605573,13.511657,ardac,87.1,True
-SE220,Dalum,,Västra Götaland,SE,57.900296,13.464924,ardac,94.0,True
-SE221,Danholn,,Dalarna,SE,60.619545,15.792959,ardac,76.4,True
+SE215,Dalby,,Skåne,SE,55.664663,13.346158,ardac,18.0,True
+SE216,Dalsjöfors,,Västra Götaland,SE,57.721698,13.106962,ardac,69.2,True
+SE217,Dals Långed,,Västra Götaland,SE,58.925905,12.306382,ardac,50.6,True
+SE218,Dals Rostock,,Västra Götaland,SE,58.714085,12.355654,ardac,49.8,True
+SE219,Dalstorp,,Västra Götaland,SE,57.605573,13.511657,ardac,87.4,True
+SE220,Dalum,,Västra Götaland,SE,57.900296,13.464924,ardac,94.3,True
+SE221,Danholn,,Dalarna,SE,60.619545,15.792959,ardac,76.8,True
 SE222,Danmark,,Västra Götaland,SE,57.949937,11.54931,ardac,0.6,True
 SE223,Dannemora,,Uppsala,SE,60.203273,17.859906,ardac,24.9,True
-SE224,Dannike,,Västra Götaland,SE,57.688771,13.227561,ardac,74.1,True
+SE224,Dannike,,Västra Götaland,SE,57.688771,13.227561,ardac,74.3,True
 SE225,Degeberga,,Skåne,SE,55.837151,14.089263,ardac,7.7,True
-SE226,Degerfors,,Örebro,SE,59.153172,14.429411,ardac,116.0,False
+SE226,Degerfors,,Örebro,SE,59.153172,14.429411,ardac,116.5,False
 SE227,Degerhamn,,Kalmar,SE,56.355521,16.411009,ardac,1.2,True
-SE228,Deje,,Värmland,SE,59.605939,13.463648,ardac,131.4,False
-SE229,Delsbo,,Gävleborg,SE,61.800127,16.555886,ardac,31.7,True
-SE230,Dingle,,Västra Götaland,SE,58.527657,11.578637,ardac,7.4,True
-SE231,Dingtuna,,Västmanland,SE,59.572402,16.388665,ardac,84.9,True
-SE232,Diseröd,,Västra Götaland,SE,57.924606,12.028827,ardac,15.5,True
+SE228,Deje,,Värmland,SE,59.605939,13.463648,ardac,131.8,False
+SE229,Delsbo,,Gävleborg,SE,61.800127,16.555886,ardac,32.0,True
+SE230,Dingle,,Västra Götaland,SE,58.527657,11.578637,ardac,7.3,True
+SE231,Dingtuna,,Västmanland,SE,59.572402,16.388665,ardac,85.3,True
+SE232,Diseröd,,Västra Götaland,SE,57.924606,12.028827,ardac,15.6,True
 SE233,Diö,,Kronoberg,SE,56.639381,14.221131,ardac,61.0,True
 SE234,Djupekås,,Blekinge,SE,56.070682,14.721403,ardac,1.6,True
-SE235,Djura,,Dalarna,SE,60.612263,15.00547,ardac,119.2,False
-SE236,Djurås,,Dalarna,SE,60.560541,15.130313,ardac,113.1,False
+SE235,Djura,,Dalarna,SE,60.612263,15.00547,ardac,119.9,False
+SE236,Djurås,,Dalarna,SE,60.560541,15.130313,ardac,113.7,False
 SE237,Djurön,,Östergötland,SE,58.629273,16.347165,ardac,0.7,True
-SE238,Djurö,,Västra Götaland,SE,58.863797,13.470505,ardac,109.3,False
+SE238,Djurö,,Västra Götaland,SE,58.863797,13.470505,ardac,109.5,False
 SE239,Docksta,,Västernorrland,SE,63.05732,18.327456,ardac,2.1,True
 SE240,Domsten,,Skåne,SE,56.119693,12.607308,ardac,0.4,True
 SE241,Donsö,,Västra Götaland,SE,57.601575,11.803462,ardac,3.9,True
-SE242,Dorotea,,Västerbotten,SE,64.46396,16.114733,ardac,178.0,False
+SE242,Dorotea,,Västerbotten,SE,64.46396,16.114733,ardac,178.9,False
 SE243,Drag,,Kalmar,SE,56.779433,16.420263,ardac,0.5,True
 SE244,Drottningholm,,Stockholm,SE,59.324925,17.887332,ardac,11.6,True
 SE245,Drottningskär,,Halland,SE,57.501139,11.926259,ardac,0.4,True
 SE246,Drängsmark,,Västerbotten,SE,64.917969,20.954582,ardac,8.3,True
 SE247,Dunö,,Kalmar,SE,56.634091,16.265794,ardac,1.5,True
-SE248,Duvesjön,,Västra Götaland,SE,57.953185,12.018631,ardac,14.5,True
-SE249,Dvärsätt,,Jämtland,SE,63.302411,14.473199,ardac,159.2,False
-SE250,Dyvelsten,,Värmland,SE,59.514042,13.438148,ardac,126.0,False
+SE248,Duvesjön,,Västra Götaland,SE,57.953185,12.018631,ardac,14.6,True
+SE249,Dvärsätt,,Jämtland,SE,63.302411,14.473199,ardac,160.3,False
+SE250,Dyvelsten,,Värmland,SE,59.514042,13.438148,ardac,126.4,False
 SE251,Dösjebro,,Skåne,SE,55.819977,13.030453,ardac,6.6,True
-SE252,Eda Glasbruk,,Värmland,SE,59.921335,12.263376,ardac,84.3,True
-SE253,Edane,,Värmland,SE,59.62982,12.822921,ardac,101.4,False
-SE254,Ed,,Västra Götaland,SE,58.912582,11.934013,ardac,29.8,True
+SE252,Eda Glasbruk,,Värmland,SE,59.921335,12.263376,ardac,84.8,True
+SE253,Edane,,Värmland,SE,59.62982,12.822921,ardac,101.5,False
+SE254,Ed,,Västra Götaland,SE,58.912582,11.934013,ardac,30.0,True
 SE255,Edeby,,Uppsala,SE,59.811901,17.775823,ardac,44.1,True
-SE256,Edsbro,,Stockholm,SE,59.895128,18.492378,ardac,18.6,True
+SE256,Edsbro,,Stockholm,SE,59.895128,18.492378,ardac,18.7,True
 SE257,Edsbruk,,Kalmar,SE,58.019577,16.467459,ardac,3.3,True
-SE258,Edsbyn,,Gävleborg,SE,61.377442,15.818175,ardac,68.5,True
+SE258,Edsbyn,,Gävleborg,SE,61.377442,15.818175,ardac,68.9,True
 SE259,Edsta,,Gävleborg,SE,61.77377,17.00371,ardac,8.9,True
-SE260,Edsvalla,,Värmland,SE,59.436975,13.210344,ardac,110.9,False
-SE261,Eggby,,Västra Götaland,SE,58.433965,13.645112,ardac,103.4,False
+SE260,Edsvalla,,Värmland,SE,59.436975,13.210344,ardac,111.3,False
+SE261,Eggby,,Västra Götaland,SE,58.433965,13.645112,ardac,103.8,False
 SE262,Ekeby-Almby,,Örebro,SE,59.258469,15.336875,ardac,83.6,True
 SE263,Ekeby,,Skåne,SE,56.016667,12.95,ardac,12.4,True
-SE264,Ekeby,,Örebro,SE,59.166667,15.266667,ardac,78.6,True
+SE264,Ekeby,,Örebro,SE,59.166667,15.266667,ardac,78.7,True
 SE265,Ekeby,,Stockholm,SE,59.183333,17.633333,ardac,2.2,True
-SE266,Ekedalen,,Uppsala,SE,59.990706,17.299305,ardac,61.0,True
-SE267,Ekenässjön,,Jönköping,SE,57.491838,15.020954,ardac,89.6,True
-SE268,Ekerö,,Stockholm,SE,59.355591,17.622421,ardac,21.0,True
+SE266,Ekedalen,,Uppsala,SE,59.990706,17.299305,ardac,60.6,True
+SE267,Ekenässjön,,Jönköping,SE,57.491838,15.020954,ardac,89.9,True
+SE268,Ekerö,,Stockholm,SE,59.355591,17.622421,ardac,20.9,True
 SE269,Ekerö sommarstad,,Stockholm,SE,59.276032,17.7345,ardac,12.7,True
-SE270,Eket,,Västra Götaland,SE,58.057464,13.803066,ardac,113.8,False
-SE271,Ekshärad,,Värmland,SE,60.174282,13.493761,ardac,155.5,False
-SE272,Eksjö,,Jönköping,SE,57.667443,14.973559,ardac,89.4,True
-SE273,Ekskogen,,Stockholm,SE,59.641435,18.231124,ardac,18.5,True
+SE270,Eket,,Västra Götaland,SE,58.057464,13.803066,ardac,114.3,False
+SE271,Ekshärad,,Värmland,SE,60.174282,13.493761,ardac,156.4,False
+SE272,Eksjö,,Jönköping,SE,57.667443,14.973559,ardac,89.6,True
+SE273,Ekskogen,,Stockholm,SE,59.641435,18.231124,ardac,18.4,True
 SE274,Eksund,,Östergötland,SE,58.585982,16.091887,ardac,6.9,True
 SE275,Ekängen,,Stockholm,SE,59.307174,17.752373,ardac,16.3,True
 SE276,Eldsberga,,Halland,SE,56.597933,12.985408,ardac,5.0,True
 SE277,Ellös,,Västra Götaland,SE,58.17997,11.468747,ardac,3.2,True
-SE278,Emmaboda,,Kalmar,SE,56.630833,15.540661,ardac,40.4,True
-SE279,Emmaljunga,,Skåne,SE,56.399826,13.649232,ardac,45.6,True
+SE278,Emmaboda,,Kalmar,SE,56.630833,15.540661,ardac,40.5,True
+SE279,Emmaljunga,,Skåne,SE,56.399826,13.649232,ardac,45.8,True
 SE280,Emsfors,,Skåne,SE,56.210123,14.096059,ardac,31.0,True
-SE281,Emtunga,,Västra Götaland,SE,58.255237,12.999074,ardac,65.1,True
-SE282,Enbacka,,Dalarna,SE,60.411803,15.612191,ardac,91.6,True
-SE283,Eneryda,,Kronoberg,SE,56.703808,14.338377,ardac,64.4,True
-SE284,Enhagen-Ekbacken,,Västmanland,SE,59.56562,16.53183,ardac,77.7,True
-SE285,Enköping,,Uppsala,SE,59.635611,17.077856,ardac,58.3,True
-SE286,Enstaberga,,Södermanland,SE,58.751468,16.854532,ardac,10.0,True
+SE281,Emtunga,,Västra Götaland,SE,58.255237,12.999074,ardac,65.4,True
+SE282,Enbacka,,Dalarna,SE,60.411803,15.612191,ardac,91.9,True
+SE283,Eneryda,,Kronoberg,SE,56.703808,14.338377,ardac,64.3,True
+SE284,Enhagen-Ekbacken,,Västmanland,SE,59.56562,16.53183,ardac,78.1,True
+SE285,Enköping,,Uppsala,SE,59.635611,17.077856,ardac,58.6,True
+SE286,Enstaberga,,Södermanland,SE,58.751468,16.854532,ardac,10.1,True
 SE287,Enviken,,Stockholm,SE,59.623668,18.629259,ardac,2.2,True
-SE288,Enånger,,Gävleborg,SE,61.547469,17.002246,ardac,4.1,True
-SE289,Eriksmåla,,Kalmar,SE,56.73684,15.473637,ardac,47.9,True
-SE290,Eringsboda,,Blekinge,SE,56.440125,15.362501,ardac,28.4,True
-SE291,Ersmark,,Västerbotten,SE,64.848388,20.898183,ardac,6.8,True
-SE292,Ersmark,,Västerbotten,SE,64.85,20.9,ardac,6.7,True
+SE288,Enånger,,Gävleborg,SE,61.547469,17.002246,ardac,4.2,True
+SE289,Eriksmåla,,Kalmar,SE,56.73684,15.473637,ardac,48.0,True
+SE290,Eringsboda,,Blekinge,SE,56.440125,15.362501,ardac,28.3,True
+SE291,Ersmark,,Västerbotten,SE,64.848388,20.898183,ardac,6.9,True
+SE292,Ersmark,,Västerbotten,SE,64.85,20.9,ardac,6.8,True
 SE293,Ersnäs,,Norrbotten,SE,65.529052,21.794633,ardac,2.8,True
-SE294,Eskilstuna,,Södermanland,SE,59.371737,16.505147,ardac,69.4,True
+SE294,Eskilstuna,,Södermanland,SE,59.371737,16.505147,ardac,69.7,True
 SE295,Eslöv,,Skåne,SE,55.837495,13.303626,ardac,22.0,True
-SE296,Evertsberg,,Dalarna,SE,61.135109,13.959032,ardac,169.1,False
+SE296,Evertsberg,,Dalarna,SE,61.135109,13.959032,ardac,170.1,False
 SE297,Everöd,,Skåne,SE,55.899331,14.097671,ardac,9.5,True
-SE298,Fagerhult,,Jönköping,SE,57.816667,13.933333,ardac,118.3,False
-SE299,Fagerhult,,Kalmar,SE,57.15,15.666667,ardac,48.0,True
+SE298,Fagerhult,,Jönköping,SE,57.816667,13.933333,ardac,118.6,False
+SE299,Fagerhult,,Kalmar,SE,57.15,15.666667,ardac,48.2,True
 SE300,Fagerhult,,Västra Götaland,SE,58.416667,12.016667,ardac,11.7,True
-SE301,Fagersanna,,Örebro,SE,59.135612,15.2762,ardac,75.8,True
-SE302,Fagersta,,Västmanland,SE,60.003862,15.790605,ardac,108.7,False
-SE303,Fagerås,,Värmland,SE,59.160306,12.877854,ardac,84.3,True
+SE301,Fagersanna,,Örebro,SE,59.135612,15.2762,ardac,75.9,True
+SE302,Fagersta,,Västmanland,SE,60.003862,15.790605,ardac,108.5,False
+SE303,Fagerås,,Värmland,SE,59.160306,12.877854,ardac,84.7,True
 SE304,Falerum,,Östergötland,SE,58.143713,16.206315,ardac,24.0,True
 SE305,Falkenberg,,Halland,SE,57.012893,12.711883,ardac,19.9,True
-SE306,Falköping,,Västra Götaland,SE,58.164693,13.493855,ardac,94.2,True
-SE307,Falla,,Östergötland,SE,58.682822,15.74651,ardac,25.6,True
-SE308,Falun,,Dalarna,SE,60.607006,15.632305,ardac,85.2,True
-SE309,Fanbyn,,Västernorrland,SE,62.408973,16.579451,ardac,39.1,True
+SE306,Falköping,,Västra Götaland,SE,58.164693,13.493855,ardac,94.7,True
+SE307,Falla,,Östergötland,SE,58.682822,15.74651,ardac,25.7,True
+SE308,Falun,,Dalarna,SE,60.607006,15.632305,ardac,85.7,True
+SE309,Fanbyn,,Västernorrland,SE,62.408973,16.579451,ardac,39.3,True
 SE310,Farhult,,Skåne,SE,56.215028,12.712529,ardac,1.0,True
 SE311,Fegen,,Halland,SE,57.104094,13.032551,ardac,41.0,True
-SE312,Fellingsbro,,Örebro,SE,59.434397,15.589001,ardac,93.1,True
-SE313,Fengersfors,,Västra Götaland,SE,58.994944,12.463962,ardac,58.8,True
+SE312,Fellingsbro,,Örebro,SE,59.434397,15.589001,ardac,93.0,True
+SE313,Fengersfors,,Västra Götaland,SE,58.994944,12.463962,ardac,59.1,True
 SE314,Figeholm,,Kalmar,SE,57.376711,16.552266,ardac,0.7,True
-SE315,Filipstad,,Värmland,SE,59.713548,14.168031,ardac,165.7,False
-SE316,Filsbäck,,Västra Götaland,SE,58.490767,13.245936,ardac,81.4,True
+SE315,Filipstad,,Värmland,SE,59.713548,14.168031,ardac,166.0,False
+SE316,Filsbäck,,Västra Götaland,SE,58.490767,13.245936,ardac,81.7,True
 SE317,Finja,,Skåne,SE,56.167568,13.689776,ardac,47.3,True
-SE318,Finkarby,,Stockholm,SE,59.224838,17.308238,ardac,20.9,True
-SE319,Finnerödja,,Örebro,SE,58.92854,14.44113,ardac,105.4,False
-SE320,Finspång,,Östergötland,SE,58.70773,15.775864,ardac,24.7,True
+SE318,Finkarby,,Stockholm,SE,59.224838,17.308238,ardac,21.0,True
+SE319,Finnerödja,,Örebro,SE,58.92854,14.44113,ardac,106.0,False
+SE320,Finspång,,Östergötland,SE,58.70773,15.775864,ardac,24.8,True
 SE321,Finsta,,Stockholm,SE,59.736929,18.492091,ardac,14.0,True
 SE322,Fiskebäckskil,,Västra Götaland,SE,58.245646,11.456629,ardac,2.7,True
 SE323,Fisksätra,,Stockholm,SE,59.292196,18.253788,ardac,2.2,True
-SE324,Fjugesta,,Örebro,SE,59.173408,14.870949,ardac,96.3,True
+SE324,Fjugesta,,Örebro,SE,59.173408,14.870949,ardac,96.6,True
 SE325,Fjälkinge,,Skåne,SE,56.043385,14.275847,ardac,10.7,True
 SE326,Fjällbacka,,Västra Götaland,SE,58.598754,11.28278,ardac,1.0,True
-SE327,Fjärdhundra,,Uppsala,SE,59.77607,16.917936,ardac,73.9,True
+SE327,Fjärdhundra,,Uppsala,SE,59.77607,16.917936,ardac,74.2,True
 SE328,Fjärås kyrkby,,Halland,SE,57.460032,12.17238,ardac,6.4,True
 SE329,Fjärås station,,Halland,SE,57.438054,12.155869,ardac,4.3,True
 SE330,Flen,,Södermanland,SE,59.056782,16.5893,ardac,42.5,True
 SE331,Fleninge,,Skåne,SE,56.108335,12.791536,ardac,8.6,True
 SE332,Flerohopp,,Kalmar,SE,56.822755,15.87684,ardac,30.1,True
 SE333,Fliseryd,,Kalmar,SE,57.124107,16.263129,ardac,13.4,True
-SE334,Floby,,Västra Götaland,SE,58.138443,13.336221,ardac,85.3,True
-SE335,Flurkmark,,Västerbotten,SE,63.982403,20.2366,ardac,22.2,True
-SE336,Flygsfors,,Kalmar,SE,56.839391,15.779186,ardac,35.9,True
+SE334,Floby,,Västra Götaland,SE,58.138443,13.336221,ardac,85.7,True
+SE335,Flurkmark,,Västerbotten,SE,63.982403,20.2366,ardac,22.3,True
+SE336,Flygsfors,,Kalmar,SE,56.839391,15.779186,ardac,36.0,True
 SE337,Flyinge,,Skåne,SE,55.753452,13.368546,ardac,20.8,True
 SE338,Flädie,,Skåne,SE,55.725269,13.071982,ardac,3.0,True
-SE339,Folkärna,,Dalarna,SE,60.152841,16.314388,ardac,76.9,True
-SE340,Fornåsa,,Östergötland,SE,58.479116,15.227964,ardac,57.7,True
-SE341,Fors,,Västernorrland,SE,62.338615,17.026972,ardac,17.3,True
+SE339,Folkärna,,Dalarna,SE,60.152841,16.314388,ardac,76.7,True
+SE340,Fornåsa,,Östergötland,SE,58.479116,15.227964,ardac,57.8,True
+SE341,Fors,,Västernorrland,SE,62.338615,17.026972,ardac,17.4,True
 SE342,Forsbacka,,Gävleborg,SE,60.615339,16.89498,ardac,18.1,True
-SE343,Forserum,,Jönköping,SE,57.699733,14.472352,ardac,117.5,False
-SE344,Forshaga,,Värmland,SE,59.529061,13.482603,ardac,128.9,False
-SE345,Forsheda,,Jönköping,SE,57.167855,13.830136,ardac,82.1,True
-SE346,Forssjö,,Södermanland,SE,58.955414,16.292684,ardac,32.2,True
-SE347,Forsvik,,Västerbotten,SE,65.055692,17.251008,ardac,180.6,False
+SE343,Forserum,,Jönköping,SE,57.699733,14.472352,ardac,117.8,False
+SE344,Forshaga,,Värmland,SE,59.529061,13.482603,ardac,129.4,False
+SE345,Forsheda,,Jönköping,SE,57.167855,13.830136,ardac,82.0,True
+SE346,Forssjö,,Södermanland,SE,58.955414,16.292684,ardac,32.0,True
+SE347,Forsvik,,Västerbotten,SE,65.055692,17.251008,ardac,181.8,False
 SE348,Fotö,,Västra Götaland,SE,57.670081,11.654583,ardac,4.4,True
-SE349,Fredriksberg västra,,Västra Götaland,SE,58.590937,14.088724,ardac,121.2,False
-SE350,Fredriksberg östra,,Västra Götaland,SE,58.590937,14.088724,ardac,121.2,False
+SE349,Fredriksberg västra,,Västra Götaland,SE,58.590937,14.088724,ardac,121.7,False
+SE350,Fredriksberg östra,,Västra Götaland,SE,58.590937,14.088724,ardac,121.7,False
 SE351,Fredriksdal,,Skåne,SE,56.057533,12.726913,ardac,1.9,True
-SE352,Fredriksfors,,Gävleborg,SE,61.787858,16.612753,ardac,28.5,True
-SE353,Freluga,,Gävleborg,SE,61.327525,16.296974,ardac,42.7,True
+SE352,Fredriksfors,,Gävleborg,SE,61.787858,16.612753,ardac,28.7,True
+SE353,Freluga,,Gävleborg,SE,61.327525,16.296974,ardac,43.0,True
 SE354,Fridlevstad,,Blekinge,SE,56.269795,15.542106,ardac,7.3,True
-SE355,Friggesund,,Gävleborg,SE,61.896424,16.54626,ardac,36.5,True
+SE355,Friggesund,,Gävleborg,SE,61.896424,16.54626,ardac,36.7,True
 SE356,Frillesås,,Halland,SE,57.31728,12.176746,ardac,2.1,True
-SE357,Frinnaryd,,Jönköping,SE,57.934088,14.820862,ardac,94.6,True
-SE358,Fristad,,Västra Götaland,SE,57.823881,13.010019,ardac,65.9,True
-SE359,Fritsla,,Västra Götaland,SE,57.551873,12.786593,ardac,44.1,True
-SE360,Främmestad,,Västra Götaland,SE,58.233322,12.666292,ardac,45.5,True
+SE357,Frinnaryd,,Jönköping,SE,57.934088,14.820862,ardac,95.0,True
+SE358,Fristad,,Västra Götaland,SE,57.823881,13.010019,ardac,66.1,True
+SE359,Fritsla,,Västra Götaland,SE,57.551873,12.786593,ardac,44.2,True
+SE360,Främmestad,,Västra Götaland,SE,58.233322,12.666292,ardac,45.7,True
 SE361,Frändefors,,Västra Götaland,SE,58.500056,12.278243,ardac,29.4,True
-SE362,Fränsta,,Västernorrland,SE,62.499123,16.170082,ardac,59.7,True
+SE362,Fränsta,,Västernorrland,SE,62.499123,16.170082,ardac,60.1,True
 SE363,Frödinge,,Kalmar,SE,57.699586,16.005047,ardac,31.7,True
 SE364,Frösakull,,Halland,SE,56.668435,12.739596,ardac,2.4,True
-SE365,Frövi,,Örebro,SE,59.466198,15.365069,ardac,102.0,False
+SE365,Frövi,,Örebro,SE,59.466198,15.365069,ardac,101.9,False
 SE366,Funbo,,Uppsala,SE,59.856784,17.856577,ardac,46.9,True
 SE367,Funäsdalen,,Jämtland,SE,62.546067,12.542015,ardac,130.9,False
-SE368,Furuby,,Kronoberg,SE,56.853366,15.031764,ardac,74.2,True
-SE369,Furudal,,Dalarna,SE,61.169946,15.135453,ardac,106.2,False
+SE368,Furuby,,Kronoberg,SE,56.853366,15.031764,ardac,74.1,True
+SE369,Furudal,,Dalarna,SE,61.169946,15.135453,ardac,106.7,False
 SE370,Furulund,,Skåne,SE,55.776234,13.091198,ardac,7.3,True
-SE371,Furusjö,,Jönköping,SE,57.93029,13.960971,ardac,123.4,False
+SE371,Furusjö,,Jönköping,SE,57.93029,13.960971,ardac,123.8,False
 SE372,Furuvik,,Gävleborg,SE,60.652738,17.329966,ardac,1.9,True
-SE373,Fågelfors,,Kalmar,SE,57.20738,15.843661,ardac,37.1,True
+SE373,Fågelfors,,Kalmar,SE,57.20738,15.843661,ardac,37.2,True
 SE374,Fågelmara,,Blekinge,SE,56.260068,15.947508,ardac,4.8,True
-SE375,Fågelsta,,Västerbotten,SE,64.23542,16.298217,ardac,154.9,False
+SE375,Fågelsta,,Västerbotten,SE,64.23542,16.298217,ardac,154.8,False
 SE376,Fågelvikshöjden,,Stockholm,SE,59.280596,18.447797,ardac,1.9,True
-SE377,Fåker,,Jämtland,SE,62.991929,14.577169,ardac,151.2,False
+SE377,Fåker,,Jämtland,SE,62.991929,14.577169,ardac,152.3,False
 SE378,Fårbo,,Kalmar,SE,57.383971,16.484591,ardac,3.8,True
 SE379,Fårösund,,Gotland,SE,57.863033,19.05089,ardac,0.1,True
 SE380,Färgelanda,,Västra Götaland,SE,58.613536,12.005882,ardac,28.4,True
-SE381,Färila,,Gävleborg,SE,61.798149,15.843765,ardac,68.4,True
+SE381,Färila,,Gävleborg,SE,61.798149,15.843765,ardac,68.8,True
 SE382,Färjestaden,,Kalmar,SE,56.65171,16.472174,ardac,2.0,True
-SE383,Färlöv,,Skåne,SE,56.072127,14.085975,ardac,20.9,True
-SE384,Föllinge,,Jämtland,SE,63.672285,14.615961,ardac,156.0,False
+SE383,Färlöv,,Skåne,SE,56.072127,14.085975,ardac,21.0,True
+SE384,Föllinge,,Jämtland,SE,63.672285,14.615961,ardac,157.2,False
 SE385,Förslöv,,Skåne,SE,56.353279,12.817391,ardac,5.3,True
-SE386,Gagnef,,Dalarna,SE,60.456909,14.866827,ardac,129.4,False
+SE386,Gagnef,,Dalarna,SE,60.456909,14.866827,ardac,130.0,False
 SE387,Gamleby,,Kalmar,SE,57.899823,16.408256,ardac,0.9,True
 SE388,Gammelgården,,Norrbotten,SE,65.881964,23.041193,ardac,9.4,True
 SE389,Gantofta,,Skåne,SE,55.987462,12.801964,ardac,2.7,True
-SE390,Garpenberg,,Dalarna,SE,60.311671,16.195085,ardac,69.0,True
-SE391,Garphyttan,,Örebro,SE,59.302204,14.949523,ardac,102.1,False
-SE392,Gemla,,Kronoberg,SE,56.870036,14.648903,ardac,78.5,True
+SE390,Garpenberg,,Dalarna,SE,60.311671,16.195085,ardac,68.9,True
+SE391,Garphyttan,,Örebro,SE,59.302204,14.949523,ardac,102.3,False
+SE392,Gemla,,Kronoberg,SE,56.870036,14.648903,ardac,78.3,True
 SE393,Genarp,,Skåne,SE,55.599519,13.399529,ardac,22.6,True
 SE394,Genevad,,Halland,SE,56.569084,13.032883,ardac,6.5,True
 SE395,Gessie Villastad,,Skåne,SE,55.4974,12.956839,ardac,2.8,True
-SE396,Gesunda,,Dalarna,SE,60.887017,14.550466,ardac,141.1,False
-SE397,Getinge,,Halland,SE,56.820129,12.732667,ardac,8.1,True
+SE396,Gesunda,,Dalarna,SE,60.887017,14.550466,ardac,141.9,False
+SE397,Getinge,,Halland,SE,56.820129,12.732667,ardac,8.2,True
 SE398,Getterön,,Halland,SE,57.120002,12.212379,ardac,1.3,True
-SE399,Gideå,,Västernorrland,SE,63.479403,18.976834,ardac,15.3,True
+SE399,Gideå,,Västernorrland,SE,63.479403,18.976834,ardac,15.4,True
 SE400,Gimo,,Uppsala,SE,60.167736,18.188617,ardac,12.5,True
 SE401,Gislaved,,Jönköping,SE,57.293072,13.492229,ardac,75.5,True
-SE402,Gissebo,,Jönköping,SE,57.838341,14.272612,ardac,127.2,False
-SE403,Gistad,,Östergötland,SE,58.458106,15.927406,ardac,24.0,True
-SE404,Gladö kvarn,,Stockholm,SE,59.1909,17.98233,ardac,14.0,True
+SE402,Gissebo,,Jönköping,SE,57.838341,14.272612,ardac,127.7,False
+SE403,Gistad,,Östergötland,SE,58.458106,15.927406,ardac,23.9,True
+SE404,Gladö kvarn,,Stockholm,SE,59.1909,17.98233,ardac,14.1,True
 SE405,Glanshammar,,Örebro,SE,59.318326,15.400557,ardac,86.8,True
-SE406,Glava,,Värmland,SE,59.554853,12.560902,ardac,84.5,True
+SE406,Glava,,Värmland,SE,59.554853,12.560902,ardac,84.6,True
 SE407,Glemmingebro,,Skåne,SE,55.451134,14.023794,ardac,5.1,True
 SE408,Glimåkra,,Skåne,SE,56.303711,14.133828,ardac,37.0,True
 SE409,Glommen,,Halland,SE,56.932469,12.364506,ardac,1.1,True
-SE410,Glommersträsk,,Norrbotten,SE,65.260836,19.635022,ardac,76.5,True
+SE410,Glommersträsk,,Norrbotten,SE,65.260836,19.635022,ardac,76.7,True
 SE411,Glumslöv,,Skåne,SE,55.941698,12.810486,ardac,1.1,True
 SE412,Glömminge,,Kalmar,SE,56.718267,16.534881,ardac,7.2,True
-SE413,Gnarp,,Gävleborg,SE,62.048928,17.254518,ardac,9.3,True
+SE413,Gnarp,,Gävleborg,SE,62.048928,17.254518,ardac,9.4,True
 SE414,Gnesta,,Södermanland,SE,59.048663,17.312548,ardac,17.4,True
 SE415,Gnosjö,,Jönköping,SE,57.358565,13.788214,ardac,93.7,True
-SE416,Gonäs,,Dalarna,SE,60.147715,15.092607,ardac,130.1,False
+SE416,Gonäs,,Dalarna,SE,60.147715,15.092607,ardac,130.2,False
 SE417,Gottne,,Västernorrland,SE,63.430935,18.424791,ardac,25.2,True
-SE418,Granby,,Stockholm,SE,59.657562,17.632342,ardac,35.0,True
+SE418,Granby,,Stockholm,SE,59.657562,17.632342,ardac,35.1,True
 SE419,Granö,,Stockholm,SE,59.561506,18.76409,ardac,1.2,True
-SE420,Graversfors,,Östergötland,SE,58.696832,16.150096,ardac,5.7,True
+SE420,Graversfors,,Östergötland,SE,58.696832,16.150096,ardac,5.8,True
 SE421,Grebbestad,,Västra Götaland,SE,58.691937,11.253141,ardac,2.4,True
 SE422,Grebo,,Östergötland,SE,58.302142,15.871671,ardac,37.1,True
 SE423,Grevie,,Skåne,SE,55.622487,13.197019,ardac,9.7,True
-SE424,Grillby,,Uppsala,SE,59.625462,17.259092,ardac,48.8,True
-SE425,Grimslöv,,Kronoberg,SE,56.738893,14.542548,ardac,64.7,True
-SE426,Grimstorp,,Jönköping,SE,57.499859,14.442429,ardac,124.0,False
-SE427,Grimsås,,Västra Götaland,SE,57.484848,13.551954,ardac,86.7,True
-SE428,Gripenberg,,Jönköping,SE,57.993278,14.853253,ardac,93.1,True
+SE424,Grillby,,Uppsala,SE,59.625462,17.259092,ardac,49.0,True
+SE425,Grimslöv,,Kronoberg,SE,56.738893,14.542548,ardac,64.6,True
+SE426,Grimstorp,,Jönköping,SE,57.499859,14.442429,ardac,124.4,False
+SE427,Grimsås,,Västra Götaland,SE,57.484848,13.551954,ardac,86.9,True
+SE428,Gripenberg,,Jönköping,SE,57.993278,14.853253,ardac,93.5,True
 SE429,Grisslehamn,,Stockholm,SE,60.098176,18.805852,ardac,0.7,True
-SE430,Gropen,,Örebro,SE,59.162062,14.830566,ardac,97.4,True
-SE431,Grums,,Värmland,SE,59.398724,13.034648,ardac,100.1,False
+SE430,Gropen,,Örebro,SE,59.162062,14.830566,ardac,97.7,True
+SE431,Grums,,Värmland,SE,59.398724,13.034648,ardac,100.5,False
 SE432,Grundsund,,Västra Götaland,SE,58.213364,11.419244,ardac,5.9,True
-SE433,Grycksbo,,Dalarna,SE,60.68929,15.487599,ardac,92.4,True
-SE434,Grytgöl,,Östergötland,SE,58.801861,15.555081,ardac,40.6,True
-SE435,Grythyttan,,Örebro,SE,59.705624,14.536707,ardac,150.9,False
-SE436,Gryt,,Örebro,SE,59.213739,15.258451,ardac,82.7,True
+SE433,Grycksbo,,Dalarna,SE,60.68929,15.487599,ardac,93.0,True
+SE434,Grytgöl,,Östergötland,SE,58.801861,15.555081,ardac,40.8,True
+SE435,Grythyttan,,Örebro,SE,59.705624,14.536707,ardac,151.0,False
+SE436,Gryt,,Örebro,SE,59.213739,15.258451,ardac,82.8,True
 SE437,Gråbo,,Västra Götaland,SE,57.838561,12.299197,ardac,27.0,True
 SE438,Gräddö,,Stockholm,SE,59.764168,19.032137,ardac,2.4,True
-SE439,Gräfsnäs,,Västra Götaland,SE,58.08105,12.492747,ardac,38.4,True
-SE440,Grängesberg,,Dalarna,SE,60.075164,15.006748,ardac,138.2,False
-SE441,Grängesberg västra,,Dalarna,SE,60.075164,15.006748,ardac,138.2,False
-SE442,Gränna,,Jönköping,SE,58.025058,14.467314,ardac,116.1,False
+SE439,Gräfsnäs,,Västra Götaland,SE,58.08105,12.492747,ardac,38.5,True
+SE440,Grängesberg,,Dalarna,SE,60.075164,15.006748,ardac,138.4,False
+SE441,Grängesberg västra,,Dalarna,SE,60.075164,15.006748,ardac,138.4,False
+SE442,Gränna,,Jönköping,SE,58.025058,14.467314,ardac,116.6,False
 SE443,Gränum,,Blekinge,SE,56.229872,14.606554,ardac,9.6,True
-SE444,Grästorp,,Västra Götaland,SE,58.328806,12.625973,ardac,43.4,True
+SE444,Grästorp,,Västra Götaland,SE,58.328806,12.625973,ardac,43.6,True
 SE445,Grödby,,Skåne,SE,56.08296,14.52236,ardac,3.7,True
 SE446,Gualöv,,Skåne,SE,56.048191,14.419841,ardac,4.1,True
-SE447,Gubbo,,Uppsala,SE,60.360709,17.463489,ardac,19.7,True
-SE448,Gudhem,,Västra Götaland,SE,58.226917,13.567102,ardac,98.3,True
-SE449,Gullbrandstorp,,Halland,SE,56.702952,12.735216,ardac,4.1,True
+SE447,Gubbo,,Uppsala,SE,60.360709,17.463489,ardac,19.6,True
+SE448,Gudhem,,Västra Götaland,SE,58.226917,13.567102,ardac,98.7,True
+SE449,Gullbrandstorp,,Halland,SE,56.702952,12.735216,ardac,4.2,True
 SE450,Gullbranna,,Halland,SE,56.590329,12.947142,ardac,2.7,True
-SE451,Gulleråsen,,Dalarna,SE,61.059703,15.18558,ardac,105.5,False
-SE452,Gullringen,,Kalmar,SE,57.800057,15.717278,ardac,42.9,True
-SE453,Gullspång,,Västra Götaland,SE,58.92537,14.130022,ardac,122.5,False
-SE454,Gunnarskog,,Värmland,SE,59.813528,12.572332,ardac,101.4,False
+SE451,Gulleråsen,,Dalarna,SE,61.059703,15.18558,ardac,106.2,False
+SE452,Gullringen,,Kalmar,SE,57.800057,15.717278,ardac,43.0,True
+SE453,Gullspång,,Västra Götaland,SE,58.92537,14.130022,ardac,123.1,False
+SE454,Gunnarskog,,Värmland,SE,59.813528,12.572332,ardac,102.1,False
 SE455,Gunnebo,,Kalmar,SE,57.722421,16.527503,ardac,3.3,True
-SE456,Gunsta,,Uppsala,SE,59.854163,17.833642,ardac,47.2,True
-SE457,Gusselby,,Örebro,SE,59.645375,15.218535,ardac,123.5,False
+SE456,Gunsta,,Uppsala,SE,59.854163,17.833642,ardac,47.1,True
+SE457,Gusselby,,Örebro,SE,59.645375,15.218535,ardac,123.4,False
 SE458,Gustavsberg,,Stockholm,SE,59.325623,18.388514,ardac,2.5,True
 SE459,Gusum,,Östergötland,SE,58.273342,16.501596,ardac,10.4,True
-SE460,Gyttorp,,Örebro,SE,59.504923,14.966624,ardac,118.2,False
-SE461,Gånghester,,Västra Götaland,SE,57.701552,13.023595,ardac,63.6,True
+SE460,Gyttorp,,Örebro,SE,59.504923,14.966624,ardac,118.3,False
+SE461,Gånghester,,Västra Götaland,SE,57.701552,13.023595,ardac,63.7,True
 SE462,Gårdby,,Kalmar,SE,56.604353,16.642559,ardac,2.7,True
-SE463,Gårdskär,,Värmland,SE,59.223892,14.059119,ardac,138.4,False
+SE463,Gårdskär,,Värmland,SE,59.223892,14.059119,ardac,138.9,False
 SE464,Gårdstånga,,Skåne,SE,55.764195,13.322496,ardac,18.5,True
-SE465,Gåvsta,,Uppsala,SE,59.94269,17.87557,ardac,41.2,True
-SE466,Gäddede,,Jämtland,SE,64.502789,14.146139,ardac,100.3,False
-SE467,Gällivare,,Norrbotten,SE,67.135243,20.660484,ardac,160.8,False
-SE468,Gällstad,,Västra Götaland,SE,57.669055,13.433189,ardac,84.8,True
-SE469,Gällö,,Jämtland,SE,62.918379,15.249429,ardac,116.6,False
+SE465,Gåvsta,,Uppsala,SE,59.94269,17.87557,ardac,41.1,True
+SE466,Gäddede,,Jämtland,SE,64.502789,14.146139,ardac,100.5,False
+SE467,Gällivare,,Norrbotten,SE,67.135243,20.660484,ardac,161.7,False
+SE468,Gällstad,,Västra Götaland,SE,57.669055,13.433189,ardac,85.0,True
+SE469,Gällö,,Jämtland,SE,62.918379,15.249429,ardac,117.4,False
 SE470,Gängletorp,,Blekinge,SE,56.170836,15.73994,ardac,1.6,True
 SE471,Gärds Köpinge,,Skåne,SE,55.946387,14.156024,ardac,9.2,True
 SE472,Gärsnäs,,Skåne,SE,55.545916,14.185333,ardac,10.3,True
 SE473,Gävle,,Gävleborg,SE,60.675013,17.146701,ardac,2.9,True
-SE474,Göta,,Västra Götaland,SE,57.712516,12.927321,ardac,59.0,True
+SE474,Göta,,Västra Götaland,SE,57.712516,12.927321,ardac,59.1,True
 SE475,Göteborg,,Västra Götaland,SE,57.707232,11.967017,ardac,2.6,True
-SE476,Götene,,Västra Götaland,SE,58.528062,13.492122,ardac,96.2,True
-SE477,Götlunda,,Västmanland,SE,59.354146,15.667716,ardac,83.1,True
-SE478,Habo,,Jönköping,SE,57.975174,14.065819,ardac,130.5,False
-SE479,Hackås,,Jämtland,SE,62.923938,14.518695,ardac,151.6,False
+SE476,Götene,,Västra Götaland,SE,58.528062,13.492122,ardac,96.6,True
+SE477,Götlunda,,Västmanland,SE,59.354146,15.667716,ardac,83.0,True
+SE478,Habo,,Jönköping,SE,57.975174,14.065819,ardac,130.9,False
+SE479,Hackås,,Jämtland,SE,62.923938,14.518695,ardac,152.7,False
 SE480,Haga,,Västra Götaland,SE,57.698352,11.955813,ardac,2.0,True
-SE481,Hagby,,Uppsala,SE,59.800636,17.376211,ardac,56.5,True
-SE482,Hagfors,,Värmland,SE,60.087994,13.646585,ardac,162.4,False
+SE481,Hagby,,Uppsala,SE,59.800636,17.376211,ardac,56.6,True
+SE482,Hagfors,,Värmland,SE,60.087994,13.646585,ardac,163.4,False
 SE483,Hagge,,Dalarna,SE,60.124551,15.281262,ardac,122.4,False
 SE484,Hagryd-Dala,,Halland,SE,57.530203,11.976054,ardac,3.4,True
-SE485,Hakkas,,Norrbotten,SE,66.916458,21.566148,ardac,122.2,False
-SE486,Hallabro,,Blekinge,SE,56.390162,15.102686,ardac,22.6,True
+SE485,Hakkas,,Norrbotten,SE,66.916458,21.566148,ardac,122.7,False
+SE486,Hallabro,,Blekinge,SE,56.390162,15.102686,ardac,22.5,True
 SE487,Halla Heberg,,Halland,SE,57.465284,11.988166,ardac,2.8,True
-SE488,Hallen,,Västra Götaland,SE,57.716959,12.388543,ardac,27.7,True
-SE489,Hallsberg,,Örebro,SE,58.993131,15.32773,ardac,63.3,True
-SE490,Hallstahammar,,Västmanland,SE,59.613448,16.230161,ardac,94.9,True
+SE488,Hallen,,Västra Götaland,SE,57.716959,12.388543,ardac,27.8,True
+SE489,Hallsberg,,Örebro,SE,58.993131,15.32773,ardac,63.5,True
+SE490,Hallstahammar,,Västmanland,SE,59.613448,16.230161,ardac,95.4,True
 SE491,Hallstavik,,Stockholm,SE,60.05176,18.597017,ardac,2.6,True
 SE492,Halltorp,,Kalmar,SE,56.499708,16.103074,ardac,4.0,True
 SE493,Halmstad,,Halland,SE,56.673982,12.857482,ardac,2.4,True
-SE494,Halvarsgårdarna,,Dalarna,SE,60.40596,15.386742,ardac,103.5,False
+SE494,Halvarsgårdarna,,Dalarna,SE,60.40596,15.386742,ardac,103.8,False
 SE495,Hamburgsund,,Västra Götaland,SE,58.553609,11.273685,ardac,1.1,True
-SE496,Hammar,,Skåne,SE,56.031989,14.204713,ardac,12.4,True
+SE496,Hammar,,Skåne,SE,56.031989,14.204713,ardac,12.5,True
 SE497,Hammarby,,Uppsala,SE,59.819391,17.782188,ardac,44.7,True
-SE498,Hammar,,Skåne,SE,56.031989,14.204713,ardac,12.4,True
+SE498,Hammar,,Skåne,SE,56.031989,14.204713,ardac,12.5,True
 SE499,Hammarslund,,Skåne,SE,56.017863,14.193314,ardac,12.0,True
-SE500,Hammarstrand,,Jämtland,SE,63.108577,16.355842,ardac,68.7,True
+SE500,Hammarstrand,,Jämtland,SE,63.108577,16.355842,ardac,69.2,True
 SE501,Hammenhög,,Skåne,SE,55.503246,14.152144,ardac,8.5,True
-SE502,Hammerdal,,Jämtland,SE,63.582469,15.354173,ardac,134.3,False
+SE502,Hammerdal,,Jämtland,SE,63.582469,15.354173,ardac,135.2,False
 SE503,Hampetorp,,Örebro,SE,59.140068,15.668353,ardac,61.8,True
 SE504,Hanaskog,,Skåne,SE,56.159064,14.093411,ardac,27.8,True
 SE505,Haparanda,,Norrbotten,SE,65.835667,24.135721,ardac,1.9,True
-SE506,Harads,,Norrbotten,SE,66.088515,20.944173,ardac,54.9,True
-SE507,Hara,,Jämtland,SE,63.039251,14.462705,ardac,158.5,False
-SE508,Harbo,,Uppsala,SE,60.108367,17.209961,ardac,51.0,True
+SE506,Harads,,Norrbotten,SE,66.088515,20.944173,ardac,55.3,True
+SE507,Hara,,Jämtland,SE,63.039251,14.462705,ardac,159.7,False
+SE508,Harbo,,Uppsala,SE,60.108367,17.209961,ardac,50.7,True
 SE509,Hargshamn,,Uppsala,SE,60.167768,18.484925,ardac,0.9,True
-SE510,Harkie,,Västmanland,SE,59.53189,16.714112,ardac,67.2,True
+SE510,Harkie,,Västmanland,SE,59.53189,16.714112,ardac,67.4,True
 SE511,Harlösa,,Skåne,SE,55.717611,13.52561,ardac,29.6,True
 SE512,Harmånger,,Gävleborg,SE,61.92763,17.217365,ardac,6.7,True
 SE513,Harplinge,,Halland,SE,56.744347,12.724915,ardac,5.0,True
-SE514,Hassela,,Gävleborg,SE,62.108258,16.711467,ardac,37.7,True
-SE515,Hasselfors,,Örebro,SE,59.083459,14.65499,ardac,101.0,False
+SE514,Hassela,,Gävleborg,SE,62.108258,16.711467,ardac,37.9,True
+SE515,Hasselfors,,Örebro,SE,59.083459,14.65499,ardac,101.4,False
 SE516,Hasslarp,,Skåne,SE,56.137304,12.813448,ardac,10.2,True
 SE517,Hasslö,,Blekinge,SE,56.109771,15.465959,ardac,4.8,True
 SE518,Hasslöv,,Halland,SE,56.413086,13.006068,ardac,8.6,True
-SE519,Havdhem,,Gotland,SE,57.1616,18.332037,ardac,4.9,True
+SE519,Havdhem,,Gotland,SE,57.1616,18.332037,ardac,5.0,True
 SE520,Haverdal,,Halland,SE,56.728083,12.671424,ardac,1.4,True
 SE521,Heberg,,Halland,SE,56.88082,12.628135,ardac,6.6,True
-SE522,Heby,,Uppsala,SE,60.066453,17.007221,ardac,61.1,True
-SE523,Hedared,,Västra Götaland,SE,57.808591,12.752778,ardac,50.6,True
-SE524,Hede,,Västra Götaland,SE,57.500563,12.54157,ardac,28.4,True
-SE525,Hedekas,,Västra Götaland,SE,58.644993,11.780037,ardac,24.2,True
-SE526,Hedemora,,Dalarna,SE,60.278599,15.987029,ardac,80.4,True
-SE527,Hedenäset,,Norrbotten,SE,66.235517,23.677934,ardac,45.1,True
+SE522,Heby,,Uppsala,SE,60.066453,17.007221,ardac,60.8,True
+SE523,Hedared,,Västra Götaland,SE,57.808591,12.752778,ardac,50.8,True
+SE524,Hede,,Västra Götaland,SE,57.500563,12.54157,ardac,28.5,True
+SE525,Hedekas,,Västra Götaland,SE,58.644993,11.780037,ardac,24.1,True
+SE526,Hedemora,,Dalarna,SE,60.278599,15.987029,ardac,80.3,True
+SE527,Hedenäset,,Norrbotten,SE,66.235517,23.677934,ardac,45.0,True
 SE528,Hedeskoga,,Skåne,SE,55.451182,13.797324,ardac,2.9,True
-SE529,Hedesunda,,Gävleborg,SE,60.394025,17.006446,ardac,31.4,True
-SE530,Hedkärra,,Västmanland,SE,59.97604,15.743986,ardac,112.8,False
-SE531,Hedlunda,,Västerbotten,SE,64.020241,19.902091,ardac,36.3,True
+SE529,Hedesunda,,Gävleborg,SE,60.394025,17.006446,ardac,31.3,True
+SE530,Hedkärra,,Västmanland,SE,59.97604,15.743986,ardac,112.5,False
+SE531,Hedlunda,,Västerbotten,SE,64.020241,19.902091,ardac,36.4,True
 SE532,Helgered,,Västra Götaland,SE,57.696493,12.255842,ardac,19.8,True
 SE533,Helsingborg,,Skåne,SE,56.044198,12.704068,ardac,0.4,True
-SE534,Hemavan,,Västerbotten,SE,65.815277,15.08528,ardac,68.1,True
-SE535,Hemmingsmark,,Norrbotten,SE,65.222951,21.282341,ardac,10.3,True
+SE534,Hemavan,,Västerbotten,SE,65.815277,15.08528,ardac,68.5,True
+SE535,Hemmingsmark,,Norrbotten,SE,65.222951,21.282341,ardac,10.2,True
 SE536,Hemse,,Gotland,SE,57.240149,18.380019,ardac,10.1,True
 SE537,Hemsjö,,Västra Götaland,SE,57.844528,12.4772,ardac,36.5,True
 SE538,Henån,,Västra Götaland,SE,58.236163,11.679338,ardac,1.0,True
-SE539,Herrljunga,,Västra Götaland,SE,58.009184,13.157048,ardac,78.0,True
+SE539,Herrljunga,,Västra Götaland,SE,58.009184,13.157048,ardac,78.3,True
 SE540,Herrskog,,Västernorrland,SE,62.9166,18.027686,ardac,5.4,True
 SE541,Herräng,,Stockholm,SE,60.129473,18.647286,ardac,2.1,True
 SE542,Herstadberg,,Östergötland,SE,58.628076,16.175319,ardac,0.2,True
-SE543,Hestra,,Jönköping,SE,57.446111,13.594167,ardac,88.2,True
-SE544,Hestra,,Östergötland,SE,57.95,15.066667,ardac,80.2,True
-SE545,Hillared,,Västra Götaland,SE,57.633198,13.161683,ardac,68.2,True
+SE543,Hestra,,Jönköping,SE,57.446111,13.594167,ardac,88.5,True
+SE544,Hestra,,Östergötland,SE,57.95,15.066667,ardac,80.5,True
+SE545,Hillared,,Västra Götaland,SE,57.633198,13.161683,ardac,68.4,True
 SE546,Hillerstorp,,Jönköping,SE,57.314476,13.891287,ardac,95.7,True
 SE547,Hillsta och Se,,Västernorrland,SE,62.427959,17.415109,ardac,1.9,True
 SE548,Himle,,Halland,SE,57.073175,12.36675,ardac,6.2,True
-SE549,Hindås,,Västra Götaland,SE,57.702816,12.451188,ardac,31.4,True
+SE549,Hindås,,Västra Götaland,SE,57.702816,12.451188,ardac,31.5,True
 SE550,Hishult,,Halland,SE,56.428253,13.312204,ardac,24.9,True
-SE551,Hissjö,,Västerbotten,SE,63.939518,20.156303,ardac,21.5,True
-SE552,Hissmofors,,Jämtland,SE,63.319726,14.458035,ardac,157.8,False
+SE551,Hissjö,,Västerbotten,SE,63.939518,20.156303,ardac,21.6,True
+SE552,Hissmofors,,Jämtland,SE,63.319726,14.458035,ardac,158.9,False
 SE553,Hittarp,,Skåne,SE,56.098331,12.638806,ardac,2.7,True
-SE554,Hjo,,Västra Götaland,SE,58.268521,14.280176,ardac,117.6,False
+SE554,Hjo,,Västra Götaland,SE,58.268521,14.280176,ardac,117.9,False
 SE555,Hjorted,,Kalmar,SE,57.62059,16.30301,ardac,13.0,True
-SE556,Hjortkvarn,,Örebro,SE,58.90056,15.434484,ardac,52.2,True
-SE557,Hjortnäs,,Dalarna,SE,60.794918,14.967465,ardac,119.8,False
-SE558,Hjortsberga,,Kronoberg,SE,56.914297,14.453907,ardac,84.9,True
+SE556,Hjortkvarn,,Örebro,SE,58.90056,15.434484,ardac,52.4,True
+SE557,Hjortnäs,,Dalarna,SE,60.794918,14.967465,ardac,120.4,False
+SE558,Hjortsberga,,Kronoberg,SE,56.914297,14.453907,ardac,84.8,True
 SE559,Hjälmared,,Halland,SE,57.541825,12.151121,ardac,10.6,True
 SE560,Hjälm,,Västra Götaland,SE,58.086516,11.601715,ardac,2.2,True
-SE561,Hjältevad,,Jönköping,SE,57.6291,15.343187,ardac,70.1,True
+SE561,Hjältevad,,Jönköping,SE,57.6291,15.343187,ardac,70.2,True
 SE562,Hjärnarp,,Skåne,SE,56.316862,12.917843,ardac,6.9,True
-SE563,Hjärsås,,Skåne,SE,56.207866,14.147964,ardac,28.4,True
+SE563,Hjärsås,,Skåne,SE,56.207866,14.147964,ardac,28.5,True
 SE564,Hjärtum,,Västra Götaland,SE,58.180071,12.108522,ardac,13.5,True
 SE565,Hjärup,,Skåne,SE,55.669848,13.139972,ardac,5.0,True
-SE566,Hofors,,Gävleborg,SE,60.48547,16.453538,ardac,46.2,True
+SE566,Hofors,,Gävleborg,SE,60.48547,16.453538,ardac,46.3,True
 SE567,Hofterup,,Skåne,SE,55.798332,12.976774,ardac,2.5,True
-SE568,Hogstad,,Östergötland,SE,58.330768,15.026194,ardac,74.8,True
+SE568,Hogstad,,Östergötland,SE,58.330768,15.026194,ardac,74.9,True
 SE569,Hogstorp,,Västra Götaland,SE,58.396473,11.757787,ardac,5.9,True
 SE570,Hok,,Jönköping,SE,57.51721,14.274435,ardac,127.6,False
 SE571,Holmeja,,Skåne,SE,55.554932,13.273687,ardac,17.3,True
-SE572,Holm,,Västernorrland,SE,62.679578,16.52976,ardac,46.3,True
-SE573,Holmsjö,,Blekinge,SE,56.420251,15.538952,ardac,23.8,True
+SE572,Holm,,Västernorrland,SE,62.679578,16.52976,ardac,46.6,True
+SE573,Holmsjö,,Blekinge,SE,56.420251,15.538952,ardac,23.7,True
 SE574,Holmsund,,Västerbotten,SE,63.708173,20.373003,ardac,1.0,True
-SE575,Holsbybrunn,,Jönköping,SE,57.437279,15.199514,ardac,78.3,True
-SE576,Holsljunga,,Västra Götaland,SE,57.413322,12.973595,ardac,51.1,True
+SE575,Holsbybrunn,,Jönköping,SE,57.437279,15.199514,ardac,78.6,True
+SE576,Holsljunga,,Västra Götaland,SE,57.413322,12.973595,ardac,51.3,True
 SE577,Horda,,Jönköping,SE,57.037367,14.258215,ardac,94.8,True
-SE578,Horla,,Västra Götaland,SE,57.967728,12.72825,ardac,55.1,True
-SE579,Horndal,,Dalarna,SE,60.291412,16.402185,ardac,62.1,True
-SE580,Horn,,Västra Götaland,SE,58.523834,13.892761,ardac,119.0,False
+SE578,Horla,,Västra Götaland,SE,57.967728,12.72825,ardac,55.3,True
+SE579,Horndal,,Dalarna,SE,60.291412,16.402185,ardac,61.9,True
+SE580,Horn,,Västra Götaland,SE,58.523834,13.892761,ardac,119.5,False
 SE581,Horred,,Västra Götaland,SE,57.358548,12.472959,ardac,20.5,True
 SE582,Hortlax,,Norrbotten,SE,65.280143,21.403477,ardac,3.3,True
 SE583,Hoting,,Jämtland,SE,64.115163,16.202508,ardac,145.5,False
-SE584,Hova,,Västra Götaland,SE,58.85782,14.217518,ardac,115.9,False
-SE585,Hoverberg,,Jämtland,SE,62.811151,14.442336,ardac,152.0,False
+SE584,Hova,,Västra Götaland,SE,58.85782,14.217518,ardac,116.5,False
+SE585,Hoverberg,,Jämtland,SE,62.811151,14.442336,ardac,153.2,False
 SE586,Hovid,,Västernorrland,SE,62.471505,17.40085,ardac,3.6,True
-SE587,Hovmantorp,,Kronoberg,SE,56.789422,15.134665,ardac,67.1,True
-SE588,Hovsta,,Örebro,SE,59.34657,15.227392,ardac,95.1,True
+SE587,Hovmantorp,,Kronoberg,SE,56.789422,15.134665,ardac,67.0,True
+SE588,Hovsta,,Örebro,SE,59.34657,15.227392,ardac,95.2,True
 SE589,Huaröd,,Skåne,SE,55.840368,13.96827,ardac,15.2,True
 SE590,Hudiksvall,,Gävleborg,SE,61.728273,17.104708,ardac,1.8,True
 SE591,Hultafors,,Västra Götaland,SE,57.695803,12.734457,ardac,48.2,True
-SE592,Hult,,Östergötland,SE,58.536157,15.690562,ardac,30.1,True
-SE593,Hultsfred,,Kalmar,SE,57.394793,15.775161,ardac,43.8,True
-SE594,Hulu,,Jönköping,SE,57.16119,14.924104,ardac,92.4,True
-SE595,Hummelsta,,Uppsala,SE,59.625723,16.948556,ardac,64.6,True
+SE592,Hult,,Östergötland,SE,58.536157,15.690562,ardac,30.2,True
+SE593,Hultsfred,,Kalmar,SE,57.394793,15.775161,ardac,43.9,True
+SE594,Hulu,,Jönköping,SE,57.16119,14.924104,ardac,92.7,True
+SE595,Hummelsta,,Uppsala,SE,59.625723,16.948556,ardac,64.9,True
 SE596,Hunnebostrand,,Västra Götaland,SE,58.441239,11.301082,ardac,2.4,True
 SE597,Hunnestad,,Halland,SE,57.100656,12.355766,ardac,7.1,True
 SE598,Hurva,,Skåne,SE,55.796007,13.438365,ardac,26.6,True
 SE599,Husum,,Västernorrland,SE,63.333385,19.161944,ardac,1.6,True
-SE600,Hybo,,Gävleborg,SE,61.79721,16.193829,ardac,50.3,True
+SE600,Hybo,,Gävleborg,SE,61.79721,16.193829,ardac,50.7,True
 SE601,Hyllinge,,Skåne,SE,56.105325,12.869367,ardac,12.2,True
-SE602,Hyltebruk,,Halland,SE,56.999572,13.239955,ardac,43.8,True
+SE602,Hyltebruk,,Halland,SE,56.999572,13.239955,ardac,43.9,True
 SE603,Hyssna,,Västra Götaland,SE,57.555518,12.53943,ardac,30.7,True
 SE604,Håbo-Tibble kyrkby,,Stockholm,SE,59.587032,17.661931,ardac,28.0,True
-SE605,Håga,,Uppsala,SE,59.838302,17.57615,ardac,52.4,True
-SE606,Håksberg,,Dalarna,SE,60.185035,15.204186,ardac,122.6,False
-SE607,Hållsta,,Jämtland,SE,63.002228,14.963202,ardac,133.6,False
-SE608,Hånger,,Västra Götaland,SE,58.262814,13.521134,ardac,95.7,True
-SE609,Häggenås,,Jämtland,SE,63.390779,14.89369,ardac,147.4,False
+SE605,Håga,,Uppsala,SE,59.838302,17.57615,ardac,52.5,True
+SE606,Håksberg,,Dalarna,SE,60.185035,15.204186,ardac,122.8,False
+SE607,Hållsta,,Jämtland,SE,63.002228,14.963202,ardac,134.6,False
+SE608,Hånger,,Västra Götaland,SE,58.262814,13.521134,ardac,96.1,True
+SE609,Häggenås,,Jämtland,SE,63.390779,14.89369,ardac,148.5,False
 SE610,Häljarp,,Skåne,SE,55.851545,12.915209,ardac,1.5,True
-SE611,Hällaryd,,Jönköping,SE,57.339693,14.568146,ardac,114.5,False
-SE612,Hällberga,,Södermanland,SE,59.319095,16.597212,ardac,62.7,True
-SE613,Hällbybrunn,,Södermanland,SE,59.390145,16.424177,ardac,74.4,True
-SE614,Hällefors,,Örebro,SE,59.78295,14.522491,ardac,158.0,False
+SE611,Hällaryd,,Jönköping,SE,57.339693,14.568146,ardac,114.9,False
+SE612,Hällberga,,Södermanland,SE,59.319095,16.597212,ardac,63.0,True
+SE613,Hällbybrunn,,Södermanland,SE,59.390145,16.424177,ardac,74.8,True
+SE614,Hällefors,,Örebro,SE,59.78295,14.522491,ardac,158.1,False
 SE615,Hälleforsnäs,,Södermanland,SE,59.151383,16.500051,ardac,54.0,True
-SE616,Hällekis,,Västra Götaland,SE,58.630563,13.437862,ardac,96.3,True
-SE617,Hällestad,,Västra Götaland,SE,58.107593,13.270394,ardac,81.9,True
-SE618,Hällesåker,,Västra Götaland,SE,57.599574,12.189499,ardac,16.4,True
-SE619,Hällevadsholm,,Västra Götaland,SE,58.578554,11.543153,ardac,12.9,True
+SE616,Hällekis,,Västra Götaland,SE,58.630563,13.437862,ardac,96.7,True
+SE617,Hällestad,,Västra Götaland,SE,58.107593,13.270394,ardac,82.3,True
+SE618,Hällesåker,,Västra Götaland,SE,57.599574,12.189499,ardac,16.5,True
+SE619,Hällevadsholm,,Västra Götaland,SE,58.578554,11.543153,ardac,12.8,True
 SE620,Hällevik,,Blekinge,SE,56.013781,14.696968,ardac,0.7,True
 SE621,Hällingsjö,,Västra Götaland,SE,57.618286,12.435963,ardac,28.7,True
-SE622,Hällnäs,,Västerbotten,SE,64.307651,19.623205,ardac,67.2,True
+SE622,Hällnäs,,Västerbotten,SE,64.307651,19.623205,ardac,67.8,True
 SE623,Hälsö,,Västra Götaland,SE,57.734884,11.652415,ardac,3.5,True
-SE624,Häradsbygden,,Dalarna,SE,60.702229,15.047116,ardac,116.4,False
-SE625,Härad,,Södermanland,SE,59.361288,16.901567,ardac,48.1,True
+SE624,Häradsbygden,,Dalarna,SE,60.702229,15.047116,ardac,117.1,False
+SE625,Härad,,Södermanland,SE,59.361288,16.901567,ardac,48.4,True
 SE626,Härnösand,,Västernorrland,SE,62.632308,17.937991,ardac,1.9,True
 SE627,Härryda,,Västra Götaland,SE,57.669189,12.295911,ardac,22.5,True
 SE628,Härslöv,,Skåne,SE,55.932406,12.876023,ardac,4.4,True
 SE629,Hässleholm,,Skåne,SE,56.157986,13.765332,ardac,42.8,True
-SE630,Hästhagen,,Gävleborg,SE,60.680797,16.826887,ardac,19.6,True
+SE630,Hästhagen,,Gävleborg,SE,60.680797,16.826887,ardac,19.7,True
 SE631,Hästholmen,,Blekinge,SE,56.085896,15.756573,ardac,3.0,True
-SE632,Hästveda,,Skåne,SE,56.284508,13.936391,ardac,43.9,True
-SE633,Hästängen,,Örebro,SE,59.233846,14.537957,ardac,115.6,False
+SE632,Hästveda,,Skåne,SE,56.284508,13.936391,ardac,44.0,True
+SE633,Hästängen,,Örebro,SE,59.233846,14.537957,ardac,116.0,False
 SE634,Höganäs,,Skåne,SE,56.200856,12.551584,ardac,1.4,True
-SE635,Högboda,,Värmland,SE,59.556837,13.053804,ardac,108.2,False
+SE635,Högboda,,Värmland,SE,59.556837,13.053804,ardac,108.5,False
 SE636,Höggeröd,,Västra Götaland,SE,58.000793,11.655793,ardac,1.4,True
-SE637,Högsby,,Kalmar,SE,57.113119,15.880439,ardac,34.5,True
+SE637,Högsby,,Kalmar,SE,57.113119,15.880439,ardac,34.6,True
 SE638,Högsjö,,Västernorrland,SE,62.789753,17.8214,ardac,4.3,True
 SE639,Högsäter,,Västra Götaland,SE,58.651104,12.055453,ardac,33.4,True
-SE640,Hökerum,,Västra Götaland,SE,57.838663,13.286221,ardac,82.3,True
-SE641,Hökåsen,,Västra Götaland,SE,57.752535,12.990957,ardac,63.7,True
+SE640,Hökerum,,Västra Götaland,SE,57.838663,13.286221,ardac,82.6,True
+SE641,Hökåsen,,Västra Götaland,SE,57.752535,12.990957,ardac,63.9,True
 SE642,Hököpinge,,Skåne,SE,55.493338,13.008787,ardac,2.9,True
 SE643,Höllviken,,Skåne,SE,55.413762,12.963231,ardac,1.4,True
 SE644,Hölö,,Stockholm,SE,59.025492,17.535552,ardac,4.6,True
 SE645,Hönö,,Västra Götaland,SE,57.690313,11.65205,ardac,3.3,True
-SE646,Hörby,,Skåne,SE,55.854013,13.66333,ardac,34.3,True
-SE647,Hörja,,Skåne,SE,56.205668,13.59975,ardac,47.9,True
+SE646,Hörby,,Skåne,SE,55.854013,13.66333,ardac,34.4,True
+SE647,Hörja,,Skåne,SE,56.205668,13.59975,ardac,48.0,True
 SE648,Hörnefors,,Västerbotten,SE,63.627856,19.914096,ardac,1.5,True
 SE649,Hörvik,,Blekinge,SE,56.040496,14.76519,ardac,1.0,True
 SE650,Höviksnäs,,Västra Götaland,SE,58.033244,11.74835,ardac,0.3,True
 SE651,Höör,,Skåne,SE,55.933291,13.545383,ardac,40.3,True
-SE652,Idkerberget,,Dalarna,SE,60.380512,15.233008,ardac,112.4,False
-SE653,Idre,,Dalarna,SE,61.858427,12.716846,ardac,200.0,False
-SE654,Igelfors,,Östergötland,SE,58.845527,15.696952,ardac,36.5,True
-SE655,Igelstorp,,Västra Götaland,SE,58.398704,13.978407,ardac,122.5,False
+SE652,Idkerberget,,Dalarna,SE,60.380512,15.233008,ardac,112.8,False
+SE653,Idre,,Dalarna,SE,61.858427,12.716846,ardac,199.4,False
+SE654,Igelfors,,Östergötland,SE,58.845527,15.696952,ardac,36.6,True
+SE655,Igelstorp,,Västra Götaland,SE,58.398704,13.978407,ardac,123.0,False
 SE656,Iggesund,,Gävleborg,SE,61.642963,17.078121,ardac,1.3,True
-SE657,Ilsbo,,Gävleborg,SE,61.858634,17.050985,ardac,15.3,True
+SE657,Ilsbo,,Gävleborg,SE,61.858634,17.050985,ardac,15.4,True
 SE658,Immeln,,Skåne,SE,56.206054,14.248948,ardac,24.1,True
-SE659,Indal,,Västernorrland,SE,62.609679,17.020301,ardac,20.7,True
+SE659,Indal,,Västernorrland,SE,62.609679,17.020301,ardac,20.8,True
 SE660,Ingared,,Västra Götaland,SE,57.85042,12.458476,ardac,35.8,True
-SE661,Ingatorp,,Västra Götaland,SE,58.262271,13.548443,ardac,97.3,True
-SE662,Ingelstad,,Kronoberg,SE,56.740857,14.929001,ardac,62.3,True
+SE661,Ingatorp,,Västra Götaland,SE,58.262271,13.548443,ardac,97.7,True
+SE662,Ingelstad,,Kronoberg,SE,56.740857,14.929001,ardac,62.2,True
 SE663,Ingelsträde,,Skåne,SE,56.185135,12.632973,ardac,4.5,True
-SE664,Innertavle,,Västerbotten,SE,63.813807,20.419065,ardac,4.2,True
-SE665,Insjön,,Dalarna,SE,60.679419,15.092323,ardac,114.0,False
+SE664,Innertavle,,Västerbotten,SE,63.813807,20.419065,ardac,4.3,True
+SE665,Insjön,,Dalarna,SE,60.679419,15.092323,ardac,114.7,False
 SE666,Inskogen,,Södermanland,SE,58.687827,17.044937,ardac,2.1,True
-SE667,Irsta,,Västmanland,SE,59.602556,16.693707,ardac,73.1,True
+SE667,Irsta,,Västmanland,SE,59.602556,16.693707,ardac,73.3,True
 SE668,Johannesudd,,Stockholm,SE,59.551617,18.030971,ardac,11.7,True
-SE669,Johannishus,,Blekinge,SE,56.226857,15.420548,ardac,5.1,True
+SE669,Johannishus,,Blekinge,SE,56.226857,15.420548,ardac,5.0,True
 SE670,Johansfors,,Halland,SE,56.838673,12.97944,ardac,22.1,True
-SE671,Jokkmokk,,Norrbotten,SE,66.605853,19.837931,ardac,130.9,False
-SE672,Jonsered,,Västra Götaland,SE,57.746978,12.17126,ardac,15.5,True
-SE673,Jonslund,,Örebro,SE,59.151973,15.32261,ardac,75.2,True
-SE674,Jonstorp,,Jönköping,SE,58.012524,14.59063,ardac,108.8,False
-SE675,Jordbro,,Stockholm,SE,59.142399,18.131791,ardac,5.2,True
-SE676,Jukkasjärvi,,Norrbotten,SE,67.850378,20.605304,ardac,129.4,False
-SE677,Jung,,Uppsala,SE,59.691678,17.043493,ardac,62.9,True
-SE678,Junosuando,,Norrbotten,SE,67.428291,22.511417,ardac,169.0,False
-SE679,Junsele,,Västernorrland,SE,63.798958,16.92177,ardac,97.7,True
-SE680,Juoksengi,,Norrbotten,SE,66.55764,23.832344,ardac,81.1,True
-SE681,Jäderfors,,Gävleborg,SE,60.662727,16.697894,ardac,26.8,True
-SE682,Jälla,,Uppsala,SE,59.90485,17.716677,ardac,50.7,True
+SE671,Jokkmokk,,Norrbotten,SE,66.605853,19.837931,ardac,131.7,False
+SE672,Jonsered,,Västra Götaland,SE,57.746978,12.17126,ardac,15.6,True
+SE673,Jonslund,,Örebro,SE,59.151973,15.32261,ardac,75.3,True
+SE674,Jonstorp,,Jönköping,SE,58.012524,14.59063,ardac,109.2,False
+SE675,Jordbro,,Stockholm,SE,59.142399,18.131791,ardac,5.1,True
+SE676,Jukkasjärvi,,Norrbotten,SE,67.850378,20.605304,ardac,130.2,False
+SE677,Jung,,Uppsala,SE,59.691678,17.043493,ardac,63.2,True
+SE678,Junosuando,,Norrbotten,SE,67.428291,22.511417,ardac,168.8,False
+SE679,Junsele,,Västernorrland,SE,63.798958,16.92177,ardac,97.6,True
+SE680,Juoksengi,,Norrbotten,SE,66.55764,23.832344,ardac,80.9,True
+SE681,Jäderfors,,Gävleborg,SE,60.662727,16.697894,ardac,27.0,True
+SE682,Jälla,,Uppsala,SE,59.90485,17.716677,ardac,50.6,True
 SE683,Jämjö,,Blekinge,SE,56.190848,15.840349,ardac,3.3,True
 SE684,Jämshög,,Blekinge,SE,56.241287,14.531979,ardac,13.8,True
 SE685,Jämtön,,Norrbotten,SE,65.853761,22.498201,ardac,1.0,True
 SE686,Järavallen,,Skåne,SE,55.79271,12.950475,ardac,0.8,True
-SE687,Järbo,,Gävleborg,SE,60.71993,16.597216,ardac,32.1,True
-SE688,Järlåsa,,Uppsala,SE,59.886907,17.200555,ardac,70.2,True
+SE687,Järbo,,Gävleborg,SE,60.71993,16.597216,ardac,32.4,True
+SE688,Järlåsa,,Uppsala,SE,59.886907,17.200555,ardac,70.3,True
 SE689,Järna,,Stockholm,SE,59.083333,17.566667,ardac,2.8,True
-SE690,Järna,,Dalarna,SE,60.55,14.35,ardac,155.5,False
-SE691,Järnforsen,,Kalmar,SE,57.408473,15.621071,ardac,53.1,True
-SE692,Järpen,,Jämtland,SE,63.348376,13.463668,ardac,111.0,False
-SE693,Järpås,,Västra Götaland,SE,58.38011,12.972543,ardac,63.8,True
-SE694,Järvsö,,Gävleborg,SE,61.715894,16.16932,ardac,49.2,True
+SE690,Järna,,Dalarna,SE,60.55,14.35,ardac,156.4,False
+SE691,Järnforsen,,Kalmar,SE,57.408473,15.621071,ardac,53.2,True
+SE692,Järpen,,Jämtland,SE,63.348376,13.463668,ardac,111.6,False
+SE693,Järpås,,Västra Götaland,SE,58.38011,12.972543,ardac,64.1,True
+SE694,Järvsö,,Gävleborg,SE,61.715894,16.16932,ardac,49.5,True
 SE695,Jättendal,,Gävleborg,SE,61.978121,17.243329,ardac,6.4,True
 SE696,Jävre,,Norrbotten,SE,65.154321,21.498697,ardac,2.9,True
-SE697,Jönköping,,Jönköping,SE,57.78147,14.162757,ardac,129.9,False
-SE698,Jönåker,,Södermanland,SE,58.746927,16.725095,ardac,14.0,True
+SE697,Jönköping,,Jönköping,SE,57.78147,14.162757,ardac,130.2,False
+SE698,Jönåker,,Södermanland,SE,58.746927,16.725095,ardac,13.9,True
 SE699,Jörlanda,,Västra Götaland,SE,57.986393,11.831144,ardac,2.9,True
-SE700,Jörn,,Västerbotten,SE,65.057646,20.041264,ardac,52.8,True
-SE701,Jössefors,,Värmland,SE,59.673429,12.504671,ardac,90.7,True
+SE700,Jörn,,Västerbotten,SE,65.057646,20.041264,ardac,53.2,True
+SE701,Jössefors,,Värmland,SE,59.673429,12.504671,ardac,90.6,True
 SE702,Kalix,,Norrbotten,SE,65.771284,23.130228,ardac,2.7,True
-SE703,Kalkudden,,Södermanland,SE,59.265052,17.282932,ardac,23.9,True
+SE703,Kalkudden,,Södermanland,SE,59.265052,17.282932,ardac,24.1,True
 SE704,Kallax,,Norrbotten,SE,65.524573,22.059254,ardac,0.5,True
-SE705,Kallfors,,Västernorrland,SE,63.532883,19.116272,ardac,11.5,True
+SE705,Kallfors,,Västernorrland,SE,63.532883,19.116272,ardac,11.6,True
 SE706,Kallinge,,Blekinge,SE,56.24561,15.287237,ardac,6.4,True
 SE707,Kalmar,,Kalmar,SE,56.662882,16.366238,ardac,0.4,True
 SE708,Kalvsund,,Västra Götaland,SE,57.708968,11.680922,ardac,1.4,True
-SE709,Kangos,,Norrbotten,SE,67.484526,22.655664,ardac,175.1,False
-SE710,Karby,,Uppsala,SE,59.92665,17.837014,ardac,44.0,True
-SE711,Karesuando,,Norrbotten,SE,68.440505,22.474315,ardac,133.4,False
+SE709,Kangos,,Norrbotten,SE,67.484526,22.655664,ardac,174.8,False
+SE710,Karby,,Uppsala,SE,59.92665,17.837014,ardac,43.9,True
+SE711,Karesuando,,Norrbotten,SE,68.440505,22.474315,ardac,134.7,False
 SE712,Karlholmsbruk,,Uppsala,SE,60.52194,17.636231,ardac,0.7,True
-SE713,Karlsborg,,Västra Götaland,SE,58.594482,14.539705,ardac,95.0,True
+SE713,Karlsborg,,Västra Götaland,SE,58.594482,14.539705,ardac,95.5,True
 SE714,Karlshamn,,Blekinge,SE,56.170172,14.863127,ardac,0.9,True
-SE715,Karlskoga,,Örebro,SE,59.388301,14.5526,ardac,125.4,False
+SE715,Karlskoga,,Örebro,SE,59.388301,14.5526,ardac,125.7,False
 SE716,Karlskrona,,Blekinge,SE,56.162107,15.586642,ardac,0.4,True
-SE717,Karlstad,,Värmland,SE,59.379913,13.502948,ardac,124.8,False
+SE717,Karlstad,,Värmland,SE,59.379913,13.502948,ardac,125.3,False
 SE718,Karlsvik,,Norrbotten,SE,65.597283,22.079106,ardac,1.2,True
-SE719,Karungi,,Norrbotten,SE,66.044553,23.953027,ardac,25.9,True
+SE719,Karungi,,Norrbotten,SE,66.044553,23.953027,ardac,25.7,True
 SE720,Karups sommarby,,Skåne,SE,55.591988,13.637648,ardac,19.0,True
 SE721,Kastlösa,,Kalmar,SE,56.459838,16.428953,ardac,2.3,True
 SE722,Katrinedal,,Stockholm,SE,59.475315,17.836947,ardac,12.3,True
-SE723,Katrineholm,,Södermanland,SE,59.016346,16.324228,ardac,39.1,True
+SE723,Katrineholm,,Södermanland,SE,59.016346,16.324228,ardac,38.9,True
 SE724,Kattarp,,Skåne,SE,56.193491,12.755286,ardac,3.9,True
-SE725,Kaxholmen,,Jönköping,SE,57.854004,14.307587,ardac,125.0,False
+SE725,Kaxholmen,,Jönköping,SE,57.854004,14.307587,ardac,125.5,False
 SE726,Kebal,,Västra Götaland,SE,58.952553,11.152931,ardac,2.3,True
-SE727,Kilafors,,Gävleborg,SE,61.228627,16.567118,ardac,29.9,True
-SE728,Kil,,Värmland,SE,59.567107,13.190544,ardac,115.6,False
-SE729,Killeberg,,Skåne,SE,56.475869,14.096954,ardac,51.2,True
-SE730,Kil,,Värmland,SE,59.567107,13.190544,ardac,115.6,False
-SE731,Kilsmo,,Örebro,SE,59.068552,15.539169,ardac,59.9,True
+SE727,Kilafors,,Gävleborg,SE,61.228627,16.567118,ardac,30.0,True
+SE728,Kil,,Värmland,SE,59.567107,13.190544,ardac,116.0,False
+SE729,Killeberg,,Skåne,SE,56.475869,14.096954,ardac,51.3,True
+SE730,Kil,,Värmland,SE,59.567107,13.190544,ardac,116.0,False
+SE731,Kilsmo,,Örebro,SE,59.068552,15.539169,ardac,60.0,True
 SE732,Kimstad,,Östergötland,SE,58.548921,15.968906,ardac,15.1,True
-SE733,Kinna,,Västra Götaland,SE,57.507764,12.692822,ardac,37.2,True
+SE733,Kinna,,Västra Götaland,SE,57.507764,12.692822,ardac,37.3,True
 SE734,Kinnared,,Halland,SE,57.026938,13.110207,ardac,38.7,True
-SE735,Kinnarp,,Västra Götaland,SE,58.074887,13.519676,ardac,97.0,True
-SE736,Kinnarumma,,Västra Götaland,SE,57.593197,12.874498,ardac,50.6,True
-SE737,Kiruna,,Norrbotten,SE,67.855072,20.225548,ardac,115.3,False
-SE738,Kisa,,Östergötland,SE,57.98782,15.631767,ardac,47.7,True
+SE735,Kinnarp,,Västra Götaland,SE,58.074887,13.519676,ardac,97.4,True
+SE736,Kinnarumma,,Västra Götaland,SE,57.593197,12.874498,ardac,50.7,True
+SE737,Kiruna,,Norrbotten,SE,67.855072,20.225548,ardac,116.0,False
+SE738,Kisa,,Östergötland,SE,57.98782,15.631767,ardac,47.9,True
 SE739,Kivik,,Skåne,SE,55.684635,14.224772,ardac,1.4,True
-SE740,Kjulaås,,Södermanland,SE,59.387697,16.677549,ardac,60.9,True
-SE741,Klagstorp,,Västra Götaland,SE,58.336555,13.885317,ardac,116.9,False
-SE742,Klevshult,,Jönköping,SE,57.355188,14.10138,ardac,108.4,False
+SE740,Kjulaås,,Södermanland,SE,59.387697,16.677549,ardac,61.2,True
+SE741,Klagstorp,,Västra Götaland,SE,58.336555,13.885317,ardac,117.5,False
+SE742,Klevshult,,Jönköping,SE,57.355188,14.10138,ardac,108.3,False
 SE743,Klingsta och Allsta,,Västernorrland,SE,62.328093,17.208368,ardac,8.4,True
 SE744,Klintehamn,,Gotland,SE,57.386394,18.202844,ardac,1.6,True
 SE745,Klippan,,Skåne,SE,56.116273,13.228856,ardac,29.0,True
-SE746,Klippans bruk,,Skåne,SE,56.11979,13.148501,ardac,24.4,True
+SE746,Klippans bruk,,Skåne,SE,56.11979,13.148501,ardac,24.5,True
 SE747,Klockestrand,,Västernorrland,SE,62.876604,17.907755,ardac,0.4,True
-SE748,Klockrike,,Östergötland,SE,58.496565,15.338339,ardac,51.0,True
-SE749,Klutmark,,Västerbotten,SE,64.72952,20.716593,ardac,18.5,True
+SE748,Klockrike,,Östergötland,SE,58.496565,15.338339,ardac,51.1,True
+SE749,Klutmark,,Västerbotten,SE,64.72952,20.716593,ardac,18.4,True
 SE750,Klågerup,,Skåne,SE,55.594253,13.249008,ardac,13.9,True
 SE751,Klädesholmen,,Västra Götaland,SE,57.944109,11.538262,ardac,0.8,True
 SE752,Kläppa,,Halland,SE,57.363652,12.141729,ardac,3.1,True
-SE753,Klässbol,,Värmland,SE,59.537569,12.743575,ardac,92.0,True
+SE753,Klässbol,,Värmland,SE,59.537569,12.743575,ardac,92.1,True
 SE754,Klövedal,,Västra Götaland,SE,58.037972,11.575078,ardac,0.9,True
 SE755,Klöverträsk,,Norrbotten,SE,65.638013,21.392009,ardac,19.0,True
-SE756,Klövsjö,,Jämtland,SE,62.527828,14.197194,ardac,161.0,False
-SE757,Knislinge,,Skåne,SE,56.194202,14.085138,ardac,30.4,True
+SE756,Klövsjö,,Jämtland,SE,62.527828,14.197194,ardac,162.1,False
+SE757,Knislinge,,Skåne,SE,56.194202,14.085138,ardac,30.5,True
 SE758,Knivsta,,Uppsala,SE,59.743923,17.816204,ardac,36.3,True
-SE759,Knutby,,Uppsala,SE,59.909686,18.266033,ardac,25.3,True
-SE760,Knäred,,Halland,SE,56.520239,13.316688,ardac,23.2,True
+SE759,Knutby,,Uppsala,SE,59.909686,18.266033,ardac,25.2,True
+SE760,Knäred,,Halland,SE,56.520239,13.316688,ardac,23.3,True
 SE761,Kode,,Västra Götaland,SE,57.943903,11.850813,ardac,5.3,True
-SE762,Kolbäck,,Västmanland,SE,59.562481,16.235983,ardac,91.8,True
-SE763,Kolsva,,Västmanland,SE,59.599841,15.844,ardac,106.4,False
+SE762,Kolbäck,,Västmanland,SE,59.562481,16.235983,ardac,92.3,True
+SE763,Kolsva,,Västmanland,SE,59.599841,15.844,ardac,106.0,False
 SE764,Konga,,Kronoberg,SE,56.497917,15.121524,ardac,34.6,True
-SE765,Kopparberg,,Örebro,SE,59.874506,14.990384,ardac,151.7,False
-SE766,Kopparmora,,Stockholm,SE,59.335833,18.565,ardac,2.9,True
+SE765,Kopparberg,,Örebro,SE,59.874506,14.990384,ardac,151.6,False
+SE766,Kopparmora,,Stockholm,SE,59.335833,18.565,ardac,2.8,True
 SE767,Kopparnäs,,Norrbotten,SE,65.404689,21.478504,ardac,1.4,True
 SE768,Koppom,,Värmland,SE,59.703155,12.149459,ardac,78.9,True
-SE769,Korpilombolo,,Norrbotten,SE,66.850432,23.056268,ardac,106.3,False
-SE770,Korsberga,,Västra Götaland,SE,58.3,14.083333,ardac,127.3,False
-SE771,Korsberga,,Jönköping,SE,57.3025,15.125278,ardac,80.9,True
-SE772,Korsträsk,,Norrbotten,SE,65.66819,20.867354,ardac,39.0,True
-SE773,Kortebo,,Jönköping,SE,57.814875,14.145419,ardac,130.1,False
-SE774,Koskullskulle,,Norrbotten,SE,67.185964,20.738665,ardac,164.2,False
-SE775,Kosta,,Kronoberg,SE,56.847541,15.394082,ardac,56.9,True
+SE769,Korpilombolo,,Norrbotten,SE,66.850432,23.056268,ardac,105.8,False
+SE770,Korsberga,,Västra Götaland,SE,58.3,14.083333,ardac,127.7,False
+SE771,Korsberga,,Jönköping,SE,57.3025,15.125278,ardac,81.1,True
+SE772,Korsträsk,,Norrbotten,SE,65.66819,20.867354,ardac,39.2,True
+SE773,Kortebo,,Jönköping,SE,57.814875,14.145419,ardac,130.4,False
+SE774,Koskullskulle,,Norrbotten,SE,67.185964,20.738665,ardac,165.0,False
+SE775,Kosta,,Kronoberg,SE,56.847541,15.394082,ardac,57.0,True
 SE776,Kovikshamn,,Västra Götaland,SE,57.841715,11.686537,ardac,0.5,True
-SE777,Kovland,,Västernorrland,SE,62.470936,17.155297,ardac,9.0,True
+SE777,Kovland,,Västernorrland,SE,62.470936,17.155297,ardac,9.1,True
 SE778,Kramfors,,Västernorrland,SE,62.930611,17.78399,ardac,2.1,True
-SE779,Krika,,Skåne,SE,56.095109,13.145129,ardac,25.8,True
-SE780,Kristdala,,Kalmar,SE,57.400567,16.197434,ardac,20.7,True
+SE779,Krika,,Skåne,SE,56.095109,13.145129,ardac,25.9,True
+SE780,Kristdala,,Kalmar,SE,57.400567,16.197434,ardac,20.8,True
 SE781,Kristianstad,,Skåne,SE,56.029377,14.156685,ardac,14.6,True
-SE782,Kristinehamn,,Värmland,SE,59.311361,14.11176,ardac,140.6,False
-SE783,Kristvallabrunn,,Kalmar,SE,56.777766,16.053326,ardac,18.6,True
+SE782,Kristinehamn,,Värmland,SE,59.311361,14.11176,ardac,141.1,False
+SE783,Kristvallabrunn,,Kalmar,SE,56.777766,16.053326,ardac,18.7,True
 SE784,Krokek,,Östergötland,SE,58.67498,16.365736,ardac,4.4,True
-SE785,Krokom,,Jämtland,SE,63.802225,14.180883,ardac,133.6,False
-SE786,Krylbo,,Dalarna,SE,60.127434,16.211779,ardac,82.8,True
-SE787,Krägga,,Uppsala,SE,59.606041,17.404754,ardac,40.6,True
+SE785,Krokom,,Jämtland,SE,63.802225,14.180883,ardac,134.6,False
+SE786,Krylbo,,Dalarna,SE,60.127434,16.211779,ardac,82.5,True
+SE787,Krägga,,Uppsala,SE,59.606041,17.404754,ardac,40.8,True
 SE788,Kränge,,Östergötland,SE,58.440932,15.468802,ardac,46.3,True
-SE789,Kullersta,,Södermanland,SE,59.449047,16.531014,ardac,71.3,True
-SE790,Kulltorp,,Västmanland,SE,59.914851,16.250672,ardac,99.4,True
+SE789,Kullersta,,Södermanland,SE,59.449047,16.531014,ardac,71.6,True
+SE790,Kulltorp,,Västmanland,SE,59.914851,16.250672,ardac,99.0,True
 SE791,Kullö,,Stockholm,SE,59.413961,18.304833,ardac,0.7,True
-SE792,Kumla,,Örebro,SE,59.117423,15.109026,ardac,81.8,True
-SE793,Kungsberga,,Stockholm,SE,59.405967,17.627952,ardac,21.6,True
-SE794,Kungsgården,,Gävleborg,SE,61.365482,16.94786,ardac,9.1,True
+SE792,Kumla,,Örebro,SE,59.117423,15.109026,ardac,82.0,True
+SE793,Kungsberga,,Stockholm,SE,59.405967,17.627952,ardac,21.7,True
+SE794,Kungsgården,,Gävleborg,SE,61.365482,16.94786,ardac,9.2,True
 SE795,Kungshamn,,Västra Götaland,SE,58.360817,11.251142,ardac,0.6,True
 SE796,Kungshult,,Skåne,SE,56.102261,12.6958,ardac,5.6,True
-SE797,Kungsängen,,Stockholm,SE,59.478667,17.751169,ardac,16.5,True
+SE797,Kungsängen,,Stockholm,SE,59.478667,17.751169,ardac,16.6,True
 SE798,Kungsäter,,Halland,SE,57.305817,12.56488,ardac,24.8,True
-SE799,Kungsör,,Västmanland,SE,59.413971,16.087752,ardac,83.7,True
-SE800,Kungälv,,Västra Götaland,SE,57.870786,11.978862,ardac,13.4,True
+SE799,Kungsör,,Västmanland,SE,59.413971,16.087752,ardac,83.3,True
+SE800,Kungälv,,Västra Götaland,SE,57.870786,11.978862,ardac,13.5,True
 SE801,Kurland,,Skåne,SE,55.376975,13.084278,ardac,1.5,True
-SE802,Kurveröd,,Västra Götaland,SE,58.363597,11.890481,ardac,2.4,True
-SE803,Kusmark,,Västerbotten,SE,64.87881,20.79953,ardac,12.0,True
-SE804,Kuttainen,,Norrbotten,SE,68.381679,22.826079,ardac,146.5,False
+SE802,Kurveröd,,Västra Götaland,SE,58.363597,11.890481,ardac,2.3,True
+SE803,Kusmark,,Västerbotten,SE,64.87881,20.79953,ardac,12.1,True
+SE804,Kuttainen,,Norrbotten,SE,68.381679,22.826079,ardac,147.9,False
 SE805,Kvarsebo,,Östergötland,SE,58.64077,16.628524,ardac,1.6,True
-SE806,Kvegerö,,Södermanland,SE,58.927495,17.369469,ardac,5.7,True
+SE806,Kvegerö,,Södermanland,SE,58.927495,17.369469,ardac,5.8,True
 SE807,Kvibille,,Halland,SE,56.783227,12.832206,ardac,12.8,True
-SE808,Kvicksund,,Västmanland,SE,59.457644,16.314485,ardac,82.8,True
+SE808,Kvicksund,,Västmanland,SE,59.457644,16.314485,ardac,83.3,True
 SE809,Kvidinge,,Skåne,SE,56.135365,13.04499,ardac,18.2,True
-SE810,Kvillsfors,,Jönköping,SE,57.403087,15.497728,ardac,60.1,True
+SE810,Kvillsfors,,Jönköping,SE,57.403087,15.497728,ardac,60.3,True
 SE811,Kvissleby,,Västernorrland,SE,62.299215,17.379976,ardac,3.3,True
-SE812,Kvänum,,Västra Götaland,SE,58.30143,13.186595,ardac,76.2,True
+SE812,Kvänum,,Västra Götaland,SE,58.30143,13.186595,ardac,76.6,True
 SE813,Kvärlöv,,Skåne,SE,55.839439,12.986569,ardac,3.8,True
 SE814,Kyrkesund,,Västra Götaland,SE,58.015795,11.514944,ardac,0.6,True
 SE815,Kyrkheddinge,,Skåne,SE,55.64914,13.268006,ardac,13.3,True
-SE816,Kyrkhult,,Skåne,SE,55.832424,13.724734,ardac,30.2,True
-SE817,Kyrksten,,Värmland,SE,59.437666,14.392946,ardac,135.9,False
+SE816,Kyrkhult,,Skåne,SE,55.832424,13.724734,ardac,30.3,True
+SE817,Kyrksten,,Värmland,SE,59.437666,14.392946,ardac,136.2,False
 SE818,Kågeröd,,Skåne,SE,55.999056,13.088313,ardac,19.3,True
 SE819,Kåge,,Västerbotten,SE,64.835173,20.984811,ardac,2.5,True
-SE820,Kåhög,,Västra Götaland,SE,57.750421,12.151588,ardac,14.5,True
+SE820,Kåhög,,Västra Götaland,SE,57.750421,12.151588,ardac,14.6,True
 SE821,Kållekärr,,Västra Götaland,SE,58.026051,11.660106,ardac,2.2,True
-SE822,Kånna,,Kronoberg,SE,56.781805,13.903944,ardac,64.3,True
-SE823,Kårsta,,Stockholm,SE,59.657503,18.274701,ardac,18.1,True
-SE824,Kälarne,,Jämtland,SE,62.979221,16.085824,ardac,81.3,True
-SE825,Källby,,Västra Götaland,SE,58.509551,13.307386,ardac,85.3,True
+SE822,Kånna,,Kronoberg,SE,56.781805,13.903944,ardac,64.4,True
+SE823,Kårsta,,Stockholm,SE,59.657503,18.274701,ardac,18.2,True
+SE824,Kälarne,,Jämtland,SE,62.979221,16.085824,ardac,81.8,True
+SE825,Källby,,Västra Götaland,SE,58.509551,13.307386,ardac,85.6,True
 SE826,Källhagen,,Gävleborg,SE,60.69876,17.194925,ardac,0.4,True
 SE827,Källö-Knippla,,Västra Götaland,SE,57.753167,11.65105,ardac,4.8,True
-SE828,Kärda,,Jönköping,SE,57.171295,13.921352,ardac,86.4,True
+SE828,Kärda,,Jönköping,SE,57.171295,13.921352,ardac,86.3,True
 SE829,Kärna,,Östergötland,SE,58.410221,15.510259,ardac,45.9,True
-SE830,Kärsta,,Västmanland,SE,59.679131,16.837808,ardac,72.6,True
+SE830,Kärsta,,Västmanland,SE,59.679131,16.837808,ardac,73.0,True
 SE831,Kättilsmåla,,Blekinge,SE,56.269177,15.736483,ardac,9.9,True
-SE832,Kättilstorp,,Kronoberg,SE,56.825167,14.777483,ardac,73.3,True
+SE832,Kättilstorp,,Kronoberg,SE,56.825167,14.777483,ardac,73.1,True
 SE833,Kävlinge,,Skåne,SE,55.791294,13.107347,ardac,9.2,True
 SE834,Köinge,,Halland,SE,57.064209,12.645174,ardac,19.2,True
 SE835,Köpingebro,,Skåne,SE,55.452452,13.935417,ardac,2.2,True
-SE836,Köping,,Västmanland,SE,59.579954,15.879021,ardac,103.8,False
+SE836,Köping,,Västmanland,SE,59.579954,15.879021,ardac,103.4,False
 SE837,Köpmanholmen,,Västernorrland,SE,63.169467,18.554621,ardac,0.5,True
 SE838,Lagan,,Jönköping,SE,57.238215,14.069977,ardac,98.0,True
 SE839,Laggarberg,,Västernorrland,SE,62.464177,17.258688,ardac,3.8,True
 SE840,Laholm,,Halland,SE,56.512652,13.044638,ardac,6.7,True
-SE841,Lammhult,,Kronoberg,SE,57.168903,14.580559,ardac,112.1,False
-SE842,Landeryd,,Halland,SE,57.077553,13.266096,ardac,49.6,True
+SE841,Lammhult,,Kronoberg,SE,57.168903,14.580559,ardac,111.8,False
+SE842,Landeryd,,Halland,SE,57.077553,13.266096,ardac,49.7,True
 SE843,Landfjärden,,Stockholm,SE,59.035934,17.989155,ardac,0.8,True
-SE844,Landsbro,,Jönköping,SE,57.36962,14.90132,ardac,94.8,True
+SE844,Landsbro,,Jönköping,SE,57.36962,14.90132,ardac,95.1,True
 SE845,Landskrona,,Skåne,SE,55.8698,12.829673,ardac,1.4,True
-SE846,Landvetter,,Västra Götaland,SE,57.685293,12.22349,ardac,17.9,True
-SE847,Lanesund och Överby,,Västra Götaland,SE,58.340046,11.72853,ardac,1.5,True
-SE848,Lanna,,Jönköping,SE,57.223516,13.777647,ardac,84.4,True
-SE849,Larv,,Västra Götaland,SE,58.188968,13.126441,ardac,72.6,True
-SE850,Latorpsbruk,,Örebro,SE,59.275532,14.987604,ardac,98.5,True
+SE846,Landvetter,,Västra Götaland,SE,57.685293,12.22349,ardac,18.0,True
+SE847,Lanesund och Överby,,Västra Götaland,SE,58.340046,11.72853,ardac,1.4,True
+SE848,Lanna,,Jönköping,SE,57.223516,13.777647,ardac,84.3,True
+SE849,Larv,,Västra Götaland,SE,58.188968,13.126441,ardac,72.9,True
+SE850,Latorpsbruk,,Örebro,SE,59.275532,14.987604,ardac,98.7,True
 SE851,Laxvik,,Halland,SE,56.597352,12.92706,ardac,1.5,True
-SE852,Laxå,,Örebro,SE,58.982954,14.619779,ardac,97.9,True
-SE853,Lekeryd,,Jönköping,SE,57.773366,14.418215,ardac,119.3,False
-SE854,Leksand,,Dalarna,SE,60.724768,14.868461,ardac,126.1,False
-SE855,Lenhovda,,Kronoberg,SE,56.99777,15.284947,ardac,69.7,True
+SE852,Laxå,,Örebro,SE,58.982954,14.619779,ardac,98.3,True
+SE853,Lekeryd,,Jönköping,SE,57.773366,14.418215,ardac,119.7,False
+SE854,Leksand,,Dalarna,SE,60.724768,14.868461,ardac,126.9,False
+SE855,Lenhovda,,Kronoberg,SE,56.99777,15.284947,ardac,69.9,True
 SE856,Lerbäckshult,,Skåne,SE,56.335259,12.973061,ardac,10.9,True
-SE857,Lerdala,,Västra Götaland,SE,58.477042,13.709034,ardac,107.6,False
-SE858,Lerum,,Västra Götaland,SE,57.769947,12.268929,ardac,21.8,True
-SE859,Lesjöfors,,Värmland,SE,59.97628,14.184061,ardac,183.6,False
-SE860,Lessebo,,Kronoberg,SE,56.756624,15.26795,ardac,60.6,True
-SE861,Liatorp,,Kronoberg,SE,56.663235,14.265872,ardac,62.1,True
+SE857,Lerdala,,Västra Götaland,SE,58.477042,13.709034,ardac,108.1,False
+SE858,Lerum,,Västra Götaland,SE,57.769947,12.268929,ardac,21.9,True
+SE859,Lesjöfors,,Värmland,SE,59.97628,14.184061,ardac,184.0,False
+SE860,Lessebo,,Kronoberg,SE,56.756624,15.26795,ardac,60.7,True
+SE861,Liatorp,,Kronoberg,SE,56.663235,14.265872,ardac,62.0,True
 SE862,Lidatorp och Klövsta,,Stockholm,SE,58.95809,17.906444,ardac,3.2,True
-SE863,Liden,,Västernorrland,SE,62.699009,16.803524,ardac,35.5,True
+SE863,Liden,,Västernorrland,SE,62.699009,16.803524,ardac,35.7,True
 SE864,Lidhult,,Kronoberg,SE,56.827578,13.440539,ardac,40.0,True
 SE865,Lidingö,,Stockholm,SE,59.364384,18.133142,ardac,0.9,True
-SE866,Lidköping,,Västra Götaland,SE,58.568247,13.00989,ardac,70.7,True
-SE867,Lidköping norra,,Västra Götaland,SE,58.568247,13.00989,ardac,70.7,True
+SE866,Lidköping,,Västra Götaland,SE,58.568247,13.00989,ardac,70.9,True
+SE867,Lidköping norra,,Västra Götaland,SE,58.568247,13.00989,ardac,70.9,True
 SE868,Lilla Edet,,Västra Götaland,SE,58.157211,12.08163,ardac,12.8,True
 SE869,Lilla Edet västra,,Västra Götaland,SE,58.157211,12.08163,ardac,12.8,True
 SE870,Lilla Harrie,,Skåne,SE,55.792753,13.202751,ardac,14.0,True
 SE871,Lilla Stenby,,Stockholm,SE,59.384764,17.524639,ardac,25.3,True
-SE872,Lilla Tjärby,,Halland,SE,56.527249,13.056591,ardac,7.2,True
-SE873,Lillhaga,,Gävleborg,SE,61.83277,16.057998,ardac,58.1,True
-SE874,Lillhärdal,,Jämtland,SE,61.851045,14.06833,ardac,160.3,False
+SE872,Lilla Tjärby,,Halland,SE,56.527249,13.056591,ardac,7.3,True
+SE873,Lillhaga,,Gävleborg,SE,61.83277,16.057998,ardac,58.5,True
+SE874,Lillhärdal,,Jämtland,SE,61.851045,14.06833,ardac,161.5,False
 SE875,Lillkyrka,,Östergötland,SE,58.499803,15.903497,ardac,21.5,True
 SE876,Lillpite,,Norrbotten,SE,65.373996,21.151354,ardac,6.5,True
-SE877,Limedsforsen,,Dalarna,SE,60.889845,13.395734,ardac,183.3,False
-SE878,Limmared,,Västra Götaland,SE,57.537388,13.356598,ardac,76.4,True
+SE877,Limedsforsen,,Dalarna,SE,60.889845,13.395734,ardac,183.5,False
+SE878,Limmared,,Västra Götaland,SE,57.537388,13.356598,ardac,76.6,True
 SE879,Linderöd,,Skåne,SE,55.933072,13.823756,ardac,26.9,True
-SE880,Lindesberg,,Örebro,SE,59.593056,15.226496,ardac,118.2,False
+SE880,Lindesberg,,Örebro,SE,59.593056,15.226496,ardac,118.1,False
 SE881,Lindholmen,,Blekinge,SE,56.151828,15.585013,ardac,1.1,True
 SE882,Lindsdal,,Kalmar,SE,56.733926,16.297433,ardac,4.2,True
 SE883,Lindö,,Kalmar,SE,56.673253,16.361488,ardac,1.1,True
-SE884,Lingbo,,Gävleborg,SE,61.048803,16.694169,ardac,25.2,True
-SE885,Linghed,,Dalarna,SE,60.78361,15.860435,ardac,72.6,True
+SE884,Lingbo,,Gävleborg,SE,61.048803,16.694169,ardac,25.4,True
+SE885,Linghed,,Dalarna,SE,60.78361,15.860435,ardac,72.9,True
 SE886,Linghem,,Östergötland,SE,58.429082,15.78718,ardac,31.8,True
 SE887,Linköping,,Östergötland,SE,58.409813,15.624525,ardac,40.4,True
-SE888,Linneryd,,Kronoberg,SE,56.660845,15.124572,ardac,52.8,True
+SE888,Linneryd,,Kronoberg,SE,56.660845,15.124572,ardac,52.7,True
 SE889,Listerby,,Blekinge,SE,56.196403,15.402268,ardac,1.9,True
-SE890,Lit,,Jämtland,SE,63.316657,14.849945,ardac,147.4,False
+SE890,Lit,,Jämtland,SE,63.316657,14.849945,ardac,148.6,False
 SE891,Ljunga,,Östergötland,SE,58.577125,16.307637,ardac,4.5,True
 SE892,Ljungbyhed,,Skåne,SE,56.074442,13.233562,ardac,31.2,True
 SE893,Ljungbyholm,,Kalmar,SE,56.633975,16.168375,ardac,4.0,True
-SE894,Ljungby,,Kronoberg,SE,56.832588,13.935991,ardac,67.7,True
-SE895,Ljungsarp,,Västra Götaland,SE,57.565104,13.58333,ardac,90.3,True
-SE896,Ljungsbro,,Östergötland,SE,58.508132,15.502618,ardac,41.5,True
+SE894,Ljungby,,Kronoberg,SE,56.832588,13.935991,ardac,67.9,True
+SE895,Ljungsarp,,Västra Götaland,SE,57.565104,13.58333,ardac,90.5,True
+SE896,Ljungsbro,,Östergötland,SE,58.508132,15.502618,ardac,41.6,True
 SE897,Ljungskile,,Västra Götaland,SE,58.22465,11.919828,ardac,2.0,True
-SE898,Ljusdal,,Gävleborg,SE,61.829375,16.095359,ardac,56.1,True
-SE899,Ljusfallshammar,,Östergötland,SE,58.788109,15.493705,ardac,43.2,True
+SE898,Ljusdal,,Gävleborg,SE,61.829375,16.095359,ardac,56.5,True
+SE899,Ljusfallshammar,,Östergötland,SE,58.788109,15.493705,ardac,43.4,True
 SE900,Ljusne,,Gävleborg,SE,61.21363,17.128154,ardac,1.7,True
 SE901,Ljusterö Nolsjö,,Stockholm,SE,59.531146,18.618247,ardac,1.7,True
 SE902,Loftahammar,,Kalmar,SE,57.904348,16.693118,ardac,1.0,True
 SE903,Lomma,,Skåne,SE,55.674534,13.070892,ardac,0.6,True
-SE904,Los,,Gävleborg,SE,61.736513,15.169209,ardac,101.1,False
-SE905,Lotorp,,Östergötland,SE,58.7341,15.827684,ardac,23.2,True
-SE906,Lottefors,,Gävleborg,SE,61.419319,16.407473,ardac,37.1,True
+SE904,Los,,Gävleborg,SE,61.736513,15.169209,ardac,101.8,False
+SE905,Lotorp,,Östergötland,SE,58.7341,15.827684,ardac,23.3,True
+SE906,Lottefors,,Gävleborg,SE,61.419319,16.407473,ardac,37.4,True
 SE907,Lucksta,,Västernorrland,SE,62.301515,17.05193,ardac,17.0,True
-SE908,Luddingsbo,,Östergötland,SE,58.507934,16.137539,ardac,13.5,True
-SE909,Ludvika,,Dalarna,SE,60.150377,15.181398,ardac,125.6,False
+SE908,Luddingsbo,,Östergötland,SE,58.507934,16.137539,ardac,13.4,True
+SE909,Ludvika,,Dalarna,SE,60.150377,15.181398,ardac,125.8,False
 SE910,Lugnet och Skälsmara,,Stockholm,SE,59.25587,18.535627,ardac,0.5,True
 SE911,Lugnvik,,Västra Götaland,SE,57.766888,12.216301,ardac,18.8,True
-SE912,Lugnås,,Västra Götaland,SE,58.644023,13.699969,ardac,111.2,False
+SE912,Lugnås,,Västra Götaland,SE,58.644023,13.699969,ardac,111.6,False
 SE913,Luleå,,Norrbotten,SE,65.583135,22.146013,ardac,0.8,True
-SE914,Lundby,,Uppsala,SE,59.67123,17.047432,ardac,61.6,True
+SE914,Lundby,,Uppsala,SE,59.67123,17.047432,ardac,62.0,True
 SE915,Lunde,,Gävleborg,SE,61.974137,17.241551,ardac,6.3,True
 SE916,Lund,,Skåne,SE,55.702929,13.192944,ardac,8.7,True
-SE917,Lundsbrunn,,Västra Götaland,SE,58.471591,13.445263,ardac,92.4,True
+SE917,Lundsbrunn,,Västra Götaland,SE,58.471591,13.445263,ardac,92.8,True
 SE918,Lunnarp,,Skåne,SE,55.543894,14.040716,ardac,14.1,True
-SE919,Lunne,,Västernorrland,SE,63.784732,17.65762,ardac,79.9,True
-SE920,Lurudden,,Stockholm,SE,59.274685,17.70826,ardac,12.2,True
-SE921,Lycksele,,Västerbotten,SE,64.595861,18.677755,ardac,115.4,False
-SE922,Lycksta,,Västmanland,SE,59.695182,16.567965,ardac,85.3,True
-SE923,Lyrestad,,Västra Götaland,SE,58.80363,14.059127,ardac,123.9,False
+SE919,Lunne,,Västernorrland,SE,63.784732,17.65762,ardac,80.3,True
+SE920,Lurudden,,Stockholm,SE,59.274685,17.70826,ardac,12.1,True
+SE921,Lycksele,,Västerbotten,SE,64.595861,18.677755,ardac,115.7,False
+SE922,Lycksta,,Västmanland,SE,59.695182,16.567965,ardac,85.5,True
+SE923,Lyrestad,,Västra Götaland,SE,58.80363,14.059127,ardac,124.5,False
 SE924,Lysekil,,Västra Götaland,SE,58.291426,11.329568,ardac,3.8,True
-SE925,Lysvik,,Värmland,SE,60.015272,13.132996,ardac,133.3,False
-SE926,Långared,,Västra Götaland,SE,58.045332,12.520669,ardac,41.5,True
+SE925,Lysvik,,Värmland,SE,60.015272,13.132996,ardac,134.1,False
+SE926,Långared,,Västra Götaland,SE,58.045332,12.520669,ardac,41.6,True
 SE927,Långasjö,,Blekinge,SE,56.429453,15.461471,ardac,25.8,True
-SE928,Långsele,,Västernorrland,SE,63.185115,17.056398,ardac,38.6,True
-SE929,Långshyttan,,Dalarna,SE,60.451773,16.032348,ardac,68.6,True
-SE930,Långviksmon,,Västernorrland,SE,63.631477,18.698402,ardac,34.7,True
+SE928,Långsele,,Västernorrland,SE,63.185115,17.056398,ardac,38.8,True
+SE929,Långshyttan,,Dalarna,SE,60.451773,16.032348,ardac,68.7,True
+SE930,Långviksmon,,Västernorrland,SE,63.631477,18.698402,ardac,34.9,True
 SE931,Långvik,,Norrbotten,SE,65.416475,21.850586,ardac,1.0,True
 SE932,Långås,,Halland,SE,56.979132,12.447907,ardac,5.6,True
-SE933,Läby,,Uppsala,SE,60.088426,17.555379,ardac,46.1,True
+SE933,Läby,,Uppsala,SE,60.088426,17.555379,ardac,46.0,True
 SE934,Läckeby,,Kalmar,SE,56.782908,16.294941,ardac,4.6,True
-SE935,Länghem,,Västra Götaland,SE,57.601177,13.242889,ardac,71.6,True
+SE935,Länghem,,Västra Götaland,SE,57.601177,13.242889,ardac,71.8,True
 SE936,Länna,,Uppsala,SE,59.878854,17.966069,ardac,40.4,True
-SE937,Läppe,,Södermanland,SE,59.129561,15.799966,ardac,57.2,True
+SE937,Läppe,,Södermanland,SE,59.129561,15.799966,ardac,57.1,True
 SE938,Lärbro,,Gotland,SE,57.785162,18.790637,ardac,4.6,True
 SE939,Löberöd,,Skåne,SE,55.775677,13.514908,ardac,30.3,True
 SE940,Löddeköpinge,,Skåne,SE,55.763213,13.000394,ardac,2.9,True
 SE941,Löderup,,Skåne,SE,55.438801,14.113706,ardac,5.9,True
-SE942,Lödöse,,Västra Götaland,SE,58.033758,12.154571,ardac,20.7,True
+SE942,Lödöse,,Västra Götaland,SE,58.033758,12.154571,ardac,20.8,True
 SE943,Lögdeå,,Västerbotten,SE,63.549258,19.390514,ardac,1.5,True
 SE944,Lönsboda,,Skåne,SE,56.398584,14.321326,ardac,35.4,True
 SE945,Lörby,,Blekinge,SE,56.071259,14.696498,ardac,2.1,True
@@ -949,218 +949,218 @@ SE947,Löwenströmska lasarettet,,Stockholm,SE,59.541799,17.916415,ardac,14.8,Tr
 SE948,Lövestad,,Skåne,SE,55.65228,13.891961,ardac,20.7,True
 SE949,Lövstalöt,,Uppsala,SE,59.958716,17.577546,ardac,53.4,True
 SE950,Lövånger,,Västerbotten,SE,64.368753,21.313517,ardac,0.6,True
-SE951,Madängsholm,,Västra Götaland,SE,58.140409,13.921067,ardac,119.5,False
-SE952,Magra,,Västra Götaland,SE,58.113151,12.62335,ardac,44.6,True
+SE951,Madängsholm,,Västra Götaland,SE,58.140409,13.921067,ardac,120.0,False
+SE952,Magra,,Västra Götaland,SE,58.113151,12.62335,ardac,44.8,True
 SE953,Mala,,Skåne,SE,56.241004,13.711531,ardac,50.9,True
-SE954,Malmberget västra,,Norrbotten,SE,67.176118,20.658935,ardac,164.8,False
-SE955,Malmberget östra,,Norrbotten,SE,67.176118,20.658935,ardac,164.8,False
-SE956,Malmbäck,,Kronoberg,SE,56.840954,14.049387,ardac,74.6,True
+SE954,Malmberget västra,,Norrbotten,SE,67.176118,20.658935,ardac,165.7,False
+SE955,Malmberget östra,,Norrbotten,SE,67.176118,20.658935,ardac,165.7,False
+SE956,Malmbäck,,Kronoberg,SE,56.840954,14.049387,ardac,74.7,True
 SE957,Malmen,,Kalmar,SE,57.01489,16.219951,ardac,13.2,True
 SE958,Malmköping,,Södermanland,SE,59.133138,16.725512,ardac,46.0,True
-SE959,Malmslätt,,Östergötland,SE,58.416735,15.516966,ardac,45.1,True
+SE959,Malmslätt,,Östergötland,SE,58.416735,15.516966,ardac,45.2,True
 SE960,Malmö,,Skåne,SE,55.605293,13.000156,ardac,2.8,True
 SE961,Malmön,,Gävleborg,SE,60.589005,16.77788,ardac,25.1,True
-SE962,Malung,,Dalarna,SE,60.686446,13.714586,ardac,186.0,False
-SE963,Malungsfors,,Dalarna,SE,60.734169,13.552234,ardac,180.8,False
-SE964,Malå,,Västerbotten,SE,65.238752,18.729258,ardac,117.4,False
+SE962,Malung,,Dalarna,SE,60.686446,13.714586,ardac,186.5,False
+SE963,Malungsfors,,Dalarna,SE,60.734169,13.552234,ardac,181.2,False
+SE964,Malå,,Västerbotten,SE,65.238752,18.729258,ardac,118.3,False
 SE965,Mantorp,,Östergötland,SE,58.354314,15.288493,ardac,60.2,True
 SE966,Marbäck,,Halland,SE,56.7052,13.029041,ardac,11.5,True
 SE967,Margretetorp,,Skåne,SE,56.335859,12.892382,ardac,7.5,True
-SE968,Mariannelund,,Jönköping,SE,57.615689,15.580343,ardac,55.9,True
-SE969,Marieby,,Jämtland,SE,63.116689,14.723028,ardac,150.0,False
-SE970,Mariefred,,Södermanland,SE,59.259945,17.222948,ardac,26.8,True
+SE968,Mariannelund,,Jönköping,SE,57.615689,15.580343,ardac,56.2,True
+SE969,Marieby,,Jämtland,SE,63.116689,14.723028,ardac,151.0,False
+SE970,Mariefred,,Södermanland,SE,59.259945,17.222948,ardac,27.0,True
 SE971,Marieholm,,Skåne,SE,55.864144,13.151533,ardac,14.5,True
-SE972,Marielund,,Uppsala,SE,59.838943,17.870543,ardac,44.9,True
-SE973,Mariestad,,Västra Götaland,SE,58.800977,13.751662,ardac,120.4,False
-SE974,Markaryd,,Kronoberg,SE,56.459613,13.591983,ardac,40.8,True
-SE975,Marmaskogen,,Gävleborg,SE,61.278953,16.896402,ardac,11.4,True
+SE972,Marielund,,Uppsala,SE,59.838943,17.870543,ardac,44.8,True
+SE973,Mariestad,,Västra Götaland,SE,58.800977,13.751662,ardac,120.6,False
+SE974,Markaryd,,Kronoberg,SE,56.459613,13.591983,ardac,40.9,True
+SE975,Marmaskogen,,Gävleborg,SE,61.278953,16.896402,ardac,11.5,True
 SE976,Marma,,Uppsala,SE,59.784245,17.83982,ardac,39.8,True
-SE977,Marmorbyn,,Södermanland,SE,59.045239,16.069696,ardac,43.1,True
-SE978,Marstrand,,Västra Götaland,SE,57.886761,11.588797,ardac,5.5,True
+SE977,Marmorbyn,,Södermanland,SE,59.045239,16.069696,ardac,42.9,True
+SE978,Marstrand,,Västra Götaland,SE,57.886761,11.588797,ardac,5.4,True
 SE979,Matfors,,Västernorrland,SE,62.346769,17.019979,ardac,17.6,True
 SE980,Medle,,Västerbotten,SE,64.74523,20.756741,ardac,15.9,True
-SE981,Medåker,,Västmanland,SE,59.451516,15.754719,ardac,91.6,True
+SE981,Medåker,,Västmanland,SE,59.451516,15.754719,ardac,91.4,True
 SE982,Mehedeby,,Uppsala,SE,60.44591,17.403973,ardac,15.0,True
-SE983,Mellansel,,Västernorrland,SE,63.424772,18.308823,ardac,28.7,True
-SE984,Mellbystrand,,Halland,SE,56.504597,12.948391,ardac,0.9,True
+SE983,Mellansel,,Västernorrland,SE,63.424772,18.308823,ardac,28.8,True
+SE984,Mellbystrand,,Halland,SE,56.504597,12.948391,ardac,1.0,True
 SE985,Mellerud,,Västra Götaland,SE,58.682429,12.525313,ardac,53.5,True
 SE986,Mellösa,,Södermanland,SE,59.100733,16.561849,ardac,47.4,True
-SE987,Merlänna,,Södermanland,SE,59.280796,16.980532,ardac,40.6,True
+SE987,Merlänna,,Södermanland,SE,59.280796,16.980532,ardac,40.8,True
 SE988,Mjällby,,Blekinge,SE,56.047083,14.678027,ardac,3.4,True
 SE989,Mjällom,,Västernorrland,SE,62.98669,18.430428,ardac,2.0,True
-SE990,Mjöbäck,,Västra Götaland,SE,57.314698,12.875615,ardac,42.7,True
-SE991,Mjöhult,,Kronoberg,SE,56.816097,14.360647,ardac,75.7,True
+SE990,Mjöbäck,,Västra Götaland,SE,57.314698,12.875615,ardac,42.9,True
+SE991,Mjöhult,,Kronoberg,SE,56.816097,14.360647,ardac,75.6,True
 SE992,Mjölby,,Östergötland,SE,58.295391,15.179064,ardac,69.1,True
-SE993,Mjönäs,,Värmland,SE,59.879452,13.55936,ardac,151.2,False
-SE994,Mockfjärd,,Dalarna,SE,60.502899,14.959955,ardac,123.4,False
-SE995,Mogata,,Östergötland,SE,58.451127,16.451785,ardac,2.7,True
-SE996,Moheda,,Kronoberg,SE,57.004355,14.572811,ardac,93.8,True
-SE997,Mohed,,Gävleborg,SE,61.29454,16.827051,ardac,14.6,True
-SE998,Moholm,,Västra Götaland,SE,58.607027,14.038339,ardac,124.0,False
-SE999,Moliden,,Västernorrland,SE,63.379294,18.455573,ardac,19.9,True
-SE1000,Molkom,,Värmland,SE,59.602235,13.728668,ardac,144.9,False
+SE993,Mjönäs,,Värmland,SE,59.879452,13.55936,ardac,151.3,False
+SE994,Mockfjärd,,Dalarna,SE,60.502899,14.959955,ardac,124.0,False
+SE995,Mogata,,Östergötland,SE,58.451127,16.451785,ardac,2.6,True
+SE996,Moheda,,Kronoberg,SE,57.004355,14.572811,ardac,93.6,True
+SE997,Mohed,,Gävleborg,SE,61.29454,16.827051,ardac,14.7,True
+SE998,Moholm,,Västra Götaland,SE,58.607027,14.038339,ardac,124.6,False
+SE999,Moliden,,Västernorrland,SE,63.379294,18.455573,ardac,20.0,True
+SE1000,Molkom,,Värmland,SE,59.602235,13.728668,ardac,145.3,False
 SE1001,Mollösund,,Västra Götaland,SE,58.073313,11.475499,ardac,0.7,True
-SE1002,Mora,,Dalarna,SE,61.008209,14.543133,ardac,140.5,False
-SE1003,Morgongåva,,Uppsala,SE,59.933759,16.962697,ardac,74.8,True
+SE1002,Mora,,Dalarna,SE,61.008209,14.543133,ardac,141.4,False
+SE1003,Morgongåva,,Uppsala,SE,59.933759,16.962697,ardac,74.4,True
 SE1004,Morup,,Halland,SE,56.979293,12.395902,ardac,2.5,True
-SE1005,Motala,,Östergötland,SE,58.542039,15.041261,ardac,66.7,True
-SE1006,Mullhyttan,,Örebro,SE,59.151568,14.683658,ardac,103.6,False
-SE1007,Mullsjö,,Jönköping,SE,57.942325,13.816638,ardac,115.3,False
-SE1008,Munga,,Västmanland,SE,59.744661,16.52196,ardac,90.9,True
+SE1005,Motala,,Östergötland,SE,58.542039,15.041261,ardac,66.9,True
+SE1006,Mullhyttan,,Örebro,SE,59.151568,14.683658,ardac,103.9,False
+SE1007,Mullsjö,,Jönköping,SE,57.942325,13.816638,ardac,115.7,False
+SE1008,Munga,,Västmanland,SE,59.744661,16.52196,ardac,91.2,True
 SE1009,Munka-Ljungby,,Skåne,SE,56.256101,12.973975,ardac,8.8,True
-SE1010,Munkedal,,Västra Götaland,SE,58.607817,11.672323,ardac,17.6,True
-SE1011,Munkfors,,Värmland,SE,59.809955,13.488232,ardac,143.6,False
-SE1012,Munktorp,,Västmanland,SE,59.532577,16.134284,ardac,95.5,True
+SE1010,Munkedal,,Västra Götaland,SE,58.607817,11.672323,ardac,17.5,True
+SE1011,Munkfors,,Värmland,SE,59.809955,13.488232,ardac,143.8,False
+SE1012,Munktorp,,Västmanland,SE,59.532577,16.134284,ardac,96.0,True
 SE1013,Muskö,,Stockholm,SE,58.99583,18.114857,ardac,1.9,True
-SE1014,Myckle,,Västerbotten,SE,64.753,20.843137,ardac,12.1,True
+SE1014,Myckle,,Västerbotten,SE,64.753,20.843137,ardac,12.0,True
 SE1015,Myggenäs,,Västra Götaland,SE,58.05549,11.743581,ardac,0.4,True
-SE1016,Myresjö,,Jönköping,SE,57.384661,14.966436,ardac,91.1,True
-SE1017,Myrviken,,Jämtland,SE,63.000251,14.338833,ardac,162.9,False
-SE1018,Målilla,,Kalmar,SE,57.387601,15.812169,ardac,41.4,True
-SE1019,Målsta,,Jämtland,SE,63.153293,14.503876,ardac,161.7,False
-SE1020,Månkarbo,,Uppsala,SE,60.226211,17.466286,ardac,33.0,True
+SE1016,Myresjö,,Jönköping,SE,57.384661,14.966436,ardac,91.4,True
+SE1017,Myrviken,,Jämtland,SE,63.000251,14.338833,ardac,164.1,False
+SE1018,Målilla,,Kalmar,SE,57.387601,15.812169,ardac,41.5,True
+SE1019,Målsta,,Jämtland,SE,63.153293,14.503876,ardac,162.8,False
+SE1020,Månkarbo,,Uppsala,SE,60.226211,17.466286,ardac,32.8,True
 SE1021,Måttsund,,Norrbotten,SE,65.544163,21.902536,ardac,1.5,True
 SE1022,Märsta,,Stockholm,SE,59.625238,17.851567,ardac,24.1,True
-SE1023,Möklinta,,Västmanland,SE,60.086028,16.544777,ardac,74.3,True
+SE1023,Möklinta,,Västmanland,SE,60.086028,16.544777,ardac,74.0,True
 SE1024,Mölle,,Skåne,SE,56.282746,12.498322,ardac,0.9,True
-SE1025,Mölltorp,,Västra Götaland,SE,58.494309,14.41381,ardac,103.5,False
+SE1025,Mölltorp,,Västra Götaland,SE,58.494309,14.41381,ardac,103.9,False
 SE1026,Mölnbo,,Stockholm,SE,59.048603,17.41531,ardac,11.5,True
-SE1027,Mölnlycke,,Västra Götaland,SE,57.658361,12.113576,ardac,12.3,True
+SE1027,Mölnlycke,,Västra Götaland,SE,57.658361,12.113576,ardac,12.4,True
 SE1028,Mönsterås,,Kalmar,SE,57.042955,16.444801,ardac,0.2,True
 SE1029,Mörarp,,Skåne,SE,56.056735,12.877454,ardac,10.3,True
 SE1030,Mörbylånga,,Kalmar,SE,56.524963,16.379998,ardac,2.5,True
-SE1031,Mörlunda,,Kalmar,SE,57.323302,15.865313,ardac,36.7,True
+SE1031,Mörlunda,,Kalmar,SE,57.323302,15.865313,ardac,36.8,True
 SE1032,Mörrum,,Blekinge,SE,56.192516,14.751521,ardac,3.1,True
-SE1033,Mörsil,,Jämtland,SE,63.309848,13.657397,ardac,121.6,False
-SE1034,Nedansjö,,Västernorrland,SE,62.376436,16.848226,ardac,25.4,True
-SE1035,Nedre Gärdsjö,,Dalarna,SE,60.938578,15.225472,ardac,104.3,False
+SE1033,Mörsil,,Jämtland,SE,63.309848,13.657397,ardac,122.3,False
+SE1034,Nedansjö,,Västernorrland,SE,62.376436,16.848226,ardac,25.6,True
+SE1035,Nedre Gärdsjö,,Dalarna,SE,60.938578,15.225472,ardac,105.0,False
 SE1036,Nibble,,Stockholm,SE,59.064191,17.6241,ardac,1.0,True
 SE1037,Nikkala,,Norrbotten,SE,65.804057,23.91427,ardac,2.2,True
-SE1038,Nissafors,,Jönköping,SE,57.407874,13.637141,ardac,89.6,True
-SE1039,Nitta,,Västra Götaland,SE,57.827588,13.193772,ardac,76.7,True
+SE1038,Nissafors,,Jönköping,SE,57.407874,13.637141,ardac,89.8,True
+SE1039,Nitta,,Västra Götaland,SE,57.827588,13.193772,ardac,76.9,True
 SE1040,Njutånger,,Gävleborg,SE,61.613485,17.052906,ardac,1.6,True
 SE1041,Nolvik,,Västra Götaland,SE,57.777278,11.831599,ardac,1.3,True
 SE1042,Nora,,Västernorrland,SE,62.763013,18.272028,ardac,4.0,True
-SE1043,Norberg,,Västmanland,SE,60.061747,15.95491,ardac,97.8,True
+SE1043,Norberg,,Västmanland,SE,60.061747,15.95491,ardac,97.5,True
 SE1044,Nordanö,,Västernorrland,SE,62.742779,18.120571,ardac,0.9,True
 SE1045,Nordingrå,,Västernorrland,SE,62.845904,18.655486,ardac,9.7,True
-SE1046,Nordkroken,,Västra Götaland,SE,58.382685,12.41426,ardac,31.5,True
+SE1046,Nordkroken,,Västra Götaland,SE,58.382685,12.41426,ardac,31.6,True
 SE1047,Nordmaling,,Västerbotten,SE,63.475532,19.548486,ardac,1.7,True
 SE1048,Nordöstra Göteborg,,Västra Götaland,SE,57.861715,11.517247,ardac,8.6,True
 SE1049,Norje,,Blekinge,SE,56.122104,14.668745,ardac,1.0,True
-SE1050,Norra Bro,,Örebro,SE,59.226584,15.250518,ardac,84.0,True
+SE1050,Norra Bro,,Örebro,SE,59.226584,15.250518,ardac,84.2,True
 SE1051,Norra Lagnö,,Stockholm,SE,59.354259,18.408346,ardac,1.8,True
-SE1052,Norr Amsberg,,Dalarna,SE,60.530472,15.356155,ardac,101.5,False
+SE1052,Norr Amsberg,,Dalarna,SE,60.530472,15.356155,ardac,102.0,False
 SE1053,Norra Muskö,,Stockholm,SE,58.99583,18.114857,ardac,1.9,True
 SE1054,Norra Riksten,,Stockholm,SE,59.189071,17.915707,ardac,11.3,True
 SE1055,Norra Rörum,,Skåne,SE,56.017655,13.507504,ardac,41.7,True
 SE1056,Norra Vindö,,Halland,SE,57.365182,12.057731,ardac,0.4,True
 SE1057,Norra Visby,,Gotland,SE,57.664609,18.332447,ardac,1.0,True
 SE1058,Norrfjärden,,Norrbotten,SE,65.419619,21.500646,ardac,2.2,True
-SE1059,Norr-Hede,,Jämtland,SE,62.424745,13.534383,ardac,176.0,False
-SE1060,Norrhult-Klavreström,,Kronoberg,SE,57.127551,15.162189,ardac,77.7,True
-SE1061,Norrköping,,Östergötland,SE,58.590912,16.190351,ardac,3.8,True
+SE1059,Norr-Hede,,Jämtland,SE,62.424745,13.534383,ardac,176.4,False
+SE1060,Norrhult-Klavreström,,Kronoberg,SE,57.127551,15.162189,ardac,78.0,True
+SE1061,Norrköping,,Östergötland,SE,58.590912,16.190351,ardac,3.7,True
 SE1062,Norrmjöle,,Västerbotten,SE,63.667528,20.12363,ardac,1.4,True
 SE1063,Norrsundet,,Gävleborg,SE,60.929974,17.140667,ardac,2.3,True
 SE1064,Norrtälje,,Stockholm,SE,59.759173,18.703747,ardac,2.0,True
-SE1065,Norsbron,,Örebro,SE,59.687833,14.616433,ardac,146.5,False
-SE1066,Norsholm,,Östergötland,SE,58.506293,15.974581,ardac,18.1,True
-SE1067,Norsjö,,Västerbotten,SE,64.936309,19.476216,ardac,74.8,True
-SE1068,Nossebro,,Västra Götaland,SE,58.188396,12.719209,ardac,48.7,True
-SE1069,Nusnäs,,Dalarna,SE,60.962501,14.64618,ardac,135.5,False
+SE1065,Norsbron,,Örebro,SE,59.687833,14.616433,ardac,146.6,False
+SE1066,Norsholm,,Östergötland,SE,58.506293,15.974581,ardac,18.0,True
+SE1067,Norsjö,,Västerbotten,SE,64.936309,19.476216,ardac,75.3,True
+SE1068,Nossebro,,Västra Götaland,SE,58.188396,12.719209,ardac,49.0,True
+SE1069,Nusnäs,,Dalarna,SE,60.962501,14.64618,ardac,136.4,False
 SE1070,Nya Långenäs,,Västra Götaland,SE,57.656138,12.165207,ardac,15.3,True
-SE1071,Nyborg,,Uppsala,SE,59.83728,17.535841,ardac,53.7,True
+SE1071,Nyborg,,Uppsala,SE,59.83728,17.535841,ardac,53.8,True
 SE1072,Nybro,,Kalmar,SE,56.745225,15.906154,ardac,23.8,True
 SE1073,Nybrostrand,,Skåne,SE,55.433008,13.950298,ardac,0.8,True
 SE1074,Nyehusen,,Skåne,SE,55.85401,14.225262,ardac,1.1,True
-SE1075,Nye,,Jönköping,SE,57.343615,15.274067,ardac,72.2,True
-SE1076,Nygård,,Kronoberg,SE,56.962263,14.835024,ardac,87.6,True
-SE1077,Nyhammar,,Dalarna,SE,60.292442,14.969654,ardac,129.4,False
-SE1078,Nykil,,Östergötland,SE,58.22165,15.5007,ardac,60.2,True
-SE1079,Nykroppa,,Värmland,SE,59.622527,14.304553,ardac,153.2,False
-SE1080,Nykvarn,,Stockholm,SE,59.196648,17.397728,ardac,15.2,True
-SE1081,Nykyrka,,Södermanland,SE,58.829787,16.747025,ardac,18.4,True
+SE1075,Nye,,Jönköping,SE,57.343615,15.274067,ardac,72.5,True
+SE1076,Nygård,,Kronoberg,SE,56.962263,14.835024,ardac,87.4,True
+SE1077,Nyhammar,,Dalarna,SE,60.292442,14.969654,ardac,129.8,False
+SE1078,Nykil,,Östergötland,SE,58.22165,15.5007,ardac,60.1,True
+SE1079,Nykroppa,,Värmland,SE,59.622527,14.304553,ardac,153.5,False
+SE1080,Nykvarn,,Stockholm,SE,59.196648,17.397728,ardac,15.3,True
+SE1081,Nykyrka,,Södermanland,SE,58.829787,16.747025,ardac,18.5,True
 SE1082,Nyköping,,Södermanland,SE,58.754491,17.011814,ardac,1.0,True
 SE1083,Nyland,,Norrbotten,SE,65.860968,24.121486,ardac,4.7,True
 SE1084,Nymölla,,Skåne,SE,56.039288,14.464035,ardac,1.3,True
 SE1085,Nynäshamn,,Stockholm,SE,58.905645,17.947098,ardac,1.0,True
 SE1086,Nysättra,,Stockholm,SE,59.810277,18.893669,ardac,0.2,True
-SE1087,Nås,,Dalarna,SE,60.455788,14.497512,ardac,149.2,False
-SE1088,Nälden,,Jämtland,SE,63.34814,14.254167,ardac,147.2,False
-SE1089,Näs bruk,,Dalarna,SE,60.179828,16.4786,ardac,68.4,True
-SE1090,Nässjö,,Jönköping,SE,57.653037,14.698155,ardac,105.6,False
-SE1091,Näsum,,Skåne,SE,56.172615,14.498832,ardac,11.9,True
-SE1092,Näsviken,,Gävleborg,SE,61.766667,16.866667,ardac,15.0,True
-SE1093,Näsviken,,Jämtland,SE,63.851591,15.535497,ardac,144.0,False
-SE1094,Näsåker,,Västernorrland,SE,63.442944,16.897486,ardac,64.2,True
+SE1087,Nås,,Dalarna,SE,60.455788,14.497512,ardac,150.0,False
+SE1088,Nälden,,Jämtland,SE,63.34814,14.254167,ardac,148.1,False
+SE1089,Näs bruk,,Dalarna,SE,60.179828,16.4786,ardac,68.2,True
+SE1090,Nässjö,,Jönköping,SE,57.653037,14.698155,ardac,105.9,False
+SE1091,Näsum,,Skåne,SE,56.172615,14.498832,ardac,12.0,True
+SE1092,Näsviken,,Gävleborg,SE,61.766667,16.866667,ardac,15.1,True
+SE1093,Näsviken,,Jämtland,SE,63.851591,15.535497,ardac,144.7,False
+SE1094,Näsåker,,Västernorrland,SE,63.442944,16.897486,ardac,64.3,True
 SE1095,Nättraby,,Blekinge,SE,56.205946,15.530474,ardac,2.0,True
 SE1096,Nävekvarn,,Södermanland,SE,58.63006,16.796682,ardac,2.6,True
 SE1097,Nävragöl,,Blekinge,SE,56.375172,15.565153,ardac,18.6,True
-SE1098,Nöbbele,,Kronoberg,SE,56.695892,15.022591,ardac,56.7,True
-SE1099,Nödinge-Nol,,Västra Götaland,SE,57.906877,12.06016,ardac,17.5,True
+SE1098,Nöbbele,,Kronoberg,SE,56.695892,15.022591,ardac,56.6,True
+SE1099,Nödinge-Nol,,Västra Götaland,SE,57.906877,12.06016,ardac,17.6,True
 SE1100,Obbola,,Västerbotten,SE,63.702584,20.313093,ardac,1.6,True
-SE1101,Ockelbo,,Gävleborg,SE,60.9197,16.54267,ardac,33.4,True
+SE1101,Ockelbo,,Gävleborg,SE,60.9197,16.54267,ardac,33.6,True
 SE1102,Odensbacken,,Örebro,SE,59.162539,15.525526,ardac,68.5,True
-SE1103,Odensberg,,Västra Götaland,SE,58.154929,13.435662,ardac,90.9,True
+SE1103,Odensberg,,Västra Götaland,SE,58.154929,13.435662,ardac,91.3,True
 SE1104,Oknö,,Kalmar,SE,56.998086,16.503481,ardac,3.4,True
-SE1105,Oleby,,Värmland,SE,60.135705,13.036516,ardac,129.9,False
-SE1106,Olofstorp,,Västra Götaland,SE,57.798552,12.168591,ardac,18.0,True
-SE1107,Olofström,,Blekinge,SE,56.278997,14.533325,ardac,16.7,True
-SE1108,Olsfors,,Västra Götaland,SE,57.691805,12.698833,ardac,46.1,True
-SE1109,Olshammar,,Örebro,SE,58.75554,14.799502,ardac,80.9,True
+SE1105,Oleby,,Värmland,SE,60.135705,13.036516,ardac,130.6,False
+SE1106,Olofstorp,,Västra Götaland,SE,57.798552,12.168591,ardac,18.1,True
+SE1107,Olofström,,Blekinge,SE,56.278997,14.533325,ardac,16.8,True
+SE1108,Olsfors,,Västra Götaland,SE,57.691805,12.698833,ardac,46.2,True
+SE1109,Olshammar,,Örebro,SE,58.75554,14.799502,ardac,81.3,True
 SE1110,Onsala,,Halland,SE,57.427218,12.03027,ardac,1.6,True
 SE1111,Onslunda,,Skåne,SE,55.598492,14.050292,ardac,14.8,True
-SE1112,Ormaryd,,Jönköping,SE,57.666574,14.83086,ardac,97.6,True
-SE1113,Ornäs,,Dalarna,SE,60.510133,15.538583,ardac,92.2,True
-SE1114,Orrefors,,Kalmar,SE,56.839478,15.748617,ardac,37.4,True
+SE1112,Ormaryd,,Jönköping,SE,57.666574,14.83086,ardac,97.9,True
+SE1113,Ornäs,,Dalarna,SE,60.510133,15.538583,ardac,92.6,True
+SE1114,Orrefors,,Kalmar,SE,56.839478,15.748617,ardac,37.5,True
 SE1115,Orrhammar,,Södermanland,SE,59.08054,16.563566,ardac,45.5,True
-SE1116,Orrviken,,Jämtland,SE,63.106351,14.437171,ardac,162.6,False
-SE1117,Orsa,,Dalarna,SE,61.120117,14.622253,ardac,134.3,False
-SE1118,Osbyholm,,Skåne,SE,55.84821,13.610839,ardac,37.5,True
+SE1116,Orrviken,,Jämtland,SE,63.106351,14.437171,ardac,163.7,False
+SE1117,Orsa,,Dalarna,SE,61.120117,14.622253,ardac,135.0,False
+SE1118,Osbyholm,,Skåne,SE,55.84821,13.610839,ardac,37.6,True
 SE1119,Osby,,Skåne,SE,56.382746,13.993285,ardac,49.3,True
 SE1120,Oskarshamn,,Kalmar,SE,57.263281,16.444347,ardac,2.0,True
 SE1121,Oskarström,,Halland,SE,56.801561,12.976093,ardac,18.1,True
 SE1122,Ostvik,,Västerbotten,SE,64.881956,21.063818,ardac,2.4,True
-SE1123,Otterbäcken,,Västra Götaland,SE,58.94379,14.039389,ardac,128.1,False
+SE1123,Otterbäcken,,Västra Götaland,SE,58.94379,14.039389,ardac,128.7,False
 SE1124,Oxelösund,,Södermanland,SE,58.670016,17.104082,ardac,0.2,True
 SE1125,Oxie,,Skåne,SE,55.546157,13.096786,ardac,10.0,True
-SE1126,Pajala,,Norrbotten,SE,67.209036,23.364729,ardac,148.0,False
+SE1126,Pajala,,Norrbotten,SE,67.209036,23.364729,ardac,147.2,False
 SE1127,Parksidan,,Stockholm,SE,59.284221,17.846563,ardac,14.9,True
-SE1128,Pauliström,,Jönköping,SE,57.468898,15.50939,ardac,61.1,True
-SE1129,Persberg,,Örebro,SE,59.113364,15.546807,ardac,63.4,True
+SE1128,Pauliström,,Jönköping,SE,57.468898,15.50939,ardac,61.2,True
+SE1129,Persberg,,Örebro,SE,59.113364,15.546807,ardac,63.5,True
 SE1130,Pershagen,,Stockholm,SE,59.152798,17.656331,ardac,1.3,True
 SE1131,Perstorp,,Skåne,SE,56.137696,13.395281,ardac,37.4,True
 SE1132,Persön,,Norrbotten,SE,65.739828,22.168236,ardac,2.9,True
-SE1133,Pilgrimstad,,Jämtland,SE,62.95434,15.043739,ardac,127.8,False
+SE1133,Pilgrimstad,,Jämtland,SE,62.95434,15.043739,ardac,128.7,False
 SE1134,Piperskärr,,Kalmar,SE,57.778491,16.633994,ardac,0.9,True
 SE1135,Piteå,,Norrbotten,SE,65.313476,21.489939,ardac,0.7,True
-SE1136,Porjus,,Norrbotten,SE,66.96008,19.822231,ardac,162.4,False
+SE1136,Porjus,,Norrbotten,SE,66.96008,19.822231,ardac,163.3,False
 SE1137,Prästängen,,Stockholm,SE,59.621465,17.706711,ardac,29.3,True
 SE1138,Pukavik,,Blekinge,SE,56.167715,14.683124,ardac,1.3,True
 SE1139,Påarp,,Skåne,SE,56.031794,12.815699,ardac,5.6,True
-SE1140,Pålsboda,,Örebro,SE,59.065183,15.33732,ardac,67.9,True
+SE1140,Pålsboda,,Örebro,SE,59.065183,15.33732,ardac,68.1,True
 SE1141,Påläng,,Norrbotten,SE,65.813772,22.891509,ardac,1.7,True
 SE1142,Påryd,,Kalmar,SE,56.568072,15.926524,ardac,15.8,True
 SE1143,Påskallavik,,Kalmar,SE,57.162953,16.459455,ardac,1.6,True
 SE1144,Rabbalshede,,Västra Götaland,SE,58.610765,11.471778,ardac,11.3,True
 SE1145,Ramdala,,Blekinge,SE,56.183646,15.766504,ardac,3.0,True
-SE1146,Ramnäs,,Västmanland,SE,59.776193,16.19783,ardac,106.9,False
-SE1147,Ramsberg,,Örebro,SE,59.768505,15.300246,ardac,133.9,False
-SE1148,Ramsele,,Västernorrland,SE,63.538099,16.468698,ardac,86.4,True
-SE1149,Ramstalund,,Uppsala,SE,59.798448,17.442889,ardac,53.8,True
-SE1150,Ramvik,,Västernorrland,SE,62.816873,17.86541,ardac,1.0,True
-SE1151,Ransta,,Västmanland,SE,59.81141,16.638089,ardac,89.3,True
-SE1152,Rappestad,,Östergötland,SE,58.410335,15.420873,ardac,50.3,True
-SE1153,Reftele,,Jönköping,SE,57.175757,13.592978,ardac,72.1,True
-SE1154,Rejmyre,,Östergötland,SE,58.830057,15.931366,ardac,25.0,True
-SE1155,Rengsjö,,Gävleborg,SE,61.362768,16.614325,ardac,26.2,True
-SE1156,Repbäcken,,Dalarna,SE,60.515794,15.344262,ardac,102.5,False
+SE1146,Ramnäs,,Västmanland,SE,59.776193,16.19783,ardac,107.2,False
+SE1147,Ramsberg,,Örebro,SE,59.768505,15.300246,ardac,133.6,False
+SE1148,Ramsele,,Västernorrland,SE,63.538099,16.468698,ardac,86.7,True
+SE1149,Ramstalund,,Uppsala,SE,59.798448,17.442889,ardac,54.0,True
+SE1150,Ramvik,,Västernorrland,SE,62.816873,17.86541,ardac,1.1,True
+SE1151,Ransta,,Västmanland,SE,59.81141,16.638089,ardac,89.7,True
+SE1152,Rappestad,,Östergötland,SE,58.410335,15.420873,ardac,50.4,True
+SE1153,Reftele,,Jönköping,SE,57.175757,13.592978,ardac,72.2,True
+SE1154,Rejmyre,,Östergötland,SE,58.830057,15.931366,ardac,25.1,True
+SE1155,Rengsjö,,Gävleborg,SE,61.362768,16.614325,ardac,26.4,True
+SE1156,Repbäcken,,Dalarna,SE,60.515794,15.344262,ardac,102.9,False
 SE1157,Resarö,,Stockholm,SE,59.430784,18.333296,ardac,2.5,True
 SE1158,Revingeby,,Skåne,SE,55.72582,13.459653,ardac,25.7,True
 SE1159,Riala,,Stockholm,SE,59.631719,18.517372,ardac,7.9,True
-SE1160,Riddarhyttan,,Västmanland,SE,59.808647,15.538597,ardac,133.4,False
-SE1161,Rimbo,,Stockholm,SE,59.745319,18.360176,ardac,20.8,True
-SE1162,Rimforsa,,Östergötland,SE,58.137829,15.676202,ardac,51.0,True
+SE1160,Riddarhyttan,,Västmanland,SE,59.808647,15.538597,ardac,133.0,False
+SE1161,Rimbo,,Stockholm,SE,59.745319,18.360176,ardac,20.9,True
+SE1162,Rimforsa,,Östergötland,SE,58.137829,15.676202,ardac,51.2,True
 SE1163,Rindö,,Stockholm,SE,59.40183,18.372286,ardac,2.1,True
 SE1164,Ringarum,,Östergötland,SE,58.333783,16.44443,ardac,11.2,True
 SE1165,Rinkabyholm,,Kalmar,SE,56.654593,16.261189,ardac,0.2,True
@@ -1168,479 +1168,479 @@ SE1166,Rinkaby,,Skåne,SE,55.982144,14.273104,ardac,5.6,True
 SE1167,Risby,,Västra Götaland,SE,57.894495,11.850962,ardac,5.5,True
 SE1168,Rishammar,,Västra Götaland,SE,57.906184,11.936017,ardac,10.4,True
 SE1169,Risögrund,,Norrbotten,SE,65.810747,23.244968,ardac,1.4,True
-SE1170,Robertsfors,,Västerbotten,SE,64.193285,20.854274,ardac,7.3,True
-SE1171,Robertsholm,,Gävleborg,SE,60.57075,16.270978,ardac,51.7,True
-SE1172,Rockhammar,,Örebro,SE,59.528885,15.449055,ardac,106.0,False
+SE1170,Robertsfors,,Västerbotten,SE,64.193285,20.854274,ardac,7.4,True
+SE1171,Robertsholm,,Gävleborg,SE,60.57075,16.270978,ardac,51.9,True
+SE1172,Rockhammar,,Örebro,SE,59.528885,15.449055,ardac,105.9,False
 SE1173,Rockneby,,Kalmar,SE,56.804297,16.349063,ardac,3.6,True
-SE1174,Roknäs,,Norrbotten,SE,65.349932,21.178993,ardac,4.2,True
-SE1175,Rolfs,,Norrbotten,SE,65.846276,23.12437,ardac,3.9,True
-SE1176,Rolfstorp,,Halland,SE,57.145253,12.45987,ardac,13.9,True
+SE1174,Roknäs,,Norrbotten,SE,65.349932,21.178993,ardac,4.3,True
+SE1175,Rolfs,,Norrbotten,SE,65.846276,23.12437,ardac,4.0,True
+SE1176,Rolfstorp,,Halland,SE,57.145253,12.45987,ardac,14.0,True
 SE1177,Romakloster,,Gotland,SE,57.507393,18.450613,ardac,18.6,True
-SE1178,Romme,,Dalarna,SE,60.442504,15.482722,ardac,97.2,True
+SE1178,Romme,,Dalarna,SE,60.442504,15.482722,ardac,97.6,True
 SE1179,Ronnebyhamn,,Blekinge,SE,56.174054,15.292186,ardac,1.2,True
 SE1180,Ronneby,,Blekinge,SE,56.210041,15.276035,ardac,2.7,True
-SE1181,Rosenfors,,Kalmar,SE,57.362821,15.839269,ardac,39.1,True
-SE1182,Rosenlund,,Västra Götaland,SE,57.526661,13.344477,ardac,75.4,True
+SE1181,Rosenfors,,Kalmar,SE,57.362821,15.839269,ardac,39.2,True
+SE1182,Rosenlund,,Västra Götaland,SE,57.526661,13.344477,ardac,75.7,True
 SE1183,Rosersberg,,Stockholm,SE,59.581732,17.888175,ardac,19.1,True
-SE1184,Rossön,,Jämtland,SE,63.928714,16.314311,ardac,125.0,False
+SE1184,Rossön,,Jämtland,SE,63.928714,16.314311,ardac,125.1,False
 SE1185,Rosvik,,Norrbotten,SE,65.426626,21.692732,ardac,1.5,True
-SE1186,Roteberg,,Gävleborg,SE,61.394776,15.838278,ardac,67.4,True
-SE1187,Rottneros,,Värmland,SE,59.796396,13.109385,ardac,125.3,False
-SE1188,Rottne,,Kronoberg,SE,57.021676,14.8921,ardac,92.7,True
-SE1189,Rot,,Dalarna,SE,61.256161,14.038113,ardac,163.5,False
+SE1186,Roteberg,,Gävleborg,SE,61.394776,15.838278,ardac,67.8,True
+SE1187,Rottneros,,Värmland,SE,59.796396,13.109385,ardac,125.4,False
+SE1188,Rottne,,Kronoberg,SE,57.021676,14.8921,ardac,93.0,True
+SE1189,Rot,,Dalarna,SE,61.256161,14.038113,ardac,164.6,False
 SE1190,Ruda,,Östergötland,SE,58.98194,15.863871,ardac,40.9,True
-SE1191,Rud,,Jönköping,SE,57.786236,13.865392,ardac,113.4,False
+SE1191,Rud,,Jönköping,SE,57.786236,13.865392,ardac,113.6,False
 SE1192,Rundvik,,Västerbotten,SE,63.541151,19.440203,ardac,0.3,True
-SE1193,Runemo,,Gävleborg,SE,61.355796,16.143664,ardac,51.0,True
+SE1193,Runemo,,Gävleborg,SE,61.355796,16.143664,ardac,51.4,True
 SE1194,Runtuna,,Södermanland,SE,58.872985,17.07443,ardac,12.1,True
-SE1195,Rusksele,,Västerbotten,SE,64.815066,18.899262,ardac,101.5,False
+SE1195,Rusksele,,Västerbotten,SE,64.815066,18.899262,ardac,102.0,False
 SE1196,Rutvik,,Norrbotten,SE,65.670178,22.08985,ardac,5.0,True
-SE1197,Rya,,Västra Götaland,SE,58.05637,13.332731,ardac,86.6,True
-SE1198,Rydaholm,,Jönköping,SE,56.987188,14.309857,ardac,94.9,True
-SE1199,Ryd,,Västra Götaland,SE,58.220865,13.372489,ardac,86.9,True
+SE1197,Rya,,Västra Götaland,SE,58.05637,13.332731,ardac,87.0,True
+SE1198,Rydaholm,,Jönköping,SE,56.987188,14.309857,ardac,94.8,True
+SE1199,Ryd,,Västra Götaland,SE,58.220865,13.372489,ardac,87.3,True
 SE1200,Rydal,,Västra Götaland,SE,57.556172,12.693667,ardac,39.1,True
-SE1201,Rydboholm,,Västra Götaland,SE,57.654335,12.884362,ardac,53.9,True
+SE1201,Rydboholm,,Västra Götaland,SE,57.654335,12.884362,ardac,54.0,True
 SE1202,Rydbo,,Stockholm,SE,59.463626,18.185024,ardac,0.6,True
 SE1203,Rydebäck,,Skåne,SE,55.966444,12.780677,ardac,1.0,True
-SE1204,Ryd,,Västra Götaland,SE,58.220865,13.372489,ardac,86.9,True
+SE1204,Ryd,,Västra Götaland,SE,58.220865,13.372489,ardac,87.3,True
 SE1205,Rydsgård,,Skåne,SE,55.470789,13.58829,ardac,6.4,True
-SE1206,Rydsnäs,,Östergötland,SE,57.800021,15.146572,ardac,76.1,True
-SE1207,Ryd,,Västra Götaland,SE,58.220865,13.372489,ardac,86.9,True
-SE1208,Rydöbruk,,Halland,SE,56.960859,13.143345,ardac,36.6,True
-SE1209,Ryssby,,Kronoberg,SE,56.864492,14.167912,ardac,82.3,True
-SE1210,Råby,,Uppsala,SE,59.897716,17.675591,ardac,52.9,True
-SE1211,Råda,,Värmland,SE,60.005367,13.597393,ardac,158.9,False
+SE1206,Rydsnäs,,Östergötland,SE,57.800021,15.146572,ardac,76.3,True
+SE1207,Ryd,,Västra Götaland,SE,58.220865,13.372489,ardac,87.3,True
+SE1208,Rydöbruk,,Halland,SE,56.960859,13.143345,ardac,36.7,True
+SE1209,Ryssby,,Kronoberg,SE,56.864492,14.167912,ardac,82.4,True
+SE1210,Råby,,Uppsala,SE,59.897716,17.675591,ardac,52.8,True
+SE1211,Råda,,Värmland,SE,60.005367,13.597393,ardac,159.9,False
 SE1212,Råneå,,Norrbotten,SE,65.856088,22.289997,ardac,2.7,True
-SE1213,Rångedala,,Västra Götaland,SE,57.793019,13.125345,ardac,72.1,True
-SE1214,Rånnaväg,,Västra Götaland,SE,57.676743,13.465877,ardac,86.9,True
-SE1215,Rånäs,,Stockholm,SE,59.803183,18.301225,ardac,24.5,True
-SE1216,Råtorp,,Värmland,SE,59.410535,13.487439,ardac,124.9,False
+SE1213,Rångedala,,Västra Götaland,SE,57.793019,13.125345,ardac,72.3,True
+SE1214,Rånnaväg,,Västra Götaland,SE,57.676743,13.465877,ardac,87.1,True
+SE1215,Rånäs,,Stockholm,SE,59.803183,18.301225,ardac,24.7,True
+SE1216,Råtorp,,Värmland,SE,59.410535,13.487439,ardac,125.4,False
 SE1217,Rälla,,Kalmar,SE,56.774459,16.571886,ardac,6.1,True
-SE1218,Ränneslöv,,Halland,SE,56.453316,13.076352,ardac,10.2,True
-SE1219,Rätan,,Jämtland,SE,62.472121,14.557917,ardac,142.6,False
-SE1220,Rättarboda,,Stockholm,SE,59.500988,17.604074,ardac,25.1,True
-SE1221,Rättvik,,Dalarna,SE,60.883754,15.122678,ardac,110.2,False
-SE1222,Rävemåla,,Kronoberg,SE,56.556264,15.264463,ardac,41.1,True
+SE1218,Ränneslöv,,Halland,SE,56.453316,13.076352,ardac,10.3,True
+SE1219,Rätan,,Jämtland,SE,62.472121,14.557917,ardac,143.5,False
+SE1220,Rättarboda,,Stockholm,SE,59.500988,17.604074,ardac,25.2,True
+SE1221,Rättvik,,Dalarna,SE,60.883754,15.122678,ardac,110.9,False
+SE1222,Rävemåla,,Kronoberg,SE,56.556264,15.264463,ardac,41.0,True
 SE1223,Rävlanda,,Västra Götaland,SE,57.655551,12.499865,ardac,34.3,True
 SE1224,Röbäck,,Västerbotten,SE,63.809335,20.187522,ardac,9.2,True
-SE1225,Röda holme,,Halland,SE,57.376334,11.991584,ardac,1.2,True
+SE1225,Röda holme,,Halland,SE,57.376334,11.991584,ardac,1.1,True
 SE1226,Rödeby,,Blekinge,SE,56.257432,15.618547,ardac,5.8,True
-SE1227,Rödån,,Västerbotten,SE,64.116237,20.006266,ardac,40.9,True
-SE1228,Röke,,Skåne,SE,56.235947,13.522654,ardac,42.8,True
-SE1229,Rönneshytta,,Örebro,SE,58.923791,15.03931,ardac,73.2,True
+SE1227,Rödån,,Västerbotten,SE,64.116237,20.006266,ardac,41.0,True
+SE1228,Röke,,Skåne,SE,56.235947,13.522654,ardac,42.9,True
+SE1229,Rönneshytta,,Örebro,SE,58.923791,15.03931,ardac,73.6,True
 SE1230,Rönnäng,,Västra Götaland,SE,57.937715,11.585986,ardac,0.4,True
 SE1231,Rörvik,,Halland,SE,57.417842,11.939965,ardac,1.6,True
-SE1232,Rörö,,Västra Götaland,SE,57.781185,11.605982,ardac,7.2,True
+SE1232,Rörö,,Västra Götaland,SE,57.781185,11.605982,ardac,7.1,True
 SE1233,Röstånga,,Skåne,SE,56.000698,13.291218,ardac,29.4,True
-SE1234,Sala,,Västmanland,SE,59.920226,16.605644,ardac,87.6,True
-SE1235,Salbohed,,Västmanland,SE,59.911787,16.349275,ardac,96.5,True
-SE1236,Saleby,,Västra Götaland,SE,58.140254,13.603637,ardac,100.9,False
+SE1234,Sala,,Västmanland,SE,59.920226,16.605644,ardac,87.3,True
+SE1235,Salbohed,,Västmanland,SE,59.911787,16.349275,ardac,96.0,True
+SE1236,Saleby,,Västra Götaland,SE,58.140254,13.603637,ardac,101.4,False
 SE1237,Saltsjöbaden,,Stockholm,SE,59.279277,18.304929,ardac,0.7,True
-SE1238,Sandared,,Västra Götaland,SE,57.710057,12.793982,ardac,51.7,True
+SE1238,Sandared,,Västra Götaland,SE,57.710057,12.793982,ardac,52.0,True
 SE1239,Sandarne,,Gävleborg,SE,61.259492,17.163533,ardac,2.0,True
-SE1240,Sandhem,,Västra Götaland,SE,58.012698,13.499449,ardac,97.3,True
-SE1241,Sandhult,,Västra Götaland,SE,57.769562,12.820944,ardac,53.8,True
+SE1240,Sandhem,,Västra Götaland,SE,58.012698,13.499449,ardac,97.7,True
+SE1241,Sandhult,,Västra Götaland,SE,57.769562,12.820944,ardac,54.0,True
 SE1242,Sandskogen,,Skåne,SE,55.762881,12.982192,ardac,2.1,True
 SE1243,Sandslån,,Västernorrland,SE,62.309973,17.380728,ardac,2.1,True
-SE1244,Sandviken,,Gävleborg,SE,60.619422,16.783333,ardac,23.4,True
+SE1244,Sandviken,,Gävleborg,SE,60.619422,16.783333,ardac,23.5,True
 SE1245,Sandviken,,Stockholm,SE,59.183333,17.633333,ardac,2.2,True
 SE1246,Sangis,,Norrbotten,SE,65.855789,23.495749,ardac,2.4,True
 SE1247,Sankt Olof,,Skåne,SE,55.636693,14.129242,ardac,8.9,True
-SE1248,Saxdalen,,Dalarna,SE,60.150877,14.97622,ardac,135.6,False
+SE1248,Saxdalen,,Dalarna,SE,60.150877,14.97622,ardac,135.8,False
 SE1249,Saxnäs,,Kalmar,SE,56.686651,16.491955,ardac,6.0,True
 SE1250,Saxtorpsskogen,,Skåne,SE,55.828988,12.942142,ardac,1.2,True
-SE1251,Segersta,,Gävleborg,SE,61.266693,16.645052,ardac,24.7,True
+SE1251,Segersta,,Gävleborg,SE,61.266693,16.645052,ardac,24.8,True
 SE1252,Segersäng,,Stockholm,SE,59.02702,17.929652,ardac,4.4,True
-SE1253,Segmon,,Värmland,SE,59.274787,13.042653,ardac,96.6,True
-SE1254,Selja,,Dalarna,SE,61.017549,14.471227,ardac,144.3,False
+SE1253,Segmon,,Värmland,SE,59.274787,13.042653,ardac,97.0,True
+SE1254,Selja,,Dalarna,SE,61.017549,14.471227,ardac,145.1,False
 SE1255,Selånger,,Västernorrland,SE,62.404767,17.126484,ardac,10.9,True
-SE1256,Sennan,,Halland,SE,56.77414,12.979098,ardac,15.4,True
+SE1256,Sennan,,Halland,SE,56.77414,12.979098,ardac,15.3,True
 SE1257,Seskarö,,Norrbotten,SE,65.726458,23.731355,ardac,1.6,True
-SE1258,Sexdrega,,Västra Götaland,SE,57.576853,13.117921,ardac,63.7,True
+SE1258,Sexdrega,,Västra Götaland,SE,57.576853,13.117921,ardac,63.9,True
 SE1259,Sibbhult,,Skåne,SE,56.269404,14.195023,ardac,31.7,True
 SE1260,Sibble,,Stockholm,SE,59.112867,17.744928,ardac,0.7,True
 SE1261,Sibo,,Gävleborg,SE,61.214991,16.602652,ardac,28.7,True
-SE1262,Sidensjö,,Västernorrland,SE,63.277804,18.076399,ardac,26.9,True
-SE1263,Sifferbo,,Dalarna,SE,60.557505,15.222898,ardac,108.2,False
+SE1262,Sidensjö,,Västernorrland,SE,63.277804,18.076399,ardac,27.1,True
+SE1263,Sifferbo,,Dalarna,SE,60.557505,15.222898,ardac,108.7,False
 SE1264,Sigtuna,,Stockholm,SE,59.61652,17.72363,ardac,28.3,True
-SE1265,Siljansnäs,,Dalarna,SE,60.775392,14.857697,ardac,126.0,False
-SE1266,Silverdalen,,Kalmar,SE,57.543427,15.747964,ardac,45.9,True
+SE1265,Siljansnäs,,Dalarna,SE,60.775392,14.857697,ardac,126.7,False
+SE1266,Silverdalen,,Kalmar,SE,57.543427,15.747964,ardac,46.0,True
 SE1267,Simlångsdalen,,Halland,SE,56.720464,13.126037,ardac,17.4,True
 SE1268,Simonstorp,,Östergötland,SE,58.786108,16.154592,ardac,13.8,True
 SE1269,Simrishamn,,Skåne,SE,55.556554,14.34999,ardac,0.9,True
 SE1270,Sjuhalla,,Blekinge,SE,56.188899,15.56228,ardac,1.6,True
 SE1271,Sjulsmark,,Norrbotten,SE,65.519859,21.49157,ardac,12.2,True
-SE1272,Sjunnen,,Jönköping,SE,57.435987,15.172909,ardac,79.9,True
+SE1272,Sjunnen,,Jönköping,SE,57.435987,15.172909,ardac,80.1,True
 SE1273,Sjunnerup,,Skåne,SE,56.105694,12.726249,ardac,6.3,True
-SE1274,Sjuntorp,,Västra Götaland,SE,58.18823,12.226877,ardac,20.0,True
+SE1274,Sjuntorp,,Västra Götaland,SE,58.18823,12.226877,ardac,20.1,True
 SE1275,Själsö,,Gotland,SE,57.695914,18.360332,ardac,3.3,True
 SE1276,Sjöbo,,Skåne,SE,55.635086,13.703116,ardac,23.6,True
 SE1277,Sjögestad,,Östergötland,SE,58.361545,15.369854,ardac,55.7,True
 SE1278,Sjörröd,,Skåne,SE,56.282589,13.915975,ardac,44.8,True
 SE1279,Sjösa,,Södermanland,SE,58.776571,17.086447,ardac,1.3,True
 SE1280,Sjöskogen och Strand,,Västra Götaland,SE,58.286712,11.830503,ardac,1.4,True
-SE1281,Sjötorp,,Västra Götaland,SE,58.837351,13.980023,ardac,128.9,False
+SE1281,Sjötorp,,Västra Götaland,SE,58.837351,13.980023,ardac,129.6,False
 SE1282,Sjövik,,Västra Götaland,SE,57.915932,12.370609,ardac,35.6,True
 SE1283,Skanör med Falsterbo,,Skåne,SE,55.406007,12.844342,ardac,1.2,True
-SE1284,Skara,,Västra Götaland,SE,58.384607,13.439767,ardac,91.0,True
+SE1284,Skara,,Västra Götaland,SE,58.384607,13.439767,ardac,91.5,True
 SE1285,Skarpö,,Stockholm,SE,59.395874,18.976177,ardac,1.9,True
-SE1286,Skattkärr,,Värmland,SE,59.417686,13.677096,ardac,135.4,False
-SE1287,Skattungbyn,,Dalarna,SE,61.185738,14.848198,ardac,121.1,False
+SE1286,Skattkärr,,Värmland,SE,59.417686,13.677096,ardac,136.0,False
+SE1287,Skattungbyn,,Dalarna,SE,61.185738,14.848198,ardac,121.8,False
 SE1288,Skavkulla och Skillingenäs,,Blekinge,SE,56.178442,15.518659,ardac,1.5,True
-SE1289,Skebobruk,,Stockholm,SE,59.968548,18.612015,ardac,11.0,True
-SE1290,Skebokvarn,,Södermanland,SE,59.061482,16.708105,ardac,39.3,True
+SE1289,Skebobruk,,Stockholm,SE,59.968548,18.612015,ardac,11.1,True
+SE1290,Skebokvarn,,Södermanland,SE,59.061482,16.708105,ardac,39.2,True
 SE1291,Skedala,,Halland,SE,56.693218,12.973859,ardac,7.9,True
-SE1292,Skeda udde,,Östergötland,SE,58.291674,15.559967,ardac,52.1,True
+SE1292,Skeda udde,,Östergötland,SE,58.291674,15.559967,ardac,52.0,True
 SE1293,Skede,,Västernorrland,SE,63.250541,19.004406,ardac,2.2,True
-SE1294,Skedvi kyrkby,,Dalarna,SE,60.403368,15.81279,ardac,81.8,True
+SE1294,Skedvi kyrkby,,Dalarna,SE,60.403368,15.81279,ardac,81.9,True
 SE1295,Skee,,Västra Götaland,SE,58.924422,11.268152,ardac,4.1,True
 SE1296,Skegrie,,Skåne,SE,55.406315,13.082367,ardac,3.1,True
 SE1297,Skelleftehamn,,Västerbotten,SE,64.687603,21.236392,ardac,0.8,True
-SE1298,Skellefteå,,Västerbotten,SE,64.742143,20.971923,ardac,7.1,True
-SE1299,Skepplanda,,Västra Götaland,SE,57.982574,12.212476,ardac,24.7,True
+SE1298,Skellefteå,,Västerbotten,SE,64.742143,20.971923,ardac,7.2,True
+SE1299,Skepplanda,,Västra Götaland,SE,57.982574,12.212476,ardac,24.8,True
 SE1300,Skeppshult,,Jönköping,SE,57.126356,13.361951,ardac,57.5,True
 SE1301,Skeppsvik,,Västerbotten,SE,63.799265,20.57891,ardac,0.7,True
-SE1302,Skiftinge,,Södermanland,SE,59.389915,16.538067,ardac,68.3,True
+SE1302,Skiftinge,,Södermanland,SE,59.389915,16.538067,ardac,68.7,True
 SE1303,Skillingaryd,,Jönköping,SE,57.428947,14.091985,ardac,112.9,False
 SE1304,Skillinge,,Skåne,SE,55.475713,14.279918,ardac,0.8,True
-SE1305,Skinnskatteberg,,Västmanland,SE,59.792577,15.745683,ardac,127.8,False
+SE1305,Skinnskatteberg,,Västmanland,SE,59.792577,15.745683,ardac,127.5,False
 SE1306,Skivarp,,Skåne,SE,55.42463,13.569718,ardac,3.4,True
-SE1307,Skoby,,Uppsala,SE,60.033424,18.029507,ardac,28.1,True
-SE1308,Skoghall,,Värmland,SE,59.324185,13.470522,ardac,121.5,False
-SE1309,Skogsby,,Södermanland,SE,58.785863,16.319955,ardac,14.0,True
+SE1307,Skoby,,Uppsala,SE,60.033424,18.029507,ardac,28.0,True
+SE1308,Skoghall,,Värmland,SE,59.324185,13.470522,ardac,122.0,False
+SE1309,Skogsby,,Södermanland,SE,58.785863,16.319955,ardac,13.9,True
 SE1310,Skottorp,,Halland,SE,56.450007,12.961617,ardac,4.0,True
 SE1311,Skrea,,Halland,SE,56.883355,12.558435,ardac,3.2,True
-SE1312,Skruv,,Kronoberg,SE,57.158718,15.164831,ardac,78.0,True
-SE1313,Skultorp,,Västra Götaland,SE,58.341621,13.82799,ardac,113.6,False
-SE1314,Skultuna,,Västmanland,SE,59.721776,16.428147,ardac,93.1,True
+SE1312,Skruv,,Kronoberg,SE,57.158718,15.164831,ardac,78.2,True
+SE1313,Skultorp,,Västra Götaland,SE,58.341621,13.82799,ardac,114.1,False
+SE1314,Skultuna,,Västmanland,SE,59.721776,16.428147,ardac,93.4,True
 SE1315,Skumparp,,Skåne,SE,55.538813,12.966722,ardac,3.2,True
 SE1316,Skurup,,Skåne,SE,55.483927,13.501464,ardac,10.4,True
 SE1317,Skutskär,,Uppsala,SE,60.635222,17.409286,ardac,0.4,True
-SE1318,Skyttorp,,Uppsala,SE,60.080892,17.735795,ardac,39.0,True
-SE1319,Skålö,,Dalarna,SE,60.563861,14.301572,ardac,158.0,False
-SE1320,Skånes-Fagerhult,,Skåne,SE,56.370506,13.46517,ardac,35.9,True
+SE1318,Skyttorp,,Uppsala,SE,60.080892,17.735795,ardac,38.8,True
+SE1319,Skålö,,Dalarna,SE,60.563861,14.301572,ardac,158.9,False
+SE1320,Skånes-Fagerhult,,Skåne,SE,56.370506,13.46517,ardac,36.0,True
 SE1321,Skåne-Tranås,,Skåne,SE,55.614047,13.993737,ardac,17.0,True
-SE1322,Skåpafors,,Västra Götaland,SE,59.022839,12.289002,ardac,48.8,True
+SE1322,Skåpafors,,Västra Götaland,SE,59.022839,12.289002,ardac,49.1,True
 SE1323,Skåre,,Skåne,SE,55.377133,13.050329,ardac,0.8,True
 SE1324,Skällinge,,Halland,SE,57.182168,12.468343,ardac,15.7,True
-SE1325,Skänninge,,Östergötland,SE,58.39558,15.08677,ardac,68.6,True
+SE1325,Skänninge,,Östergötland,SE,58.39558,15.08677,ardac,68.7,True
 SE1326,Skärblacka,,Östergötland,SE,58.575892,15.923,ardac,16.0,True
 SE1327,Skärhamn,,Västra Götaland,SE,57.990922,11.549795,ardac,1.3,True
 SE1328,Skärplinge,,Uppsala,SE,60.474156,17.762776,ardac,3.0,True
-SE1329,Skärstad,,Jönköping,SE,57.888091,14.364036,ardac,121.6,False
-SE1330,Sköldinge,,Södermanland,SE,59.031551,16.445463,ardac,42.3,True
-SE1331,Sköllersta,,Örebro,SE,59.137692,15.337695,ardac,73.4,True
+SE1329,Skärstad,,Jönköping,SE,57.888091,14.364036,ardac,122.0,False
+SE1330,Sköldinge,,Södermanland,SE,59.031551,16.445463,ardac,42.1,True
+SE1331,Sköllersta,,Örebro,SE,59.137692,15.337695,ardac,73.6,True
 SE1332,Skölsta,,Uppsala,SE,59.876284,17.748717,ardac,51.2,True
-SE1333,Skörby,,Uppsala,SE,59.567537,17.483612,ardac,34.6,True
-SE1334,Skövde,,Västra Götaland,SE,58.389845,13.844379,ardac,114.6,False
+SE1333,Skörby,,Uppsala,SE,59.567537,17.483612,ardac,34.7,True
+SE1334,Skövde,,Västra Götaland,SE,58.389845,13.844379,ardac,115.2,False
 SE1335,Slaka,,Östergötland,SE,58.359696,15.553717,ardac,47.1,True
 SE1336,Slite,,Gotland,SE,57.70722,18.801919,ardac,0.6,True
 SE1337,Slite norra,,Gotland,SE,57.70722,18.801919,ardac,0.6,True
-SE1338,Slottsbron,,Värmland,SE,59.323821,13.104132,ardac,101.3,False
+SE1338,Slottsbron,,Värmland,SE,59.323821,13.104132,ardac,101.8,False
 SE1339,Slottsskogen,,Västra Götaland,SE,57.687282,11.940638,ardac,1.9,True
 SE1340,Slätthult,,Skåne,SE,55.996056,13.872717,ardac,27.1,True
 SE1341,Slöinge,,Halland,SE,56.855134,12.690862,ardac,6.8,True
-SE1342,Smedby,,Dalarna,SE,60.693638,15.05284,ardac,116.1,False
+SE1342,Smedby,,Dalarna,SE,60.693638,15.05284,ardac,116.8,False
 SE1343,Smedjebacken,,Dalarna,SE,60.141496,15.415104,ardac,115.1,False
 SE1344,Smedseröd,,Västra Götaland,SE,58.36543,11.807151,ardac,3.5,True
 SE1345,Smedstorp,,Skåne,SE,55.550375,14.116682,ardac,13.3,True
 SE1346,Smygehamn,,Skåne,SE,55.346446,13.374123,ardac,0.5,True
-SE1347,Smålandsstenar,,Jönköping,SE,57.162696,13.411558,ardac,62.3,True
+SE1347,Smålandsstenar,,Jönköping,SE,57.162696,13.411558,ardac,62.4,True
 SE1348,Smögen,,Västra Götaland,SE,58.353644,11.226118,ardac,0.4,True
 SE1349,Snogeröd,,Skåne,SE,55.838666,13.494158,ardac,31.9,True
 SE1350,Snöveltorp,,Östergötland,SE,58.500942,16.161604,ardac,13.8,True
 SE1351,Solberga,,Västra Götaland,SE,57.940833,11.810833,ardac,3.0,True
-SE1352,Solberga,,Jönköping,SE,57.733333,14.75,ardac,100.6,False
+SE1352,Solberga,,Jönköping,SE,57.733333,14.75,ardac,100.9,False
 SE1353,Solberga,,Stockholm,SE,59.495278,18.356389,ardac,2.5,True
-SE1354,Sollebrunn,,Västra Götaland,SE,58.119999,12.533111,ardac,39.3,True
-SE1355,Sollefteå norra,,Västernorrland,SE,63.168023,17.265447,ardac,29.1,True
-SE1356,Sollefteå,,Västernorrland,SE,63.168023,17.265447,ardac,29.1,True
-SE1357,Sollerön,,Dalarna,SE,60.913298,14.61574,ardac,137.4,False
-SE1358,Solvarbo,,Dalarna,SE,60.39024,15.670833,ardac,89.5,True
-SE1359,Sommen,,Östergötland,SE,58.015502,15.21285,ardac,72.5,True
-SE1360,Sonstorp,,Östergötland,SE,58.72462,15.634397,ardac,33.1,True
-SE1361,Sorsele,,Västerbotten,SE,65.533066,17.536874,ardac,174.5,False
-SE1362,Sorunda,,Stockholm,SE,59.014384,17.82105,ardac,3.8,True
+SE1354,Sollebrunn,,Västra Götaland,SE,58.119999,12.533111,ardac,39.4,True
+SE1355,Sollefteå norra,,Västernorrland,SE,63.168023,17.265447,ardac,29.2,True
+SE1356,Sollefteå,,Västernorrland,SE,63.168023,17.265447,ardac,29.2,True
+SE1357,Sollerön,,Dalarna,SE,60.913298,14.61574,ardac,138.2,False
+SE1358,Solvarbo,,Dalarna,SE,60.39024,15.670833,ardac,89.7,True
+SE1359,Sommen,,Östergötland,SE,58.015502,15.21285,ardac,72.8,True
+SE1360,Sonstorp,,Östergötland,SE,58.72462,15.634397,ardac,33.2,True
+SE1361,Sorsele,,Västerbotten,SE,65.533066,17.536874,ardac,175.5,False
+SE1362,Sorunda,,Stockholm,SE,59.014384,17.82105,ardac,3.9,True
 SE1363,Sparreholm,,Södermanland,SE,59.07163,16.829298,ardac,37.3,True
 SE1364,Spekeröd,,Västra Götaland,SE,58.032826,11.870128,ardac,4.0,True
 SE1365,Spillersboda,,Stockholm,SE,59.702861,18.85637,ardac,1.1,True
 SE1366,Spjutsbygd,,Blekinge,SE,56.31133,15.595431,ardac,11.4,True
 SE1367,Spjutstorp,,Skåne,SE,55.579951,14.014554,ardac,17.2,True
 SE1368,Spångsholm,,Östergötland,SE,58.352508,15.236179,ardac,62.9,True
-SE1369,Spånlöt,,Stockholm,SE,59.572133,18.289962,ardac,10.7,True
+SE1369,Spånlöt,,Stockholm,SE,59.572133,18.289962,ardac,10.6,True
 SE1370,Staffanstorp,,Skåne,SE,55.642739,13.211399,ardac,9.9,True
-SE1371,Stallarholmen,,Södermanland,SE,59.361279,17.207143,ardac,33.5,True
+SE1371,Stallarholmen,,Södermanland,SE,59.361279,17.207143,ardac,33.6,True
 SE1372,Stare,,Västra Götaland,SE,58.917855,11.207555,ardac,0.8,True
-SE1373,Stava,,Östergötland,SE,58.130147,14.567888,ardac,109.2,False
+SE1373,Stava,,Östergötland,SE,58.130147,14.567888,ardac,109.3,False
 SE1374,Stavreviken,,Västernorrland,SE,62.553498,17.409703,ardac,1.6,True
-SE1375,Stavsjö,,Södermanland,SE,58.723851,16.41834,ardac,8.6,True
+SE1375,Stavsjö,,Södermanland,SE,58.723851,16.41834,ardac,8.5,True
 SE1376,Stavsnäs,,Stockholm,SE,59.288201,18.691782,ardac,1.4,True
 SE1377,Stehag,,Skåne,SE,55.903151,13.393866,ardac,30.3,True
 SE1378,Stenared,,Västra Götaland,SE,57.805243,12.189724,ardac,19.5,True
-SE1379,Stenhamra,,Stockholm,SE,59.334749,17.687364,ardac,18.6,True
+SE1379,Stenhamra,,Stockholm,SE,59.334749,17.687364,ardac,18.5,True
 SE1380,Steninge,,Halland,SE,56.764323,12.634688,ardac,2.0,True
-SE1381,Steningehöjden,,Stockholm,SE,59.62146,17.796332,ardac,25.8,True
-SE1382,Stenis,,Dalarna,SE,60.948277,14.461244,ardac,145.6,False
-SE1383,Stensele,,Västerbotten,SE,65.067883,17.147755,ardac,185.6,False
-SE1384,Stensjön,,Jönköping,SE,57.581899,14.820178,ardac,101.0,False
-SE1385,Stenstorp,,Västra Götaland,SE,58.271317,13.713327,ardac,106.9,False
+SE1381,Steningehöjden,,Stockholm,SE,59.62146,17.796332,ardac,25.9,True
+SE1382,Stenis,,Dalarna,SE,60.948277,14.461244,ardac,146.5,False
+SE1383,Stensele,,Västerbotten,SE,65.067883,17.147755,ardac,186.8,False
+SE1384,Stensjön,,Jönköping,SE,57.581899,14.820178,ardac,101.2,False
+SE1385,Stenstorp,,Västra Götaland,SE,58.271317,13.713327,ardac,107.4,False
 SE1386,Stenungsund,,Västra Götaland,SE,58.061063,11.908631,ardac,6.7,True
 SE1387,Stenungsön,,Västra Götaland,SE,58.066934,11.800581,ardac,1.1,True
-SE1388,Stenåsen,,Västra Götaland,SE,58.432234,13.584021,ardac,99.8,True
+SE1388,Stenåsen,,Västra Götaland,SE,58.432234,13.584021,ardac,100.3,False
 SE1389,Sticklinge udde,,Stockholm,SE,59.390487,18.090382,ardac,1.1,True
-SE1390,Stigen,,Västra Götaland,SE,58.300669,12.066645,ardac,11.3,True
-SE1391,Stigtomta,,Södermanland,SE,58.802763,16.785344,ardac,15.1,True
+SE1390,Stigen,,Västra Götaland,SE,58.300669,12.066645,ardac,11.4,True
+SE1391,Stigtomta,,Södermanland,SE,58.802763,16.785344,ardac,15.2,True
 SE1392,Stilleryd,,Blekinge,SE,56.173149,14.819885,ardac,2.0,True
-SE1393,Stjärnhov,,Södermanland,SE,59.080099,17.013662,ardac,32.3,True
+SE1393,Stjärnhov,,Södermanland,SE,59.080099,17.013662,ardac,32.4,True
 SE1394,Stoby,,Skåne,SE,56.175596,13.827924,ardac,40.7,True
 SE1395,Stockamöllan,,Skåne,SE,55.94569,13.373799,ardac,30.6,True
 SE1396,Stocka,,Gävleborg,SE,61.898199,17.333013,ardac,1.6,True
-SE1397,Stockaryd,,Jönköping,SE,57.319595,14.591119,ardac,113.0,False
+SE1397,Stockaryd,,Jönköping,SE,57.319595,14.591119,ardac,113.4,False
 SE1398,Stockholm,,Stockholm,SE,59.325117,18.071093,ardac,1.4,True
 SE1399,Stockvik,,Västernorrland,SE,62.347803,17.364835,ardac,0.6,True
-SE1400,Stora Bugärde,,Västra Götaland,SE,57.653878,12.397367,ardac,28.7,True
+SE1400,Stora Bugärde,,Västra Götaland,SE,57.653878,12.397367,ardac,28.8,True
 SE1401,Stora Dyrön,,Västra Götaland,SE,57.928828,11.611827,ardac,1.3,True
 SE1402,Stora Herrestad,,Skåne,SE,55.474891,13.874225,ardac,4.7,True
 SE1403,Stora Höga,,Västra Götaland,SE,58.014335,11.828449,ardac,1.9,True
-SE1404,Stora Levene,,Västra Götaland,SE,58.325517,12.923582,ardac,60.8,True
-SE1405,Stora Mellby,,Västra Götaland,SE,58.141468,12.579785,ardac,41.3,True
+SE1404,Stora Levene,,Västra Götaland,SE,58.325517,12.923582,ardac,61.1,True
+SE1405,Stora Mellby,,Västra Götaland,SE,58.141468,12.579785,ardac,41.5,True
 SE1406,Stora Mellösa,,Örebro,SE,59.210613,15.49755,ardac,73.8,True
 SE1407,Stora Rör,,Kalmar,SE,56.756756,16.527238,ardac,4.0,True
 SE1408,Stora Vika,,Stockholm,SE,58.955646,17.785737,ardac,0.2,True
 SE1409,Storebro,,Blekinge,SE,56.150783,15.3818,ardac,0.7,True
-SE1410,Storfors,,Värmland,SE,59.463157,14.277864,ardac,142.7,False
-SE1411,Storuman,,Västerbotten,SE,65.443959,15.832388,ardac,120.7,False
-SE1412,Storvik,,Gävleborg,SE,60.582853,16.525365,ardac,38.1,True
-SE1413,Storvreta,,Uppsala,SE,59.956938,17.704209,ardac,47.7,True
-SE1414,Storå,,Örebro,SE,59.7136,15.135533,ardac,132.4,False
-SE1415,Striberg,,Örebro,SE,59.545432,14.941675,ardac,122.6,False
+SE1410,Storfors,,Värmland,SE,59.463157,14.277864,ardac,143.2,False
+SE1411,Storuman,,Västerbotten,SE,65.443959,15.832388,ardac,121.2,False
+SE1412,Storvik,,Gävleborg,SE,60.582853,16.525365,ardac,38.2,True
+SE1413,Storvreta,,Uppsala,SE,59.956938,17.704209,ardac,47.6,True
+SE1414,Storå,,Örebro,SE,59.7136,15.135533,ardac,132.3,False
+SE1415,Striberg,,Örebro,SE,59.545432,14.941675,ardac,122.7,False
 SE1416,Strålsnäs,,Östergötland,SE,58.237724,15.091668,ardac,76.9,True
-SE1417,Strångsjö,,Södermanland,SE,58.90536,16.199816,ardac,26.5,True
-SE1418,Stråssa,,Örebro,SE,59.739452,15.20154,ardac,133.3,False
-SE1419,Strängnäs,,Södermanland,SE,59.349601,17.081336,ardac,38.5,True
+SE1417,Strångsjö,,Södermanland,SE,58.90536,16.199816,ardac,26.3,True
+SE1418,Stråssa,,Örebro,SE,59.739452,15.20154,ardac,133.1,False
+SE1419,Strängnäs,,Södermanland,SE,59.349601,17.081336,ardac,38.7,True
 SE1420,Strömma,,Västra Götaland,SE,57.564189,12.457947,ardac,26.6,True
 SE1421,Strömsbruk,,Gävleborg,SE,61.8699,17.317171,ardac,1.4,True
-SE1422,Strömsholm,,Västmanland,SE,59.523741,16.248736,ardac,89.2,True
-SE1423,Strömsnäsbruk,,Kronoberg,SE,56.552468,13.731973,ardac,48.8,True
+SE1422,Strömsholm,,Västmanland,SE,59.523741,16.248736,ardac,89.7,True
+SE1423,Strömsnäsbruk,,Kronoberg,SE,56.552468,13.731973,ardac,48.9,True
 SE1424,Strömstad,,Västra Götaland,SE,58.93815,11.17873,ardac,2.0,True
-SE1425,Strömsund,,Jämtland,SE,63.851666,15.558235,ardac,143.2,False
-SE1426,Strövelstorp,,Skåne,SE,56.166109,12.837575,ardac,7.4,True
-SE1427,Stugun,,Jämtland,SE,63.169262,15.612287,ardac,106.7,False
-SE1428,Sturefors,,Östergötland,SE,58.33674,15.721157,ardac,42.1,True
+SE1425,Strömsund,,Jämtland,SE,63.851666,15.558235,ardac,143.8,False
+SE1426,Strövelstorp,,Skåne,SE,56.166109,12.837575,ardac,7.3,True
+SE1427,Stugun,,Jämtland,SE,63.169262,15.612287,ardac,107.5,False
+SE1428,Sturefors,,Östergötland,SE,58.33674,15.721157,ardac,42.0,True
 SE1429,Sturkö,,Blekinge,SE,56.098674,15.664782,ardac,1.3,True
 SE1430,Styrsö,,Västra Götaland,SE,57.609428,11.782149,ardac,4.8,True
 SE1431,Stånga,,Gotland,SE,57.281454,18.471394,ardac,9.8,True
 SE1432,Stångby,,Skåne,SE,55.749279,13.19478,ardac,10.7,True
 SE1433,Ställdalen,,Örebro,SE,59.934554,14.945443,ardac,149.7,False
-SE1434,Stöcke,,Västerbotten,SE,63.742559,20.231426,ardac,2.8,True
+SE1434,Stöcke,,Västerbotten,SE,63.742559,20.231426,ardac,2.9,True
 SE1435,Stöcksjö,,Västerbotten,SE,63.779389,20.195725,ardac,6.8,True
-SE1436,Stöde,,Västernorrland,SE,62.417776,16.578272,ardac,39.1,True
-SE1437,Stöllet,,Värmland,SE,60.410045,13.26975,ardac,151.0,False
-SE1438,Stöpen,,Västra Götaland,SE,58.478527,13.86672,ardac,116.7,False
-SE1439,Sulvik,,Värmland,SE,59.67827,12.415219,ardac,87.6,True
-SE1440,Sundborn,,Dalarna,SE,60.654176,15.78132,ardac,76.6,True
-SE1441,Sundby,,Stockholm,SE,59.288476,17.719274,ardac,13.8,True
-SE1442,Sundbyholm,,Södermanland,SE,59.438272,16.619871,ardac,66.2,True
+SE1436,Stöde,,Västernorrland,SE,62.417776,16.578272,ardac,39.4,True
+SE1437,Stöllet,,Värmland,SE,60.410045,13.26975,ardac,151.6,False
+SE1438,Stöpen,,Västra Götaland,SE,58.478527,13.86672,ardac,117.3,False
+SE1439,Sulvik,,Värmland,SE,59.67827,12.415219,ardac,87.5,True
+SE1440,Sundborn,,Dalarna,SE,60.654176,15.78132,ardac,77.1,True
+SE1441,Sundby,,Stockholm,SE,59.288476,17.719274,ardac,13.7,True
+SE1442,Sundbyholm,,Södermanland,SE,59.438272,16.619871,ardac,66.5,True
 SE1443,Sundom,,Norrbotten,SE,65.77213,22.264301,ardac,1.6,True
 SE1444,Sundsvall,,Västernorrland,SE,62.390755,17.307102,ardac,2.1,True
-SE1445,Sund,,Jönköping,SE,57.777477,14.596108,ardac,108.8,False
-SE1446,Sunnansjö,,Dalarna,SE,60.221459,14.960771,ardac,132.9,False
-SE1447,Sunnemo,,Värmland,SE,59.884283,13.722264,ardac,159.0,False
-SE1448,Sunne,,Värmland,SE,59.890765,13.045421,ardac,127.7,False
-SE1449,Surahammar,,Västmanland,SE,59.707058,16.221994,ardac,101.1,False
+SE1445,Sund,,Jönköping,SE,57.777477,14.596108,ardac,109.1,False
+SE1446,Sunnansjö,,Dalarna,SE,60.221459,14.960771,ardac,133.2,False
+SE1447,Sunnemo,,Värmland,SE,59.884283,13.722264,ardac,159.3,False
+SE1448,Sunne,,Värmland,SE,59.890765,13.045421,ardac,128.5,False
+SE1449,Surahammar,,Västmanland,SE,59.707058,16.221994,ardac,101.5,False
 SE1450,Surte,,Västra Götaland,SE,57.826762,12.016163,ardac,13.1,True
 SE1451,Svalsta,,Södermanland,SE,58.743096,16.875131,ardac,8.7,True
 SE1452,Svalöv,,Skåne,SE,55.913651,13.106982,ardac,14.4,True
 SE1453,Svanberga,,Stockholm,SE,59.840363,18.662935,ardac,7.5,True
 SE1454,Svanesund,,Västra Götaland,SE,58.143036,11.819062,ardac,0.3,True
-SE1455,Svanskog/Svaneholm,,Värmland,SE,59.179793,12.550962,ardac,66.7,True
-SE1456,Svappavaara,,Norrbotten,SE,67.646923,21.055485,ardac,157.5,False
-SE1457,Svartbyn,,Norrbotten,SE,66.25963,22.820359,ardac,39.8,True
-SE1458,Svartehallen,,Västra Götaland,SE,58.118234,11.95799,ardac,7.6,True
+SE1455,Svanskog/Svaneholm,,Värmland,SE,59.179793,12.550962,ardac,67.0,True
+SE1456,Svappavaara,,Norrbotten,SE,67.646923,21.055485,ardac,158.5,False
+SE1457,Svartbyn,,Norrbotten,SE,66.25963,22.820359,ardac,39.6,True
+SE1458,Svartehallen,,Västra Götaland,SE,58.118234,11.95799,ardac,7.7,True
 SE1459,Svarte,,Skåne,SE,55.430931,13.715131,ardac,4.1,True
 SE1460,Svartudden,,Västra Götaland,SE,58.732952,11.172323,ardac,0.5,True
-SE1461,Svartå,,Västerbotten,SE,65.029789,20.768065,ardac,23.6,True
+SE1461,Svartå,,Västerbotten,SE,65.029789,20.768065,ardac,23.7,True
 SE1462,Svedala,,Skåne,SE,55.515242,13.238435,ardac,16.9,True
-SE1463,Sveg,,Jämtland,SE,62.03607,14.359839,ardac,149.7,False
-SE1464,Svenljunga,,Västra Götaland,SE,57.496312,13.112259,ardac,61.2,True
+SE1463,Sveg,,Jämtland,SE,62.03607,14.359839,ardac,150.8,False
+SE1464,Svenljunga,,Västra Götaland,SE,57.496312,13.112259,ardac,61.4,True
 SE1465,Svensbyn,,Norrbotten,SE,65.310331,21.234612,ardac,3.2,True
 SE1466,Svenshögen,,Västra Götaland,SE,58.144643,11.938389,ardac,7.0,True
-SE1467,Svenstavik,,Jämtland,SE,62.766806,14.432422,ardac,151.5,False
-SE1468,Svenstorp,,Örebro,SE,59.112646,15.389159,ardac,69.4,True
+SE1467,Svenstavik,,Jämtland,SE,62.766806,14.432422,ardac,152.7,False
+SE1468,Svenstorp,,Örebro,SE,59.112646,15.389159,ardac,69.5,True
 SE1469,Svinninge,,Stockholm,SE,59.449483,18.283511,ardac,0.4,True
 SE1470,Svängsta,,Blekinge,SE,56.26198,14.774798,ardac,10.5,True
-SE1471,Svärdsjö,,Dalarna,SE,60.742297,15.903846,ardac,69.9,True
+SE1471,Svärdsjö,,Dalarna,SE,60.742297,15.903846,ardac,70.4,True
 SE1472,Svärtinge,,Östergötland,SE,58.650264,16.029186,ardac,8.9,True
 SE1473,Sya,,Östergötland,SE,58.334732,15.223077,ardac,64.6,True
-SE1474,Sysslebäck,,Värmland,SE,60.730431,12.871173,ardac,149.9,False
-SE1475,Sågmyra,,Dalarna,SE,60.7134,15.29654,ardac,102.8,False
-SE1476,Säffle,,Värmland,SE,59.072789,13.163091,ardac,99.1,True
-SE1477,Sälen,,Dalarna,SE,61.155723,13.269408,ardac,197.5,False
+SE1474,Sysslebäck,,Värmland,SE,60.730431,12.871173,ardac,150.0,False
+SE1475,Sågmyra,,Dalarna,SE,60.7134,15.29654,ardac,103.5,False
+SE1476,Säffle,,Värmland,SE,59.072789,13.163091,ardac,99.6,True
+SE1477,Sälen,,Dalarna,SE,61.155723,13.269408,ardac,197.3,False
 SE1478,Sälgsjön,,Gävleborg,SE,60.617605,17.113604,ardac,9.2,True
-SE1479,Särna,,Dalarna,SE,61.694181,13.143068,ardac,207.1,False
-SE1480,Säter,,Dalarna,SE,60.414235,15.737297,ardac,85.1,True
+SE1479,Särna,,Dalarna,SE,61.694181,13.143068,ardac,208.6,False
+SE1480,Säter,,Dalarna,SE,60.414235,15.737297,ardac,85.3,True
 SE1481,Sätila,,Västra Götaland,SE,57.541234,12.435089,ardac,24.3,True
 SE1482,Sätinge,,Halland,SE,57.4442,12.137018,ardac,3.7,True
-SE1483,Sätra Brunn,,Västmanland,SE,59.862903,16.442051,ardac,98.4,True
+SE1483,Sätra Brunn,,Västmanland,SE,59.862903,16.442051,ardac,97.9,True
 SE1484,Sättra,,Stockholm,SE,59.620932,18.439134,ardac,10.0,True
-SE1485,Sävar,,Västerbotten,SE,63.902075,20.552316,ardac,8.8,True
+SE1485,Sävar,,Västerbotten,SE,63.902075,20.552316,ardac,8.9,True
 SE1486,Sävast,,Norrbotten,SE,65.761657,21.751024,ardac,3.8,True
 SE1487,Säve,,Västra Götaland,SE,57.803487,11.911706,ardac,6.4,True
 SE1488,Sävja,,Uppsala,SE,59.811622,17.700561,ardac,46.1,True
-SE1489,Sävsjö,,Jönköping,SE,57.317287,14.612718,ardac,111.7,False
+SE1489,Sävsjö,,Jönköping,SE,57.317287,14.612718,ardac,112.1,False
 SE1490,Söderby,,Stockholm,SE,59.3825,17.585278,ardac,24.2,True
-SE1491,Söderby-Karl,,Stockholm,SE,59.897693,18.69698,ardac,11.1,True
-SE1492,Söderbärke,,Dalarna,SE,60.07301,15.564555,ardac,112.9,False
+SE1491,Söderby-Karl,,Stockholm,SE,59.897693,18.69698,ardac,11.2,True
+SE1492,Söderbärke,,Dalarna,SE,60.07301,15.564555,ardac,112.8,False
 SE1493,Söderfors,,Uppsala,SE,60.388132,17.241258,ardac,26.0,True
 SE1494,Söderhamn,,Gävleborg,SE,61.29985,17.060759,ardac,2.5,True
 SE1495,Söderköping,,Östergötland,SE,58.48238,16.321622,ardac,5.3,True
-SE1496,Söderskogen,,Uppsala,SE,59.676202,17.595891,ardac,37.9,True
+SE1496,Söderskogen,,Uppsala,SE,59.676202,17.595891,ardac,38.0,True
 SE1497,Södersvik,,Stockholm,SE,59.750116,18.915614,ardac,0.2,True
 SE1498,Södertälje,,Stockholm,SE,59.196428,17.627166,ardac,3.6,True
 SE1499,Söderåkra,,Kalmar,SE,56.446032,16.070616,ardac,3.1,True
-SE1500,Södra Bredåker,,Norrbotten,SE,65.90102,21.321748,ardac,28.0,True
+SE1500,Södra Bredåker,,Norrbotten,SE,65.90102,21.321748,ardac,28.2,True
 SE1501,Södra Sandby,,Kalmar,SE,56.567171,16.619985,ardac,1.3,True
 SE1502,Södra Sunderbyn,,Norrbotten,SE,65.654162,21.953414,ardac,1.0,True
 SE1503,Södra Vi,,Kalmar,SE,57.741455,15.796053,ardac,40.4,True
 SE1504,Sölvesborg,,Blekinge,SE,56.050653,14.58719,ardac,0.8,True
-SE1505,Sörforsa,,Gävleborg,SE,61.717887,16.96966,ardac,8.9,True
-SE1506,Sörfors,,Västerbotten,SE,63.872978,20.036461,ardac,19.5,True
+SE1505,Sörforsa,,Gävleborg,SE,61.717887,16.96966,ardac,9.0,True
+SE1506,Sörfors,,Västerbotten,SE,63.872978,20.036461,ardac,19.6,True
 SE1507,Sörmjöle,,Västerbotten,SE,63.679946,20.002339,ardac,3.0,True
-SE1508,Sörstafors,,Västmanland,SE,59.583061,16.210761,ardac,94.2,True
-SE1509,Sörvik,,Dalarna,SE,60.186912,15.147367,ardac,125.3,False
+SE1508,Sörstafors,,Västmanland,SE,59.583061,16.210761,ardac,94.6,True
+SE1509,Sörvik,,Dalarna,SE,60.186912,15.147367,ardac,125.5,False
 SE1510,Söråker,,Västernorrland,SE,62.504549,17.508612,ardac,1.4,True
-SE1511,Sösdala,,Skåne,SE,56.04063,13.681493,ardac,39.8,True
+SE1511,Sösdala,,Skåne,SE,56.04063,13.681493,ardac,39.9,True
 SE1512,Sövde,,Skåne,SE,55.585031,13.673597,ardac,18.3,True
 SE1513,Sövestad,,Skåne,SE,55.501399,13.79526,ardac,8.3,True
-SE1514,Taberg,,Jönköping,SE,57.678947,14.091865,ardac,122.6,False
+SE1514,Taberg,,Jönköping,SE,57.678947,14.091865,ardac,123.0,False
 SE1515,Tallboda,,Östergötland,SE,58.430858,15.68659,ardac,36.1,True
-SE1516,Tallvik,,Norrbotten,SE,66.33726,22.847685,ardac,48.5,True
-SE1517,Tallåsen,,Örebro,SE,59.451989,14.771379,ardac,121.0,False
-SE1518,Tandsbyn,,Jämtland,SE,63.000922,14.745313,ardac,143.7,False
+SE1516,Tallvik,,Norrbotten,SE,66.33726,22.847685,ardac,48.3,True
+SE1517,Tallåsen,,Örebro,SE,59.451989,14.771379,ardac,121.2,False
+SE1518,Tandsbyn,,Jämtland,SE,63.000922,14.745313,ardac,144.7,False
 SE1519,Tanumshede,,Västra Götaland,SE,58.721908,11.332385,ardac,6.8,True
-SE1520,Tavelsjö,,Västerbotten,SE,64.035882,20.050217,ardac,32.6,True
+SE1520,Tavelsjö,,Västerbotten,SE,64.035882,20.050217,ardac,32.8,True
 SE1521,Teckomatorp,,Skåne,SE,55.866539,13.090358,ardac,10.9,True
-SE1522,Tenhult,,Jönköping,SE,57.706654,14.321033,ardac,126.2,False
-SE1523,Tibro,,Västra Götaland,SE,58.42489,14.163119,ardac,119.3,False
-SE1524,Tidaholm,,Västra Götaland,SE,58.140693,13.924145,ardac,119.6,False
-SE1525,Tidan,,Västra Götaland,SE,58.576338,14.012095,ardac,125.7,False
-SE1526,Tidö-Lindö,,Västmanland,SE,59.512822,16.531577,ardac,74.6,True
-SE1527,Tierp,,Uppsala,SE,60.342961,17.516839,ardac,19.9,True
-SE1528,Tillberga,,Västmanland,SE,59.686704,16.618347,ardac,82.6,True
-SE1529,Timmele,,Västra Götaland,SE,57.861904,13.428551,ardac,91.0,True
+SE1522,Tenhult,,Jönköping,SE,57.706654,14.321033,ardac,126.6,False
+SE1523,Tibro,,Västra Götaland,SE,58.42489,14.163119,ardac,119.7,False
+SE1524,Tidaholm,,Västra Götaland,SE,58.140693,13.924145,ardac,120.2,False
+SE1525,Tidan,,Västra Götaland,SE,58.576338,14.012095,ardac,126.3,False
+SE1526,Tidö-Lindö,,Västmanland,SE,59.512822,16.531577,ardac,74.9,True
+SE1527,Tierp,,Uppsala,SE,60.342961,17.516839,ardac,19.8,True
+SE1528,Tillberga,,Västmanland,SE,59.686704,16.618347,ardac,82.8,True
+SE1529,Timmele,,Västra Götaland,SE,57.861904,13.428551,ardac,91.3,True
 SE1530,Timmernabben,,Kalmar,SE,56.970307,16.43421,ardac,0.8,True
-SE1531,Timmersdala,,Västra Götaland,SE,58.527673,13.759432,ardac,111.4,False
+SE1531,Timmersdala,,Västra Götaland,SE,58.527673,13.759432,ardac,111.9,False
 SE1532,Timrå,,Västernorrland,SE,62.489319,17.327373,ardac,0.3,True
 SE1533,Tingsryd,,Kronoberg,SE,56.527906,14.977188,ardac,38.3,True
 SE1534,Tingstäde,,Gotland,SE,57.735759,18.613689,ardac,10.7,True
-SE1535,Tjautjas,,Norrbotten,SE,67.326607,20.736699,ardac,169.3,False
+SE1535,Tjautjas,,Norrbotten,SE,67.326607,20.736699,ardac,170.5,False
 SE1536,Tjuvkil,,Västra Götaland,SE,57.893324,11.743298,ardac,1.4,True
-SE1537,Tjällmo,,Östergötland,SE,58.71515,15.354501,ardac,48.5,True
-SE1538,Tjörnarp,,Skåne,SE,55.999983,13.635045,ardac,40.4,True
-SE1539,Tobo,,Uppsala,SE,60.257396,17.656487,ardac,27.4,True
+SE1537,Tjällmo,,Östergötland,SE,58.71515,15.354501,ardac,48.8,True
+SE1538,Tjörnarp,,Skåne,SE,55.999983,13.635045,ardac,40.5,True
+SE1539,Tobo,,Uppsala,SE,60.257396,17.656487,ardac,27.2,True
 SE1540,Tofta,,Gotland,SE,57.520806,18.168597,ardac,3.6,True
 SE1541,Tofta,,Halland,SE,57.17385,12.30051,ardac,6.2,True
-SE1542,Toftbyn,,Dalarna,SE,60.713232,15.785604,ardac,76.2,True
+SE1542,Toftbyn,,Dalarna,SE,60.713232,15.785604,ardac,76.7,True
 SE1543,Tollarp,,Skåne,SE,55.934062,13.975141,ardac,18.1,True
-SE1544,Tollered,,Västra Götaland,SE,57.818729,12.422679,ardac,32.3,True
-SE1545,Tomelilla,,Skåne,SE,55.543798,13.954122,ardac,12.5,True
+SE1544,Tollered,,Västra Götaland,SE,57.818729,12.422679,ardac,32.4,True
+SE1545,Tomelilla,,Skåne,SE,55.543798,13.954122,ardac,12.4,True
 SE1546,Tomtebo,,Västerbotten,SE,63.808575,20.376449,ardac,4.9,True
-SE1547,Torbjörntorp,,Västra Götaland,SE,58.210335,13.608092,ardac,100.7,False
+SE1547,Torbjörntorp,,Västra Götaland,SE,58.210335,13.608092,ardac,101.2,False
 SE1548,Torekov,,Skåne,SE,56.426297,12.626767,ardac,0.8,True
 SE1549,Torestorp,,Kalmar,SE,56.794375,15.947044,ardac,24.8,True
 SE1550,Torhamn,,Blekinge,SE,56.095268,15.831092,ardac,0.9,True
 SE1551,Tormestorp,,Skåne,SE,56.11158,13.744208,ardac,40.8,True
 SE1552,Torna Hällestad,,Skåne,SE,55.678976,13.418465,ardac,22.5,True
-SE1553,Torpa,,Halland,SE,57.188948,12.280569,ardac,5.0,True
-SE1554,Torpsbruk,,Kronoberg,SE,57.034375,14.571008,ardac,97.2,True
-SE1555,Torpshammar,,Västernorrland,SE,62.476165,16.331355,ardac,51.4,True
+SE1553,Torpa,,Halland,SE,57.188948,12.280569,ardac,5.1,True
+SE1554,Torpsbruk,,Kronoberg,SE,57.034375,14.571008,ardac,96.9,True
+SE1555,Torpshammar,,Västernorrland,SE,62.476165,16.331355,ardac,51.7,True
 SE1556,Torreby,,Västra Götaland,SE,58.443718,11.599255,ardac,2.2,True
-SE1557,Torsby,,Värmland,SE,60.13552,13.006788,ardac,128.3,False
-SE1558,Torshälla,,Södermanland,SE,59.419243,16.474944,ardac,72.8,True
-SE1559,Torsåker,,Västernorrland,SE,63.076659,17.715374,ardac,8.8,True
-SE1560,Torsång,,Dalarna,SE,60.46352,15.569629,ardac,91.9,True
+SE1557,Torsby,,Värmland,SE,60.13552,13.006788,ardac,129.0,False
+SE1558,Torshälla,,Södermanland,SE,59.419243,16.474944,ardac,73.2,True
+SE1559,Torsåker,,Västernorrland,SE,63.076659,17.715374,ardac,8.7,True
+SE1560,Torsång,,Dalarna,SE,60.46352,15.569629,ardac,92.3,True
 SE1561,Torsås,,Kalmar,SE,56.412408,16.003073,ardac,5.7,True
-SE1562,Tortuna,,Västmanland,SE,59.674702,16.722464,ardac,77.5,True
-SE1563,Torup,,Halland,SE,56.953542,13.074462,ardac,32.5,True
-SE1564,Totebo,,Kalmar,SE,57.631865,16.182809,ardac,20.1,True
-SE1565,Tranemo,,Västra Götaland,SE,57.490491,13.431046,ardac,79.8,True
-SE1566,Tranholmen,,Stockholm,SE,59.291823,17.779643,ardac,15.4,True
-SE1567,Transtrand,,Dalarna,SE,61.09037,13.321705,ardac,194.5,False
-SE1568,Tranås,,Jönköping,SE,58.039262,14.825735,ardac,95.4,True
-SE1569,Traryd,,Kronoberg,SE,56.579041,13.752695,ardac,50.3,True
+SE1562,Tortuna,,Västmanland,SE,59.674702,16.722464,ardac,77.7,True
+SE1563,Torup,,Halland,SE,56.953542,13.074462,ardac,32.6,True
+SE1564,Totebo,,Kalmar,SE,57.631865,16.182809,ardac,20.2,True
+SE1565,Tranemo,,Västra Götaland,SE,57.490491,13.431046,ardac,80.0,True
+SE1566,Tranholmen,,Stockholm,SE,59.291823,17.779643,ardac,15.3,True
+SE1567,Transtrand,,Dalarna,SE,61.09037,13.321705,ardac,194.4,False
+SE1568,Tranås,,Jönköping,SE,58.039262,14.825735,ardac,95.8,True
+SE1569,Traryd,,Kronoberg,SE,56.579041,13.752695,ardac,50.4,True
 SE1570,Trekanten,,Kalmar,SE,56.699905,16.11671,ardac,10.1,True
 SE1571,Trelleborg,,Skåne,SE,55.37592,13.146152,ardac,2.0,True
-SE1572,Trollhättan,,Västra Götaland,SE,58.217868,12.341385,ardac,26.5,True
+SE1572,Trollhättan,,Västra Götaland,SE,58.217868,12.341385,ardac,26.6,True
 SE1573,Trosa,,Södermanland,SE,58.896705,17.547811,ardac,0.7,True
-SE1574,Trångsviken,,Jämtland,SE,63.333131,14.016113,ardac,136.7,False
-SE1575,Tråvad,,Västra Götaland,SE,58.251866,13.085384,ardac,70.1,True
-SE1576,Trädet,,Västra Götaland,SE,57.985633,13.531922,ardac,99.9,True
+SE1574,Trångsviken,,Jämtland,SE,63.333131,14.016113,ardac,137.6,False
+SE1575,Tråvad,,Västra Götaland,SE,58.251866,13.085384,ardac,70.5,True
+SE1576,Trädet,,Västra Götaland,SE,57.985633,13.531922,ardac,100.4,False
 SE1577,Trödje,,Gävleborg,SE,60.818958,17.21457,ardac,2.4,True
 SE1578,Trönninge,,Halland,SE,57.14172,12.288236,ardac,4.0,True
 SE1579,Trönningenäs,,Halland,SE,57.138731,12.223881,ardac,1.6,True
-SE1580,Trönö,,Gävleborg,SE,61.396137,16.833717,ardac,14.4,True
+SE1580,Trönö,,Gävleborg,SE,61.396137,16.833717,ardac,14.5,True
 SE1581,Tumba,,Stockholm,SE,59.200555,17.834312,ardac,9.4,True
-SE1582,Tumbo,,Södermanland,SE,59.429688,16.339888,ardac,80.4,True
+SE1582,Tumbo,,Södermanland,SE,59.429688,16.339888,ardac,80.8,True
 SE1583,Tumlehed,,Västra Götaland,SE,57.728818,11.74337,ardac,1.7,True
 SE1584,Tuna,,Skåne,SE,55.913333,12.689722,ardac,6.4,True
 SE1585,Tuna,,Stockholm,SE,59.253428,17.490446,ardac,13.5,True
 SE1586,Tuna,,Kalmar,SE,57.5766,16.1052,ardac,24.5,True
-SE1587,Tunnerstad,,Jönköping,SE,58.047598,14.337399,ardac,124.0,False
-SE1588,Tuolluvaara,,Norrbotten,SE,67.855418,20.318467,ardac,118.6,False
-SE1589,Tureholm,,Norrbotten,SE,66.392166,23.604889,ardac,62.3,True
+SE1587,Tunnerstad,,Jönköping,SE,58.047598,14.337399,ardac,124.6,False
+SE1588,Tuolluvaara,,Norrbotten,SE,67.855418,20.318467,ardac,119.3,False
+SE1589,Tureholm,,Norrbotten,SE,66.392166,23.604889,ardac,62.1,True
 SE1590,Tving,,Blekinge,SE,56.31028,15.462932,ardac,13.4,True
 SE1591,Tvååker,,Halland,SE,57.041893,12.398992,ardac,4.6,True
-SE1592,Tvärskog,,Kalmar,SE,56.623633,16.041255,ardac,11.1,True
-SE1593,Tvärålund,,Västerbotten,SE,64.099244,19.67026,ardac,50.2,True
-SE1594,Tye,,Värmland,SE,59.345907,13.561706,ardac,127.1,False
+SE1592,Tvärskog,,Kalmar,SE,56.623633,16.041255,ardac,11.2,True
+SE1593,Tvärålund,,Västerbotten,SE,64.099244,19.67026,ardac,50.4,True
+SE1594,Tye,,Värmland,SE,59.345907,13.561706,ardac,127.6,False
 SE1595,Tygelsjö,,Skåne,SE,55.514669,13.001715,ardac,4.7,True
 SE1596,Tynningö,,Stockholm,SE,59.377574,18.392701,ardac,0.9,True
-SE1597,Tyringe,,Skåne,SE,56.160204,13.604263,ardac,49.2,True
-SE1598,Tystberga,,Södermanland,SE,58.849348,17.234324,ardac,7.6,True
-SE1599,Tågarp,,Skåne,SE,56.304305,13.822234,ardac,50.8,True
+SE1597,Tyringe,,Skåne,SE,56.160204,13.604263,ardac,49.3,True
+SE1598,Tystberga,,Södermanland,SE,58.849348,17.234324,ardac,7.7,True
+SE1599,Tågarp,,Skåne,SE,56.304305,13.822234,ardac,50.9,True
 SE1600,Tångaberg,,Halland,SE,57.174622,12.22589,ardac,1.7,True
 SE1601,Tånga och Rögle,,Skåne,SE,56.193729,12.773407,ardac,3.7,True
 SE1602,Tånnö,,Jönköping,SE,57.094246,14.047422,ardac,87.1,True
 SE1603,Täfteå,,Västerbotten,SE,63.839675,20.475946,ardac,2.4,True
 SE1604,Täljö,,Stockholm,SE,59.47179,18.239194,ardac,1.7,True
-SE1605,Tällberg,,Dalarna,SE,60.825635,14.99458,ardac,117.8,False
-SE1606,Tärnaby,,Västerbotten,SE,65.713176,15.282744,ardac,82.1,True
-SE1607,Tärnsjö,,Uppsala,SE,60.154562,16.92751,ardac,56.2,True
-SE1608,Tävelsås,,Kronoberg,SE,56.769892,14.823869,ardac,66.7,True
+SE1605,Tällberg,,Dalarna,SE,60.825635,14.99458,ardac,118.5,False
+SE1606,Tärnaby,,Västerbotten,SE,65.713176,15.282744,ardac,82.5,True
+SE1607,Tärnsjö,,Uppsala,SE,60.154562,16.92751,ardac,56.0,True
+SE1608,Tävelsås,,Kronoberg,SE,56.769892,14.823869,ardac,66.6,True
 SE1609,Töcksfors,,Värmland,SE,59.509315,11.842519,ardac,51.4,True
-SE1610,Töllsjö,,Västra Götaland,SE,57.797309,12.63476,ardac,43.5,True
-SE1611,Töreboda,,Västra Götaland,SE,58.708106,14.123973,ardac,119.1,False
+SE1610,Töllsjö,,Västra Götaland,SE,57.797309,12.63476,ardac,43.7,True
+SE1611,Töreboda,,Västra Götaland,SE,58.708106,14.123973,ardac,119.7,False
 SE1612,Töre,,Norrbotten,SE,65.913129,22.647827,ardac,0.6,True
-SE1613,Törestorp,,Västra Götaland,SE,58.309948,13.073277,ardac,69.6,True
-SE1614,Tösse,,Västra Götaland,SE,58.971904,12.64486,ardac,69.2,True
+SE1613,Törestorp,,Västra Götaland,SE,58.309948,13.073277,ardac,69.9,True
+SE1614,Tösse,,Västra Götaland,SE,58.971904,12.64486,ardac,69.6,True
 SE1615,Ubbhult norra,,Västra Götaland,SE,57.580985,12.354719,ardac,22.3,True
-SE1616,Ucklum,,Västra Götaland,SE,58.084444,11.956919,ardac,8.4,True
-SE1617,Uddebo,,Västra Götaland,SE,57.474595,13.263325,ardac,69.6,True
-SE1618,Uddeholm,,Värmland,SE,60.024766,13.619007,ardac,160.3,False
+SE1616,Ucklum,,Västra Götaland,SE,58.084444,11.956919,ardac,8.5,True
+SE1617,Uddebo,,Västra Götaland,SE,57.474595,13.263325,ardac,69.8,True
+SE1618,Uddeholm,,Värmland,SE,60.024766,13.619007,ardac,161.2,False
 SE1619,Udden,,Västra Götaland,SE,58.839547,11.07948,ardac,7.3,True
 SE1620,Uddevalla,,Västra Götaland,SE,58.349055,11.938285,ardac,3.7,True
-SE1621,Uddheden,,Värmland,SE,59.945983,12.910784,ardac,120.4,False
-SE1622,Ullared,,Halland,SE,57.136086,12.715631,ardac,26.4,True
-SE1623,Ullervad,,Västra Götaland,SE,58.666834,13.856477,ardac,120.6,False
-SE1624,Ullånger,,Västernorrland,SE,63.01822,18.141902,ardac,5.4,True
-SE1625,Ulricehamn,,Västra Götaland,SE,57.811217,13.444322,ardac,91.1,True
-SE1626,Ulrika,,Östergötland,SE,58.13297,15.394375,ardac,66.0,True
+SE1621,Uddheden,,Värmland,SE,59.945983,12.910784,ardac,121.2,False
+SE1622,Ullared,,Halland,SE,57.136086,12.715631,ardac,26.5,True
+SE1623,Ullervad,,Västra Götaland,SE,58.666834,13.856477,ardac,121.0,False
+SE1624,Ullånger,,Västernorrland,SE,63.01822,18.141902,ardac,5.5,True
+SE1625,Ulricehamn,,Västra Götaland,SE,57.811217,13.444322,ardac,91.4,True
+SE1626,Ulrika,,Östergötland,SE,58.13297,15.394375,ardac,66.3,True
 SE1627,Ultuna,,Uppsala,SE,59.815944,17.659877,ardac,47.7,True
-SE1628,Ulvkälla,,Jämtland,SE,62.023158,14.365271,ardac,149.1,False
-SE1629,Ulvåker,,Västra Götaland,SE,58.473624,13.928527,ardac,120.2,False
+SE1628,Ulvkälla,,Jämtland,SE,62.023158,14.365271,ardac,150.2,False
+SE1629,Ulvåker,,Västra Götaland,SE,58.473624,13.928527,ardac,120.8,False
 SE1630,Umeå,,Västerbotten,SE,63.825656,20.263074,ardac,8.6,True
-SE1631,Undenäs,,Västra Götaland,SE,58.656896,14.398847,ardac,103.1,False
-SE1632,Undersåker,,Jämtland,SE,63.314686,13.242053,ardac,103.2,False
-SE1633,Unnaryd,,Halland,SE,56.954534,13.52848,ardac,52.6,True
-SE1634,Upphärad,,Västra Götaland,SE,58.158264,12.304859,ardac,25.2,True
-SE1635,Upplanda,,Uppsala,SE,60.202035,17.18022,ardac,43.2,True
+SE1631,Undenäs,,Västra Götaland,SE,58.656896,14.398847,ardac,103.5,False
+SE1632,Undersåker,,Jämtland,SE,63.314686,13.242053,ardac,103.7,False
+SE1633,Unnaryd,,Halland,SE,56.954534,13.52848,ardac,52.5,True
+SE1634,Upphärad,,Västra Götaland,SE,58.158264,12.304859,ardac,25.3,True
+SE1635,Upplanda,,Uppsala,SE,60.202035,17.18022,ardac,43.0,True
 SE1636,Uppsala,,Uppsala,SE,59.859412,17.64112,ardac,52.4,True
-SE1637,Urshult,,Kronoberg,SE,56.53176,14.8141,ardac,40.7,True
+SE1637,Urshult,,Kronoberg,SE,56.53176,14.8141,ardac,40.6,True
 SE1638,Ursviken,,Västerbotten,SE,64.708124,21.176686,ardac,0.4,True
 SE1639,Utby,,Västra Götaland,SE,58.333811,11.786892,ardac,1.4,True
 SE1640,Utvälinge,,Skåne,SE,56.215747,12.780708,ardac,1.2,True
-SE1641,Vad,,Uppsala,SE,59.769675,16.861097,ardac,76.2,True
-SE1642,Vadstena,,Östergötland,SE,58.431081,14.780762,ardac,84.1,True
+SE1641,Vad,,Uppsala,SE,59.769675,16.861097,ardac,76.5,True
+SE1642,Vadstena,,Östergötland,SE,58.431081,14.780762,ardac,84.4,True
 SE1643,Vaggeryd,,Jönköping,SE,57.498057,14.148478,ardac,120.3,False
 SE1644,Vagnhärad,,Södermanland,SE,58.94688,17.495592,ardac,4.8,True
 SE1645,Valbo,,Gävleborg,SE,60.644777,17.012276,ardac,10.9,True
@@ -1648,146 +1648,146 @@ SE1646,Valdemarsvik,,Östergötland,SE,58.20259,16.603219,ardac,0.8,True
 SE1647,Valinge,,Halland,SE,57.171131,12.381098,ardac,10.5,True
 SE1648,Valje,,Skåne,SE,56.064597,14.544245,ardac,1.3,True
 SE1649,Valla,,Västernorrland,SE,62.390683,17.165769,ardac,9.0,True
-SE1650,Vallargärdet,,Värmland,SE,59.477358,13.584232,ardac,132.3,False
+SE1650,Vallargärdet,,Värmland,SE,59.477358,13.584232,ardac,132.8,False
 SE1651,Vallberga,,Halland,SE,56.467628,13.024907,ardac,6.7,True
 SE1652,Vallda,,Halland,SE,57.472678,11.999076,ardac,2.9,True
-SE1653,Vallentuna,,Stockholm,SE,59.533224,18.07645,ardac,8.9,True
+SE1653,Vallentuna,,Stockholm,SE,59.533224,18.07645,ardac,8.8,True
 SE1654,Vallkärra,,Skåne,SE,55.740753,13.173056,ardac,9.1,True
-SE1655,Vallsta,,Dalarna,SE,60.417512,15.358189,ardac,104.6,False
+SE1655,Vallsta,,Dalarna,SE,60.417512,15.358189,ardac,104.9,False
 SE1656,Vallvik,,Gävleborg,SE,61.184365,17.176344,ardac,0.9,True
 SE1657,Vallåkra,,Skåne,SE,55.962267,12.858315,ardac,4.8,True
-SE1658,Valskog,,Västmanland,SE,59.444012,15.949726,ardac,88.1,True
-SE1659,Vankiva,,Skåne,SE,56.200364,13.741501,ardac,46.6,True
+SE1658,Valskog,,Västmanland,SE,59.444012,15.949726,ardac,87.8,True
+SE1659,Vankiva,,Skåne,SE,56.200364,13.741501,ardac,46.7,True
 SE1660,Vannsätter,,Gävleborg,SE,61.2608,16.788084,ardac,17.6,True
-SE1661,Vansbro,,Dalarna,SE,60.461057,14.259809,ardac,161.9,False
-SE1662,Vansö kyrkby,,Södermanland,SE,59.405653,16.940407,ardac,48.6,True
-SE1663,Vaplan,,Jämtland,SE,63.335505,14.215024,ardac,145.8,False
-SE1664,Vara,,Västra Götaland,SE,58.249026,13.101598,ardac,71.1,True
+SE1661,Vansbro,,Dalarna,SE,60.461057,14.259809,ardac,162.8,False
+SE1662,Vansö kyrkby,,Södermanland,SE,59.405653,16.940407,ardac,48.8,True
+SE1663,Vaplan,,Jämtland,SE,63.335505,14.215024,ardac,146.8,False
+SE1664,Vara,,Västra Götaland,SE,58.249026,13.101598,ardac,71.4,True
 SE1665,Varberg,,Halland,SE,57.105741,12.250294,ardac,0.8,True
 SE1666,Varekil,,Västra Götaland,SE,58.125344,11.719767,ardac,2.3,True
-SE1667,Vargön,,Västra Götaland,SE,58.358103,12.400362,ardac,30.3,True
-SE1668,Varnhem,,Västra Götaland,SE,58.385343,13.65057,ardac,103.3,False
-SE1669,Vartofta,,Västra Götaland,SE,58.096067,13.632775,ardac,103.2,False
+SE1667,Vargön,,Västra Götaland,SE,58.358103,12.400362,ardac,30.5,True
+SE1668,Varnhem,,Västra Götaland,SE,58.385343,13.65057,ardac,103.8,False
+SE1669,Vartofta,,Västra Götaland,SE,58.096067,13.632775,ardac,103.7,False
 SE1670,Vassmolösa,,Kalmar,SE,56.598532,16.164912,ardac,3.4,True
 SE1671,Vattholma,,Uppsala,SE,60.01905,17.732792,ardac,42.6,True
 SE1672,Vattjom,,Västernorrland,SE,62.365063,17.033805,ardac,16.3,True
-SE1673,Vattnäs,,Dalarna,SE,61.047784,14.594616,ardac,137.4,False
+SE1673,Vattnäs,,Dalarna,SE,61.047784,14.594616,ardac,138.1,False
 SE1674,Vattubrinken,,Stockholm,SE,59.243867,17.582851,ardac,9.4,True
 SE1675,Vaxholm,,Stockholm,SE,59.400907,18.290323,ardac,1.1,True
 SE1676,Veberöd,,Skåne,SE,55.633499,13.492564,ardac,25.5,True
 SE1677,Veddige,,Halland,SE,57.266395,12.330372,ardac,10.3,True
-SE1678,Vedevåg,,Örebro,SE,59.524706,15.297993,ardac,109.5,False
-SE1679,Vedum,,Västra Götaland,SE,58.171041,12.995567,ardac,65.0,True
-SE1680,Vegby,,Västra Götaland,SE,57.67886,13.374226,ardac,81.8,True
-SE1681,Veinge,,Halland,SE,56.554025,13.076164,ardac,8.7,True
-SE1682,Velanda,,Västra Götaland,SE,58.228718,12.310233,ardac,24.7,True
+SE1678,Vedevåg,,Örebro,SE,59.524706,15.297993,ardac,109.4,False
+SE1679,Vedum,,Västra Götaland,SE,58.171041,12.995567,ardac,65.3,True
+SE1680,Vegby,,Västra Götaland,SE,57.67886,13.374226,ardac,82.0,True
+SE1681,Veinge,,Halland,SE,56.554025,13.076164,ardac,8.8,True
+SE1682,Velanda,,Västra Götaland,SE,58.228718,12.310233,ardac,24.8,True
 SE1683,Vellinge,,Skåne,SE,55.470895,13.019944,ardac,2.8,True
-SE1684,Vemdalen,,Jämtland,SE,62.445167,13.86282,ardac,178.4,False
+SE1684,Vemdalen,,Jämtland,SE,62.445167,13.86282,ardac,179.6,False
 SE1685,Vena,,Västra Götaland,SE,57.859463,11.874712,ardac,8.3,True
-SE1686,Venjan,,Dalarna,SE,60.952753,13.910921,ardac,175.1,False
+SE1686,Venjan,,Dalarna,SE,60.952753,13.910921,ardac,176.1,False
 SE1687,Vessigebro,,Halland,SE,56.978627,12.658665,ardac,15.0,True
-SE1688,Vetlanda,,Jönköping,SE,57.426017,15.087022,ardac,84.7,True
+SE1688,Vetlanda,,Jönköping,SE,57.426017,15.087022,ardac,85.0,True
 SE1689,Vibble,,Gotland,SE,57.603836,18.249661,ardac,6.0,True
 SE1690,Vickleby,,Kalmar,SE,56.581931,16.458896,ardac,2.5,True
 SE1691,Vidja,,Stockholm,SE,59.197165,18.059693,ardac,12.3,True
-SE1692,Vidsel,,Norrbotten,SE,65.833605,20.520088,ardac,58.3,True
-SE1693,Vidöåsen,,Värmland,SE,59.341977,13.453336,ardac,121.0,False
+SE1692,Vidsel,,Norrbotten,SE,65.833605,20.520088,ardac,58.6,True
+SE1693,Vidöåsen,,Värmland,SE,59.341977,13.453336,ardac,121.6,False
 SE1694,Viforsen och Tunbyn,,Västernorrland,SE,62.306101,17.254139,ardac,7.2,True
-SE1695,Vika,,Dalarna,SE,60.512748,15.710759,ardac,83.0,True
-SE1696,Vikarbyn,,Dalarna,SE,60.910639,15.023776,ardac,115.4,False
-SE1697,Viken,,Jönköping,SE,57.806428,13.883746,ardac,115.2,False
+SE1695,Vika,,Dalarna,SE,60.512748,15.710759,ardac,83.4,True
+SE1696,Vikarbyn,,Dalarna,SE,60.910639,15.023776,ardac,116.1,False
+SE1697,Viken,,Jönköping,SE,57.806428,13.883746,ardac,115.4,False
 SE1698,Vikingstad,,Östergötland,SE,58.383241,15.433245,ardac,51.3,True
 SE1699,Vikmanshyttan,,Dalarna,SE,60.299009,15.831051,ardac,86.3,True
-SE1700,Vik,,Uppsala,SE,59.736383,17.462543,ardac,47.9,True
-SE1701,Viksjöfors,,Gävleborg,SE,61.337522,15.952948,ardac,61.1,True
-SE1702,Vilhelmina,,Västerbotten,SE,64.625718,16.654162,ardac,180.6,False
+SE1700,Vik,,Uppsala,SE,59.736383,17.462543,ardac,48.0,True
+SE1701,Viksjöfors,,Gävleborg,SE,61.337522,15.952948,ardac,61.5,True
+SE1702,Vilhelmina,,Västerbotten,SE,64.625718,16.654162,ardac,181.5,False
 SE1703,Villshärad,,Halland,SE,56.69436,12.696605,ardac,1.6,True
 SE1704,Vilshult,,Blekinge,SE,56.354337,14.482624,ardac,25.4,True
-SE1705,Vimmerby,,Kalmar,SE,57.678134,15.791723,ardac,43.7,True
+SE1705,Vimmerby,,Kalmar,SE,57.678134,15.791723,ardac,43.8,True
 SE1706,Vinberg,,Halland,SE,56.947054,12.542938,ardac,7.6,True
 SE1707,Vinbergs kyrkby,,Halland,SE,56.930569,12.547963,ardac,6.4,True
-SE1708,Vindeln,,Västerbotten,SE,64.202481,19.717752,ardac,57.2,True
+SE1708,Vindeln,,Västerbotten,SE,64.202481,19.717752,ardac,57.5,True
 SE1709,Vindön,,Västra Götaland,SE,58.299203,11.691718,ardac,0.9,True
 SE1710,Vingåker,,Södermanland,SE,59.043372,15.871556,ardac,46.7,True
-SE1711,Vinninga,,Västra Götaland,SE,58.453754,13.260211,ardac,81.4,True
+SE1711,Vinninga,,Västra Götaland,SE,58.453754,13.260211,ardac,81.8,True
 SE1712,Vinnö,,Skåne,SE,56.056175,14.08788,ardac,19.8,True
 SE1713,Vinslöv,,Skåne,SE,56.102213,13.909576,ardac,31.9,True
 SE1714,Vintrie,,Skåne,SE,55.552977,12.962067,ardac,2.9,True
-SE1715,Vintrosa,,Örebro,SE,59.255355,14.961855,ardac,98.0,True
-SE1716,Vinäs,,Dalarna,SE,60.967894,14.540253,ardac,141.2,False
-SE1717,Virsbo,,Västmanland,SE,59.871368,16.048057,ardac,110.1,False
-SE1718,Virserum,,Kalmar,SE,57.316854,15.586853,ardac,53.3,True
+SE1715,Vintrosa,,Örebro,SE,59.255355,14.961855,ardac,98.3,True
+SE1716,Vinäs,,Dalarna,SE,60.967894,14.540253,ardac,142.0,False
+SE1717,Virsbo,,Västmanland,SE,59.871368,16.048057,ardac,109.7,False
+SE1718,Virserum,,Kalmar,SE,57.316854,15.586853,ardac,53.4,True
 SE1719,Visby,,Gotland,SE,57.637936,18.297982,ardac,4.2,True
-SE1720,Viskafors,,Västra Götaland,SE,57.63075,12.849207,ardac,50.9,True
-SE1721,Vislanda,,Kronoberg,SE,56.787226,14.451583,ardac,71.1,True
-SE1722,Vissefjärda,,Kalmar,SE,56.535523,15.586146,ardac,33.9,True
-SE1723,Vistträsk,,Norrbotten,SE,65.692846,20.648637,ardac,47.2,True
+SE1720,Viskafors,,Västra Götaland,SE,57.63075,12.849207,ardac,51.0,True
+SE1721,Vislanda,,Kronoberg,SE,56.787226,14.451583,ardac,71.0,True
+SE1722,Vissefjärda,,Kalmar,SE,56.535523,15.586146,ardac,34.0,True
+SE1723,Vistträsk,,Norrbotten,SE,65.692846,20.648637,ardac,47.5,True
 SE1724,Vi,,Västernorrland,SE,62.428333,17.418437,ardac,2.0,True
 SE1725,Vitaby,,Skåne,SE,55.684977,14.153547,ardac,4.2,True
-SE1726,Vittangi,,Norrbotten,SE,67.678286,21.650187,ardac,177.6,False
-SE1727,Vittaryd,,Kronoberg,SE,56.970755,13.946791,ardac,74.6,True
-SE1728,Vittinge,,Uppsala,SE,59.904332,17.061062,ardac,75.1,True
-SE1729,Vittjärv,,Norrbotten,SE,65.850234,21.590291,ardac,15.8,True
-SE1730,Vittsjö,,Skåne,SE,56.341923,13.665492,ardac,48.6,True
+SE1726,Vittangi,,Norrbotten,SE,67.678286,21.650187,ardac,178.6,False
+SE1727,Vittaryd,,Kronoberg,SE,56.970755,13.946791,ardac,74.7,True
+SE1728,Vittinge,,Uppsala,SE,59.904332,17.061062,ardac,74.6,True
+SE1729,Vittjärv,,Norrbotten,SE,65.850234,21.590291,ardac,15.9,True
+SE1730,Vittsjö,,Skåne,SE,56.341923,13.665492,ardac,48.7,True
 SE1731,Vittskövle,,Skåne,SE,55.857306,14.147398,ardac,5.5,True
 SE1732,Vollsjö,,Skåne,SE,55.705442,13.790058,ardac,25.6,True
-SE1733,Vrena,,Södermanland,SE,58.860158,16.698263,ardac,22.6,True
-SE1734,Vretstorp,,Örebro,SE,59.023555,14.866828,ardac,87.2,True
-SE1735,Vrigstad,,Jönköping,SE,57.354616,14.474132,ardac,120.2,False
+SE1733,Vrena,,Södermanland,SE,58.860158,16.698263,ardac,22.7,True
+SE1734,Vretstorp,,Örebro,SE,59.023555,14.866828,ardac,87.5,True
+SE1735,Vrigstad,,Jönköping,SE,57.354616,14.474132,ardac,120.6,False
 SE1736,Vrångö,,Västra Götaland,SE,57.575646,11.785133,ardac,6.1,True
-SE1737,Vuollerim,,Norrbotten,SE,66.42956,20.602417,ardac,94.2,True
-SE1738,Vålberg,,Värmland,SE,59.395381,13.19347,ardac,108.5,False
-SE1739,Våmhus,,Dalarna,SE,61.11686,14.477964,ardac,142.0,False
+SE1737,Vuollerim,,Norrbotten,SE,66.42956,20.602417,ardac,94.7,True
+SE1738,Vålberg,,Värmland,SE,59.395381,13.19347,ardac,108.9,False
+SE1739,Våmhus,,Dalarna,SE,61.11686,14.477964,ardac,142.7,False
 SE1740,Vånga,,Skåne,SE,56.182372,14.37371,ardac,17.6,True
-SE1741,Vårdsätra,,Uppsala,SE,59.793512,17.622593,ardac,46.8,True
-SE1742,Vårgårda,,Västra Götaland,SE,58.031649,12.80904,ardac,57.7,True
+SE1741,Vårdsätra,,Uppsala,SE,59.793512,17.622593,ardac,46.9,True
+SE1742,Vårgårda,,Västra Götaland,SE,58.031649,12.80904,ardac,57.9,True
 SE1743,Vårsta,,Stockholm,SE,59.16533,17.795928,ardac,4.9,True
 SE1744,Våxtorp,,Halland,SE,56.419302,13.115896,ardac,14.1,True
-SE1745,Väckelsång,,Kronoberg,SE,56.640268,14.917505,ardac,51.3,True
-SE1746,Väderstad,,Östergötland,SE,58.311435,14.923643,ardac,81.2,True
+SE1745,Väckelsång,,Kronoberg,SE,56.640268,14.917505,ardac,51.2,True
+SE1746,Väderstad,,Östergötland,SE,58.311435,14.923643,ardac,81.3,True
 SE1747,Väggarp,,Skåne,SE,55.786782,13.241248,ardac,15.5,True
 SE1748,Väländan,,Stockholm,SE,59.112957,17.987988,ardac,6.7,True
-SE1749,Vänersborg,,Västra Götaland,SE,58.443364,12.360981,ardac,30.5,True
-SE1750,Väne-Åsaka,,Västra Götaland,SE,58.247085,12.42024,ardac,31.3,True
-SE1751,Vänge,,Uppsala,SE,59.858646,17.430238,ardac,59.3,True
+SE1749,Vänersborg,,Västra Götaland,SE,58.443364,12.360981,ardac,30.6,True
+SE1750,Väne-Åsaka,,Västra Götaland,SE,58.247085,12.42024,ardac,31.4,True
+SE1751,Vänge,,Uppsala,SE,59.858646,17.430238,ardac,59.4,True
 SE1752,Vännäsby,,Västerbotten,SE,63.914888,19.824866,ardac,30.3,True
 SE1753,Vännäs,,Västerbotten,SE,63.940872,19.702571,ardac,35.5,True
-SE1754,Väring,,Västra Götaland,SE,58.511243,13.960835,ardac,122.7,False
-SE1755,Värmlandsbro,,Värmland,SE,59.181513,13.01479,ardac,92.4,True
-SE1756,Värnamo,,Jönköping,SE,57.185213,14.041217,ardac,92.9,True
-SE1757,Värsås,,Västra Götaland,SE,58.349996,14.04927,ardac,126.5,False
+SE1754,Väring,,Västra Götaland,SE,58.511243,13.960835,ardac,123.2,False
+SE1755,Värmlandsbro,,Värmland,SE,59.181513,13.01479,ardac,92.8,True
+SE1756,Värnamo,,Jönköping,SE,57.185213,14.041217,ardac,92.8,True
+SE1757,Värsås,,Västra Götaland,SE,58.349996,14.04927,ardac,127.1,False
 SE1758,Väröbacka,,Halland,SE,57.251126,12.180716,ardac,1.7,True
-SE1759,Väse,,Värmland,SE,59.384482,13.852877,ardac,144.2,False
+SE1759,Väse,,Värmland,SE,59.384482,13.852877,ardac,144.7,False
 SE1760,Väskinde,,Gotland,SE,57.691178,18.420183,ardac,6.0,True
-SE1761,Västanvik,,Dalarna,SE,60.729444,14.945478,ardac,121.9,False
-SE1762,Västanvik,,Östergötland,SE,58.68333,14.93333,ardac,72.3,True
-SE1763,Västerberg,,Örebro,SE,58.996866,15.379228,ardac,61.3,True
-SE1764,Västerby,,Uppsala,SE,59.848114,17.516331,ardac,55.3,True
-SE1765,Västerfärnebo,,Västmanland,SE,59.94613,16.279683,ardac,95.6,True
+SE1761,Västanvik,,Dalarna,SE,60.729444,14.945478,ardac,122.7,False
+SE1762,Västanvik,,Östergötland,SE,58.68333,14.93333,ardac,72.6,True
+SE1763,Västerberg,,Örebro,SE,58.996866,15.379228,ardac,61.5,True
+SE1764,Västerby,,Uppsala,SE,59.848114,17.516331,ardac,55.4,True
+SE1765,Västerfärnebo,,Västmanland,SE,59.94613,16.279683,ardac,95.2,True
 SE1766,Västerhaninge,,Stockholm,SE,59.122159,18.108596,ardac,3.6,True
 SE1767,Västerhejde,,Gotland,SE,57.585592,18.227334,ardac,4.0,True
 SE1768,Västerljung,,Södermanland,SE,58.921333,17.447492,ardac,2.9,True
 SE1769,Västerlösa,,Östergötland,SE,58.422555,15.350139,ardac,53.4,True
-SE1770,Västermyckeläng,,Dalarna,SE,61.212874,14.031354,ardac,164.3,False
+SE1770,Västermyckeläng,,Dalarna,SE,61.212874,14.031354,ardac,165.3,False
 SE1771,Västervik,,Kalmar,SE,57.759418,16.638503,ardac,0.7,True
-SE1772,Västerås,,Västmanland,SE,59.611099,16.546367,ardac,80.1,True
-SE1773,Västra Bispgården,,Jämtland,SE,63.024153,16.63549,ardac,53.6,True
+SE1772,Västerås,,Västmanland,SE,59.611099,16.546367,ardac,80.4,True
+SE1773,Västra Bispgården,,Jämtland,SE,63.024153,16.63549,ardac,53.9,True
 SE1774,Västra Hagen,,Halland,SE,57.421668,11.940857,ardac,1.7,True
-SE1775,Västra Husby,,Östergötland,SE,58.486862,16.172054,ardac,14.0,True
+SE1775,Västra Husby,,Östergötland,SE,58.486862,16.172054,ardac,14.1,True
 SE1776,Västra Ingelstad,,Skåne,SE,55.490469,13.112362,ardac,8.8,True
 SE1777,Västra Karaby,,Skåne,SE,55.810902,13.051412,ardac,7.4,True
 SE1778,Västra Karup,,Skåne,SE,56.411539,12.743405,ardac,5.8,True
 SE1779,Västra Tommarp,,Skåne,SE,55.397667,13.102386,ardac,2.1,True
-SE1780,Västra Ämtervik,,Värmland,SE,59.727172,13.143214,ardac,122.3,False
-SE1781,Växjö,,Kronoberg,SE,56.878718,14.809438,ardac,78.7,True
+SE1780,Västra Ämtervik,,Värmland,SE,59.727172,13.143214,ardac,122.5,False
+SE1781,Växjö,,Kronoberg,SE,56.878718,14.809438,ardac,78.6,True
 SE1782,Yngsjö,,Skåne,SE,55.88277,14.229382,ardac,2.3,True
 SE1783,Ysane,,Blekinge,SE,56.088968,14.649451,ardac,3.6,True
 SE1784,Ysby,,Halland,SE,56.493315,13.119966,ardac,11.6,True
 SE1785,Ystad,,Skåne,SE,55.432984,13.819655,ardac,1.4,True
-SE1786,Ytterhogdal,,Jämtland,SE,62.177209,14.939436,ardac,125.6,False
-SE1787,Ytternäs och Vreta,,Uppsala,SE,59.775535,17.601377,ardac,46.0,True
+SE1786,Ytterhogdal,,Jämtland,SE,62.177209,14.939436,ardac,126.4,False
+SE1787,Ytternäs och Vreta,,Uppsala,SE,59.775535,17.601377,ardac,46.1,True
 SE1788,Yttersjö,,Västerbotten,SE,63.786928,19.984477,ardac,14.2,True
-SE1789,Zinkgruvan,,Örebro,SE,58.815435,15.106626,ardac,65.1,True
+SE1789,Zinkgruvan,,Örebro,SE,58.815435,15.106626,ardac,65.5,True
 SE1790,Åbyggeby,,Gävleborg,SE,60.728651,17.126838,ardac,4.6,True
 SE1791,Åby,,Östergötland,SE,58.662148,16.175925,ardac,3.0,True
 SE1792,Åbytorp,,Uppsala,SE,60.043209,17.983401,ardac,29.4,True
@@ -1795,123 +1795,123 @@ SE1793,Åby,,Östergötland,SE,58.662148,16.175925,ardac,3.0,True
 SE1794,Åhus,,Skåne,SE,55.923516,14.295522,ardac,1.9,True
 SE1795,Åkarp,,Skåne,SE,55.876893,13.13622,ardac,14.0,True
 SE1796,Åkersberga,,Stockholm,SE,59.482351,18.294398,ardac,1.5,True
-SE1797,Åkers styckebruk,,Södermanland,SE,59.256441,17.108021,ardac,32.8,True
-SE1798,Ålberga,,Södermanland,SE,58.725042,16.580952,ardac,8.7,True
-SE1799,Åled,,Halland,SE,56.742381,12.947557,ardac,11.4,True
+SE1797,Åkers styckebruk,,Södermanland,SE,59.256441,17.108021,ardac,33.0,True
+SE1798,Ålberga,,Södermanland,SE,58.725042,16.580952,ardac,8.6,True
+SE1799,Åled,,Halland,SE,56.742381,12.947557,ardac,11.3,True
 SE1800,Åminne,,Gotland,SE,57.612497,18.761462,ardac,0.5,True
-SE1801,Åmmeberg,,Örebro,SE,58.86561,14.999192,ardac,72.8,True
-SE1802,Åmotfors,,Värmland,SE,59.762586,12.362227,ardac,90.2,True
-SE1803,Åmot,,Gävleborg,SE,60.965613,16.451243,ardac,38.1,True
+SE1801,Åmmeberg,,Örebro,SE,58.86561,14.999192,ardac,73.2,True
+SE1802,Åmotfors,,Värmland,SE,59.762586,12.362227,ardac,90.8,True
+SE1803,Åmot,,Gävleborg,SE,60.965613,16.451243,ardac,38.4,True
 SE1804,Åmunnen,,Kalmar,SE,56.627696,16.236805,ardac,1.7,True
 SE1805,Åmynnet,,Västernorrland,SE,63.18611,18.530696,ardac,1.9,True
-SE1806,Åmål,,Västra Götaland,SE,58.969858,12.618004,ardac,67.7,True
-SE1807,Ånge,,Västernorrland,SE,62.473979,15.641942,ardac,86.8,True
-SE1808,Ånäset,,Västerbotten,SE,65.279046,19.908666,ardac,63.6,True
-SE1809,Åre,,Jämtland,SE,63.401088,13.082224,ardac,91.4,True
+SE1806,Åmål,,Västra Götaland,SE,58.969858,12.618004,ardac,68.1,True
+SE1807,Ånge,,Västernorrland,SE,62.473979,15.641942,ardac,87.4,True
+SE1808,Ånäset,,Västerbotten,SE,65.279046,19.908666,ardac,63.8,True
+SE1809,Åre,,Jämtland,SE,63.401088,13.082224,ardac,91.9,True
 SE1810,Årjäng,,Värmland,SE,59.442445,12.109184,ardac,56.8,True
-SE1811,Årnäs,,Västra Götaland,SE,58.667914,13.58461,ardac,105.7,False
-SE1812,Årstad,,Värmland,SE,59.583566,12.130193,ardac,69.1,True
+SE1811,Årnäs,,Västra Götaland,SE,58.667914,13.58461,ardac,106.1,False
+SE1812,Årstad,,Värmland,SE,59.583566,12.130193,ardac,68.9,True
 SE1813,Årsta Havsbad,,Stockholm,SE,59.086226,18.165957,ardac,1.5,True
 SE1814,Årsunda,,Gävleborg,SE,60.515076,16.733418,ardac,31.7,True
-SE1815,Åryd,,Blekinge,SE,57.954798,13.65065,ardac,106.1,False
-SE1816,Åryd,,Västra Götaland,SE,57.954798,13.65065,ardac,106.1,False
-SE1817,Åsa,,Jönköping,SE,58.004745,14.604402,ardac,107.9,False
-SE1818,Åsarna,,Jämtland,SE,62.645937,14.37056,ardac,152.8,False
-SE1819,Åsarp,,Västra Götaland,SE,58.023848,13.568091,ardac,100.9,False
-SE1820,Åsbro,,Örebro,SE,58.99708,15.057334,ardac,76.3,True
+SE1815,Åryd,,Blekinge,SE,57.954798,13.65065,ardac,106.4,False
+SE1816,Åryd,,Västra Götaland,SE,57.954798,13.65065,ardac,106.4,False
+SE1817,Åsa,,Jönköping,SE,58.004745,14.604402,ardac,108.3,False
+SE1818,Åsarna,,Jämtland,SE,62.645937,14.37056,ardac,153.9,False
+SE1819,Åsarp,,Västra Götaland,SE,58.023848,13.568091,ardac,101.4,False
+SE1820,Åsbro,,Örebro,SE,58.99708,15.057334,ardac,76.5,True
 SE1821,Åsby,,Örebro,SE,59.20616,15.575398,ardac,70.9,True
-SE1822,Åseda,,Kronoberg,SE,57.169126,15.352502,ardac,66.8,True
-SE1823,Åsele,,Västerbotten,SE,64.200078,17.614134,ardac,114.7,False
-SE1824,Åsensbruk,,Västra Götaland,SE,58.807243,12.419478,ardac,60.0,True
-SE1825,Åshammar,,Gävleborg,SE,60.642278,16.554025,ardac,34.9,True
+SE1822,Åseda,,Kronoberg,SE,57.169126,15.352502,ardac,67.0,True
+SE1823,Åsele,,Västerbotten,SE,64.200078,17.614134,ardac,115.3,False
+SE1824,Åsensbruk,,Västra Götaland,SE,58.807243,12.419478,ardac,60.3,True
+SE1825,Åshammar,,Gävleborg,SE,60.642278,16.554025,ardac,35.1,True
 SE1826,Ås,,Halland,SE,57.049573,12.306622,ardac,2.3,True
-SE1827,Åsljunga,,Skåne,SE,56.309388,13.374488,ardac,33.8,True
+SE1827,Åsljunga,,Skåne,SE,56.309388,13.374488,ardac,33.9,True
 SE1828,Åstorp,,Skåne,SE,56.135121,12.946246,ardac,13.9,True
-SE1829,Åtvidaberg,,Östergötland,SE,58.217336,16.140217,ardac,28.0,True
+SE1829,Åtvidaberg,,Östergötland,SE,58.217336,16.140217,ardac,28.1,True
 SE1830,Älandsbro,,Västernorrland,SE,62.673559,17.836039,ardac,1.9,True
-SE1831,Älgarås,,Västra Götaland,SE,58.813509,14.252111,ardac,113.0,False
-SE1832,Älghult,,Västernorrland,SE,63.819109,18.425977,ardac,57.7,True
+SE1831,Älgarås,,Västra Götaland,SE,58.813509,14.252111,ardac,113.6,False
+SE1832,Älghult,,Västernorrland,SE,63.819109,18.425977,ardac,58.1,True
 SE1833,Älgö,,Stockholm,SE,59.266912,18.343347,ardac,2.0,True
-SE1834,Älmhult,,Kronoberg,SE,56.551288,14.139176,ardac,55.6,True
+SE1834,Älmhult,,Kronoberg,SE,56.551288,14.139176,ardac,55.7,True
 SE1835,Älmsta,,Stockholm,SE,59.971707,18.803142,ardac,3.7,True
-SE1836,Älvdalen,,Dalarna,SE,61.229898,14.037394,ardac,163.8,False
+SE1836,Älvdalen,,Dalarna,SE,61.229898,14.037394,ardac,164.8,False
 SE1837,Älvkarleby,,Uppsala,SE,60.694577,17.695628,ardac,8.3,True
 SE1838,Älvkarleö,,Stockholm,SE,59.353941,18.094415,ardac,1.6,True
-SE1839,Älvnäs,,Dalarna,SE,60.586772,15.068918,ardac,116.0,False
+SE1839,Älvnäs,,Dalarna,SE,60.586772,15.068918,ardac,116.7,False
 SE1840,Älvsala,,Stockholm,SE,59.297232,18.640445,ardac,1.7,True
-SE1841,Älvsbyn,,Norrbotten,SE,65.737266,20.681897,ardac,49.7,True
-SE1842,Älvsered,,Halland,SE,57.241455,12.866472,ardac,40.5,True
+SE1841,Älvsbyn,,Norrbotten,SE,65.737266,20.681897,ardac,49.9,True
+SE1842,Älvsered,,Halland,SE,57.241455,12.866472,ardac,40.6,True
 SE1843,Älvängen,,Västra Götaland,SE,57.957664,12.118833,ardac,20.1,True
-SE1844,Änge,,Jämtland,SE,63.458115,14.064932,ardac,134.2,False
-SE1845,Ängelholms strand,,Skåne,SE,56.232247,12.997921,ardac,10.7,True
+SE1844,Änge,,Jämtland,SE,63.458115,14.064932,ardac,135.2,False
+SE1845,Ängelholms strand,,Skåne,SE,56.232247,12.997921,ardac,10.8,True
 SE1846,Ängelholm,,Skåne,SE,56.242922,12.861937,ardac,2.3,True
-SE1847,Äng,,Jönköping,SE,57.695571,14.56667,ardac,112.1,False
-SE1848,Ängsmon,,Jämtland,SE,63.143605,14.752784,ardac,149.2,False
+SE1847,Äng,,Jönköping,SE,57.695571,14.56667,ardac,112.4,False
+SE1848,Ängsmon,,Jämtland,SE,63.143605,14.752784,ardac,150.3,False
 SE1849,Ängsvik,,Stockholm,SE,59.240578,18.530325,ardac,0.2,True
-SE1850,Äppelbo,,Dalarna,SE,60.485884,14.013852,ardac,174.7,False
-SE1851,Ärla,,Södermanland,SE,59.282521,16.676984,ardac,57.2,True
-SE1852,Äsköping,,Södermanland,SE,59.147598,16.068838,ardac,54.3,True
-SE1853,Äspered,,Västra Götaland,SE,57.755126,13.178227,ardac,74.5,True
+SE1850,Äppelbo,,Dalarna,SE,60.485884,14.013852,ardac,175.7,False
+SE1851,Ärla,,Södermanland,SE,59.282521,16.676984,ardac,57.5,True
+SE1852,Äsköping,,Södermanland,SE,59.147598,16.068838,ardac,54.1,True
+SE1853,Äspered,,Västra Götaland,SE,57.755126,13.178227,ardac,74.6,True
 SE1854,Äsperöd,,Skåne,SE,55.609573,13.918975,ardac,19.5,True
-SE1855,Ätran,,Västra Götaland,SE,57.56431,13.12459,ardac,63.7,True
+SE1855,Ätran,,Västra Götaland,SE,57.56431,13.12459,ardac,63.8,True
 SE1856,Öbolandet,,Södermanland,SE,58.869822,17.572178,ardac,1.0,True
 SE1857,Öbonäs,,Östergötland,SE,58.540714,16.183652,ardac,9.2,True
 SE1858,Öckerö,,Västra Götaland,SE,57.7279,11.423683,ardac,16.8,True
-SE1859,Ödeborg,,Västra Götaland,SE,58.545129,11.971767,ardac,22.1,True
-SE1860,Ödeshög,,Östergötland,SE,58.224593,14.662207,ardac,99.2,True
+SE1859,Ödeborg,,Västra Götaland,SE,58.545129,11.971767,ardac,22.2,True
+SE1860,Ödeshög,,Östergötland,SE,58.224593,14.662207,ardac,99.3,True
 SE1861,Ödsmål och Åsebyberg,,Västra Götaland,SE,57.915144,11.800024,ardac,2.4,True
 SE1862,Ödsmål,,Västra Götaland,SE,58.110845,11.856059,ardac,2.0,True
 SE1863,Ödåkra,,Skåne,SE,56.10335,12.749927,ardac,6.6,True
-SE1864,Öggestorp,,Jönköping,SE,57.723374,14.383571,ardac,122.2,False
-SE1865,Öjersjö,,Västra Götaland,SE,57.703826,12.143091,ardac,13.0,True
+SE1864,Öggestorp,,Jönköping,SE,57.723374,14.383571,ardac,122.6,False
+SE1865,Öjersjö,,Västra Götaland,SE,57.703826,12.143091,ardac,13.1,True
 SE1866,Ölmbrotorp,,Örebro,SE,59.389639,15.244761,ardac,98.4,True
-SE1867,Ölme,,Värmland,SE,59.362094,14.009947,ardac,148.5,False
-SE1868,Ölmstad,,Jönköping,SE,57.926612,14.397633,ardac,119.5,False
-SE1869,Ölsta,,Stockholm,SE,59.400148,17.655159,ardac,20.0,True
-SE1870,Önneköp,,Skåne,SE,55.786116,13.87089,ardac,20.5,True
-SE1871,Önnestad,,Skåne,SE,56.055872,14.023399,ardac,23.1,True
-SE1872,Örbyhus,,Uppsala,SE,60.226932,17.705628,ardac,30.4,True
-SE1873,Örebro,,Örebro,SE,59.274737,15.214998,ardac,89.4,True
+SE1867,Ölme,,Värmland,SE,59.362094,14.009947,ardac,149.0,False
+SE1868,Ölmstad,,Jönköping,SE,57.926612,14.397633,ardac,120.0,False
+SE1869,Ölsta,,Stockholm,SE,59.400148,17.655159,ardac,20.1,True
+SE1870,Önneköp,,Skåne,SE,55.786116,13.87089,ardac,20.6,True
+SE1871,Önnestad,,Skåne,SE,56.055872,14.023399,ardac,23.2,True
+SE1872,Örbyhus,,Uppsala,SE,60.226932,17.705628,ardac,30.3,True
+SE1873,Örebro,,Örebro,SE,59.274737,15.214998,ardac,89.5,True
 SE1874,Öregrund,,Uppsala,SE,60.338115,18.442181,ardac,0.2,True
-SE1875,Örkelljunga,,Skåne,SE,56.283976,13.278452,ardac,27.6,True
+SE1875,Örkelljunga,,Skåne,SE,56.283976,13.278452,ardac,27.7,True
 SE1876,Örnsköldsvik,,Västernorrland,SE,63.288861,18.71602,ardac,3.7,True
-SE1877,Örserum,,Jönköping,SE,58.010109,14.572033,ardac,109.8,False
+SE1877,Örserum,,Jönköping,SE,58.010109,14.572033,ardac,110.3,False
 SE1878,Örsjö,,Skåne,SE,55.466552,13.564822,ardac,6.8,True
-SE1879,Örslösa,,Västra Götaland,SE,58.508818,13.004258,ardac,68.2,True
-SE1880,Örsundsbro,,Uppsala,SE,59.731978,17.302278,ardac,53.8,True
-SE1881,Örsundsbro norra,,Uppsala,SE,59.731978,17.302278,ardac,53.8,True
+SE1879,Örslösa,,Västra Götaland,SE,58.508818,13.004258,ardac,68.5,True
+SE1880,Örsundsbro,,Uppsala,SE,59.731978,17.302278,ardac,53.9,True
+SE1881,Örsundsbro norra,,Uppsala,SE,59.731978,17.302278,ardac,53.9,True
 SE1882,Örtagården,,Västra Götaland,SE,57.681304,11.952412,ardac,2.6,True
 SE1883,Örtofta,,Skåne,SE,55.778322,13.243988,ardac,15.1,True
 SE1884,Örviken,,Västerbotten,SE,64.668952,21.179696,ardac,0.6,True
 SE1885,Ösmo,,Stockholm,SE,58.982826,17.896191,ardac,4.3,True
 SE1886,Össjö,,Skåne,SE,56.22861,13.031806,ardac,12.9,True
-SE1887,Östadkulle,,Västra Götaland,SE,58.023946,12.637291,ardac,48.7,True
-SE1888,Östansjö,,Västerbotten,SE,63.960035,20.029861,ardac,27.2,True
+SE1887,Östadkulle,,Västra Götaland,SE,58.023946,12.637291,ardac,48.9,True
+SE1888,Östansjö,,Västerbotten,SE,63.960035,20.029861,ardac,27.3,True
 SE1889,Österbybruk,,Uppsala,SE,60.195936,17.901448,ardac,23.5,True
-SE1890,Österbymo,,Östergötland,SE,57.824795,15.275396,ardac,68.2,True
-SE1891,Österfärnebo,,Gävleborg,SE,60.305626,16.800194,ardac,46.1,True
+SE1890,Österbymo,,Östergötland,SE,57.824795,15.275396,ardac,68.4,True
+SE1891,Österfärnebo,,Gävleborg,SE,60.305626,16.800194,ardac,46.0,True
 SE1892,Österslöv,,Skåne,SE,56.096288,14.245903,ardac,16.2,True
-SE1893,Österstad,,Östergötland,SE,58.519297,15.176064,ardac,59.4,True
-SE1894,Östersund,,Jämtland,SE,63.179365,14.635706,ardac,155.5,False
-SE1895,Östervåla,,Uppsala,SE,60.180932,17.178084,ardac,45.2,True
+SE1893,Österstad,,Östergötland,SE,58.519297,15.176064,ardac,59.6,True
+SE1894,Östersund,,Jämtland,SE,63.179365,14.635706,ardac,156.6,False
+SE1895,Östervåla,,Uppsala,SE,60.180932,17.178084,ardac,45.0,True
 SE1896,Östhammar,,Uppsala,SE,60.259016,18.373658,ardac,0.2,True
-SE1897,Östra Bispgården,,Jämtland,SE,63.024153,16.63549,ardac,53.6,True
-SE1898,Östra Frölunda,,Västra Götaland,SE,57.343315,13.029861,ardac,52.5,True
+SE1897,Östra Bispgården,,Jämtland,SE,63.024153,16.63549,ardac,53.9,True
+SE1898,Östra Frölunda,,Västra Götaland,SE,57.343315,13.029861,ardac,52.7,True
 SE1899,Östra Grevie,,Skåne,SE,55.467549,13.135778,ardac,9.7,True
 SE1900,Östra Husby,,Östergötland,SE,58.5769,16.563881,ardac,6.0,True
 SE1901,Östra Kallfors,,Stockholm,SE,59.110495,17.560215,ardac,3.5,True
 SE1902,Östra Karup,,Skåne,SE,56.423867,12.943154,ardac,4.8,True
 SE1903,Östra Ljungby,,Skåne,SE,56.191351,13.064778,ardac,16.1,True
 SE1904,Östra Ryd,,Östergötland,SE,58.404927,16.164527,ardac,16.6,True
-SE1905,Östra Sönnarslöv,,Skåne,SE,55.885956,14.015647,ardac,13.9,True
+SE1905,Östra Sönnarslöv,,Skåne,SE,55.885956,14.015647,ardac,14.0,True
 SE1906,Östra Tommarp,,Skåne,SE,55.537917,14.234369,ardac,7.8,True
 SE1907,Östra Vemmerlöv,,Skåne,SE,55.582932,14.232583,ardac,5.3,True
-SE1908,Överboda,,Dalarna,SE,60.781072,15.040524,ardac,116.1,False
+SE1908,Överboda,,Dalarna,SE,60.781072,15.040524,ardac,116.7,False
 SE1909,Överhärde,,Gävleborg,SE,60.61614,16.973445,ardac,14.4,True
-SE1910,Överkalix,,Norrbotten,SE,66.492048,22.604758,ardac,65.0,True
-SE1911,Överlida,,Västra Götaland,SE,57.349794,12.895822,ardac,45.1,True
-SE1912,Övertorneå,,Norrbotten,SE,66.390045,23.655002,ardac,62.3,True
-SE1913,Övertänger,,Dalarna,SE,60.865157,15.762185,ardac,76.0,True
-SE1914,Överum,,Kalmar,SE,57.988748,16.314315,ardac,10.6,True
-SE1915,Öxabäck,,Västra Götaland,SE,57.394745,12.804626,ardac,40.8,True
-SE1916,Öxeryd,,Västra Götaland,SE,57.737618,12.274383,ardac,21.2,True
+SE1910,Överkalix,,Norrbotten,SE,66.492048,22.604758,ardac,64.8,True
+SE1911,Överlida,,Västra Götaland,SE,57.349794,12.895822,ardac,45.2,True
+SE1912,Övertorneå,,Norrbotten,SE,66.390045,23.655002,ardac,62.1,True
+SE1913,Övertänger,,Dalarna,SE,60.865157,15.762185,ardac,76.5,True
+SE1914,Överum,,Kalmar,SE,57.988748,16.314315,ardac,10.7,True
+SE1915,Öxabäck,,Västra Götaland,SE,57.394745,12.804626,ardac,40.9,True
+SE1916,Öxeryd,,Västra Götaland,SE,57.737618,12.274383,ardac,21.3,True

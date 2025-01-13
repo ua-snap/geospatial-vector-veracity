@@ -1,76 +1,76 @@
 id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal
-YT1,Aishihik,,Yukon,CA,61.5986,-137.508,"ardac,ncr",204.5,False
-YT2,Bear Creek,,Yukon,CA,60.7975,-137.67,"ardac,ncr",128.5,False
-YT4,Beaver Creek,,Yukon,CA,62.3833,-140.875,"ardac,ncr",252.1,False
-YT5,Braeburn,,Yukon,CA,61.4815,-135.748,"ardac,ncr",226.0,False
-YT6,Brooks Brook,,Yukon,CA,60.4189,-133.191,"ardac,ncr",160.2,False
-YT7,Burwash Landing,,Yukon,CA,61.3542,-138.994,"ardac,ncr",148.5,False
-YT8,Canyon City,,Yukon,CA,60.6344,-134.774,"ardac,ncr",134.0,False
-YT9,Carcross,,Yukon,CA,60.1694,-134.701,"ardac,ncr",86.1,True
-YT10,Carmacks,,Yukon,CA,62.0888,-136.284,"ardac,ncr",286.7,False
-YT11,Champagne,,Yukon,CA,60.7889,-136.479,"ardac,ncr",160.2,False
-YT12,Conrad,,Yukon,CA,60.0691,-134.564,"ardac,ncr",80.0,True
-YT13,Cowley,,Yukon,CA,60.5253,-134.897,"ardac,ncr",120.6,False
-YT14,Crestview,,Yukon,CA,60.8231,-135.204,"ardac,ncr",151.5,False
-YT15,Dalton Post,,Yukon,CA,60.12,-137.025,"ardac,ncr",109.7,False
-YT16,Dawson City,,Yukon,CA,64.0625,-139.431,"ardac,ncr",448.4,False
-YT17,Destruction Bay,,Yukon,CA,61.2542,-138.807,"ardac,ncr",140.0,False
-YT18,Dezadeash,,Yukon,CA,60.3722,-137.056,"ardac,ncr",119.7,False
-YT19,Dry Creek,,Yukon,CA,62.1725,-140.6856,"ardac,ncr",230.1,False
-YT20,Eagle Plains,,Yukon,CA,66.371,-136.72,"ardac,ncr",261.6,False
-YT21,Elsa,,Yukon,CA,63.9076,-135.476,"ardac,ncr",479.9,False
-YT22,Faro,,Yukon,CA,62.2274,-133.35,"ardac,ncr",326.7,False
-YT23,Fort Selkirk,,Yukon,CA,62.7723,-137.394,"ardac,ncr",324.6,False
-YT24,Forty Mile,,Yukon,CA,64.4269,-140.533,"ardac,ncr",464.4,False
-YT25,Frances Lake,,Yukon,CA,61.2757,-129.275,"ardac,ncr",389.9,False
-YT26,Haines Junction,,Yukon,CA,60.7559,-137.504,"ardac,ncr",130.4,False
+YT1,Aishihik,,Yukon,CA,61.5986,-137.508,"ardac,ncr",204.1,False
+YT2,Bear Creek,,Yukon,CA,60.7975,-137.67,"ardac,ncr",128.3,False
+YT4,Beaver Creek,,Yukon,CA,62.3833,-140.875,"ardac,ncr",251.1,False
+YT5,Braeburn,,Yukon,CA,61.4815,-135.748,"ardac,ncr",224.9,False
+YT6,Brooks Brook,,Yukon,CA,60.4189,-133.191,"ardac,ncr",160.3,False
+YT7,Burwash Landing,,Yukon,CA,61.3542,-138.994,"ardac,ncr",147.8,False
+YT8,Canyon City,,Yukon,CA,60.6344,-134.774,"ardac,ncr",133.4,False
+YT9,Carcross,,Yukon,CA,60.1694,-134.701,"ardac,ncr",85.8,True
+YT10,Carmacks,,Yukon,CA,62.0888,-136.284,"ardac,ncr",286.4,False
+YT11,Champagne,,Yukon,CA,60.7889,-136.479,"ardac,ncr",159.6,False
+YT12,Conrad,,Yukon,CA,60.0691,-134.564,"ardac,ncr",79.9,True
+YT13,Cowley,,Yukon,CA,60.5253,-134.897,"ardac,ncr",120.0,False
+YT14,Crestview,,Yukon,CA,60.8231,-135.204,"ardac,ncr",150.7,False
+YT15,Dalton Post,,Yukon,CA,60.12,-137.025,"ardac,ncr",110.2,False
+YT16,Dawson City,,Yukon,CA,64.0625,-139.431,"ardac,ncr",447.1,False
+YT17,Destruction Bay,,Yukon,CA,61.2542,-138.807,"ardac,ncr",139.5,False
+YT18,Dezadeash,,Yukon,CA,60.3722,-137.056,"ardac,ncr",120.0,False
+YT19,Dry Creek,,Yukon,CA,62.1725,-140.6856,"ardac,ncr",229.2,False
+YT20,Eagle Plains,,Yukon,CA,66.371,-136.72,"ardac,ncr",263.2,False
+YT21,Elsa,,Yukon,CA,63.9076,-135.476,"ardac,ncr",479.0,False
+YT22,Faro,,Yukon,CA,62.2274,-133.35,"ardac,ncr",325.6,False
+YT23,Fort Selkirk,,Yukon,CA,62.7723,-137.394,"ardac,ncr",323.7,False
+YT24,Forty Mile,,Yukon,CA,64.4269,-140.533,"ardac,ncr",463.8,False
+YT25,Frances Lake,,Yukon,CA,61.2757,-129.275,"ardac,ncr",390.8,False
+YT26,Haines Junction,,Yukon,CA,60.7559,-137.504,"ardac,ncr",130.2,False
 YT27,Herschel Island,Qikiqtaruk,Yukon,CA,69.5727,-138.901,ardac,0.6,True
-YT28,Ibex Valley,,Yukon,CA,60.8494,-135.639,"ardac,ncr",155.0,False
-YT29,Jakes Corner,,Yukon,CA,60.3386,-133.984,"ardac,ncr",123.3,False
+YT28,Ibex Valley,,Yukon,CA,60.8494,-135.639,"ardac,ncr",154.2,False
+YT29,Jakes Corner,,Yukon,CA,60.3386,-133.984,"ardac,ncr",123.2,False
 YT30,Johnsons Crossing,,Yukon,CA,60.4889,-133.297,"ardac,ncr",161.2,False
-YT31,Keno City,,Yukon,CA,63.9083,-135.303,"ardac,ncr",484.0,False
-YT32,Kloo Lake,,Yukon,CA,60.921,-137.857,"ardac,ncr",133.2,False
-YT33,Klukshu,,Yukon,CA,60.2945,-137.004,"ardac,ncr",118.1,False
-YT34,Koidern,,Yukon,CA,61.9833,-140.492,"ardac,ncr",211.4,False
-YT35,Lewis,,Yukon,CA,60.333,-134.8328,"ardac,ncr",100.6,False
-YT36,Little Gold Creek,,Yukon,CA,64.0861,-141.0,"ardac,ncr",420.2,False
-YT37,Little River,,Yukon,CA,60.8787,-135.6908,"ardac,ncr",158.6,False
-YT38,Little Salmon/Carmacks First Nation,,Yukon,CA,62.0561,-135.701,"ardac,ncr",289.8,False
-YT39,Little Teslin Lake,,Yukon,CA,60.4819,-133.465,"ardac,ncr",154.2,False
-YT40,Marsh Lake,,Yukon,CA,60.5193,-134.332,"ardac,ncr",130.2,False
-YT41,Mayo,,Yukon,CA,63.5931,-135.896,"ardac,ncr",439.2,False
-YT42,McCabe Creek,,Yukon,CA,62.5284,-136.784,"ardac,ncr",313.2,False
-YT43,Mendenhall Landing,,Yukon,CA,60.7528,-136.039,"ardac,ncr",148.4,False
-YT44,Minto,,Yukon,CA,62.5848,-136.851,"ardac,ncr",317.1,False
-YT45,Morley River,,Yukon,CA,60.013,-132.162,"ardac,ncr",188.4,False
-YT46,Mount Lorne,,Yukon,CA,60.4126,-134.952,"ardac,ncr",107.6,False
-YT47,Old Crow,,Yukon,CA,67.5729,-139.829,"ardac,ncr",186.3,False
-YT48,Pelly Crossing,,Yukon,CA,62.8198,-136.574,"ardac,ncr",346.9,False
-YT49,Porter Creek,,Yukon,CA,60.7699,-135.136,"ardac,ncr",145.8,False
-YT50,Quill Creek,,Yukon,CA,61.5079,-139.3306,"ardac,ncr",163.2,False
-YT51,Rampart House,,Yukon,CA,67.4219,-140.993,"ardac,ncr",224.4,False
-YT52,Rancheria,,Yukon,CA,60.0875,-130.603,"ardac,ncr",250.7,False
-YT53,Riverdale,,Yukon,CA,60.7069,-135.024,"ardac,ncr",139.4,False
-YT54,Robinson,,Yukon,CA,60.4512,-134.846,"ardac,ncr",113.2,False
-YT55,Ross River,,Yukon,CA,61.9779,-132.449,"ardac,ncr",321.6,False
-YT56,Snag,,Yukon,CA,62.4,-140.367,"ardac,ncr",258.2,False
-YT57,Snag Junction,,Yukon,CA,62.2348,-140.692,"ardac,ncr",236.9,False
-YT58,Stewart Crossing,,Yukon,CA,63.3675,-136.679,"ardac,ncr",399.8,False
-YT59,Stewart River,Nä`chòo ndek,Yukon,CA,63.2917,-139.4117,"ardac,ncr",362.4,False
-YT60,Stony Creek Camp,,Yukon,CA,60.801,-135.976,"ardac,ncr",152.8,False
-YT61,Swift River,,Yukon,CA,60.0042,-131.187,"ardac,ncr",221.2,False
-YT62,Tagish,,Yukon,CA,60.31,-134.266,"ardac,ncr",111.6,False
-YT63,Takhini,,Yukon,CA,60.8533,-135.447,"ardac,ncr",154.7,False
-YT64,Ten Mile,,Yukon,CA,60.1667,-134.367,"ardac,ncr",95.2,True
-YT65,Teslin,ᑦᐁᔅᓕᓐᑦᐆ / Desleen,Yukon,CA,60.1683,-132.719,"ardac,ncr",166.4,False
-YT66,Teslin Lake,,Yukon,CA,60.0167,-132.4333,"ardac,ncr",174.3,False
-YT67,Tuchitua,,Yukon,CA,60.9025,-129.2505,"ardac,ncr",367.2,False
-YT68,Two and One-Half Mile Village,,Yukon,CA,60.1434,-128.881,"ardac,ncr",331.1,False
-YT69,Two Mile Village,,Yukon,CA,60.1254,-128.804,"ardac,ncr",333.7,False
-YT70,Upper Laberge,,Yukon,CA,60.9509,-135.132,"ardac,ncr",166.0,False
-YT71,Upper Liard,,Yukon,CA,60.0545,-128.923,"ardac,ncr",324.0,False
-YT72,Watson Lake,,Yukon,CA,60.0639,-128.706,"ardac,ncr",335.1,False
-YT73,Whitehorse,,Yukon,CA,60.727,-135.074,"ardac,ncr",141.3,False
-YT74,Carcross Cutoff,,Yukon,CA,60.5958,-134.878,"ardac,ncr",128.5,False
-YT75,Clinton Creek,,Yukon,CA,64.415,-140.602,"ardac,ncr",461.7,False
-YT76,Nesketahin,Wesketahin,Yukon,CA,60.1334,-137.057,"ardac,ncr",108.5,False
+YT31,Keno City,,Yukon,CA,63.9083,-135.303,"ardac,ncr",483.2,False
+YT32,Kloo Lake,,Yukon,CA,60.921,-137.857,"ardac,ncr",133.1,False
+YT33,Klukshu,,Yukon,CA,60.2945,-137.004,"ardac,ncr",118.4,False
+YT34,Koidern,,Yukon,CA,61.9833,-140.492,"ardac,ncr",210.5,False
+YT35,Lewis,,Yukon,CA,60.333,-134.8328,"ardac,ncr",100.2,False
+YT36,Little Gold Creek,,Yukon,CA,64.0861,-141.0,"ardac,ncr",419.6,False
+YT37,Little River,,Yukon,CA,60.8787,-135.6908,"ardac,ncr",157.8,False
+YT38,Little Salmon/Carmacks First Nation,,Yukon,CA,62.0561,-135.701,"ardac,ncr",288.5,False
+YT39,Little Teslin Lake,,Yukon,CA,60.4819,-133.465,"ardac,ncr",154.1,False
+YT40,Marsh Lake,,Yukon,CA,60.5193,-134.332,"ardac,ncr",129.7,False
+YT41,Mayo,,Yukon,CA,63.5931,-135.896,"ardac,ncr",438.3,False
+YT42,McCabe Creek,,Yukon,CA,62.5284,-136.784,"ardac,ncr",312.5,False
+YT43,Mendenhall Landing,,Yukon,CA,60.7528,-136.039,"ardac,ncr",147.7,False
+YT44,Minto,,Yukon,CA,62.5848,-136.851,"ardac,ncr",316.3,False
+YT45,Morley River,,Yukon,CA,60.013,-132.162,"ardac,ncr",189.2,False
+YT46,Mount Lorne,,Yukon,CA,60.4126,-134.952,"ardac,ncr",107.1,False
+YT47,Old Crow,,Yukon,CA,67.5729,-139.829,"ardac,ncr",187.0,False
+YT48,Pelly Crossing,,Yukon,CA,62.8198,-136.574,"ardac,ncr",346.1,False
+YT49,Porter Creek,,Yukon,CA,60.7699,-135.136,"ardac,ncr",145.0,False
+YT50,Quill Creek,,Yukon,CA,61.5079,-139.3306,"ardac,ncr",162.5,False
+YT51,Rampart House,,Yukon,CA,67.4219,-140.993,"ardac,ncr",225.6,False
+YT52,Rancheria,,Yukon,CA,60.0875,-130.603,"ardac,ncr",250.8,False
+YT53,Riverdale,,Yukon,CA,60.7069,-135.024,"ardac,ncr",138.7,False
+YT54,Robinson,,Yukon,CA,60.4512,-134.846,"ardac,ncr",112.6,False
+YT55,Ross River,,Yukon,CA,61.9779,-132.449,"ardac,ncr",320.8,False
+YT56,Snag,,Yukon,CA,62.4,-140.367,"ardac,ncr",257.3,False
+YT57,Snag Junction,,Yukon,CA,62.2348,-140.692,"ardac,ncr",236.0,False
+YT58,Stewart Crossing,,Yukon,CA,63.3675,-136.679,"ardac,ncr",398.8,False
+YT59,Stewart River,Nä`chòo ndek,Yukon,CA,63.2917,-139.4117,"ardac,ncr",361.1,False
+YT60,Stony Creek Camp,,Yukon,CA,60.801,-135.976,"ardac,ncr",152.1,False
+YT61,Swift River,,Yukon,CA,60.0042,-131.187,"ardac,ncr",221.0,False
+YT62,Tagish,,Yukon,CA,60.31,-134.266,"ardac,ncr",111.3,False
+YT63,Takhini,,Yukon,CA,60.8533,-135.447,"ardac,ncr",153.9,False
+YT64,Ten Mile,,Yukon,CA,60.1667,-134.367,"ardac,ncr",95.0,True
+YT65,Teslin,ᑦᐁᔅᓕᓐᑦᐆ / Desleen,Yukon,CA,60.1683,-132.719,"ardac,ncr",166.9,False
+YT66,Teslin Lake,,Yukon,CA,60.0167,-132.4333,"ardac,ncr",175.0,False
+YT67,Tuchitua,,Yukon,CA,60.9025,-129.2505,"ardac,ncr",367.1,False
+YT68,Two and One-Half Mile Village,,Yukon,CA,60.1434,-128.881,"ardac,ncr",331.9,False
+YT69,Two Mile Village,,Yukon,CA,60.1254,-128.804,"ardac,ncr",334.6,False
+YT70,Upper Laberge,,Yukon,CA,60.9509,-135.132,"ardac,ncr",165.1,False
+YT71,Upper Liard,,Yukon,CA,60.0545,-128.923,"ardac,ncr",324.9,False
+YT72,Watson Lake,,Yukon,CA,60.0639,-128.706,"ardac,ncr",336.0,False
+YT73,Whitehorse,,Yukon,CA,60.727,-135.074,"ardac,ncr",140.6,False
+YT74,Carcross Cutoff,,Yukon,CA,60.5958,-134.878,"ardac,ncr",127.9,False
+YT75,Clinton Creek,,Yukon,CA,64.415,-140.602,"ardac,ncr",461.0,False
+YT76,Nesketahin,Wesketahin,Yukon,CA,60.1334,-137.057,"ardac,ncr",108.9,False

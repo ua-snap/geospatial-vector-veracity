@@ -1,68 +1,68 @@
 id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal
-NU1,Alert,,Nunavut,CA,82.5,-62.3667,ardac,0.7,True
-NU2,Alexandra Fiord,,Nunavut,CA,78.8833,-75.8,ardac,1.2,True
+NU1,Alert,,Nunavut,CA,82.5,-62.3667,ardac,0.5,True
+NU2,Alexandra Fiord,,Nunavut,CA,78.8833,-75.8,ardac,1.0,True
 NU3,Amadjuak,,Nunavut,CA,64.0167,-72.65,ardac,0.3,True
 NU4,Apex,,Nunavut,CA,63.7222,-68.4489,ardac,0.8,True
 NU5,Arctic Bay,Ikpiarjuk / ᐃᒃᐱᐊᕐᔪᒃ,Nunavut,CA,73.0333,-85.1667,ardac,0.4,True
 NU6,Arviat,ᐊᕐᕕᐊᑦ,Nunavut,CA,61.1083,-94.0583,ardac,0.2,True
-NU7,Baker Lake,Qamani’tuaq / ᖃᒪᓂᑦᑐᐊᖅ,Nunavut,CA,64.3194,-96.0208,ardac,109.5,False
+NU7,Baker Lake,Qamani’tuaq / ᖃᒪᓂᑦᑐᐊᖅ,Nunavut,CA,64.3194,-96.0208,ardac,112.6,False
 NU8,Bathurst Inlet,Qingaut / ᕿᙵᐅᓐ,Nunavut,CA,66.8389,-108.0486,ardac,1.4,True
 NU9,Cambridge Bay,Iqaluktuuttiaq / ᐃᖃᓗᒃᑑᑦᑎᐊᖅ,Nunavut,CA,69.1139,-105.0528,ardac,1.4,True
-NU10,Cape Dyer,,Nunavut,CA,66.6667,-61.3667,ardac,3.2,True
-NU11,Cape Smith,,Nunavut,CA,60.7333,-78.4667,ardac,2.1,True
+NU10,Cape Dyer,,Nunavut,CA,66.6667,-61.3667,ardac,3.1,True
+NU11,Cape Smith,,Nunavut,CA,60.7333,-78.4667,ardac,2.2,True
 NU12,Charlton Depot,,Nunavut,CA,51.9667,-79.3167,ardac,1.0,True
 NU13,Chesterfield Inlet,Igluligaarjuk / ᐃᒡᓗᓕᒑᕐᔪᒃ,Nunavut,CA,63.3389,-90.7014,ardac,1.0,True
 NU14,Clyde River,Kangiqtugaapik / ᑲᖏᖅᑐᒑᐱᒃ,Nunavut,CA,70.4681,-68.5944,ardac,0.2,True
 NU15,Coral Harbour,Salliq / ᓴᓪᓖᑦ,Nunavut,CA,64.1333,-83.1667,ardac,0.9,True
 NU16,Craig Harbour,,Nunavut,CA,76.2069,-81.0,ardac,0.4,True
 NU17,Dundas Harbour,,Nunavut,CA,74.5333,-82.3833,ardac,0.2,True
-NU18,Ennadai,,Nunavut,CA,61.1333,-100.8833,ardac,337.2,False
-NU19,Eureka,,Nunavut,CA,79.9833,-85.95,ardac,0.8,True
-NU20,Fort Conger,,Nunavut,CA,81.75,-64.75,ardac,1.8,True
+NU18,Ennadai,,Nunavut,CA,61.1333,-100.8833,ardac,352.1,False
+NU19,Eureka,,Nunavut,CA,79.9833,-85.95,ardac,0.9,True
+NU20,Fort Conger,,Nunavut,CA,81.75,-64.75,ardac,2.1,True
 NU21,Fort Hope,,Nunavut,CA,66.5333,-86.7,ardac,1.8,True
 NU22,Fort Ross,,Nunavut,CA,72.0,-94.2333,ardac,1.6,True
 NU23,Fullerton,,Nunavut,CA,64.0,-88.9833,ardac,1.0,True
 NU24,Gjoa Haven,Uqsuqtuuq / ᐅᖅᓱᖅᑑᖅ,Nunavut,CA,68.625,-95.8778,ardac,1.6,True
-NU25,Grise Fiord,Aujuittuq / ᐊᐅᔪᐃᑦᑐᖅ,Nunavut,CA,76.4167,-82.8958,ardac,1.3,True
-NU26,Hazen Camp,,Nunavut,CA,81.8167,-71.3333,ardac,42.9,True
+NU25,Grise Fiord,Aujuittuq / ᐊᐅᔪᐃᑦᑐᖅ,Nunavut,CA,76.4167,-82.8958,ardac,1.2,True
+NU26,Hazen Camp,,Nunavut,CA,81.8167,-71.3333,ardac,34.1,True
 NU27,Igloolik,Iglulik / ᐃᒡᓗᓕᒃ,Nunavut,CA,69.3833,-81.8,ardac,0.8,True
-NU28,Ikaaqtalik,ᐃᑳᖅᑕᓕᒃ,Nunavut,CA,72.8169,-76.4614,ardac,4.9,True
+NU28,Ikaaqtalik,ᐃᑳᖅᑕᓕᒃ,Nunavut,CA,72.8169,-76.4614,ardac,4.7,True
 NU29,Iqaluit,ᐃᖃᓗᐃᑦ,Nunavut,CA,63.75,-68.5167,ardac,0.7,True
-NU30,Isachsen,,Nunavut,CA,78.7833,-103.5,ardac,0.5,True
+NU30,Isachsen,,Nunavut,CA,78.7833,-103.5,ardac,0.6,True
 NU31,Kekerten,,Nunavut,CA,65.7153,-65.8278,ardac,1.9,True
 NU32,Kimmirut,ᑭᒻᒥᕈᑦ,Nunavut,CA,62.8467,-69.8719,ardac,2.7,True
 NU33,Kinngait,ᑭᙵᐃᑦ,Nunavut,CA,64.2333,-76.5417,ardac,1.5,True
 NU34,Kipisa,,Nunavut,CA,65.2,-66.95,ardac,1.6,True
 NU35,Kivitoo,,Nunavut,CA,67.9333,-64.8667,ardac,1.2,True
 NU36,Kugaaruk,Arviligjuaq / ᑰᒑᕐᔪᒃ / ᐊᕐᕕᓕᒡᔪᐊᖅ,Nunavut,CA,68.5347,-89.825,ardac,0.6,True
-NU37,Kugluktuk,Qurluqtuq / ᖁᕐᓗᖅᑐᖅ,Nunavut,CA,67.8267,-115.0933,ardac,2.1,True
-NU38,Lupin,,Nunavut,CA,65.7636,-111.2208,ardac,180.8,False
-NU39,Maguse River,,Nunavut,CA,61.2806,-94.0625,ardac,1.5,True
+NU37,Kugluktuk,Qurluqtuq / ᖁᕐᓗᖅᑐᖅ,Nunavut,CA,67.8267,-115.0933,ardac,2.2,True
+NU38,Lupin,,Nunavut,CA,65.7636,-111.2208,ardac,189.0,False
+NU39,Maguse River,,Nunavut,CA,61.2806,-94.0625,ardac,1.6,True
 NU40,Nanisivik,ᓇᓂᓯᕕᒃ,Nunavut,CA,73.0333,-84.55,ardac,4.4,True
-NU41,Naujaat,ᓇᐅᔮᑦ,Nunavut,CA,66.5333,-86.25,ardac,1.7,True
+NU41,Naujaat,ᓇᐅᔮᑦ,Nunavut,CA,66.5333,-86.25,ardac,1.8,True
 NU42,Nottingham Island,,Nunavut,CA,63.1167,-77.9333,ardac,2.3,True
 NU43,Nutarasungniq,ᓄᑕᕋᓱᖕᓂᖅ,Nunavut,CA,72.7269,-77.6572,ardac,1.2,True
 NU44,Nuwata,,Nunavut,CA,65.1333,-77.6167,ardac,1.8,True
-NU45,Padlei,,Nunavut,CA,61.9167,-96.6667,ardac,150.1,False
+NU45,Padlei,,Nunavut,CA,61.9167,-96.6667,ardac,155.5,False
 NU46,Padloping Island,,Nunavut,CA,67.0333,-62.7333,ardac,0.5,True
 NU47,Pangnirtung,Pangniqtuuq / ᐸᖕᓂᖅᑑᖅ,Nunavut,CA,66.1444,-65.7153,ardac,3.3,True
 NU48,Perry Island,,Nunavut,CA,67.8,-102.55,ardac,1.1,True
-NU49,Polaris,,Nunavut,CA,75.3944,-96.8806,ardac,1.4,True
+NU49,Polaris,,Nunavut,CA,75.3944,-96.8806,ardac,1.5,True
 NU50,Pond Inlet,Mittimatalik / ᒥᑦᑎᒪᑕᓕᒃ,Nunavut,CA,72.7,-77.9611,ardac,0.6,True
 NU51,Port Burwell,,Nunavut,CA,60.425,-64.8333,ardac,1.2,True
-NU52,Qajalinga,ᖃᔭᓕᖓ,Nunavut,CA,72.7625,-77.5225,ardac,2.8,True
+NU52,Qajalinga,ᖃᔭᓕᖓ,Nunavut,CA,72.7625,-77.5225,ardac,2.7,True
 NU53,Qikiqtarjuaq,ᕿᑭᖅᑕᕐᔪᐊᖅ,Nunavut,CA,67.5547,-64.0281,ardac,0.2,True
 NU54,Rankin Inlet,Kangiqtiniq / ᑲᖏᕿᓂᖅ / ᑲᖏᖅᖠᓂᖅ,Nunavut,CA,62.8167,-92.0833,ardac,0.3,True
-NU55,Read Island,,Nunavut,CA,69.2,-113.8333,ardac,4.0,True
-NU56,Resolute,Qausuittuq / ᖃᐅᓱᐃᑦᑐᖅ,Nunavut,CA,74.6958,-94.8292,ardac,1.1,True
-NU57,Resolution Island,,Nunavut,CA,61.3,-64.8833,ardac,3.5,True
+NU55,Read Island,,Nunavut,CA,69.2,-113.8333,ardac,4.2,True
+NU56,Resolute,Qausuittuq / ᖃᐅᓱᐃᑦᑐᖅ,Nunavut,CA,74.6958,-94.8292,ardac,1.2,True
+NU57,Resolution Island,,Nunavut,CA,61.3,-64.8833,ardac,3.4,True
 NU58,Sanikiluaq,ᓴᓂᑭᓗᐊᖅ,Nunavut,CA,56.5333,-79.2333,ardac,2.0,True
 NU59,Sanirajak,ᓴᓂᕋᔭᒃ,Nunavut,CA,68.7903,-81.2375,ardac,0.7,True
-NU60,Taloyoak,Talurjuaq / ᑕᓗᕐᔪᐊᕐᒃ,Nunavut,CA,69.5361,-93.5208,ardac,1.2,True
-NU61,Tanquary Camp,,Nunavut,CA,81.4,-76.9,ardac,1.5,True
-NU62,Tavani,,Nunavut,CA,62.0667,-93.1,ardac,1.0,True
-NU63,Thom Bay,,Nunavut,CA,70.15,-92.4,ardac,0.5,True
+NU60,Taloyoak,Talurjuaq / ᑕᓗᕐᔪᐊᕐᒃ,Nunavut,CA,69.5361,-93.5208,ardac,1.3,True
+NU61,Tanquary Camp,,Nunavut,CA,81.4,-76.9,ardac,1.3,True
+NU62,Tavani,,Nunavut,CA,62.0667,-93.1,ardac,1.1,True
+NU63,Thom Bay,,Nunavut,CA,70.15,-92.4,ardac,0.6,True
 NU64,Tuniit,ᑐᓃᑦ,Nunavut,CA,71.7472,-77.7289,ardac,0.8,True
 NU65,Umingmaktok,Umingmaktuuq / ᐅᒥᖕᒪᒃᑑᖅ,Nunavut,CA,67.6958,-107.9458,ardac,1.6,True
-NU66,Wager Bay,,Nunavut,CA,65.9333,-90.8167,ardac,4.4,True
-NU67,Whale Cove,Tikirarjuaq / ᑎᑭᕋᕐᔪᐊᖅ,Nunavut,CA,62.1708,-92.5778,ardac,1.1,True
+NU66,Wager Bay,,Nunavut,CA,65.9333,-90.8167,ardac,4.5,True
+NU67,Whale Cove,Tikirarjuaq / ᑎᑭᕋᕐᔪᐊᖅ,Nunavut,CA,62.1708,-92.5778,ardac,1.2,True
