@@ -261,11 +261,19 @@ def find_nearest_neighbors(
     results_df = results_df.drop(
         columns=[col for col in results_df.columns if "NN" in col]
     )
+    # handle case where no nearest neighbors are found with windowed read
+    if results_df.empty:
+        print("No nearest neighbors found for any communities.")
+        for i in range(k_nearest_neighbors):
+            results_df[f"ocean_lat{i+1}"] = None
+            results_df[f"ocean_lon{i+1}"] = None
+
     # if the community_df already has the columns we're adding, drop them from the community_df
     community_df = community_df.drop(
         columns=[col for col in results_df.columns if col in community_df.columns]
     )
     updated_community_df = pd.concat([community_df.reset_index(), results_df], axis=1)
+
     return updated_community_df
 
 
