@@ -1,450 +1,450 @@
-id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal
-FI1,Brändö,,Åland Islands,FI,60.4075,21.0786,ardac,4.6,True
-FI2,Eckerö,,Åland Islands,FI,60.2208,19.5589,ardac,1.3,True
-FI3,Finström,,Åland Islands,FI,60.2342,20.1139,ardac,0.6,True
-FI4,Föglö,,Åland Islands,FI,60.0989,20.3728,ardac,4.9,True
-FI5,Geta,,Åland Islands,FI,60.4183,19.7167,ardac,6.5,True
-FI6,Hammarland,,Åland Islands,FI,60.2447,19.6892,ardac,0.6,True
-FI7,Jomala,,Åland Islands,FI,60.1181,19.8989,ardac,2.0,True
-FI8,Kumlinge,,Åland Islands,FI,60.3992,20.7692,ardac,3.5,True
-FI9,Lemland,,Åland Islands,FI,60.0925,20.1544,ardac,0.7,True
-FI10,Mariehamn,,Åland Islands,FI,60.1026,19.9348,ardac,1.4,True
-FI11,Saltvik,,Åland Islands,FI,60.3575,20.1547,ardac,2.9,True
-FI12,Sund,,Åland Islands,FI,60.2361,20.2156,ardac,1.2,True
-FI13,Äänekoski,,Central Finland,FI,62.6,25.7333,ardac,188.6,False
-FI14,Hankasalmi,,Central Finland,FI,62.3833,26.4333,ardac,193.7,False
-FI15,Jämsä,,Central Finland,FI,61.8642,25.19,ardac,157.0,False
-FI16,Jämsänkoski,,Central Finland,FI,61.919,25.1701,ardac,162.9,False
-FI17,Joutsa,,Central Finland,FI,61.7333,26.1167,ardac,124.5,False
-FI18,Jyväskylä,,Central Finland,FI,62.2415,25.7209,ardac,184.9,False
-FI19,Kannonkoski,,Central Finland,FI,62.9667,25.25,ardac,141.0,False
-FI20,Karstula,,Central Finland,FI,62.8667,24.7833,ardac,132.0,False
-FI21,Keuruu,,Central Finland,FI,62.2667,24.7,ardac,166.9,False
-FI22,Kinnula,,Central Finland,FI,63.3833,24.95,ardac,97.7,True
-FI23,Kivijärvi,,Central Finland,FI,63.1198,25.0784,ardac,122.5,False
-FI24,Konnevesi,,Central Finland,FI,62.6167,26.3167,ardac,207.3,False
-FI25,Korpilahti,,Central Finland,FI,62.0167,25.55,ardac,164.1,False
-FI26,Kuhmoinen,,Central Finland,FI,61.5667,25.1833,ardac,127.4,False
-FI27,Kyyjärvi,,Central Finland,FI,63.0333,24.5667,ardac,111.4,False
-FI28,Laukaa,,Central Finland,FI,62.4141,25.9519,ardac,200.6,False
-FI29,Leivonmäki,,Central Finland,FI,61.912,26.128,ardac,143.8,False
-FI30,Luhanka,,Central Finland,FI,61.7968,25.7046,ardac,138.2,False
-FI31,Multia,,Central Finland,FI,62.4167,24.7833,ardac,159.0,False
-FI32,Muurame,,Central Finland,FI,62.1333,25.6667,ardac,174.2,False
-FI33,Petäjävesi,,Central Finland,FI,62.25,25.2,ardac,187.7,False
-FI34,Pihtipudas,,Central Finland,FI,63.3833,25.5667,ardac,121.6,False
-FI35,Pylkönmäki,,Central Finland,FI,62.6667,24.8,ardac,143.8,False
-FI36,Saarijärvi,,Central Finland,FI,62.7049,25.254,ardac,162.1,False
-FI37,Säynätsalo,,Central Finland,FI,62.1403,25.7695,ardac,173.3,False
-FI38,Sumiainen,,Central Finland,FI,62.6574,26.0464,ardac,194.3,False
-FI39,Suolahti,,Central Finland,FI,62.5642,25.8536,ardac,195.6,False
-FI40,Toivakka,,Central Finland,FI,62.1,26.0833,ardac,164.9,False
-FI41,Uurainen,,Central Finland,FI,62.5,25.45,ardac,182.3,False
-FI42,Viitasaari,,Central Finland,FI,63.0667,25.8667,ardac,156.2,False
-FI43,Halsua,,Central Ostrobothnia,FI,63.4667,24.1667,ardac,62.7,True
-FI44,Kälviä,,Central Ostrobothnia,FI,63.8607,23.4529,ardac,6.0,True
-FI45,Kannus,,Central Ostrobothnia,FI,63.9,23.9,ardac,20.5,True
-FI46,Kaustinen,,Central Ostrobothnia,FI,63.5488,23.6885,ardac,41.9,True
-FI47,Kokkola,,Central Ostrobothnia,FI,63.8541,23.5856,ardac,11.4,True
-FI48,Lestijärvi,,Central Ostrobothnia,FI,63.5333,24.65,ardac,75.5,True
-FI49,Lohtaja,,Central Ostrobothnia,FI,64.0247,23.5048,ardac,1.5,True
-FI50,Perho,,Central Ostrobothnia,FI,63.2167,24.4167,ardac,92.8,True
-FI51,Toholampi,,Central Ostrobothnia,FI,63.7667,24.25,ardac,43.4,True
-FI52,Ullava,,Central Ostrobothnia,FI,63.6,24.0833,ardac,48.9,True
-FI53,Veteli,,Central Ostrobothnia,FI,63.4784,23.7829,ardac,50.5,True
-FI54,Alastaro,,Southwest Finland,FI,60.95,22.85,ardac,62.5,True
-FI55,Askainen,,Southwest Finland,FI,60.5667,21.8667,ardac,2.6,True
-FI56,Aura,,Southwest Finland,FI,60.6471,22.5876,ardac,27.7,True
-FI57,Dragsfjärd,,Southwest Finland,FI,60.0667,22.4833,ardac,0.8,True
-FI58,Halikko,,Southwest Finland,FI,60.4,23.0833,ardac,4.9,True
-FI59,Houtskär,,Southwest Finland,FI,60.2228,21.3722,ardac,1.7,True
-FI60,Iniö,,Southwest Finland,FI,60.4,21.4,ardac,3.9,True
-FI61,Kaarina,,Southwest Finland,FI,60.4072,22.369,ardac,3.6,True
-FI62,Karinainen,,Southwest Finland,FI,60.6667,22.7667,ardac,30.8,True
-FI63,Kiikala,,Southwest Finland,FI,60.4667,23.5667,ardac,29.4,True
-FI64,Kimito,,Southwest Finland,FI,60.1605,22.729,ardac,5.0,True
-FI65,Kisko,,Southwest Finland,FI,60.2333,23.4833,ardac,18.1,True
-FI66,Kustavi,,Southwest Finland,FI,60.5453,21.3588,ardac,1.4,True
-FI67,Kuusjoki,,Southwest Finland,FI,60.5167,23.2,ardac,19.1,True
-FI68,Laitila,,Southwest Finland,FI,60.8758,21.6977,ardac,14.6,True
-FI69,Lemu,,Southwest Finland,FI,60.5667,21.9667,ardac,5.0,True
-FI70,Lieto,,Southwest Finland,FI,60.5103,22.4618,ardac,12.1,True
-FI71,Marttila,,Southwest Finland,FI,60.5833,22.9,ardac,25.4,True
-FI72,Masku,,Southwest Finland,FI,60.5708,22.0988,ardac,9.9,True
-FI73,Mellilä,,Southwest Finland,FI,60.7667,22.95,ardac,44.5,True
-FI74,Merimasku,,Southwest Finland,FI,60.4833,21.8667,ardac,0.7,True
-FI75,Mietoinen,,Southwest Finland,FI,60.6333,21.9333,ardac,5.1,True
-FI76,Muurla,,Southwest Finland,FI,60.35,23.2833,ardac,11.1,True
-FI77,Mynämäki,,Southwest Finland,FI,60.6792,21.9927,ardac,10.0,True
-FI78,Naantali,,Southwest Finland,FI,60.4674,22.0243,ardac,0.3,True
-FI79,Nagu,,Southwest Finland,FI,60.1938,21.9097,ardac,1.6,True
-FI80,Nousiainen,,Southwest Finland,FI,60.6042,22.0793,ardac,11.8,True
-FI81,Oripää,,Southwest Finland,FI,60.85,22.6833,ardac,50.3,True
-FI82,Paimio,,Southwest Finland,FI,60.4567,22.6869,ardac,7.3,True
-FI83,Pargas,,Southwest Finland,FI,60.3067,22.301,ardac,1.6,True
-FI84,Perniö,,Southwest Finland,FI,60.2,23.1333,ardac,9.3,True
-FI85,Pertteli,,Southwest Finland,FI,60.4333,23.2667,ardac,13.4,True
-FI86,Piikkiö,,Southwest Finland,FI,60.4248,22.516,ardac,3.1,True
-FI87,Pöytyä,,Southwest Finland,FI,60.7667,22.6667,ardac,41.0,True
-FI88,Pyhäranta,,Southwest Finland,FI,60.95,21.45,ardac,2.7,True
-FI89,Raisio,,Southwest Finland,FI,60.4859,22.169,ardac,4.6,True
-FI90,Rusko,,Southwest Finland,FI,60.5333,22.2167,ardac,10.1,True
-FI91,Rymättylä,,Southwest Finland,FI,60.3766,21.9418,ardac,0.5,True
-FI92,Salo,,Southwest Finland,FI,60.3833,23.1333,ardac,4.3,True
-FI93,Särkisalo,,Southwest Finland,FI,60.1139,22.95,ardac,0.5,True
-FI94,Sauvo,,Southwest Finland,FI,60.3431,22.6964,ardac,5.3,True
-FI95,Somero,,Southwest Finland,FI,60.6167,23.5333,ardac,38.1,True
-FI96,Suomusjärvi,,Southwest Finland,FI,60.35,23.65,ardac,31.3,True
-FI97,Taivassalo,,Southwest Finland,FI,60.5609,21.6164,ardac,2.1,True
-FI98,Tarvasjoki,,Southwest Finland,FI,60.5833,22.7333,ardac,21.3,True
-FI99,Turku,,Southwest Finland,FI,60.4515,22.2687,ardac,5.3,True
-FI100,Uusikaupunki,,Southwest Finland,FI,60.8004,21.4084,ardac,1.7,True
-FI101,Vahto,,Southwest Finland,FI,60.6,22.3,ardac,18.8,True
-FI102,Väståboland,,Southwest Finland,FI,60.2997,22.3004,ardac,1.2,True
-FI103,Västanfjärd,,Southwest Finland,FI,60.05,22.6833,ardac,2.5,True
-FI104,Vehmaa,,Southwest Finland,FI,60.6833,21.6667,ardac,10.7,True
-FI105,Velkua,,Southwest Finland,FI,60.4667,21.6667,ardac,0.8,True
-FI106,Yläne,,Southwest Finland,FI,60.8833,22.4167,ardac,42.1,True
-FI107,Hyrynsalmi,,Kainuu,FI,64.6667,28.5333,ardac,151.2,False
-FI108,Kajaani,,Kainuu,FI,64.2273,27.7285,ardac,133.3,False
-FI109,Kuhmo,,Kainuu,FI,64.1333,29.5167,ardac,215.8,False
-FI110,Paltamo,,Kainuu,FI,64.4167,27.8333,ardac,127.9,False
-FI111,Puolanka,,Kainuu,FI,64.8667,27.6667,ardac,106.1,False
-FI112,Ristijärvi,,Kainuu,FI,64.5,28.2167,ardac,142.1,False
-FI113,Sotkamo,,Kainuu,FI,64.1333,28.4167,ardac,167.6,False
-FI114,Suomussalmi,,Kainuu,FI,64.8869,28.9078,ardac,164.4,False
-FI115,Vaala,,Kainuu,FI,64.5667,26.8333,ardac,76.8,True
-FI116,Vuokatti,,Kainuu,FI,64.1447,28.282,ardac,161.3,False
-FI117,Vuolijoki,,Kainuu,FI,64.1854,26.9955,ardac,107.6,False
-FI118,Anjala,,Kymenlaakso,FI,60.6833,26.8333,ardac,8.7,True
-FI119,Elimäki,,Kymenlaakso,FI,60.7167,26.4667,ardac,11.6,True
-FI120,Hamina,,Kymenlaakso,FI,60.5697,27.1979,ardac,1.1,True
-FI121,Iitti,,Kymenlaakso,FI,60.8949,26.3387,ardac,32.0,True
-FI122,Jaala,,Kymenlaakso,FI,61.0525,26.4812,ardac,45.9,True
-FI123,Karhula,,Kymenlaakso,FI,60.5216,26.9313,ardac,4.0,True
-FI124,Kotka,,Kymenlaakso,FI,60.4664,26.9458,ardac,0.6,True
-FI125,Kouvola,,Kymenlaakso,FI,60.8667,26.7,ardac,24.1,True
-FI126,Miehikkälä,,Kymenlaakso,FI,60.6667,27.7,ardac,10.3,True
-FI127,Pyhtää,,Kymenlaakso,FI,60.4935,26.5435,ardac,2.0,True
-FI128,Virojoki,,Kymenlaakso,FI,60.5794,27.7035,ardac,2.1,True
-FI129,Enontekiö,,Lapland,FI,68.3857,23.6322,ardac,163.2,False
-FI130,Inari,,Lapland,FI,68.906,27.0288,ardac,126.9,False
-FI131,Ivalo,,Lapland,FI,68.6599,27.5389,ardac,133.9,False
-FI132,Kemi,,Lapland,FI,65.7364,24.5637,ardac,0.7,True
-FI133,Kemijärvi,,Lapland,FI,66.7131,27.4306,ardac,149.9,False
-FI134,Keminmaa,,Lapland,FI,65.8016,24.5448,ardac,0.8,True
-FI135,Kittilä,,Lapland,FI,67.6647,24.8936,ardac,194.6,False
-FI136,Kolari,,Lapland,FI,67.3305,23.7779,ardac,163.6,False
-FI137,Muonio,,Lapland,FI,67.95,23.7,ardac,208.5,False
-FI138,Pelkosenniemi,,Lapland,FI,67.1108,27.5106,ardac,180.8,False
-FI139,Pello,,Lapland,FI,66.7736,23.9626,ardac,102.0,False
-FI140,Posio,,Lapland,FI,66.1086,28.1719,ardac,145.5,False
-FI141,Pyhäjärvi,,Lapland,FI,67.0701,27.2176,ardac,168.9,False
-FI142,Ranua,,Lapland,FI,65.9167,26.5333,ardac,71.1,True
-FI143,Rovaniemi,,Lapland,FI,66.5,25.7167,ardac,78.9,True
-FI144,Salla,,Lapland,FI,66.8333,28.6667,ardac,142.7,False
-FI145,Savukoski,,Lapland,FI,67.2925,28.1581,ardac,160.9,False
-FI146,Simo,,Lapland,FI,65.6667,25.05,ardac,4.8,True
-FI147,Sodankylä,,Lapland,FI,67.4167,26.6,ardac,185.5,False
-FI148,Tervola,,Lapland,FI,66.0833,24.8,ardac,19.4,True
-FI149,Tornio,,Lapland,FI,65.8481,24.1466,ardac,2.9,True
-FI150,Utsjoki,,Lapland,FI,69.9086,27.0284,ardac,41.5,True
-FI151,Ylitornio,,Lapland,FI,66.3089,23.6773,ardac,53.2,True
-FI152,Eno,,North Karelia,FI,62.8051,30.1542,ardac,242.4,False
-FI153,Ilomantsi,,North Karelia,FI,62.6716,30.9328,ardac,244.7,False
-FI154,Joensuu,,North Karelia,FI,62.6012,29.7632,ardac,214.9,False
-FI155,Juuka,,North Karelia,FI,63.2333,29.25,ardac,262.8,False
-FI156,Kesälahti,,North Karelia,FI,61.8975,29.8349,ardac,142.5,False
-FI157,Kiihtelysvaara,,North Karelia,FI,62.4953,30.2508,ardac,211.9,False
-FI158,Kitee,,North Karelia,FI,62.1,30.15,ardac,169.9,False
-FI159,Kontiolahti,,North Karelia,FI,62.7602,29.8471,ardac,233.1,False
-FI160,Lieksa,,North Karelia,FI,63.3167,30.0167,ardac,266.9,False
-FI161,Liperi,,North Karelia,FI,62.5333,29.3667,ardac,203.2,False
-FI162,Nurmes,,North Karelia,FI,63.5421,29.1397,ardac,235.3,False
-FI163,Outokumpu,,North Karelia,FI,62.7269,29.0159,ardac,222.6,False
-FI164,Polvijärvi,,North Karelia,FI,62.85,29.3667,ardac,238.1,False
-FI165,Pyhäselkä,,North Karelia,FI,62.4333,29.9667,ardac,200.2,False
-FI166,Rääkkylä,,North Karelia,FI,62.3167,29.6167,ardac,182.4,False
-FI167,Tohmajärvi,,North Karelia,FI,62.1833,30.3833,ardac,183.7,False
-FI168,Tuupovaara,,North Karelia,FI,62.4837,30.6273,ardac,219.0,False
-FI169,Valtimo,,North Karelia,FI,63.6667,28.8,ardac,213.3,False
-FI170,Alavieska,,Northern Ostrobothnia,FI,64.1667,24.3,ardac,19.6,True
-FI171,Haapajärvi,,Northern Ostrobothnia,FI,63.75,25.3333,ardac,88.4,True
-FI172,Haapavesi,,Northern Ostrobothnia,FI,64.1333,25.3667,ardac,66.9,True
-FI173,Hailuoto,,Northern Ostrobothnia,FI,65.009,24.7139,ardac,0.7,True
-FI174,Haukipudas,,Northern Ostrobothnia,FI,65.1765,25.3523,ardac,3.7,True
-FI175,Himanka,,Northern Ostrobothnia,FI,64.0622,23.6545,ardac,2.4,True
-FI176,Ii,,Northern Ostrobothnia,FI,65.3174,25.3731,ardac,2.4,True
-FI177,Kalajoki,,Northern Ostrobothnia,FI,64.25,23.95,ardac,0.5,True
-FI178,Kärsämäki,,Northern Ostrobothnia,FI,63.9667,25.7667,ardac,93.9,True
-FI179,Kempele,,Northern Ostrobothnia,FI,64.9131,25.5034,ardac,5.5,True
-FI180,Kestilä,,Northern Ostrobothnia,FI,64.35,26.2792,ardac,70.0,True
-FI181,Kiiminki,,Northern Ostrobothnia,FI,65.1314,25.7974,ardac,20.7,True
-FI182,Kuivaniemi,,Northern Ostrobothnia,FI,65.5785,25.1881,ardac,1.8,True
-FI183,Kuusamo,,Northern Ostrobothnia,FI,65.9667,29.1833,ardac,175.0,False
-FI184,Liminka,,Northern Ostrobothnia,FI,64.8099,25.4155,ardac,3.7,True
-FI185,Lumijoki,,Northern Ostrobothnia,FI,64.8374,25.1861,ardac,1.5,True
-FI186,Merijärvi,,Northern Ostrobothnia,FI,64.3,24.45,ardac,20.8,True
-FI187,Muhos,,Northern Ostrobothnia,FI,64.808,25.9931,ardac,30.2,True
-FI188,Nivala,,Northern Ostrobothnia,FI,63.9167,24.9667,ardac,62.5,True
-FI189,Oulainen,,Northern Ostrobothnia,FI,64.2667,24.8,ardac,35.7,True
-FI190,Oulu,,Northern Ostrobothnia,FI,65.0124,25.4682,ardac,2.1,True
-FI191,Oulunsalo,,Northern Ostrobothnia,FI,64.9346,25.4112,ardac,1.7,True
-FI192,Piippola,,Northern Ostrobothnia,FI,64.1667,25.9667,ardac,79.9,True
-FI193,Pudasjärvi,,Northern Ostrobothnia,FI,65.3833,26.9167,ardac,72.8,True
-FI194,Pulkkila,,Northern Ostrobothnia,FI,64.2667,25.8667,ardac,67.7,True
-FI195,Pyhäjärvi,,Northern Ostrobothnia,FI,63.6667,25.9,ardac,116.6,False
-FI196,Pyhäjoki,,Northern Ostrobothnia,FI,64.4667,24.2333,ardac,1.3,True
-FI197,Pyhäntä,,Northern Ostrobothnia,FI,64.1,26.3167,ardac,94.2,True
-FI198,Raahe,,Northern Ostrobothnia,FI,64.6833,24.4833,ardac,1.9,True
-FI199,Rantsila,,Northern Ostrobothnia,FI,64.5061,25.6645,ardac,39.2,True
-FI200,Reisjärvi,,Northern Ostrobothnia,FI,63.6167,24.9,ardac,79.1,True
-FI201,Ruukki,,Northern Ostrobothnia,FI,64.6667,25.1,ardac,18.2,True
-FI202,Sievi,,Northern Ostrobothnia,FI,63.9,24.5,ardac,46.1,True
-FI203,Siikajoki,,Northern Ostrobothnia,FI,64.8146,24.7592,ardac,2.7,True
-FI204,Taivalkoski,,Northern Ostrobothnia,FI,65.5667,28.25,ardac,134.3,False
-FI205,Tyrnävä,,Northern Ostrobothnia,FI,64.7647,25.6523,ardac,15.9,True
-FI206,Utajärvi,,Northern Ostrobothnia,FI,64.75,26.3833,ardac,49.7,True
-FI207,Vihanti,,Northern Ostrobothnia,FI,64.4847,24.9916,ardac,31.3,True
-FI208,Yli-Ii,,Northern Ostrobothnia,FI,65.3718,25.8458,ardac,23.4,True
-FI209,Ylikiiminki,,Northern Ostrobothnia,FI,65.0833,26.25,ardac,39.6,True
-FI210,Ylivieska,,Northern Ostrobothnia,FI,64.0833,24.55,ardac,35.0,True
-FI211,Hietalahti,,Ostrobothnia,FI,63.0848,21.6172,ardac,1.9,True
-FI212,Isokyrö,,Ostrobothnia,FI,63.0117,22.3333,ardac,23.1,True
-FI213,Jakobstad,,Ostrobothnia,FI,63.6749,22.7026,ardac,0.5,True
-FI214,Kaskinen,,Ostrobothnia,FI,62.3844,21.2233,ardac,1.3,True
-FI215,Korsholm,,Ostrobothnia,FI,63.1142,21.6822,ardac,5.7,True
-FI216,Korsnäs,,Ostrobothnia,FI,62.7833,21.2,ardac,0.9,True
-FI217,Kristinestad,,Ostrobothnia,FI,62.2743,21.376,ardac,0.8,True
-FI218,Kronoby,,Ostrobothnia,FI,63.7286,23.0339,ardac,4.2,True
-FI219,Laihia,,Ostrobothnia,FI,62.9761,22.0114,ardac,17.4,True
-FI220,Larsmo,,Ostrobothnia,FI,63.7539,22.7473,ardac,2.0,True
-FI221,Malax,,Ostrobothnia,FI,62.9423,21.5731,ardac,5.7,True
-FI222,Nykarleby,,Ostrobothnia,FI,63.5228,22.5307,ardac,4.3,True
-FI223,Oravais,,Ostrobothnia,FI,63.3014,22.3782,ardac,1.4,True
-FI224,Pedersöre,,Ostrobothnia,FI,63.65,22.6833,ardac,1.3,True
-FI225,Replot,,Ostrobothnia,FI,63.2288,21.4169,ardac,0.5,True
-FI226,Ristinummi,,Ostrobothnia,FI,63.0919,21.723,ardac,5.6,True
-FI227,Teeriniemi,,Ostrobothnia,FI,63.0971,21.6959,ardac,5.3,True
-FI228,Vaasa,,Ostrobothnia,FI,63.096,21.6158,ardac,2.3,True
-FI229,Vähäkyrö,,Ostrobothnia,FI,63.0564,22.1058,ardac,11.5,True
-FI230,Vörå,,Ostrobothnia,FI,63.1361,22.2522,ardac,11.5,True
-FI231,Artjärvi,,Päijät-Häme,FI,60.7454,26.0708,ardac,29.9,True
-FI232,Asikkala,,Päijät-Häme,FI,61.2167,25.5,ardac,84.9,True
-FI233,Auttoinen,,Päijät-Häme,FI,61.299,25.0889,ardac,101.7,False
-FI234,Hämeenkoski,,Päijät-Häme,FI,61.0222,25.1542,ardac,73.3,True
-FI235,Hartola,,Päijät-Häme,FI,61.5833,26.0167,ardac,110.0,False
-FI236,Heinola,,Päijät-Häme,FI,61.2056,26.0381,ardac,70.5,True
-FI237,Hollola,,Päijät-Häme,FI,61.05,25.4333,ardac,68.6,True
-FI238,Lahti,,Päijät-Häme,FI,60.9827,25.6615,ardac,57.4,True
-FI239,Nastola,,Päijät-Häme,FI,60.95,25.9333,ardac,50.8,True
-FI240,Orimattila,,Päijät-Häme,FI,60.8049,25.7296,ardac,37.2,True
-FI241,Padasjoki,,Päijät-Häme,FI,61.35,25.2833,ardac,102.8,False
-FI242,Sysmä,,Päijät-Häme,FI,61.5,25.6833,ardac,108.6,False
-FI243,Äetsä,,Pirkanmaa,FI,61.2833,22.6833,ardac,58.2,True
-FI244,Aimala,,Pirkanmaa,FI,61.33,23.69,ardac,107.7,False
-FI245,Aitoo,,Pirkanmaa,FI,61.339,24.4943,ardac,123.2,False
-FI246,Akaa,,Pirkanmaa,FI,61.1667,23.8681,ardac,99.7,True
-FI247,Amuri,,Pirkanmaa,FI,61.5,23.745,ardac,108.1,False
-FI248,Haihara,,Pirkanmaa,FI,61.4763,23.8771,ardac,115.3,False
-FI249,Hallila,,Pirkanmaa,FI,61.4625,23.8292,ardac,112.9,False
-FI250,Hämeenkyrö,,Pirkanmaa,FI,61.6333,23.2,ardac,79.6,True
-FI251,Hervanta,,Pirkanmaa,FI,61.4481,23.8521,ardac,114.2,False
-FI252,Ikaalinen,,Pirkanmaa,FI,61.7694,23.0681,ardac,76.4,True
-FI253,Juupajoki,,Pirkanmaa,FI,61.7967,24.37,ardac,143.5,False
-FI254,Kangasala,,Pirkanmaa,FI,61.4639,24.065,ardac,125.4,False
-FI255,Kihniö,,Pirkanmaa,FI,62.2083,23.1792,ardac,93.2,True
-FI256,Kiikka,,Pirkanmaa,FI,61.3208,22.7754,ardac,61.0,True
-FI257,Kiikoinen,,Pirkanmaa,FI,61.45,22.575,ardac,46.5,True
-FI258,Kolho,,Pirkanmaa,FI,62.1333,24.5167,ardac,161.0,False
-FI259,Kuhmalahti,,Pirkanmaa,FI,61.505,24.5667,ardac,135.9,False
-FI260,Kuru,,Pirkanmaa,FI,61.8756,23.7195,ardac,112.6,False
-FI261,Kylmäkoski,,Pirkanmaa,FI,61.15,23.6917,ardac,94.3,True
-FI262,Längelmäki,,Pirkanmaa,FI,61.6889,24.6919,ardac,150.3,False
-FI263,Lempäälä,,Pirkanmaa,FI,61.3139,23.7528,ardac,111.4,False
-FI264,Lentävänniemi,,Pirkanmaa,FI,61.528,23.7058,ardac,105.9,False
-FI265,Lielahti,,Pirkanmaa,FI,61.5167,23.6667,ardac,103.9,False
-FI266,Luopioinen,,Pirkanmaa,FI,61.3629,24.6678,ardac,119.6,False
-FI267,Mänttä,,Pirkanmaa,FI,62.0301,24.6279,ardac,163.1,False
-FI268,Messukylä,,Pirkanmaa,FI,61.4853,23.8447,ardac,113.5,False
-FI269,Mouhijärvi,,Pirkanmaa,FI,61.5,23.0167,ardac,69.3,True
-FI270,Naistenmatka,,Pirkanmaa,FI,61.4652,23.6525,ardac,103.5,False
-FI271,Nekala,,Pirkanmaa,FI,61.4833,23.7906,ardac,110.7,False
-FI272,Nokia,,Pirkanmaa,FI,61.4767,23.5053,ardac,95.5,True
-FI273,Nurmi,,Pirkanmaa,FI,61.5378,23.9418,ardac,118.5,False
-FI274,Nuutajärvi,,Pirkanmaa,FI,61.04,23.43,ardac,78.5,True
-FI275,Orivesi,,Pirkanmaa,FI,61.6778,24.3569,ardac,141.1,False
-FI276,Osara,,Pirkanmaa,FI,61.7087,23.1587,ardac,79.0,True
-FI277,Pälkäne,,Pirkanmaa,FI,61.354,24.5191,ardac,123.7,False
-FI278,Parkano,,Pirkanmaa,FI,62.0097,23.025,ardac,83.1,True
-FI279,Pirkkala,,Pirkanmaa,FI,61.4667,23.65,ardac,103.3,False
-FI280,Pispala,,Pirkanmaa,FI,61.5061,23.7025,ardac,105.8,False
-FI281,Pohjaslahti,,Pirkanmaa,FI,62.1563,24.1319,ardac,142.7,False
-FI282,Punkalaidun,,Pirkanmaa,FI,61.1117,23.105,ardac,83.4,True
-FI283,Ruovesi,,Pirkanmaa,FI,61.9833,24.0833,ardac,134.5,False
-FI284,Sääksmäki,,Pirkanmaa,FI,61.2,24.0667,ardac,107.9,False
-FI285,Sahalahti,,Pirkanmaa,FI,61.4667,24.3167,ardac,138.8,False
-FI286,Sastamala,,Pirkanmaa,FI,61.3417,22.9083,ardac,66.9,True
-FI287,Suodenniemi,,Pirkanmaa,FI,61.5581,22.7853,ardac,57.0,True
-FI288,Suoniemi,,Pirkanmaa,FI,61.4411,23.215,ardac,80.5,True
-FI289,Tampere,,Pirkanmaa,FI,61.4981,23.76,ardac,108.9,False
-FI290,Teisko,,Pirkanmaa,FI,61.6734,23.8477,ardac,114.2,False
-FI291,Toijala,,Pirkanmaa,FI,61.1678,23.8382,ardac,99.1,True
-FI292,Tottijärvi,,Pirkanmaa,FI,61.3978,23.3428,ardac,88.0,True
-FI293,Urjala,,Pirkanmaa,FI,61.0833,23.55,ardac,84.8,True
-FI294,Valkeakoski,,Pirkanmaa,FI,61.2667,24.0306,ardac,113.5,False
-FI295,Vammala,,Pirkanmaa,FI,61.3403,22.9097,ardac,67.0,True
-FI296,Vesilahti,,Pirkanmaa,FI,61.3167,23.6167,ardac,104.3,False
-FI297,Viiala,,Pirkanmaa,FI,61.2102,23.7674,ardac,102.0,False
-FI298,Viljakkala,,Pirkanmaa,FI,61.706,23.2669,ardac,84.5,True
-FI299,Vilppula,,Pirkanmaa,FI,62.0212,24.5048,ardac,156.6,False
-FI300,Virrat,,Pirkanmaa,FI,62.2403,23.7708,ardac,124.0,False
-FI301,Vuores,,Pirkanmaa,FI,61.431,23.8118,ardac,112.3,False
-FI302,Ylöjärvi,,Pirkanmaa,FI,61.55,23.5833,ardac,99.4,True
-FI303,Eura,,Satakunta,FI,61.1333,22.1333,ardac,32.0,True
-FI304,Eurajoki,,Satakunta,FI,61.2,21.7333,ardac,9.4,True
-FI305,Harjavalta,,Satakunta,FI,61.3167,22.1333,ardac,31.6,True
-FI306,Huittinen,,Satakunta,FI,61.1833,22.7,ardac,61.5,True
-FI307,Jämijärvi,,Satakunta,FI,61.8167,22.7,ardac,60.2,True
-FI308,Kankaanpää,,Satakunta,FI,61.8,22.4167,ardac,45.3,True
-FI309,Karvia,,Satakunta,FI,62.1333,22.5667,ardac,62.1,True
-FI310,Kiukainen,,Satakunta,FI,61.2167,22.0833,ardac,28.3,True
-FI311,Kokemäki,,Satakunta,FI,61.2565,22.3564,ardac,43.3,True
-FI312,Köyliö,,Satakunta,FI,61.1191,22.3098,ardac,41.7,True
-FI313,Kullaa,,Satakunta,FI,61.47,22.1615,ardac,24.4,True
-FI314,Längelmäki,,Satakunta,FI,61.65,22.1,ardac,24.5,True
-FI315,Lappi,,Satakunta,FI,61.1,21.8333,ardac,18.9,True
-FI316,Lavia,,Satakunta,FI,61.6,22.6,ardac,47.6,True
-FI317,Luvia,,Satakunta,FI,61.3638,21.6256,ardac,5.2,True
-FI318,Merikarvia,,Satakunta,FI,61.8584,21.5004,ardac,3.3,True
-FI319,Nakkila,,Satakunta,FI,61.3667,22.0,ardac,22.9,True
-FI320,Noormarkku,,Satakunta,FI,61.5927,21.8685,ardac,10.9,True
-FI321,Pomarkku,,Satakunta,FI,61.6935,22.0086,ardac,22.4,True
-FI322,Pori,,Satakunta,FI,61.4833,21.7833,ardac,5.4,True
-FI323,Rauma,,Satakunta,FI,61.1272,21.5113,ardac,3.2,True
-FI324,Säkylä,,Satakunta,FI,61.0333,22.3333,ardac,46.1,True
-FI325,Siikainen,,Satakunta,FI,61.877,21.8195,ardac,19.0,True
-FI326,Ulvila,,Satakunta,FI,61.4284,21.871,ardac,13.1,True
-FI327,Vampula,,Satakunta,FI,61.0167,22.7,ardac,63.4,True
-FI328,Imatra,,South Karelia,FI,61.1719,28.7524,ardac,48.5,True
-FI329,Joutseno,,South Karelia,FI,61.118,28.5076,ardac,43.7,True
-FI330,Lappeenranta,,South Karelia,FI,61.0587,28.1887,ardac,45.0,True
-FI331,Lemi,,South Karelia,FI,61.0624,27.8057,ardac,53.9,True
-FI332,Luumäki,,South Karelia,FI,60.9262,27.5814,ardac,40.0,True
-FI333,Nuijamaa,,South Karelia,FI,60.9601,28.551,ardac,26.0,True
-FI334,Parikkala,,South Karelia,FI,61.55,29.5,ardac,100.0,False
-FI335,Rautjärvi,,South Karelia,FI,61.4333,29.35,ardac,84.9,True
-FI336,Ruokolahti,,South Karelia,FI,61.2833,28.8333,ardac,61.3,True
-FI337,Saari,,South Karelia,FI,61.65,29.75,ardac,116.0,False
-FI338,Savitaipale,,South Karelia,FI,61.2,27.7,ardac,69.4,True
-FI339,Taipalsaari,,South Karelia,FI,61.15,28.05,ardac,57.4,True
-FI340,Ylämaa,,South Karelia,FI,60.8,28.0,ardac,26.6,True
-FI341,Ähtäri,,Southern Ostrobothnia,FI,62.554,24.0619,ardac,120.6,False
-FI342,Alahärmä,,Southern Ostrobothnia,FI,63.2333,22.85,ardac,26.0,True
-FI343,Alajärvi,,Southern Ostrobothnia,FI,63.0,23.8167,ardac,81.6,True
-FI344,Alavus,,Southern Ostrobothnia,FI,62.5833,23.6167,ardac,102.4,False
-FI345,Evijärvi,,Southern Ostrobothnia,FI,63.3667,23.4833,ardac,45.4,True
-FI346,Ilmajoki,,Southern Ostrobothnia,FI,62.7333,22.5667,ardac,54.7,True
-FI347,Isojoki,,Southern Ostrobothnia,FI,62.1132,21.9588,ardac,31.4,True
-FI348,Jalasjärvi,,Southern Ostrobothnia,FI,62.5,22.75,ardac,74.6,True
-FI349,Jurva,,Southern Ostrobothnia,FI,62.6833,21.9833,ardac,37.6,True
-FI350,Karijoki,,Southern Ostrobothnia,FI,62.3085,21.7086,ardac,17.9,True
-FI351,Kauhajoki,,Southern Ostrobothnia,FI,62.4333,22.1833,ardac,44.5,True
-FI352,Kauhava,,Southern Ostrobothnia,FI,63.103,23.0713,ardac,42.7,True
-FI353,Kortesjärvi,,Southern Ostrobothnia,FI,63.3,23.1667,ardac,39.9,True
-FI354,Kuortane,,Southern Ostrobothnia,FI,62.8,23.5,ardac,80.6,True
-FI355,Kurikka,,Southern Ostrobothnia,FI,62.6167,22.4167,ardac,59.2,True
-FI356,Lappajärvi,,Southern Ostrobothnia,FI,63.2,23.6333,ardac,64.3,True
-FI357,Lapua,,Southern Ostrobothnia,FI,62.9693,23.0088,ardac,49.3,True
-FI358,Lehtimäki,,Southern Ostrobothnia,FI,62.7833,23.9167,ardac,98.4,True
-FI359,Nurmo,,Southern Ostrobothnia,FI,62.8287,22.9099,ardac,58.4,True
-FI360,Seinäjoki,,Southern Ostrobothnia,FI,62.7945,22.8282,ardac,58.2,True
-FI361,Soini,,Southern Ostrobothnia,FI,62.8667,24.2167,ardac,106.7,False
-FI362,Teuva,,Southern Ostrobothnia,FI,62.4819,21.7416,ardac,25.0,True
-FI363,Töysä,,Southern Ostrobothnia,FI,62.628,23.8183,ardac,105.8,False
-FI364,Vimpeli,,Southern Ostrobothnia,FI,63.1619,23.8192,ardac,73.7,True
-FI365,Ylihärmä,,Southern Ostrobothnia,FI,63.15,22.7833,ardac,27.4,True
-FI366,Ylistaro,,Southern Ostrobothnia,FI,62.9396,22.5131,ardac,35.3,True
-FI367,Enonkoski,,South Savo,FI,62.0833,28.9333,ardac,150.6,False
-FI368,Haukivuori,,South Savo,FI,62.0175,27.2191,ardac,154.9,False
-FI369,Heinävesi,,South Savo,FI,62.4333,28.6,ardac,189.5,False
-FI370,Hirvensalmi,,South Savo,FI,61.6333,26.8,ardac,109.7,False
-FI371,Jäppilä,,South Savo,FI,62.379,27.4337,ardac,195.8,False
-FI372,Joroinen,,South Savo,FI,62.1782,27.8317,ardac,167.8,False
-FI373,Juva,,South Savo,FI,61.9,27.85,ardac,137.9,False
-FI374,Kangasniemi,,South Savo,FI,61.9936,26.6479,ardac,149.7,False
-FI375,Kerimäki,,South Savo,FI,61.9107,29.2823,ardac,134.3,False
-FI376,Mäntyharju,,South Savo,FI,61.4167,26.8833,ardac,86.1,True
-FI377,Mikkeli,,South Savo,FI,61.6886,27.2723,ardac,119.9,False
-FI378,Pertunmaa,,South Savo,FI,61.5,26.4833,ardac,95.3,True
-FI379,Pieksämäki,,South Savo,FI,62.3,27.1333,ardac,185.3,False
-FI380,Punkaharju,,South Savo,FI,61.7588,29.3884,ardac,119.5,False
-FI381,Puumala,,South Savo,FI,61.5273,28.175,ardac,92.7,True
-FI382,Rantasalmi,,South Savo,FI,62.0667,28.3,ardac,150.1,False
-FI383,Ristiina,,South Savo,FI,61.5058,27.2464,ardac,100.1,False
-FI384,Savonlinna,,South Savo,FI,61.8699,28.88,ardac,126.7,False
-FI385,Savonranta,,South Savo,FI,62.1833,29.2,ardac,163.3,False
-FI386,Sulkava,,South Savo,FI,61.7869,28.373,ardac,118.6,False
-FI387,Virtasalmi,,South Savo,FI,62.127,27.4628,ardac,169.1,False
-FI388,Forssa,,Kanta-Häme,FI,60.8146,23.6215,ardac,58.9,True
-FI389,Hämeenlinna,,Kanta-Häme,FI,60.996,24.4643,ardac,91.9,True
-FI390,Hauho,,Kanta-Häme,FI,61.1726,24.563,ardac,106.9,False
-FI391,Hausjärvi,,Kanta-Häme,FI,60.7833,24.9333,ardac,60.7,True
-FI392,Humppila,,Kanta-Häme,FI,60.9333,23.3667,ardac,66.2,True
-FI393,Janakkala,,Kanta-Häme,FI,60.9,24.6,ardac,79.9,True
-FI394,Jokioinen,,Kanta-Häme,FI,60.8016,23.48,ardac,54.2,True
-FI395,Kalvola,,Kanta-Häme,FI,61.1008,24.1218,ardac,100.2,False
-FI396,Lammi,,Kanta-Häme,FI,61.0833,25.0167,ardac,83.2,True
-FI397,Loppi,,Kanta-Häme,FI,60.7167,24.45,ardac,62.1,True
-FI398,Renko,,Kanta-Häme,FI,60.8956,24.2879,ardac,83.9,True
-FI399,Riihimäki,,Kanta-Häme,FI,60.7377,24.7773,ardac,59.8,True
-FI400,Tammela,,Kanta-Häme,FI,60.8104,23.7682,ardac,62.9,True
-FI401,Tervakoski,,Kanta-Häme,FI,60.8141,24.6259,ardac,70.2,True
-FI402,Tuulos,,Kanta-Häme,FI,61.15,24.8,ardac,96.4,True
-FI403,Ypäjä,,Kanta-Häme,FI,60.8,23.2833,ardac,50.7,True
-FI404,Askola,,Uusimaa,FI,60.5333,25.6,ardac,18.3,True
-FI405,Ekenäs,,Uusimaa,FI,59.9736,23.4339,ardac,0.4,True
-FI406,Espoo,,Uusimaa,FI,60.2052,24.6522,ardac,7.3,True
-FI407,Gumböle,,Uusimaa,FI,60.2195,24.6168,ardac,7.7,True
-FI408,Hanko,,Uusimaa,FI,59.8333,22.95,ardac,1.5,True
-FI409,Helsinki,,Uusimaa,FI,60.1695,24.9355,ardac,2.5,True
-FI410,Hyvinge,,Uusimaa,FI,60.6333,24.8667,ardac,47.1,True
-FI411,Ingå,,Uusimaa,FI,60.0459,24.0046,ardac,0.9,True
-FI412,Järvenpää,,Uusimaa,FI,60.4737,25.0899,ardac,25.7,True
-FI413,Kaarela,,Uusimaa,FI,60.2517,24.8811,ardac,6.7,True
-FI414,Kallio,,Uusimaa,FI,60.1843,24.9503,ardac,2.5,True
-FI415,Karis,,Uusimaa,FI,60.0718,23.6616,ardac,6.4,True
-FI416,Karjalohja,,Uusimaa,FI,60.2402,23.7179,ardac,20.8,True
-FI417,Karkkila,,Uusimaa,FI,60.5342,24.2098,ardac,46.4,True
-FI418,Kärkölä,,Uusimaa,FI,60.6129,23.942,ardac,55.1,True
-FI419,Kauniainen,,Uusimaa,FI,60.2121,24.7276,ardac,5.0,True
-FI420,Kellokoski,,Uusimaa,FI,60.5327,25.1092,ardac,31.2,True
-FI421,Kerava,,Uusimaa,FI,60.4034,25.105,ardac,18.4,True
-FI422,Kilo,,Uusimaa,FI,60.2175,24.7815,ardac,3.3,True
-FI423,Kirkkonummi,,Uusimaa,FI,60.1238,24.4385,ardac,6.7,True
-FI424,Koukkuniemi,,Uusimaa,FI,60.1526,24.7647,ardac,1.2,True
-FI425,Lapinjärvi,,Uusimaa,FI,60.6244,26.1972,ardac,19.5,True
-FI426,Lauttasaari,,Uusimaa,FI,60.159,24.868,ardac,0.3,True
-FI427,Liljendal,,Uusimaa,FI,60.5735,26.0526,ardac,11.5,True
-FI428,Lohja,,Uusimaa,FI,60.2486,24.0653,ardac,23.3,True
-FI429,Lovisa,,Uusimaa,FI,60.4566,26.2251,ardac,0.8,True
-FI430,Mäntsälä,,Uusimaa,FI,60.6333,25.3167,ardac,35.8,True
-FI431,Mellunkylä,,Uusimaa,FI,60.2336,25.0995,ardac,3.1,True
-FI432,Munkkiniemi,,Uusimaa,FI,60.1986,24.8777,ardac,2.0,True
-FI433,Myrskylä,,Uusimaa,FI,60.6697,25.8475,ardac,21.0,True
-FI434,Nurmijärvi,,Uusimaa,FI,60.4641,24.8073,ardac,30.1,True
-FI435,Otaniemi,,Uusimaa,FI,60.184,24.8279,ardac,1.4,True
-FI436,Pernå,,Uusimaa,FI,60.4487,26.0319,ardac,1.6,True
-FI437,Pohja,,Uusimaa,FI,60.0963,23.5276,ardac,2.7,True
-FI438,Pornainen,,Uusimaa,FI,60.4758,25.3749,ardac,18.6,True
-FI439,Porvoo,,Uusimaa,FI,60.3923,25.6651,ardac,3.1,True
-FI440,Pukkila,,Uusimaa,FI,60.65,25.5667,ardac,26.7,True
-FI441,Raaseporin,,Uusimaa,FI,60.0027,23.555,ardac,2.8,True
-FI442,Ruotsinpyhtää,,Uusimaa,FI,60.5268,26.462,ardac,2.1,True
-FI443,Sammatti,,Uusimaa,FI,60.3199,23.8209,ardac,31.2,True
-FI444,Sibbo,,Uusimaa,FI,60.3775,25.2691,ardac,12.0,True
-FI445,Siuntio,,Uusimaa,FI,60.1386,24.2272,ardac,8.4,True
-FI446,Tuusula,,Uusimaa,FI,60.4037,25.0264,ardac,20.1,True
-FI447,Vantaa,,Uusimaa,FI,60.2941,25.041,ardac,9.3,True
-FI448,Vihti,,Uusimaa,FI,60.417,24.3197,ardac,32.0,True
-FI449,Vuosaari,,Uusimaa,FI,60.2096,25.142,ardac,1.7,True
+id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal,ocean_lat1,ocean_lon1
+FI1,Brändö,,Åland Islands,FI,60.4075,21.0786,ardac,4.6,True,60.3428,21.1722
+FI2,Eckerö,,Åland Islands,FI,60.2208,19.5589,ardac,1.3,True,60.1571,19.6549
+FI3,Finström,,Åland Islands,FI,60.2342,20.1139,ardac,0.6,True,60.1701,20.2089
+FI4,Föglö,,Åland Islands,FI,60.0989,20.3728,ardac,4.9,True,60.0347,20.467
+FI5,Geta,,Åland Islands,FI,60.4183,19.7167,ardac,6.5,True,60.3545,19.8129
+FI6,Hammarland,,Åland Islands,FI,60.2447,19.6892,ardac,0.6,True,60.1809,19.785
+FI7,Jomala,,Åland Islands,FI,60.1181,19.8989,ardac,2.0,True,60.0542,19.994
+FI8,Kumlinge,,Åland Islands,FI,60.3992,20.7692,ardac,3.5,True,60.3347,20.8634
+FI9,Lemland,,Åland Islands,FI,60.0925,20.1544,ardac,0.7,True,60.0284,20.249
+FI10,Mariehamn,,Åland Islands,FI,60.1026,19.9348,ardac,1.4,True,60.0387,20.0298
+FI11,Saltvik,,Åland Islands,FI,60.3575,20.1547,ardac,2.9,True,60.2934,20.25
+FI12,Sund,,Åland Islands,FI,60.2361,20.2156,ardac,1.2,True,60.172,20.3104
+FI13,Äänekoski,,Central Finland,FI,62.6,25.7333,ardac,188.6,False,63.3359,22.3648
+FI14,Hankasalmi,,Central Finland,FI,62.3833,26.4333,ardac,193.7,False,60.5383,26.585
+FI15,Jämsä,,Central Finland,FI,61.8642,25.19,ardac,157.0,False,60.4423,25.9363
+FI16,Jämsänkoski,,Central Finland,FI,61.919,25.1701,ardac,162.9,False,60.4971,25.9181
+FI17,Joutsa,,Central Finland,FI,61.7333,26.1167,ardac,124.5,False,60.4955,26.5927
+FI18,Jyväskylä,,Central Finland,FI,62.2415,25.7209,ardac,184.9,False,60.4774,26.6035
+FI19,Kannonkoski,,Central Finland,FI,62.9667,25.25,ardac,141.0,False,63.3298,22.3856
+FI20,Karstula,,Central Finland,FI,62.8667,24.7833,ardac,132.0,False,63.3481,22.3274
+FI21,Keuruu,,Central Finland,FI,62.2667,24.7,ardac,166.9,False,62.3368,21.4448
+FI22,Kinnula,,Central Finland,FI,63.3833,24.95,ardac,97.7,True,64.1178,23.289
+FI23,Kivijärvi,,Central Finland,FI,63.1198,25.0784,ardac,122.5,False,64.0387,23.1603
+FI24,Konnevesi,,Central Finland,FI,62.6167,26.3167,ardac,207.3,False,63.4218,22.2782
+FI25,Korpilahti,,Central Finland,FI,62.0167,25.55,ardac,164.1,False,60.5569,26.5915
+FI26,Kuhmoinen,,Central Finland,FI,61.5667,25.1833,ardac,127.4,False,60.4489,26.0738
+FI27,Kyyjärvi,,Central Finland,FI,63.0333,24.5667,ardac,111.4,False,63.33,22.3706
+FI28,Laukaa,,Central Finland,FI,62.4141,25.9519,ardac,200.6,False,63.3365,22.3352
+FI29,Leivonmäki,,Central Finland,FI,61.912,26.128,ardac,143.8,False,60.4859,26.8347
+FI30,Luhanka,,Central Finland,FI,61.7968,25.7046,ardac,138.2,False,60.4083,26.1209
+FI31,Multia,,Central Finland,FI,62.4167,24.7833,ardac,159.0,False,63.3873,22.2182
+FI32,Muurame,,Central Finland,FI,62.1333,25.6667,ardac,174.2,False,60.5211,26.6276
+FI33,Petäjävesi,,Central Finland,FI,62.25,25.2,ardac,187.7,False,62.3571,21.6168
+FI34,Pihtipudas,,Central Finland,FI,63.3833,25.5667,ardac,121.6,False,64.0312,23.1514
+FI35,Pylkönmäki,,Central Finland,FI,62.6667,24.8,ardac,143.8,False,63.3023,22.4256
+FI36,Saarijärvi,,Central Finland,FI,62.7049,25.254,ardac,162.1,False,63.4034,22.2046
+FI37,Säynätsalo,,Central Finland,FI,62.1403,25.7695,ardac,173.3,False,60.5275,26.7256
+FI38,Sumiainen,,Central Finland,FI,62.6574,26.0464,ardac,194.3,False,63.9862,23.3012
+FI39,Suolahti,,Central Finland,FI,62.5642,25.8536,ardac,195.6,False,63.3302,22.1517
+FI40,Toivakka,,Central Finland,FI,62.1,26.0833,ardac,164.9,False,60.5225,26.7159
+FI41,Uurainen,,Central Finland,FI,62.5,25.45,ardac,182.3,False,63.3837,22.1501
+FI42,Viitasaari,,Central Finland,FI,63.0667,25.8667,ardac,156.2,False,64.056,23.2819
+FI43,Halsua,,Central Ostrobothnia,FI,63.4667,24.1667,ardac,62.7,True,64.1356,23.181
+FI44,Kälviä,,Central Ostrobothnia,FI,63.8607,23.4529,ardac,6.0,True,64.1313,23.3506
+FI45,Kannus,,Central Ostrobothnia,FI,63.9,23.9,ardac,20.5,True,64.0477,23.3794
+FI46,Kaustinen,,Central Ostrobothnia,FI,63.5488,23.6885,ardac,41.9,True,63.8785,22.8981
+FI47,Kokkola,,Central Ostrobothnia,FI,63.8541,23.5856,ardac,11.4,True,63.9712,23.4114
+FI48,Lestijärvi,,Central Ostrobothnia,FI,63.5333,24.65,ardac,75.5,True,64.0817,23.251
+FI49,Lohtaja,,Central Ostrobothnia,FI,64.0247,23.5048,ardac,1.5,True,63.9882,23.2569
+FI50,Perho,,Central Ostrobothnia,FI,63.2167,24.4167,ardac,92.8,True,64.0702,23.1697
+FI51,Toholampi,,Central Ostrobothnia,FI,63.7667,24.25,ardac,43.4,True,64.0993,23.4603
+FI52,Ullava,,Central Ostrobothnia,FI,63.6,24.0833,ardac,48.9,True,64.0853,23.3685
+FI53,Veteli,,Central Ostrobothnia,FI,63.4784,23.7829,ardac,50.5,True,63.5293,22.5149
+FI54,Alastaro,,Southwest Finland,FI,60.95,22.85,ardac,62.5,True,60.5046,21.8269
+FI55,Askainen,,Southwest Finland,FI,60.5667,21.8667,ardac,2.6,True,60.5015,21.9592
+FI56,Aura,,Southwest Finland,FI,60.6471,22.5876,ardac,27.7,True,60.482,21.998
+FI57,Dragsfjärd,,Southwest Finland,FI,60.0667,22.4833,ardac,0.8,True,60.0011,22.5734
+FI58,Halikko,,Southwest Finland,FI,60.4,23.0833,ardac,4.9,True,60.2091,22.804
+FI59,Houtskär,,Southwest Finland,FI,60.2228,21.3722,ardac,1.7,True,60.1579,21.4648
+FI60,Iniö,,Southwest Finland,FI,60.4,21.4,ardac,3.9,True,60.3351,21.493
+FI61,Kaarina,,Southwest Finland,FI,60.4072,22.369,ardac,3.6,True,60.3688,22.1503
+FI62,Karinainen,,Southwest Finland,FI,60.6667,22.7667,ardac,30.8,True,60.2938,22.7377
+FI63,Kiikala,,Southwest Finland,FI,60.4667,23.5667,ardac,29.4,True,60.0941,23.5293
+FI64,Kimito,,Southwest Finland,FI,60.1605,22.729,ardac,5.0,True,60.0948,22.8188
+FI65,Kisko,,Southwest Finland,FI,60.2333,23.4833,ardac,18.1,True,60.0139,23.5093
+FI66,Kustavi,,Southwest Finland,FI,60.5453,21.3588,ardac,1.4,True,60.4804,21.4522
+FI67,Kuusjoki,,Southwest Finland,FI,60.5167,23.2,ardac,19.1,True,60.3541,22.6097
+FI68,Laitila,,Southwest Finland,FI,60.8758,21.6977,ardac,14.6,True,60.8363,21.4767
+FI69,Lemu,,Southwest Finland,FI,60.5667,21.9667,ardac,5.0,True,60.5276,21.7475
+FI70,Lieto,,Southwest Finland,FI,60.5103,22.4618,ardac,12.1,True,60.3182,22.1852
+FI71,Marttila,,Southwest Finland,FI,60.5833,22.9,ardac,25.4,True,60.2384,22.5614
+FI72,Masku,,Southwest Finland,FI,60.5708,22.0988,ardac,9.9,True,60.5319,21.8794
+FI73,Mellilä,,Southwest Finland,FI,60.7667,22.95,ardac,44.5,True,60.2403,22.8587
+FI74,Merimasku,,Southwest Finland,FI,60.4833,21.8667,ardac,0.7,True,60.4181,21.959
+FI75,Mietoinen,,Southwest Finland,FI,60.6333,21.9333,ardac,5.1,True,60.568,22.0259
+FI76,Muurla,,Southwest Finland,FI,60.35,23.2833,ardac,11.1,True,60.1595,23.0033
+FI77,Mynämäki,,Southwest Finland,FI,60.6792,21.9927,ardac,10.0,True,60.4861,21.7173
+FI78,Naantali,,Southwest Finland,FI,60.4674,22.0243,ardac,0.3,True,60.4021,22.1163
+FI79,Nagu,,Southwest Finland,FI,60.1938,21.9097,ardac,1.6,True,60.1286,22.0012
+FI80,Nousiainen,,Southwest Finland,FI,60.6042,22.0793,ardac,11.8,True,60.5653,21.8597
+FI81,Oripää,,Southwest Finland,FI,60.85,22.6833,ardac,50.3,True,60.3234,22.5958
+FI82,Paimio,,Southwest Finland,FI,60.4567,22.6869,ardac,7.3,True,60.2374,22.7181
+FI83,Pargas,,Southwest Finland,FI,60.3067,22.301,ardac,1.6,True,60.2682,22.0831
+FI84,Perniö,,Southwest Finland,FI,60.2,23.1333,ardac,9.3,True,60.1627,22.9151
+FI85,Pertteli,,Southwest Finland,FI,60.4333,23.2667,ardac,13.4,True,60.271,22.6776
+FI86,Piikkiö,,Southwest Finland,FI,60.4248,22.516,ardac,3.1,True,60.3592,22.6069
+FI87,Pöytyä,,Southwest Finland,FI,60.7667,22.6667,ardac,41.0,True,60.2401,22.5798
+FI88,Pyhäranta,,Southwest Finland,FI,60.95,21.45,ardac,2.7,True,60.9102,21.2288
+FI89,Raisio,,Southwest Finland,FI,60.4859,22.169,ardac,4.6,True,60.4472,21.95
+FI90,Rusko,,Southwest Finland,FI,60.5333,22.2167,ardac,10.1,True,60.4946,21.9974
+FI91,Rymättylä,,Southwest Finland,FI,60.3766,21.9418,ardac,0.5,True,60.3114,22.0337
+FI92,Salo,,Southwest Finland,FI,60.3833,23.1333,ardac,4.3,True,60.1925,22.8539
+FI93,Särkisalo,,Southwest Finland,FI,60.1139,22.95,ardac,0.5,True,60.048,23.0393
+FI94,Sauvo,,Southwest Finland,FI,60.3431,22.6964,ardac,5.3,True,60.2774,22.7867
+FI95,Somero,,Southwest Finland,FI,60.6167,23.5333,ardac,38.1,True,60.302,22.8791
+FI96,Suomusjärvi,,Southwest Finland,FI,60.35,23.65,ardac,31.3,True,59.9774,23.612
+FI97,Taivassalo,,Southwest Finland,FI,60.5609,21.6164,ardac,2.1,True,60.4958,21.7094
+FI98,Tarvasjoki,,Southwest Finland,FI,60.5833,22.7333,ardac,21.3,True,60.238,22.3965
+FI99,Turku,,Southwest Finland,FI,60.4515,22.2687,ardac,5.3,True,60.4129,22.0499
+FI100,Uusikaupunki,,Southwest Finland,FI,60.8004,21.4084,ardac,1.7,True,60.7605,21.1883
+FI101,Vahto,,Southwest Finland,FI,60.6,22.3,ardac,18.8,True,60.4075,22.0235
+FI102,Väståboland,,Southwest Finland,FI,60.2997,22.3004,ardac,1.2,True,60.2342,22.3914
+FI103,Västanfjärd,,Southwest Finland,FI,60.05,22.6833,ardac,2.5,True,59.9843,22.773
+FI104,Vehmaa,,Southwest Finland,FI,60.6833,21.6667,ardac,10.7,True,60.4641,21.7047
+FI105,Velkua,,Southwest Finland,FI,60.4667,21.6667,ardac,0.8,True,60.4016,21.7593
+FI106,Yläne,,Southwest Finland,FI,60.8833,22.4167,ardac,42.1,True,60.5634,21.7679
+FI107,Hyrynsalmi,,Kainuu,FI,64.6667,28.5333,ardac,151.2,False,64.8206,25.0065
+FI108,Kajaani,,Kainuu,FI,64.2273,27.7285,ardac,133.3,False,64.909,25.2913
+FI109,Kuhmo,,Kainuu,FI,64.1333,29.5167,ardac,215.8,False,64.8708,25.2647
+FI110,Paltamo,,Kainuu,FI,64.4167,27.8333,ardac,127.9,False,64.795,25.2093
+FI111,Puolanka,,Kainuu,FI,64.8667,27.6667,ardac,106.1,False,64.9032,25.1852
+FI112,Ristijärvi,,Kainuu,FI,64.5,28.2167,ardac,142.1,False,64.9191,25.2334
+FI113,Sotkamo,,Kainuu,FI,64.1333,28.4167,ardac,167.6,False,64.8953,25.2926
+FI114,Suomussalmi,,Kainuu,FI,64.8869,28.9078,ardac,164.4,False,64.8965,25.2673
+FI115,Vaala,,Kainuu,FI,64.5667,26.8333,ardac,76.8,True,64.8298,25.2536
+FI116,Vuokatti,,Kainuu,FI,64.1447,28.282,ardac,161.3,False,64.9041,25.1532
+FI117,Vuolijoki,,Kainuu,FI,64.1854,26.9955,ardac,107.6,False,64.7893,25.2565
+FI118,Anjala,,Kymenlaakso,FI,60.6833,26.8333,ardac,8.7,True,60.4638,26.8371
+FI119,Elimäki,,Kymenlaakso,FI,60.7167,26.4667,ardac,11.6,True,60.4607,26.7801
+FI120,Hamina,,Kymenlaakso,FI,60.5697,27.1979,ardac,1.1,True,60.5013,27.2798
+FI121,Iitti,,Kymenlaakso,FI,60.8949,26.3387,ardac,32.0,True,60.4876,26.5766
+FI122,Jaala,,Kymenlaakso,FI,61.0525,26.4812,ardac,45.9,True,60.4934,26.6399
+FI123,Karhula,,Kymenlaakso,FI,60.5216,26.9313,ardac,4.0,True,60.4534,27.0137
+FI124,Kotka,,Kymenlaakso,FI,60.4664,26.9458,ardac,0.6,True,60.3982,27.028
+FI125,Kouvola,,Kymenlaakso,FI,60.8667,26.7,ardac,24.1,True,60.4956,26.6263
+FI126,Miehikkälä,,Kymenlaakso,FI,60.6667,27.7,ardac,10.3,True,60.5981,27.7811
+FI127,Pyhtää,,Kymenlaakso,FI,60.4935,26.5435,ardac,2.0,True,60.4255,26.6266
+FI128,Virojoki,,Kymenlaakso,FI,60.5794,27.7035,ardac,2.1,True,60.5108,27.7844
+FI129,Enontekiö,,Lapland,FI,68.3857,23.6322,ardac,163.2,False,69.9827,22.9814
+FI130,Inari,,Lapland,FI,68.906,27.0288,ardac,126.9,False,69.8317,30.2826
+FI131,Ivalo,,Lapland,FI,68.6599,27.5389,ardac,133.9,False,69.8189,30.0746
+FI132,Kemi,,Lapland,FI,65.7364,24.5637,ardac,0.7,True,65.6692,24.6657
+FI133,Kemijärvi,,Lapland,FI,66.7131,27.4306,ardac,149.9,False,65.6085,24.8958
+FI134,Keminmaa,,Lapland,FI,65.8016,24.5448,ardac,0.8,True,65.7344,24.6471
+FI135,Kittilä,,Lapland,FI,67.6647,24.8936,ardac,194.6,False,65.7579,23.9357
+FI136,Kolari,,Lapland,FI,67.3305,23.7779,ardac,163.6,False,65.819,23.8859
+FI137,Muonio,,Lapland,FI,67.95,23.7,ardac,208.5,False,70.0396,22.9071
+FI138,Pelkosenniemi,,Lapland,FI,67.1108,27.5106,ardac,180.8,False,65.7011,24.756
+FI139,Pello,,Lapland,FI,66.7736,23.9626,ardac,102.0,False,65.7544,23.9405
+FI140,Posio,,Lapland,FI,66.1086,28.1719,ardac,145.5,False,65.5426,25.2098
+FI141,Pyhäjärvi,,Lapland,FI,67.0701,27.2176,ardac,168.9,False,65.6229,24.8504
+FI142,Ranua,,Lapland,FI,65.9167,26.5333,ardac,71.1,True,65.4986,25.2541
+FI143,Rovaniemi,,Lapland,FI,66.5,25.7167,ardac,78.9,True,65.7033,24.9877
+FI144,Salla,,Lapland,FI,66.8333,28.6667,ardac,142.7,False,66.5462,33.1108
+FI145,Savukoski,,Lapland,FI,67.2925,28.1581,ardac,160.9,False,66.62,33.1503
+FI146,Simo,,Lapland,FI,65.6667,25.05,ardac,4.8,True,65.6327,24.7845
+FI147,Sodankylä,,Lapland,FI,67.4167,26.6,ardac,185.5,False,65.7419,24.8874
+FI148,Tervola,,Lapland,FI,66.0833,24.8,ardac,19.4,True,65.7099,24.7277
+FI149,Tornio,,Lapland,FI,65.8481,24.1466,ardac,2.9,True,65.7811,24.2501
+FI150,Utsjoki,,Lapland,FI,69.9086,27.0284,ardac,41.5,True,70.4107,26.191
+FI151,Ylitornio,,Lapland,FI,66.3089,23.6773,ardac,53.2,True,65.7505,23.9092
+FI152,Eno,,North Karelia,FI,62.8051,30.1542,ardac,242.4,False,60.6816,28.5868
+FI153,Ilomantsi,,North Karelia,FI,62.6716,30.9328,ardac,244.7,False,60.681,28.4036
+FI154,Joensuu,,North Karelia,FI,62.6012,29.7632,ardac,214.9,False,60.6239,28.3193
+FI155,Juuka,,North Karelia,FI,63.2333,29.25,ardac,262.8,False,64.913,25.2755
+FI156,Kesälahti,,North Karelia,FI,61.8975,29.8349,ardac,142.5,False,60.5631,28.4626
+FI157,Kiihtelysvaara,,North Karelia,FI,62.4953,30.2508,ardac,211.9,False,60.564,28.4771
+FI158,Kitee,,North Karelia,FI,62.1,30.15,ardac,169.9,False,60.6591,28.3597
+FI159,Kontiolahti,,North Karelia,FI,62.7602,29.8471,ardac,233.1,False,60.6333,28.3027
+FI160,Lieksa,,North Karelia,FI,63.3167,30.0167,ardac,266.9,False,64.3191,35.0877
+FI161,Liperi,,North Karelia,FI,62.5333,29.3667,ardac,203.2,False,60.6627,28.3429
+FI162,Nurmes,,North Karelia,FI,63.5421,29.1397,ardac,235.3,False,64.88,25.3024
+FI163,Outokumpu,,North Karelia,FI,62.7269,29.0159,ardac,222.6,False,60.6633,28.2272
+FI164,Polvijärvi,,North Karelia,FI,62.85,29.3667,ardac,238.1,False,60.6782,28.1568
+FI165,Pyhäselkä,,North Karelia,FI,62.4333,29.9667,ardac,200.2,False,60.649,28.2997
+FI166,Rääkkylä,,North Karelia,FI,62.3167,29.6167,ardac,182.4,False,60.639,28.368
+FI167,Tohmajärvi,,North Karelia,FI,62.1833,30.3833,ardac,183.7,False,60.5951,28.4899
+FI168,Tuupovaara,,North Karelia,FI,62.4837,30.6273,ardac,219.0,False,60.5982,28.5257
+FI169,Valtimo,,North Karelia,FI,63.6667,28.8,ardac,213.3,False,64.8099,25.2024
+FI170,Alavieska,,Northern Ostrobothnia,FI,64.1667,24.3,ardac,19.6,True,64.3158,23.7767
+FI171,Haapajärvi,,Northern Ostrobothnia,FI,63.75,25.3333,ardac,88.4,True,64.3046,23.937
+FI172,Haapavesi,,Northern Ostrobothnia,FI,64.1333,25.3667,ardac,66.9,True,64.7774,24.7438
+FI173,Hailuoto,,Northern Ostrobothnia,FI,65.009,24.7139,ardac,0.7,True,64.9417,24.8131
+FI174,Haukipudas,,Northern Ostrobothnia,FI,65.1765,25.3523,ardac,3.7,True,65.143,25.0913
+FI175,Himanka,,Northern Ostrobothnia,FI,64.0622,23.6545,ardac,2.4,True,64.0259,23.4061
+FI176,Ii,,Northern Ostrobothnia,FI,65.3174,25.3731,ardac,2.4,True,65.2839,25.1106
+FI177,Kalajoki,,Northern Ostrobothnia,FI,64.25,23.95,ardac,0.5,True,64.3676,23.7751
+FI178,Kärsämäki,,Northern Ostrobothnia,FI,63.9667,25.7667,ardac,93.9,True,64.6457,24.8029
+FI179,Kempele,,Northern Ostrobothnia,FI,64.9131,25.5034,ardac,5.5,True,64.8798,25.2447
+FI180,Kestilä,,Northern Ostrobothnia,FI,64.35,26.2792,ardac,70.0,True,64.8797,25.2293
+FI181,Kiiminki,,Northern Ostrobothnia,FI,65.1314,25.7974,ardac,20.7,True,65.1665,24.8173
+FI182,Kuivaniemi,,Northern Ostrobothnia,FI,65.5785,25.1881,ardac,1.8,True,65.5109,25.288
+FI183,Kuusamo,,Northern Ostrobothnia,FI,65.9667,29.1833,ardac,175.0,False,66.5591,33.0848
+FI184,Liminka,,Northern Ostrobothnia,FI,64.8099,25.4155,ardac,3.7,True,64.7765,25.1579
+FI185,Lumijoki,,Northern Ostrobothnia,FI,64.8374,25.1861,ardac,1.5,True,64.7699,25.2836
+FI186,Merijärvi,,Northern Ostrobothnia,FI,64.3,24.45,ardac,20.8,True,64.2963,23.8484
+FI187,Muhos,,Northern Ostrobothnia,FI,64.808,25.9931,ardac,30.2,True,64.8442,25.0246
+FI188,Nivala,,Northern Ostrobothnia,FI,63.9167,24.9667,ardac,62.5,True,64.2842,23.8314
+FI189,Oulainen,,Northern Ostrobothnia,FI,64.2667,24.8,ardac,35.7,True,64.2956,23.8491
+FI190,Oulu,,Northern Ostrobothnia,FI,65.0124,25.4682,ardac,2.1,True,64.8264,25.1229
+FI191,Oulunsalo,,Northern Ostrobothnia,FI,64.9346,25.4112,ardac,1.7,True,64.9012,25.1524
+FI192,Piippola,,Northern Ostrobothnia,FI,64.1667,25.9667,ardac,79.9,True,64.8131,25.357
+FI193,Pudasjärvi,,Northern Ostrobothnia,FI,65.3833,26.9167,ardac,72.8,True,65.4949,25.202
+FI194,Pulkkila,,Northern Ostrobothnia,FI,64.2667,25.8667,ardac,67.7,True,64.9128,25.2528
+FI195,Pyhäjärvi,,Northern Ostrobothnia,FI,63.6667,25.9,ardac,116.6,False,64.2895,23.8192
+FI196,Pyhäjoki,,Northern Ostrobothnia,FI,64.4667,24.2333,ardac,1.3,True,64.4314,23.9804
+FI197,Pyhäntä,,Northern Ostrobothnia,FI,64.1,26.3167,ardac,94.2,True,64.8162,25.0068
+FI198,Raahe,,Northern Ostrobothnia,FI,64.6833,24.4833,ardac,1.9,True,64.7691,24.6639
+FI199,Rantsila,,Northern Ostrobothnia,FI,64.5061,25.6645,ardac,39.2,True,64.8124,25.2273
+FI200,Reisjärvi,,Northern Ostrobothnia,FI,63.6167,24.9,ardac,79.1,True,64.0139,23.4283
+FI201,Ruukki,,Northern Ostrobothnia,FI,64.6667,25.1,ardac,18.2,True,64.7856,24.9275
+FI202,Sievi,,Northern Ostrobothnia,FI,63.9,24.5,ardac,46.1,True,64.1105,23.2866
+FI203,Siikajoki,,Northern Ostrobothnia,FI,64.8146,24.7592,ardac,2.7,True,64.7473,24.8577
+FI204,Taivalkoski,,Northern Ostrobothnia,FI,65.5667,28.25,ardac,134.3,False,65.4945,25.2491
+FI205,Tyrnävä,,Northern Ostrobothnia,FI,64.7647,25.6523,ardac,15.9,True,64.9184,25.1253
+FI206,Utajärvi,,Northern Ostrobothnia,FI,64.75,26.3833,ardac,49.7,True,64.8226,25.062
+FI207,Vihanti,,Northern Ostrobothnia,FI,64.4847,24.9916,ardac,31.3,True,64.7563,24.9028
+FI208,Yli-Ii,,Northern Ostrobothnia,FI,65.3718,25.8458,ardac,23.4,True,65.3736,25.2201
+FI209,Ylikiiminki,,Northern Ostrobothnia,FI,65.0833,26.25,ardac,39.6,True,64.8158,25.1
+FI210,Ylivieska,,Northern Ostrobothnia,FI,64.0833,24.55,ardac,35.0,True,64.4175,23.7554
+FI211,Hietalahti,,Ostrobothnia,FI,63.0848,21.6172,ardac,1.9,True,63.1997,21.4396
+FI212,Isokyrö,,Ostrobothnia,FI,63.0117,22.3333,ardac,23.1,True,63.2814,22.2228
+FI213,Jakobstad,,Ostrobothnia,FI,63.6749,22.7026,ardac,0.5,True,63.6371,22.4588
+FI214,Kaskinen,,Ostrobothnia,FI,62.3844,21.2233,ardac,1.3,True,62.3195,21.3221
+FI215,Korsholm,,Ostrobothnia,FI,63.1142,21.6822,ardac,5.7,True,63.2291,21.5046
+FI216,Korsnäs,,Ostrobothnia,FI,62.7833,21.2,ardac,0.9,True,62.7431,20.9656
+FI217,Kristinestad,,Ostrobothnia,FI,62.2743,21.376,ardac,0.8,True,62.3636,21.5323
+FI218,Kronoby,,Ostrobothnia,FI,63.7286,23.0339,ardac,4.2,True,63.7194,22.4448
+FI219,Laihia,,Ostrobothnia,FI,62.9761,22.0114,ardac,17.4,True,63.2717,21.5581
+FI220,Larsmo,,Ostrobothnia,FI,63.7539,22.7473,ardac,2.0,True,63.7162,22.5028
+FI221,Malax,,Ostrobothnia,FI,62.9423,21.5731,ardac,5.7,True,62.9275,21.0004
+FI222,Nykarleby,,Ostrobothnia,FI,63.5228,22.5307,ardac,4.3,True,63.4847,22.2884
+FI223,Oravais,,Ostrobothnia,FI,63.3014,22.3782,ardac,1.4,True,63.4172,22.2023
+FI224,Pedersöre,,Ostrobothnia,FI,63.65,22.6833,ardac,1.3,True,63.6122,22.4397
+FI225,Replot,,Ostrobothnia,FI,63.2288,21.4169,ardac,0.5,True,63.189,21.1786
+FI226,Ristinummi,,Ostrobothnia,FI,63.0919,21.723,ardac,5.6,True,63.2069,21.5457
+FI227,Teeriniemi,,Ostrobothnia,FI,63.0971,21.6959,ardac,5.3,True,63.2121,21.5185
+FI228,Vaasa,,Ostrobothnia,FI,63.096,21.6158,ardac,2.3,True,63.2109,21.4381
+FI229,Vähäkyrö,,Ostrobothnia,FI,63.0564,22.1058,ardac,11.5,True,63.2989,22.3334
+FI230,Vörå,,Ostrobothnia,FI,63.1361,22.2522,ardac,11.5,True,63.4058,22.1406
+FI231,Artjärvi,,Päijät-Häme,FI,60.7454,26.0708,ardac,29.9,True,60.374,26.0046
+FI232,Asikkala,,Päijät-Häme,FI,61.2167,25.5,ardac,84.9,True,60.4718,25.9104
+FI233,Auttoinen,,Päijät-Häme,FI,61.299,25.0889,ardac,101.7,False,60.4857,26.1261
+FI234,Hämeenkoski,,Päijät-Häme,FI,61.0222,25.1542,ardac,73.3,True,60.3957,25.9507
+FI235,Hartola,,Päijät-Häme,FI,61.5833,26.0167,ardac,110.0,False,60.4975,26.5723
+FI236,Heinola,,Päijät-Häme,FI,61.2056,26.0381,ardac,70.5,True,60.4951,26.1287
+FI237,Hollola,,Päijät-Häme,FI,61.05,25.4333,ardac,68.6,True,60.4573,25.9177
+FI238,Lahti,,Päijät-Häme,FI,60.9827,25.6615,ardac,57.4,True,60.3893,26.141
+FI239,Nastola,,Päijät-Häme,FI,60.95,25.9333,ardac,50.8,True,60.3915,26.101
+FI240,Orimattila,,Päijät-Häme,FI,60.8049,25.7296,ardac,37.2,True,60.3985,25.9745
+FI241,Padasjoki,,Päijät-Häme,FI,61.35,25.2833,ardac,102.8,False,60.4189,25.934
+FI242,Sysmä,,Päijät-Häme,FI,61.5,25.6833,ardac,108.6,False,60.4507,25.9414
+FI243,Äetsä,,Pirkanmaa,FI,61.2833,22.6833,ardac,58.2,True,61.3248,21.5015
+FI244,Aimala,,Pirkanmaa,FI,61.33,23.69,ardac,107.7,False,61.3052,21.4908
+FI245,Aitoo,,Pirkanmaa,FI,61.339,24.4943,ardac,123.2,False,60.2916,24.7893
+FI246,Akaa,,Pirkanmaa,FI,61.1667,23.8681,ardac,99.7,True,60.2418,24.5551
+FI247,Amuri,,Pirkanmaa,FI,61.5,23.745,ardac,108.1,False,61.3218,21.4779
+FI248,Haihara,,Pirkanmaa,FI,61.4763,23.8771,ardac,115.3,False,61.3002,21.6108
+FI249,Hallila,,Pirkanmaa,FI,61.4625,23.8292,ardac,112.9,False,61.2857,21.5642
+FI250,Hämeenkyrö,,Pirkanmaa,FI,61.6333,23.2,ardac,79.6,True,61.3969,21.5686
+FI251,Hervanta,,Pirkanmaa,FI,61.4481,23.8521,ardac,114.2,False,61.2716,21.5879
+FI252,Ikaalinen,,Pirkanmaa,FI,61.7694,23.0681,ardac,76.4,True,61.8652,21.2189
+FI253,Juupajoki,,Pirkanmaa,FI,61.7967,24.37,ardac,143.5,False,61.8346,21.4885
+FI254,Kangasala,,Pirkanmaa,FI,61.4639,24.065,ardac,125.4,False,61.3164,21.479
+FI255,Kihniö,,Pirkanmaa,FI,62.2083,23.1792,ardac,93.2,True,62.2802,21.6337
+FI256,Kiikka,,Pirkanmaa,FI,61.3208,22.7754,ardac,61.0,True,61.363,21.5923
+FI257,Kiikoinen,,Pirkanmaa,FI,61.45,22.575,ardac,46.5,True,61.311,21.6512
+FI258,Kolho,,Pirkanmaa,FI,62.1333,24.5167,ardac,161.0,False,62.3283,21.6626
+FI259,Kuhmalahti,,Pirkanmaa,FI,61.505,24.5667,ardac,135.9,False,60.3049,24.791
+FI260,Kuru,,Pirkanmaa,FI,61.8756,23.7195,ardac,112.6,False,61.8513,21.482
+FI261,Kylmäkoski,,Pirkanmaa,FI,61.15,23.6917,ardac,94.3,True,60.2219,22.782
+FI262,Längelmäki,,Pirkanmaa,FI,61.6889,24.6919,ardac,150.3,False,60.3872,25.8362
+FI263,Lempäälä,,Pirkanmaa,FI,61.3139,23.7528,ardac,111.4,False,61.2901,21.5546
+FI264,Lentävänniemi,,Pirkanmaa,FI,61.528,23.7058,ardac,105.9,False,61.3492,21.4369
+FI265,Lielahti,,Pirkanmaa,FI,61.5167,23.6667,ardac,103.9,False,61.3373,21.3989
+FI266,Luopioinen,,Pirkanmaa,FI,61.3629,24.6678,ardac,119.6,False,60.1951,24.582
+FI267,Mänttä,,Pirkanmaa,FI,62.0301,24.6279,ardac,163.1,False,62.2529,21.4549
+FI268,Messukylä,,Pirkanmaa,FI,61.4853,23.8447,ardac,113.5,False,61.3087,21.5779
+FI269,Mouhijärvi,,Pirkanmaa,FI,61.5,23.0167,ardac,69.3,True,61.4158,21.4492
+FI270,Naistenmatka,,Pirkanmaa,FI,61.4652,23.6525,ardac,103.5,False,61.2856,21.3885
+FI271,Nekala,,Pirkanmaa,FI,61.4833,23.7906,ardac,110.7,False,61.3058,21.5244
+FI272,Nokia,,Pirkanmaa,FI,61.4767,23.5053,ardac,95.5,True,61.2696,21.5607
+FI273,Nurmi,,Pirkanmaa,FI,61.5378,23.9418,ardac,118.5,False,61.3627,21.6706
+FI274,Nuutajärvi,,Pirkanmaa,FI,61.04,23.43,ardac,78.5,True,60.2639,22.5893
+FI275,Orivesi,,Pirkanmaa,FI,61.6778,24.3569,ardac,141.1,False,60.3251,24.5211
+FI276,Osara,,Pirkanmaa,FI,61.7087,23.1587,ardac,79.0,True,61.8056,21.3133
+FI277,Pälkäne,,Pirkanmaa,FI,61.354,24.5191,ardac,123.7,False,60.3066,24.8134
+FI278,Parkano,,Pirkanmaa,FI,62.0097,23.025,ardac,83.1,True,62.2342,21.547
+FI279,Pirkkala,,Pirkanmaa,FI,61.4667,23.65,ardac,103.3,False,61.2871,21.3859
+FI280,Pispala,,Pirkanmaa,FI,61.5061,23.7025,ardac,105.8,False,61.3273,21.4352
+FI281,Pohjaslahti,,Pirkanmaa,FI,62.1563,24.1319,ardac,142.7,False,62.3185,21.604
+FI282,Punkalaidun,,Pirkanmaa,FI,61.1117,23.105,ardac,83.4,True,60.3063,22.5794
+FI283,Ruovesi,,Pirkanmaa,FI,61.9833,24.0833,ardac,134.5,False,62.2989,21.6276
+FI284,Sääksmäki,,Pirkanmaa,FI,61.2,24.0667,ardac,107.9,False,60.2742,24.7488
+FI285,Sahalahti,,Pirkanmaa,FI,61.4667,24.3167,ardac,138.8,False,60.2669,24.55
+FI286,Sastamala,,Pirkanmaa,FI,61.3417,22.9083,ardac,66.9,True,61.4106,21.4042
+FI287,Suodenniemi,,Pirkanmaa,FI,61.5581,22.7853,ardac,57.0,True,61.292,21.4807
+FI288,Suoniemi,,Pirkanmaa,FI,61.4411,23.215,ardac,80.5,True,61.359,21.6498
+FI289,Tampere,,Pirkanmaa,FI,61.4981,23.76,ardac,108.9,False,61.3202,21.4929
+FI290,Teisko,,Pirkanmaa,FI,61.6734,23.8477,ardac,114.2,False,61.3426,21.5111
+FI291,Toijala,,Pirkanmaa,FI,61.1678,23.8382,ardac,99.1,True,60.243,24.526
+FI292,Tottijärvi,,Pirkanmaa,FI,61.3978,23.3428,ardac,88.0,True,61.3428,21.4597
+FI293,Urjala,,Pirkanmaa,FI,61.0833,23.55,ardac,84.8,True,60.308,22.7052
+FI294,Valkeakoski,,Pirkanmaa,FI,61.2667,24.0306,ardac,113.5,False,60.1884,24.6466
+FI295,Vammala,,Pirkanmaa,FI,61.3403,22.9097,ardac,67.0,True,61.4092,21.4057
+FI296,Vesilahti,,Pirkanmaa,FI,61.3167,23.6167,ardac,104.3,False,61.2908,21.4185
+FI297,Viiala,,Pirkanmaa,FI,61.2102,23.7674,ardac,102.0,False,60.2826,22.8537
+FI298,Viljakkala,,Pirkanmaa,FI,61.706,23.2669,ardac,84.5,True,61.8043,21.4219
+FI299,Vilppula,,Pirkanmaa,FI,62.0212,24.5048,ardac,156.6,False,62.2159,21.6609
+FI300,Virrat,,Pirkanmaa,FI,62.2403,23.7708,ardac,124.0,False,62.2168,21.5069
+FI301,Vuores,,Pirkanmaa,FI,61.431,23.8118,ardac,112.3,False,61.4081,21.6054
+FI302,Ylöjärvi,,Pirkanmaa,FI,61.55,23.5833,ardac,99.4,True,61.344,21.6337
+FI303,Eura,,Satakunta,FI,61.1333,22.1333,ardac,32.0,True,61.1457,21.2748
+FI304,Eurajoki,,Satakunta,FI,61.2,21.7333,ardac,9.4,True,61.1606,21.51
+FI305,Harjavalta,,Satakunta,FI,61.3167,22.1333,ardac,31.6,True,61.3039,21.5895
+FI306,Huittinen,,Satakunta,FI,61.1833,22.7,ardac,61.5,True,61.2249,21.5219
+FI307,Jämijärvi,,Satakunta,FI,61.8167,22.7,ardac,60.2,True,61.8584,21.4983
+FI308,Kankaanpää,,Satakunta,FI,61.8,22.4167,ardac,45.3,True,61.8394,21.2154
+FI309,Karvia,,Satakunta,FI,62.1333,22.5667,ardac,62.1,True,62.3283,21.4101
+FI310,Kiukainen,,Satakunta,FI,61.2167,22.0833,ardac,28.3,True,61.2037,21.5412
+FI311,Kokemäki,,Satakunta,FI,61.2565,22.3564,ardac,43.3,True,61.2703,21.4947
+FI312,Köyliö,,Satakunta,FI,61.1191,22.3098,ardac,41.7,True,61.1326,21.4517
+FI313,Kullaa,,Satakunta,FI,61.47,22.1615,ardac,24.4,True,61.3031,21.5587
+FI314,Längelmäki,,Satakunta,FI,61.65,22.1,ardac,24.5,True,61.6623,21.2276
+FI315,Lappi,,Satakunta,FI,61.1,21.8333,ardac,18.9,True,61.2403,21.348
+FI316,Lavia,,Satakunta,FI,61.6,22.6,ardac,47.6,True,61.307,21.615
+FI317,Luvia,,Satakunta,FI,61.3638,21.6256,ardac,5.2,True,61.3242,21.4013
+FI318,Merikarvia,,Satakunta,FI,61.8584,21.5004,ardac,3.3,True,61.8187,21.2726
+FI319,Nakkila,,Satakunta,FI,61.3667,22.0,ardac,22.9,True,61.3534,21.4555
+FI320,Noormarkku,,Satakunta,FI,61.5927,21.8685,ardac,10.9,True,61.3994,21.5854
+FI321,Pomarkku,,Satakunta,FI,61.6935,22.0086,ardac,22.4,True,61.7053,21.135
+FI322,Pori,,Satakunta,FI,61.4833,21.7833,ardac,5.4,True,61.2898,21.5018
+FI323,Rauma,,Satakunta,FI,61.1272,21.5113,ardac,3.2,True,61.2417,21.3434
+FI324,Säkylä,,Satakunta,FI,61.0333,22.3333,ardac,46.1,True,61.2011,21.5329
+FI325,Siikainen,,Satakunta,FI,61.877,21.8195,ardac,19.0,True,61.8631,21.2662
+FI326,Ulvila,,Satakunta,FI,61.4284,21.871,ardac,13.1,True,61.3892,21.6459
+FI327,Vampula,,Satakunta,FI,61.0167,22.7,ardac,63.4,True,61.2124,21.5836
+FI328,Imatra,,South Karelia,FI,61.1719,28.7524,ardac,48.5,True,60.6521,28.5663
+FI329,Joutseno,,South Karelia,FI,61.118,28.5076,ardac,43.7,True,60.5978,28.3259
+FI330,Lappeenranta,,South Karelia,FI,61.0587,28.1887,ardac,45.0,True,60.6887,28.0973
+FI331,Lemi,,South Karelia,FI,61.0624,27.8057,ardac,53.9,True,60.6529,28.0264
+FI332,Luumäki,,South Karelia,FI,60.9262,27.5814,ardac,40.0,True,60.5171,27.8042
+FI333,Nuijamaa,,South Karelia,FI,60.9601,28.551,ardac,26.0,True,60.5904,28.456
+FI334,Parikkala,,South Karelia,FI,61.55,29.5,ardac,100.0,False,60.6638,28.4141
+FI335,Rautjärvi,,South Karelia,FI,61.4333,29.35,ardac,84.9,True,60.6963,28.3587
+FI336,Ruokolahti,,South Karelia,FI,61.2833,28.8333,ardac,61.3,True,60.6134,28.5574
+FI337,Saari,,South Karelia,FI,61.65,29.75,ardac,116.0,False,60.6558,28.2589
+FI338,Savitaipale,,South Karelia,FI,61.2,27.7,ardac,69.4,True,60.6004,28.1454
+FI339,Taipalsaari,,South Karelia,FI,61.15,28.05,ardac,57.4,True,60.5897,28.1823
+FI340,Ylämaa,,South Karelia,FI,60.8,28.0,ardac,26.6,True,60.7312,28.0808
+FI341,Ähtäri,,Southern Ostrobothnia,FI,62.554,24.0619,ardac,120.6,False,63.2784,22.4236
+FI342,Alahärmä,,Southern Ostrobothnia,FI,63.2333,22.85,ardac,26.0,True,63.3774,22.3358
+FI343,Alajärvi,,Southern Ostrobothnia,FI,63.0,23.8167,ardac,81.6,True,63.3867,22.3611
+FI344,Alavus,,Southern Ostrobothnia,FI,62.5833,23.6167,ardac,102.4,False,63.2759,22.3064
+FI345,Evijärvi,,Southern Ostrobothnia,FI,63.3667,23.4833,ardac,45.4,True,63.4151,22.2198
+FI346,Ilmajoki,,Southern Ostrobothnia,FI,62.7333,22.5667,ardac,54.7,True,63.3385,22.2502
+FI347,Isojoki,,Southern Ostrobothnia,FI,62.1132,21.9588,ardac,31.4,True,62.2541,21.4587
+FI348,Jalasjärvi,,Southern Ostrobothnia,FI,62.5,22.75,ardac,74.6,True,62.2336,21.4052
+FI349,Jurva,,Southern Ostrobothnia,FI,62.6833,21.9833,ardac,37.6,True,62.3359,21.6294
+FI350,Karijoki,,Southern Ostrobothnia,FI,62.3085,21.7086,ardac,17.9,True,62.2691,21.4772
+FI351,Kauhajoki,,Southern Ostrobothnia,FI,62.4333,22.1833,ardac,44.5,True,62.2665,21.561
+FI352,Kauhava,,Southern Ostrobothnia,FI,63.103,23.0713,ardac,42.7,True,63.2754,22.2208
+FI353,Kortesjärvi,,Southern Ostrobothnia,FI,63.3,23.1667,ardac,39.9,True,63.3189,22.2462
+FI354,Kuortane,,Southern Ostrobothnia,FI,62.8,23.5,ardac,80.6,True,63.3377,22.1136
+FI355,Kurikka,,Southern Ostrobothnia,FI,62.6167,22.4167,ardac,59.2,True,62.3224,21.4
+FI356,Lappajärvi,,Southern Ostrobothnia,FI,63.2,23.6333,ardac,64.3,True,63.4036,22.4425
+FI357,Lapua,,Southern Ostrobothnia,FI,62.9693,23.0088,ardac,49.3,True,63.2954,22.2258
+FI358,Lehtimäki,,Southern Ostrobothnia,FI,62.7833,23.9167,ardac,98.4,True,63.3523,22.198
+FI359,Nurmo,,Southern Ostrobothnia,FI,62.8287,22.9099,ardac,58.4,True,63.3083,22.1933
+FI360,Seinäjoki,,Southern Ostrobothnia,FI,62.7945,22.8282,ardac,58.2,True,63.4278,22.1753
+FI361,Soini,,Southern Ostrobothnia,FI,62.8667,24.2167,ardac,106.7,False,63.2851,22.433
+FI362,Teuva,,Southern Ostrobothnia,FI,62.4819,21.7416,ardac,25.0,True,62.2883,21.4506
+FI363,Töysä,,Southern Ostrobothnia,FI,62.628,23.8183,ardac,105.8,False,63.3499,22.1704
+FI364,Vimpeli,,Southern Ostrobothnia,FI,63.1619,23.8192,ardac,73.7,True,63.3947,22.2904
+FI365,Ylihärmä,,Southern Ostrobothnia,FI,63.15,22.7833,ardac,27.4,True,63.2939,22.2702
+FI366,Ylistaro,,Southern Ostrobothnia,FI,62.9396,22.5131,ardac,35.3,True,63.3908,22.1291
+FI367,Enonkoski,,South Savo,FI,62.0833,28.9333,ardac,150.6,False,60.6615,28.2055
+FI368,Haukivuori,,South Savo,FI,62.0175,27.2191,ardac,154.9,False,60.7375,27.9643
+FI369,Heinävesi,,South Savo,FI,62.4333,28.6,ardac,189.5,False,60.6688,28.0156
+FI370,Hirvensalmi,,South Savo,FI,61.6333,26.8,ardac,109.7,False,60.4681,26.6366
+FI371,Jäppilä,,South Savo,FI,62.379,27.4337,ardac,195.8,False,60.6458,27.9195
+FI372,Joroinen,,South Savo,FI,62.1782,27.8317,ardac,167.8,False,60.6346,28.0743
+FI373,Juva,,South Savo,FI,61.9,27.85,ardac,137.9,False,60.6974,27.9544
+FI374,Kangasniemi,,South Savo,FI,61.9936,26.6479,ardac,149.7,False,60.4885,26.639
+FI375,Kerimäki,,South Savo,FI,61.9107,29.2823,ardac,134.3,False,60.6817,28.3245
+FI376,Mäntyharju,,South Savo,FI,61.4167,26.8833,ardac,86.1,True,60.5545,26.8759
+FI377,Mikkeli,,South Savo,FI,61.6886,27.2723,ardac,119.9,False,60.7099,28.1798
+FI378,Pertunmaa,,South Savo,FI,61.5,26.4833,ardac,95.3,True,60.4497,26.7161
+FI379,Pieksämäki,,South Savo,FI,62.3,27.1333,ardac,185.3,False,60.6794,28.0256
+FI380,Punkaharju,,South Savo,FI,61.7588,29.3884,ardac,119.5,False,60.6809,28.5188
+FI381,Puumala,,South Savo,FI,61.5273,28.175,ardac,92.7,True,60.6657,28.1331
+FI382,Rantasalmi,,South Savo,FI,62.0667,28.3,ardac,150.1,False,60.7533,27.9925
+FI383,Ristiina,,South Savo,FI,61.5058,27.2464,ardac,100.1,False,60.6779,28.2359
+FI384,Savonlinna,,South Savo,FI,61.8699,28.88,ardac,126.7,False,60.5984,28.2461
+FI385,Savonranta,,South Savo,FI,62.1833,29.2,ardac,163.3,False,60.6126,28.3708
+FI386,Sulkava,,South Savo,FI,61.7869,28.373,ardac,118.6,False,60.6244,28.1519
+FI387,Virtasalmi,,South Savo,FI,62.127,27.4628,ardac,169.1,False,60.6953,28.1145
+FI388,Forssa,,Kanta-Häme,FI,60.8146,23.6215,ardac,58.9,True,60.3468,22.9018
+FI389,Hämeenlinna,,Kanta-Häme,FI,60.996,24.4643,ardac,91.9,True,60.2863,24.5886
+FI390,Hauho,,Kanta-Häme,FI,61.1726,24.563,ardac,106.9,False,60.3102,24.6169
+FI391,Hausjärvi,,Kanta-Häme,FI,60.7833,24.9333,ardac,60.7,True,60.3445,25.4951
+FI392,Humppila,,Kanta-Häme,FI,60.9333,23.3667,ardac,66.2,True,60.3105,22.5888
+FI393,Janakkala,,Kanta-Häme,FI,60.9,24.6,ardac,79.9,True,60.1903,24.7213
+FI394,Jokioinen,,Kanta-Häme,FI,60.8016,23.48,ardac,54.2,True,60.3331,22.7626
+FI395,Kalvola,,Kanta-Häme,FI,61.1008,24.1218,ardac,100.2,False,60.207,24.4942
+FI396,Lammi,,Kanta-Häme,FI,61.0833,25.0167,ardac,83.2,True,60.2536,24.7524
+FI397,Loppi,,Kanta-Häme,FI,60.7167,24.45,ardac,62.1,True,60.3124,24.7098
+FI398,Renko,,Kanta-Häme,FI,60.8956,24.2879,ardac,83.9,True,60.3067,24.7906
+FI399,Riihimäki,,Kanta-Häme,FI,60.7377,24.7773,ardac,59.8,True,60.2129,24.6573
+FI400,Tammela,,Kanta-Häme,FI,60.8104,23.7682,ardac,62.9,True,60.1916,24.5857
+FI401,Tervakoski,,Kanta-Häme,FI,60.8141,24.6259,ardac,70.2,True,60.2892,24.5078
+FI402,Tuulos,,Kanta-Häme,FI,61.15,24.8,ardac,96.4,True,60.3198,24.5403
+FI403,Ypäjä,,Kanta-Häme,FI,60.8,23.2833,ardac,50.7,True,60.3025,22.8779
+FI404,Askola,,Uusimaa,FI,60.5333,25.6,ardac,18.3,True,60.4311,25.9928
+FI405,Ekenäs,,Uusimaa,FI,59.9736,23.4339,ardac,0.4,True,59.9074,23.5219
+FI406,Espoo,,Uusimaa,FI,60.2052,24.6522,ardac,7.3,True,60.1383,24.7384
+FI407,Gumböle,,Uusimaa,FI,60.2195,24.6168,ardac,7.7,True,60.1526,24.7031
+FI408,Hanko,,Uusimaa,FI,59.8333,22.95,ardac,1.5,True,59.7675,23.0386
+FI409,Helsinki,,Uusimaa,FI,60.1695,24.9355,ardac,2.5,True,60.1024,25.0211
+FI410,Hyvinge,,Uusimaa,FI,60.6333,24.8667,ardac,47.1,True,60.2612,24.8144
+FI411,Ingå,,Uusimaa,FI,60.0459,24.0046,ardac,0.9,True,59.9794,24.0917
+FI412,Järvenpää,,Uusimaa,FI,60.4737,25.0899,ardac,25.7,True,60.2542,25.1053
+FI413,Kaarela,,Uusimaa,FI,60.2517,24.8811,ardac,6.7,True,60.1847,24.967
+FI414,Kallio,,Uusimaa,FI,60.1843,24.9503,ardac,2.5,True,60.1172,25.0359
+FI415,Karis,,Uusimaa,FI,60.0718,23.6616,ardac,6.4,True,60.0055,23.7494
+FI416,Karjalohja,,Uusimaa,FI,60.2402,23.7179,ardac,20.8,True,60.0208,23.7424
+FI417,Karkkila,,Uusimaa,FI,60.5342,24.2098,ardac,46.4,True,60.2831,24.5387
+FI418,Kärkölä,,Uusimaa,FI,60.6129,23.942,ardac,55.1,True,60.3307,24.5816
+FI419,Kauniainen,,Uusimaa,FI,60.2121,24.7276,ardac,5.0,True,60.1452,24.8137
+FI420,Kellokoski,,Uusimaa,FI,60.5327,25.1092,ardac,31.2,True,60.1608,25.0545
+FI421,Kerava,,Uusimaa,FI,60.4034,25.105,ardac,18.4,True,60.1839,25.1204
+FI422,Kilo,,Uusimaa,FI,60.2175,24.7815,ardac,3.3,True,60.1505,24.8675
+FI423,Kirkkonummi,,Uusimaa,FI,60.1238,24.4385,ardac,6.7,True,60.057,24.5249
+FI424,Koukkuniemi,,Uusimaa,FI,60.1526,24.7647,ardac,1.2,True,60.0856,24.8506
+FI425,Lapinjärvi,,Uusimaa,FI,60.6244,26.1972,ardac,19.5,True,60.5205,26.5893
+FI426,Lauttasaari,,Uusimaa,FI,60.159,24.868,ardac,0.3,True,60.092,24.9537
+FI427,Liljendal,,Uusimaa,FI,60.5735,26.0526,ardac,11.5,True,60.3539,26.0616
+FI428,Lohja,,Uusimaa,FI,60.2486,24.0653,ardac,23.3,True,60.0291,24.0875
+FI429,Lovisa,,Uusimaa,FI,60.4566,26.2251,ardac,0.8,True,60.3888,26.3087
+FI430,Mäntsälä,,Uusimaa,FI,60.6333,25.3167,ardac,35.8,True,60.3797,25.6382
+FI431,Mellunkylä,,Uusimaa,FI,60.2336,25.0995,ardac,3.1,True,60.1664,25.1849
+FI432,Munkkiniemi,,Uusimaa,FI,60.1986,24.8777,ardac,2.0,True,60.1316,24.9634
+FI433,Myrskylä,,Uusimaa,FI,60.6697,25.8475,ardac,21.0,True,60.4501,25.8578
+FI434,Nurmijärvi,,Uusimaa,FI,60.4641,24.8073,ardac,30.1,True,60.2446,24.8246
+FI435,Otaniemi,,Uusimaa,FI,60.184,24.8279,ardac,1.4,True,60.117,24.9137
+FI436,Pernå,,Uusimaa,FI,60.4487,26.0319,ardac,1.6,True,60.381,26.1159
+FI437,Pohja,,Uusimaa,FI,60.0963,23.5276,ardac,2.7,True,60.0301,23.6157
+FI438,Pornainen,,Uusimaa,FI,60.4758,25.3749,ardac,18.6,True,60.2563,25.3885
+FI439,Porvoo,,Uusimaa,FI,60.3923,25.6651,ardac,3.1,True,60.3248,25.7497
+FI440,Pukkila,,Uusimaa,FI,60.65,25.5667,ardac,26.7,True,60.3959,25.8864
+FI441,Raaseporin,,Uusimaa,FI,60.0027,23.555,ardac,2.8,True,59.9365,23.6429
+FI442,Ruotsinpyhtää,,Uusimaa,FI,60.5268,26.462,ardac,2.1,True,60.4588,26.5453
+FI443,Sammatti,,Uusimaa,FI,60.3199,23.8209,ardac,31.2,True,60.1005,23.8447
+FI444,Sibbo,,Uusimaa,FI,60.3775,25.2691,ardac,12.0,True,60.158,25.2834
+FI445,Siuntio,,Uusimaa,FI,60.1386,24.2272,ardac,8.4,True,60.0402,24.6195
+FI446,Tuusula,,Uusimaa,FI,60.4037,25.0264,ardac,20.1,True,60.1842,25.0423
+FI447,Vantaa,,Uusimaa,FI,60.2941,25.041,ardac,9.3,True,60.227,25.1266
+FI448,Vihti,,Uusimaa,FI,60.417,24.3197,ardac,32.0,True,60.3183,24.7149
+FI449,Vuosaari,,Uusimaa,FI,60.2096,25.142,ardac,1.7,True,60.1424,25.2272
