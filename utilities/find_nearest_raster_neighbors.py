@@ -11,6 +11,8 @@ from scipy.spatial import cKDTree
 from rasterio.warp import transform
 from shapely.geometry import Point
 
+from crs_lookup import crs_lookup
+
 
 def load_community_data(csv_path):
     """Load community point locations from a CSV file.
@@ -25,20 +27,21 @@ def load_community_data(csv_path):
     return df
 
 
-def transform_row_col_to_latlon(affine_transform, row, col):
+def transform_row_col_to_latlon(affine_transform, row, col, crs):
     """Transform raster row/col to latitude and longitude.
 
     Args:
         affine_transform (Affine): Affine transform object
         row (int): Raster row
         col (int): Raster column
+        crs (int): EPSG code of the projected CRS to transform from
     Returns:
         tuple: (latitude, longitude)
     """
     # first go from row to col to pixel center coordinates for 3338
     x, y = rio.transform.xy(affine_transform, row, col, offset="center")
     # then go from 3338 to 4326
-    lon, lat = transform("EPSG:3338", "EPSG:4326", [x], [y])
+    lon, lat = transform(f"EPSG:{crs}", "EPSG:4326", [x], [y])
     return lat[0], lon[0]
 
 
@@ -57,20 +60,23 @@ def transform_row_col_to_projected_xy(affine_transform, row, col):
     return x, y
 
 
-def prep_raster(raster_path):
-    """Reproject the raster to EPSG:3338 if it is not already in that CRS using a gdalwarp subprocess call. The new raster will be saved in the same directory as the original raster with the same filename but with a '_reprojected' suffix.
+def prep_raster(raster_path, crs):
+    """Reproject the raster to the appropriate projected CRS using a `gdalwarp` subprocess call. The new raster will be saved in the same directory as the original raster with the same filename but with a '_reprojected_crs' suffix.
 
     Args:
         raster_path (pathlib.Path): Path to the raster file.
+        crs (int): EPSG code of the projected CRS to reproject to
     Returns:
         pathlib.Path: Path to the prepared raster file.
     """
 
     src_crs = rio.open(raster_path).crs
-    if src_crs != "EPSG:3338":
-        reprojected_path = Path(str(raster_path).replace(".tif", "_reprojected.tif"))
+    if src_crs != f"EPSG:{crs}":
+        reprojected_path = Path(
+            str(raster_path).replace(".tif", f"_reprojected_{crs}.tif")
+        )
         subprocess.run(
-            ["gdalwarp", "-t_srs", "EPSG:3338", raster_path, reprojected_path]
+            ["gdalwarp", "-t_srs", f"EPSG:{crs}", raster_path, reprojected_path]
         )
         return reprojected_path
     else:
@@ -80,6 +86,7 @@ def prep_raster(raster_path):
 def read_windowed_raster(
     src,
     band_number,
+    crs,
     community_coords,
     grid_cells_vals,
     window_size_m=2**20,
@@ -90,14 +97,15 @@ def read_windowed_raster(
     Args:
         src (rio.io.DatasetReader): rio dataset reader object
         band_number (int): Number of the band to read
+        crs (int): EPSG code of the projected CRS
         community_coords (tuple): (latitude, longitude) for the community
         grid_cells_vals (list): List of values, one of which a raster grid cell must match to be considered a nearest neighbor
-        window_size_m (int): Size of the window in meters. Default is 2^15.
+        window_size_m (int): Size of the window in meters.
     Returns:
         list: List of coordinates of raster grid cells that meet the condition"""
-    # convert community lat/lon to EPSG:3338
+    # convert community lat/lon to projected CRS coordinates
     x, y = transform(
-        "EPSG:4326", "EPSG:3338", [community_coords[1]], [community_coords[0]]
+        "EPSG:4326", f"EPSG:{crs}", [community_coords[1]], [community_coords[0]]
     )
     x = x[0]
     y = y[0]
@@ -121,7 +129,7 @@ def read_windowed_raster(
         for row, col in zip(rows, cols)
     ]
     if DEBUG:
-        # write the windowed raster for debugging
+        # write the windowed raster "chip" for debugging
         output_path = f"debug/window_{community_name}.tif"
         window_meta = src.meta.copy()
         window_meta.update(
@@ -137,7 +145,7 @@ def read_windowed_raster(
         # write the coordinates to a shapefile for debugging
         output_path = f"debug/coords_{community_name}.shp"
         gdf = gpd.GeoDataFrame(
-            {"geometry": [Point(coord) for coord in coordinates]}, crs="EPSG:3338"
+            {"geometry": [Point(coord) for coord in coordinates]}, crs=f"EPSG:{crs}"
         )
         # only write if not empty
         if not gdf.empty:
@@ -152,6 +160,7 @@ def find_nearest_neighbors(
     grid_cells_vals,
     k_nearest_neighbors,
     label_prefix,
+    crs,
 ):
     """
     Find the k nearest raster cell centroid coordinates for each community within a windowed read.
@@ -163,16 +172,17 @@ def find_nearest_neighbors(
         grid_cells_vals (list): List of values, one of which a raster grid cell must have to be considered a nearest neighbor
         k_nearest_neighbors (int): Number of nearest neighbors to find
         label_prefix (str): Prefix to add to the column names for the nearest neighbor latitudes and longitudes
+        crs (int): EPSG code of the projected CRS
     Returns:
         pd.DataFrame: DataFrame containing community point locations with nearest neighbors added.
     """
     results = []
-    raster_path = prep_raster(raster_path)
+    raster_path = prep_raster(raster_path, crs)
     with rio.open(raster_path) as src:
         for _, community in community_df.iterrows():
             community_coords = (community["latitude"], community["longitude"])
             comm_x, comm_y = transform(
-                "EPSG:4326", "EPSG:3338", [community_coords[1]], [community_coords[0]]
+                "EPSG:4326", f"EPSG:{crs}", [community_coords[1]], [community_coords[0]]
             )
             comm_x = comm_x[0]
             comm_y = comm_y[0]
@@ -181,6 +191,7 @@ def find_nearest_neighbors(
             coordinates = read_windowed_raster(
                 src,
                 band_number,
+                crs,
                 community_coords,
                 grid_cells_vals,
                 community_name=community["name"],
@@ -219,7 +230,7 @@ def find_nearest_neighbors(
                         for i in range(k_nearest_neighbors)
                     ]
                 },
-                crs="EPSG:3338",
+                crs=f"EPSG:{crs}",
             )
             gdf = gdf.to_crs("EPSG:4326")
             # for each nearest neighbor, create a column for the latitude and longitude and add the latitude and longitude value for that neighbor to the column
@@ -262,7 +273,7 @@ def save_updated_csv(df, output_path):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Find nearest raster neighbors for point locations. Example usage to find the nearest neighbor for each point in 'community.csv' using the second band of the raster 'gridded_data.tif': python find_nearest_raster_neighbors.py community.csv gridded_data.tif output.csv --band_number 2 --N 1"
+        description="Find nearest raster neighbors for point locations. Example usage to find a single nearest neighbor for each point in 'community.csv' using a single band raster 'gridded_data.tif': python find_nearest_raster_neighbors.py community.csv gridded_data.tif --band_number 1 --N 1"
     )
     parser.add_argument(
         "community_csv_path",
@@ -280,8 +291,8 @@ if __name__ == "__main__":
         "--grid_cell_values",
         type=int,
         nargs="+",
-        default=[0, 255],
-        help="Values which a raster grid cell must have to be considered a nearest neighbor. Default is 0 or 255.",
+        default=[1],
+        help="A raster grid cell must have one of these values to be considered a nearest neighbor. Default is 1. Any number of values can be provided.",
     )
     parser.add_argument(
         "--N",
@@ -298,16 +309,26 @@ if __name__ == "__main__":
     community_csv_path = Path(args.community_csv_path)
     raster_path = Path(args.raster_path)
     band_number = args.band_number
-
     grid_cell_values = args.grid_cell_values
     neighbors = args.N
-
     DEBUG = args.DEBUG
+
     if DEBUG:
         os.makedirs("./debug/", exist_ok=True)
 
+    region_name = community_csv_path.name.split("_point_locations")[0]
+    proj_crs = crs_lookup[region_name]
+
+    print(f"Processing {region_name} with {proj_crs} projection...")
+
     community_df = load_community_data(community_csv_path)
     updated_community_df = find_nearest_neighbors(
-        community_df, raster_path, band_number, grid_cell_values, neighbors, "ocean"
+        community_df,
+        raster_path,
+        band_number,
+        grid_cell_values,
+        neighbors,
+        "ocean",
+        proj_crs,
     )
     save_updated_csv(updated_community_df, community_csv_path)
