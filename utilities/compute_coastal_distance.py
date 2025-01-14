@@ -5,6 +5,8 @@ import pandas as pd
 import numpy as np
 from scipy.spatial import cKDTree
 
+from crs_lookup import crs_lookup
+
 
 def calculate_coastal_distances(point_locations_path, projected_crs_code):
     """
@@ -79,26 +81,7 @@ def write_to_csv(community_df, output_path):
 
 
 if __name__ == "__main__":
-    crs_lookup = {
-        "alaska": 3338,
-        "british_columbia": 3005,
-        "yukon": 3578,
-        "northwest_territories": 3581,
-        "alberta": 3978,
-        "saskatchewan": 3978,
-        "manitoba": 3978,
-        "ontario": 3978,
-        "quebec": 3978,
-        "newfoundland_and_labrador": 3978,
-        "norway": 3035,
-        "iceland": 5325,
-        "greenland": 6053,
-        "finland": 3035,
-        "sweden": 3035,
-        "faroe": 5316,
-        "russia": 3576,
-        "nunavut": 2961,
-    }
+
     for point_locations_path in Path("../vector_data/point").glob("*.csv"):
         # csv names are like newfoundland_and_labrador_point_locations.csv
         region_name = point_locations_path.name.split("_point_locations")[0]
