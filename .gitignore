@@ -10,3 +10,5 @@ utilities/tagged_csvs
 
 # geotiffs, sometimes these are handy for debugging but they don't need to be tracked
 *.tif
+
+*__pycache__
