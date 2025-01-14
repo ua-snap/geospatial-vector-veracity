@@ -1,758 +1,758 @@
-id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal
-AB1,Abee,,Alberta,CA,54.238,-113.025,ardac,850.1,False
-AB2,Acadia Valley,,Alberta,CA,51.1585,-110.209,ardac,915.0,False
-AB3,Acme,,Alberta,CA,51.4972,-113.509,ardac,697.2,False
-AB4,Aetna,,Alberta,CA,49.1339,-113.24,ardac,672.4,False
-AB5,Airdrie,,Alberta,CA,51.2814,-114.004,ardac,658.3,False
-AB6,Alberta Beach,,Alberta,CA,53.6756,-114.353,ardac,744.8,False
-AB7,Alder Flats,,Alberta,CA,52.9331,-114.957,ardac,668.9,False
-AB8,Aldersyde,,Alberta,CA,50.6761,-113.879,ardac,654.1,False
-AB9,Alexander,,Alberta,CA,53.8033,-113.919,ardac,776.1,False
-AB10,Alexis,,Alberta,CA,53.7324,-114.491,ardac,740.6,False
-AB11,Alhambra,,Alberta,CA,52.3431,-114.672,ardac,654.7,False
-AB12,Alix,,Alberta,CA,52.3981,-113.189,ardac,748.7,False
-AB13,Alliance,,Alberta,CA,52.4344,-111.785,ardac,839.0,False
-AB14,Altario,,Alberta,CA,51.9186,-110.162,ardac,930.9,False
-AB15,Amesbury,,Alberta,CA,55.0811,-112.497,ardac,928.4,False
-AB16,Amisk,,Alberta,CA,52.5656,-111.057,ardac,889.9,False
-AB17,Andrew,,Alberta,CA,53.8783,-112.335,ardac,869.5,False
-AB18,Anzac,,Alberta,CA,56.4478,-111.046,ardac,970.9,False
-AB19,Arcadia,,Alberta,CA,55.4026,-116.131,ardac,750.6,False
-AB20,Ardenode,,Alberta,CA,51.1444,-113.424,ardac,694.2,False
-AB21,Ardley,,Alberta,CA,52.2611,-113.232,ardac,740.7,False
-AB22,Ardmore,,Alberta,CA,54.3314,-110.477,ardac,998.3,False
-AB23,Ardrossan,,Alberta,CA,53.5522,-113.144,ardac,806.1,False
-AB24,Argentia Beach,,Alberta,CA,53.0536,-114.016,ardac,729.4,False
-AB25,Armada,,Alberta,CA,50.4139,-112.754,ardac,726.6,False
-AB26,Armena,,Alberta,CA,53.1225,-112.949,ardac,795.4,False
-AB27,Arrowwood,,Alberta,CA,50.7392,-113.15,ardac,705.8,False
-AB28,Artists View Park West,,Alberta,CA,51.0788,-114.272,ardac,635.0,False
-AB29,Ashmont,,Alberta,CA,54.1292,-111.568,ardac,926.1,False
-AB30,Assumption,,Alberta,CA,58.6994,-118.687,ardac,727.1,False
-AB31,Athabasca,,Alberta,CA,54.7151,-113.284,ardac,864.9,False
-AB32,Atikameg,,Alberta,CA,55.9169,-115.651,ardac,796.4,False
-AB33,Atmore,,Alberta,CA,54.8192,-112.55,ardac,909.7,False
-AB34,Balmoral,,Alberta,CA,52.2754,-113.7,ardac,711.7,False
-AB35,Banff,,Alberta,CA,51.179,-115.569,ardac,550.7,False
-AB36,Barnwell,,Alberta,CA,49.7606,-112.263,ardac,752.0,False
-AB37,Barons,,Alberta,CA,49.9975,-113.081,ardac,696.5,False
-AB38,Barrhead,,Alberta,CA,54.1217,-114.404,ardac,769.1,False
-AB39,Bashaw,,Alberta,CA,52.5831,-112.97,ardac,769.9,False
-AB40,Bassano,,Alberta,CA,50.7875,-112.468,ardac,753.9,False
-AB41,Bawlf,,Alberta,CA,52.9194,-112.466,ardac,815.2,False
-AB42,Bay Tree,,Alberta,CA,55.825,-119.906,ardac,557.6,False
-AB43,Beaumont,,Alberta,CA,53.3525,-113.415,ardac,779.9,False
-AB44,Beauvallon,,Alberta,CA,53.6592,-111.362,ardac,914.7,False
-AB45,Beaver,,Alberta,CA,58.4708,-116.584,ardac,830.1,False
-AB46,Beaver Lake,,Alberta,CA,54.753,-111.927,ardac,939.1,False
-AB48,Beaver Mines,,Alberta,CA,49.4567,-114.197,ardac,609.3,False
-AB49,Beaverlodge,,Alberta,CA,55.2118,-119.422,ardac,551.6,False
-AB50,Beiseker,,Alberta,CA,51.385,-113.536,ardac,692.4,False
-AB51,Bellevue,,Alberta,CA,49.5808,-114.366,ardac,599.3,False
-AB52,Bellis,,Alberta,CA,54.1428,-112.15,ardac,893.7,False
-AB53,Benalto,,Alberta,CA,52.3078,-114.278,ardac,677.2,False
-AB54,Benchlands,,Alberta,CA,51.2834,-114.801,ardac,605.0,False
-AB55,Bentley,,Alberta,CA,52.4664,-114.051,ardac,698.3,False
-AB56,Bergen,,Alberta,CA,51.7081,-114.632,ardac,630.4,False
-AB57,Berwyn,,Alberta,CA,56.1488,-117.724,ardac,690.6,False
-AB58,Betula Beach,,Alberta,CA,53.5362,-114.677,ardac,718.8,False
-AB59,Bezanson,,Alberta,CA,55.2286,-118.361,ardac,613.3,False
-AB60,Big Valley,,Alberta,CA,52.0328,-112.752,ardac,763.3,False
-AB61,Bigstone,,Alberta,CA,55.9436,-113.769,ardac,906.8,False
-AB62,Bindloss,,Alberta,CA,50.88,-110.274,ardac,907.2,False
-AB63,Birch Cove,,Alberta,CA,53.9538,-114.372,ardac,760.4,False
-AB64,Bircham,,Alberta,CA,51.4589,-113.431,ardac,701.4,False
-AB65,Birchcliff,,Alberta,CA,52.3619,-114.118,ardac,689.5,False
-AB66,Bittern Lake,,Alberta,CA,53.0081,-113.057,ardac,783.5,False
-AB67,Black Diamond,,Alberta,CA,50.6881,-114.234,ardac,629.6,False
-AB68,Blackfalds,,Alberta,CA,52.3783,-113.796,ardac,710.1,False
-AB69,Blackfoot,,Alberta,CA,53.2892,-110.173,ardac,970.9,False
-AB70,Blackie,,Alberta,CA,50.6044,-113.623,ardac,670.9,False
-AB71,Blairmore,,Alberta,CA,49.6081,-114.443,ardac,594.2,False
-AB72,Blue Ridge,,Alberta,CA,54.125,-115.378,ardac,718.8,False
-AB73,Blueberry Mountain,,Alberta,CA,55.9267,-119.15,ardac,602.8,False
-AB74,Bluesky,,Alberta,CA,56.0735,-118.239,ardac,659.1,False
-AB75,Bluffton,,Alberta,CA,52.7494,-114.292,ardac,697.4,False
-AB76,Bodo,,Alberta,CA,52.1533,-110.079,ardac,941.8,False
-AB77,Bon Accord,,Alberta,CA,53.8369,-113.412,ardac,806.3,False
-AB78,Bonanza,,Alberta,CA,55.9128,-119.827,ardac,566.8,False
-AB79,Bondiss,,Alberta,CA,54.5981,-112.695,ardac,888.8,False
-AB80,Bonnyville,,Alberta,CA,54.2672,-110.739,ardac,980.1,False
-AB81,Botha,,Alberta,CA,52.3081,-112.524,ardac,787.4,False
-AB82,Bow Island,,Alberta,CA,49.8672,-111.379,ardac,816.2,False
-AB83,Bowden,,Alberta,CA,51.9332,-114.032,ardac,677.3,False
-AB84,Boyle,,Alberta,CA,54.5897,-112.807,ardac,882.4,False
-AB85,Bragg Creek,,Alberta,CA,50.9503,-114.57,ardac,611.7,False
-AB86,Brant,,Alberta,CA,50.5169,-113.512,ardac,676.4,False
-AB87,Breton,,Alberta,CA,53.1101,-114.471,ardac,706.4,False
-AB88,Breynat,,Alberta,CA,55.1414,-112.491,ardac,932.5,False
-AB89,Bristol Oakes,,Alberta,CA,53.6824,-113.564,ardac,789.3,False
-AB90,Brocket,,Alberta,CA,49.5467,-113.75,ardac,642.9,False
-AB91,Brooks,,Alberta,CA,50.5672,-111.895,ardac,789.3,False
-AB92,Brownfield,,Alberta,CA,52.3172,-111.433,ardac,857.8,False
-AB93,Brownvale,,Alberta,CA,56.1282,-117.896,ardac,680.3,False
-AB94,Bruce,,Alberta,CA,53.1739,-112.039,ardac,852.2,False
-AB95,Bruderheim,,Alberta,CA,53.7997,-112.928,ardac,831.7,False
-AB96,Brule,,Alberta,CA,53.284,-117.874,ardac,533.2,False
-AB97,Buck Creek,,Alberta,CA,53.1039,-114.896,ardac,682.1,False
-AB98,Buck Lake,,Alberta,CA,52.9486,-114.777,ardac,680.0,False
-AB99,Buffalo Head Prairie,,Alberta,CA,58.0508,-116.349,ardac,831.0,False
-AB100,Buffalo Lake Metis Settlement,,Alberta,CA,54.5791,-112.448,ardac,901.0,False
-AB101,Buford,,Alberta,CA,53.2471,-113.927,ardac,745.0,False
-AB102,Bulwark,,Alberta,CA,52.2417,-111.587,ardac,845.5,False
-AB103,Burdett,,Alberta,CA,49.835,-111.523,ardac,805.6,False
-AB104,Burmis,,Alberta,CA,49.5572,-114.288,ardac,604.6,False
-AB105,Burnstick Lake,,Alberta,CA,51.9894,-114.892,ardac,625.1,False
-AB106,Busby,,Alberta,CA,53.9481,-113.891,ardac,786.1,False
-AB107,Byemoor,,Alberta,CA,51.9797,-112.287,ardac,791.9,False
-AB108,Cadogan,,Alberta,CA,52.3192,-110.449,ardac,921.8,False
-AB109,Cadomin,,Alberta,CA,53.0282,-117.331,ardac,544.7,False
-AB110,Cadotte Lake,,Alberta,CA,56.4705,-116.382,ardac,778.9,False
-AB111,Calahoo,,Alberta,CA,53.7145,-113.958,ardac,768.9,False
-AB112,Calgary,,Alberta,CA,51.0458,-114.057,ardac,648.9,False
-AB113,Calling Lake,,Alberta,CA,55.2103,-113.19,ardac,899.0,False
-AB115,Calmar,,Alberta,CA,53.2664,-113.809,ardac,752.7,False
-AB116,Cambria,,Alberta,CA,51.3939,-112.59,ardac,756.3,False
-AB117,Campsie,,Alberta,CA,54.1278,-114.647,ardac,756.8,False
-AB118,Camrose,,Alberta,CA,53.0181,-112.839,ardac,797.0,False
-AB119,Canmore,,Alberta,CA,51.0928,-115.361,ardac,561.9,False
-AB120,Canyon Creek,,Alberta,CA,55.3666,-115.097,ardac,803.9,False
-AB121,Canyon Heights,,Alberta,CA,52.2907,-113.704,ardac,712.1,False
-AB122,Carbon,,Alberta,CA,51.4858,-113.151,ardac,720.8,False
-AB123,Carbondale,,Alberta,CA,53.7464,-113.527,ardac,794.9,False
-AB124,Cardiff,,Alberta,CA,53.7728,-113.6,ardac,792.2,False
-AB125,Cardston,,Alberta,CA,49.1962,-113.307,ardac,668.4,False
-AB126,Carmangay,,Alberta,CA,50.1294,-113.111,ardac,696.4,False
-AB127,Caroline,,Alberta,CA,52.0948,-114.738,ardac,639.3,False
-AB128,Carseland,,Alberta,CA,50.8544,-113.471,ardac,685.3,False
-AB129,Carstairs,,Alberta,CA,51.5656,-114.099,ardac,660.2,False
-AB130,Caslan,,Alberta,CA,54.6311,-112.512,ardac,900.6,False
-AB131,Cassils,,Alberta,CA,50.5769,-112.046,ardac,779.0,False
-AB132,Castor,,Alberta,CA,52.2192,-111.904,ardac,824.2,False
-AB133,Cayley,,Alberta,CA,50.4481,-113.847,ardac,651.7,False
-AB134,Central Park,,Alberta,CA,52.3309,-113.823,ardac,706.4,False
-AB135,Cereal,,Alberta,CA,51.4183,-110.8,ardac,878.2,False
-AB136,Cessford,,Alberta,CA,51.0064,-111.557,ardac,819.9,False
-AB137,Champion,,Alberta,CA,50.2397,-113.148,ardac,695.7,False
-AB138,Chancellor,,Alberta,CA,51.0885,-112.835,ardac,733.3,False
-AB139,Chauvin,,Alberta,CA,52.6936,-110.141,ardac,952.6,False
-AB140,Cheadle,,Alberta,CA,51.0144,-113.541,ardac,683.5,False
-AB141,Cherhill,,Alberta,CA,53.8192,-114.677,ardac,735.8,False
-AB142,Cherry Grove,,Alberta,CA,54.3561,-110.075,ardac,1022.5,False
-AB143,Chestermere,,Alberta,CA,51.0373,-113.828,ardac,664.3,False
-AB144,Chin,,Alberta,CA,49.7635,-112.445,ardac,739.0,False
-AB145,Chinook,,Alberta,CA,51.4494,-110.925,ardac,870.3,False
-AB146,Chipewyan Lake,,Alberta,CA,56.9403,-113.473,ardac,958.9,False
-AB147,Chipewyan Prairie,,Alberta,CA,55.9358,-110.717,ardac,977.0,False
-AB148,Chipman,,Alberta,CA,53.6983,-112.638,ardac,842.7,False
-AB149,Chisholm,,Alberta,CA,54.9094,-114.169,ardac,829.4,False
-AB150,Chokio,,Alberta,CA,49.5819,-113.66,ardac,650.0,False
-AB151,Clairmont,,Alberta,CA,55.2614,-118.794,ardac,589.6,False
-AB152,Clandonald,,Alberta,CA,53.5719,-110.714,ardac,949.3,False
-AB153,Claresholm,,Alberta,CA,50.0197,-113.583,ardac,661.3,False
-AB154,Cleardale,,Alberta,CA,56.3558,-119.478,ardac,611.6,False
-AB155,Clearwater Estates,,Alberta,CA,53.5694,-114.081,ardac,753.9,False
-AB156,Clive,,Alberta,CA,52.4774,-113.445,ardac,736.0,False
-AB157,Cluny,,Alberta,CA,50.8411,-112.869,ardac,726.8,False
-AB158,Clyde,,Alberta,CA,54.1502,-113.636,ardac,811.8,False
-AB159,Coaldale,,Alberta,CA,49.7278,-112.619,ardac,726.2,False
-AB160,Coalhurst,,Alberta,CA,49.7467,-112.931,ardac,704.1,False
-AB161,Cochrane,,Alberta,CA,51.1897,-114.484,ardac,623.5,False
-AB162,Cochrane Lake,,Alberta,CA,51.2434,-114.482,ardac,625.1,False
-AB163,Cold Lake,,Alberta,CA,54.4664,-110.188,ardac,1021.4,False
-AB164,Coleman,,Alberta,CA,49.6353,-114.503,ardac,590.3,False
-AB165,Colinton,,Alberta,CA,54.6206,-113.253,ardac,860.6,False
-AB166,College Heights,,Alberta,CA,52.4892,-113.733,ardac,718.8,False
-AB167,Collingwood Cove,,Alberta,CA,53.4469,-113.005,ardac,808.5,False
-AB168,Compeer,,Alberta,CA,51.8594,-110.013,ardac,939.7,False
-AB169,Condor,,Alberta,CA,52.3264,-114.555,ardac,661.0,False
-AB170,Conklin,,Alberta,CA,55.6308,-111.09,ardac,1012.9,False
-AB171,Connemara,,Alberta,CA,50.4001,-113.829,ardac,651.8,False
-AB172,Conrich,,Alberta,CA,51.0933,-113.863,ardac,663.2,False
-AB173,Consort,,Alberta,CA,52.0123,-110.771,ardac,892.6,False
-AB174,Cooking Lake,,Alberta,CA,53.4114,-113.122,ardac,799.9,False
-AB175,Coronado,,Alberta,CA,53.8878,-113.295,ardac,815.6,False
-AB176,Coronation,,Alberta,CA,52.0947,-111.448,ardac,850.2,False
-AB177,Coutts,,Alberta,CA,49.0028,-111.959,ardac,764.4,False
-AB178,Cowley,,Alberta,CA,49.568,-114.074,ardac,620.1,False
-AB179,Craigmyle,,Alberta,CA,51.6697,-112.243,ardac,786.2,False
-AB180,Cremona,,Alberta,CA,51.5453,-114.485,ardac,634.2,False
-AB181,Crossfield,,Alberta,CA,51.4306,-114.031,ardac,660.6,False
-AB182,Crystal Meadows,,Alberta,CA,53.5634,-114.168,ardac,748.7,False
-AB183,Crystal Springs,,Alberta,CA,52.9733,-114.041,ardac,723.7,False
-AB184,Czar,,Alberta,CA,52.4547,-110.828,ardac,901.1,False
-AB185,Dalemead,,Alberta,CA,50.8747,-113.637,ardac,674.2,False
-AB186,Dalroy,,Alberta,CA,51.1286,-113.669,ardac,677.2,False
-AB187,Dapp,,Alberta,CA,54.345,-113.916,ardac,808.8,False
-AB188,Dawn Valley,,Alberta,CA,53.6214,-114.02,ardac,760.3,False
-AB189,Daysland,,Alberta,CA,52.8673,-112.264,ardac,825.3,False
-AB190,De Winton,,Alberta,CA,50.8231,-114.019,ardac,646.9,False
-AB191,Deadwood,,Alberta,CA,56.7411,-117.458,ardac,736.2,False
-AB192,DeBolt,,Alberta,CA,55.2217,-118.02,ardac,632.9,False
-AB193,Del Bonita,,Alberta,CA,49.0294,-112.791,ardac,703.9,False
-AB194,Delburne,,Alberta,CA,52.1981,-113.235,ardac,738.1,False
-AB195,Delia,,Alberta,CA,51.6306,-112.374,ardac,776.5,False
-AB196,Dene Tha',,Alberta,CA,58.5149,-117.065,ardac,805.6,False
-AB197,Denwood,,Alberta,CA,52.8176,-110.891,ardac,909.0,False
-AB198,Derwent,,Alberta,CA,53.6545,-110.967,ardac,937.8,False
-AB199,Devon,,Alberta,CA,53.3613,-113.725,ardac,762.7,False
-AB200,Devonshire Meadows,,Alberta,CA,53.3888,-113.83,ardac,758.3,False
-AB201,Dewberry,,Alberta,CA,53.5881,-110.525,ardac,961.4,False
-AB202,Diamond City,,Alberta,CA,49.7956,-112.839,ardac,711.2,False
-AB203,Dickson,,Alberta,CA,52.0581,-114.308,ardac,664.7,False
-AB204,Didsbury,,Alberta,CA,51.6594,-114.137,ardac,660.8,False
-AB205,Dixonville,,Alberta,CA,56.5374,-117.672,ardac,713.8,False
-AB206,Dogpound,,Alberta,CA,51.4567,-114.397,ardac,637.1,False
-AB207,Donalda,,Alberta,CA,52.5836,-112.574,ardac,794.6,False
-AB208,Donnelly,,Alberta,CA,55.7289,-117.105,ardac,705.8,False
-AB209,Dorothy,,Alberta,CA,51.2792,-112.325,ardac,771.8,False
-AB210,Drayton Valley,,Alberta,CA,53.2215,-114.974,ardac,684.1,False
-AB211,Driftpile,,Alberta,CA,55.3428,-115.788,ardac,766.8,False
-AB212,Drumheller,,Alberta,CA,51.4644,-112.719,ardac,749.2,False
-AB213,Duchess,,Alberta,CA,50.7311,-111.906,ardac,791.9,False
-AB214,Duffield,,Alberta,CA,53.5281,-114.344,ardac,736.9,False
-AB215,Duhamel,,Alberta,CA,52.9156,-112.963,ardac,784.8,False
-AB216,Duncan's,,Alberta,CA,56.1208,-117.861,ardac,681.8,False
-AB217,Dunmore,,Alberta,CA,49.9703,-110.584,ardac,873.8,False
-AB218,Durward,,Alberta,CA,50.2956,-113.713,ardac,657.4,False
-AB219,Duvernay,,Alberta,CA,53.7861,-111.692,ardac,901.5,False
-AB220,Eaglesham,,Alberta,CA,55.7825,-117.883,ardac,664.3,False
-AB221,East Coulee,,Alberta,CA,51.3436,-112.498,ardac,761.4,False
-AB222,East Prairie Metis Settlement,,Alberta,CA,55.1891,-116.27,ardac,732.6,False
-AB223,Eastview Acres,,Alberta,CA,49.7895,-113.016,ardac,698.5,False
-AB224,Eckville,,Alberta,CA,52.36,-114.367,ardac,674.1,False
-AB225,Edberg,,Alberta,CA,52.7847,-112.789,ardac,789.6,False
-AB226,Edgerton,,Alberta,CA,52.7586,-110.458,ardac,934.4,False
-AB227,Edmonton,,Alberta,CA,53.5358,-113.494,ardac,785.5,False
-AB228,Edson,,Alberta,CA,53.5866,-116.436,ardac,629.0,False
-AB229,Egremont,,Alberta,CA,54.0383,-113.126,ardac,833.3,False
-AB230,Eldoes Trailer Park,,Alberta,CA,55.1696,-118.744,ardac,588.7,False
-AB231,Elizabeth Metis Settlement,,Alberta,CA,54.217,-110.092,ardac,1014.9,False
-AB232,Elk Point,,Alberta,CA,53.9011,-110.901,ardac,953.0,False
-AB233,Elkwater,,Alberta,CA,49.6608,-110.282,ardac,892.0,False
-AB234,Ellscott,,Alberta,CA,54.5031,-112.901,ardac,872.2,False
-AB235,Elmworth,,Alberta,CA,55.0539,-119.616,ardac,533.5,False
-AB236,Elnora,,Alberta,CA,51.9936,-113.201,ardac,732.9,False
-AB237,Empress,,Alberta,CA,50.9543,-110.008,ardac,926.8,False
-AB238,Enchant,,Alberta,CA,50.17,-112.422,ardac,745.6,False
-AB239,Endiang,,Alberta,CA,51.9539,-112.158,ardac,799.6,False
-AB240,Enilda,,Alberta,CA,55.4169,-116.311,ardac,740.4,False
-AB241,Enoch,,Alberta,CA,53.4997,-113.761,ardac,768.4,False
-AB242,Ensign,,Alberta,CA,50.475,-113.432,ardac,680.9,False
-AB243,Entrance,,Alberta,CA,53.3748,-117.684,ardac,549.2,False
-AB244,Entwistle,,Alberta,CA,53.5944,-114.996,ardac,704.8,False
-AB245,Ermineskin,,Alberta,CA,52.836,-113.454,ardac,751.6,False
-AB246,Erskine,,Alberta,CA,52.3211,-112.88,ardac,765.2,False
-AB247,Etzikom,,Alberta,CA,49.4769,-111.107,ardac,830.6,False
-AB248,Evansburg,,Alberta,CA,53.6004,-115.017,ardac,704.1,False
-AB249,Exshaw,,Alberta,CA,51.0635,-115.159,ardac,574.7,False
-AB250,Fabyan,,Alberta,CA,52.8819,-110.994,ardac,904.8,False
-AB251,Fairview,,Alberta,CA,56.0672,-118.384,ardac,651.0,False
-AB252,Falher,,Alberta,CA,55.7372,-117.201,ardac,700.7,False
-AB253,Fallis,,Alberta,CA,53.5853,-114.641,ardac,723.7,False
-AB254,Faust,,Alberta,CA,55.3158,-115.628,ardac,773.3,False
-AB255,Fawcett,,Alberta,CA,54.5394,-114.096,ardac,811.9,False
-AB256,Federal,,Alberta,CA,52.1117,-111.572,ardac,842.5,False
-AB257,Ferintosh,,Alberta,CA,52.7658,-112.972,ardac,777.6,False
-AB258,Ferrier Acres,,Alberta,CA,52.3649,-115.061,ardac,632.3,False
-AB259,Fincastle,,Alberta,CA,49.8083,-112.002,ardac,771.1,False
-AB260,Fitzgerald,,Alberta,CA,59.8617,-111.606,ardac,732.9,False
-AB261,Flatbush,,Alberta,CA,54.6892,-114.156,ardac,817.9,False
-AB262,Fleet,,Alberta,CA,52.1533,-111.73,ardac,833.5,False
-AB263,Fleming Park,,Alberta,CA,53.4432,-113.72,ardac,767.6,False
-AB264,Flyingshot Lake,,Alberta,CA,55.1421,-118.863,ardac,580.6,False
-AB265,Foremost,,Alberta,CA,49.4764,-111.447,ardac,806.2,False
-AB266,Forestburg,,Alberta,CA,52.5839,-112.064,ardac,826.6,False
-AB267,Forshee,,Alberta,CA,52.558,-114.145,ardac,696.8,False
-AB268,Fort Assiniboine,,Alberta,CA,54.3342,-114.775,ardac,763.7,False
-AB269,Fort Chipewyan,,Alberta,CA,58.7144,-111.158,ardac,848.3,False
-AB270,Fort Kent,,Alberta,CA,54.3108,-110.604,ardac,990.0,False
-AB271,Fort MacKay,,Alberta,CA,57.1869,-111.636,ardac,973.9,False
-AB272,Fort Macleod,,Alberta,CA,49.7231,-113.404,ardac,670.0,False
-AB273,Fort McMurray,,Alberta,CA,56.7275,-111.387,ardac,977.8,False
-AB274,Fort Saskatchewan,,Alberta,CA,53.7002,-113.225,ardac,809.6,False
-AB275,Fort Vermilion,,Alberta,CA,58.3893,-116.007,ardac,859.2,False
-AB276,Fox Creek,,Alberta,CA,54.4043,-116.81,ardac,656.5,False
-AB277,Fox Lake,,Alberta,CA,58.4705,-114.533,ardac,926.0,False
-AB278,Frank,,Alberta,CA,49.6027,-114.406,ardac,596.7,False
-AB279,Frog Lake,,Alberta,CA,53.8721,-110.391,ardac,981.7,False
-AB280,Gadsby,,Alberta,CA,52.2968,-112.356,ardac,797.7,False
-AB281,Gainford,,Alberta,CA,53.5847,-114.785,ardac,715.7,False
-AB282,Galahad,,Alberta,CA,52.5142,-111.931,ardac,832.4,False
-AB283,Garden Creek,,Alberta,CA,58.7047,-113.886,ardac,889.9,False
-AB284,Garden Grove Estates,,Alberta,CA,53.4836,-113.947,ardac,756.9,False
-AB285,Gem,,Alberta,CA,50.9506,-112.189,ardac,775.5,False
-AB286,Ghost Lake,,Alberta,CA,51.2066,-114.764,ardac,605.2,False
-AB287,Gibbons,,Alberta,CA,53.8297,-113.328,ardac,810.6,False
-AB288,Gift Lake,,Alberta,CA,55.8825,-115.813,ardac,785.8,False
-AB289,Girouxville,,Alberta,CA,55.7536,-117.339,ardac,693.5,False
-AB290,Gleichen,,Alberta,CA,50.8661,-113.055,ardac,714.3,False
-AB291,Glen Leslie,,Alberta,CA,55.1994,-118.487,ardac,604.8,False
-AB292,Glendon,,Alberta,CA,54.2525,-111.16,ardac,955.5,False
-AB293,Glenevis,,Alberta,CA,53.7897,-114.517,ardac,742.6,False
-AB294,Glenwood,,Alberta,CA,49.3659,-113.515,ardac,656.1,False
-AB295,Glory Hills,,Alberta,CA,53.6828,-113.971,ardac,766.4,False
-AB296,Golden Days,,Alberta,CA,53.0514,-114.053,ardac,727.1,False
-AB297,Goodfish Lake,,Alberta,CA,54.2975,-111.806,ardac,921.2,False
-AB298,Gordondale,,Alberta,CA,55.84,-119.54,ardac,577.5,False
-AB299,Grande Cache,,Alberta,CA,53.8881,-119.119,ardac,502.4,False
-AB300,Grande Prairie,,Alberta,CA,55.1708,-118.796,ardac,585.7,False
-AB301,Grandview,,Alberta,CA,52.9879,-114.066,ardac,723.0,False
-AB302,Grantham,,Alberta,CA,50.0687,-112.009,ardac,773.4,False
-AB303,Granum,,Alberta,CA,49.8711,-113.508,ardac,664.5,False
-AB304,Grassland,,Alberta,CA,54.82,-112.687,ardac,902.5,False
-AB305,Grassy Lake,,Alberta,CA,49.8253,-111.698,ardac,793.0,False
-AB306,Green Acre Estates,,Alberta,CA,53.4979,-113.941,ardac,758.0,False
-AB307,Green Court,,Alberta,CA,54.0078,-115.239,ardac,718.4,False
-AB308,Gregoire Lake Estates,,Alberta,CA,56.4669,-111.194,ardac,978.3,False
-AB309,Grimshaw,,Alberta,CA,56.1886,-117.606,ardac,699.0,False
-AB310,Grouard,,Alberta,CA,55.5203,-116.161,ardac,752.7,False
-AB311,Grouard Mission,,Alberta,CA,55.5422,-116.154,ardac,753.8,False
-AB312,Grovedale,,Alberta,CA,55.0278,-118.859,ardac,576.3,False
-AB313,Gull Lake,,Alberta,CA,52.4622,-113.941,ardac,704.8,False
-AB314,Gunn,,Alberta,CA,53.7305,-114.348,ardac,748.3,False
-AB315,Guy,,Alberta,CA,55.5489,-117.12,ardac,697.8,False
-AB316,Gwynne,,Alberta,CA,52.9867,-113.199,ardac,774.0,False
-AB317,Hairy Hill,,Alberta,CA,53.7633,-111.979,ardac,883.8,False
-AB318,Half Moon Bay,,Alberta,CA,52.345,-114.172,ardac,685.4,False
-AB319,Half Moon Estates,,Alberta,CA,53.4615,-113.084,ardac,804.7,False
-AB320,Halkirk,,Alberta,CA,52.2825,-112.154,ardac,810.2,False
-AB321,Hanna,,Alberta,CA,51.6458,-111.925,ardac,806.8,False
-AB322,Hardisty,,Alberta,CA,52.675,-111.304,ardac,877.9,False
-AB323,Hartleyville,,Alberta,CA,49.3644,-113.609,ardac,649.3,False
-AB324,Harvie Heights,,Alberta,CA,51.13,-115.376,ardac,562.0,False
-AB325,Hawk Hills,,Alberta,CA,57.2555,-117.413,ardac,753.0,False
-AB326,Hay Lakes,,Alberta,CA,53.1967,-113.057,ardac,792.7,False
-AB327,Hayfield,,Alberta,CA,55.1708,-119.615,ardac,538.8,False
-AB328,Haynes,,Alberta,CA,52.3175,-113.392,ardac,732.8,False
-AB329,Hays,,Alberta,CA,50.0981,-111.794,ardac,789.0,False
-AB330,Hayter,,Alberta,CA,52.3564,-110.108,ardac,945.0,False
-AB331,Hazell,,Alberta,CA,49.63,-114.664,ardac,578.7,False
-AB332,Heart Lake,,Alberta,CA,54.9832,-111.56,ardac,971.9,False
-AB333,Heinsburg,,Alberta,CA,53.7675,-110.522,ardac,969.3,False
-AB334,Heisler,,Alberta,CA,52.6711,-112.224,ardac,819.9,False
-AB335,Heritage Woods,,Alberta,CA,51.0555,-114.241,ardac,636.6,False
-AB336,Herronton,,Alberta,CA,50.6247,-113.439,ardac,684.1,False
-AB337,Hesketh,,Alberta,CA,51.4703,-112.975,ardac,732.2,False
-AB338,Hewitt Estates,,Alberta,CA,53.8073,-113.397,ardac,805.5,False
-AB339,High Level,,Alberta,CA,58.516,-117.138,ardac,801.7,False
-AB340,High Point Estates,,Alberta,CA,51.0309,-113.781,ardac,667.4,False
-AB341,High Prairie,,Alberta,CA,55.4347,-116.488,ardac,730.5,False
-AB342,High River,,Alberta,CA,50.5797,-113.874,ardac,653.1,False
-AB343,Hilda,,Alberta,CA,50.4797,-110.033,ardac,917.8,False
-AB344,Hill Spring,,Alberta,CA,49.2931,-113.622,ardac,647.2,False
-AB345,Hillcrest Mines,,Alberta,CA,49.5689,-114.377,ardac,598.4,False
-AB346,Hilliard,,Alberta,CA,53.64,-112.482,ardac,848.6,False
-AB347,Hines Creek,,Alberta,CA,56.2486,-118.603,ardac,649.4,False
-AB348,Hinton,,Alberta,CA,53.4,-117.572,ardac,556.7,False
-AB349,Hobbema,,Alberta,CA,52.8194,-113.461,ardac,750.4,False
-AB350,Holden,,Alberta,CA,53.2333,-112.234,ardac,843.2,False
-AB351,Hondo,,Alberta,CA,55.0716,-114.039,ardac,844.8,False
-AB352,Horse Lake,,Alberta,CA,54.8229,-119.352,ardac,539.4,False
-AB353,Horseshoe Bay,,Alberta,CA,54.1262,-111.364,ardac,937.4,False
-AB354,Hu Haven,,Alberta,CA,53.7709,-113.205,ardac,814.4,False
-AB355,Hubbles Lake,,Alberta,CA,53.5593,-114.088,ardac,753.0,False
-AB356,Hughenden,,Alberta,CA,52.5106,-110.967,ardac,893.9,False
-AB357,Hussar,,Alberta,CA,51.0414,-112.682,ardac,742.9,False
-AB358,Huxley,,Alberta,CA,51.9243,-113.23,ardac,728.7,False
-AB359,Hylo,,Alberta,CA,54.6775,-112.211,ardac,919.5,False
-AB360,Hythe,,Alberta,CA,55.33,-119.55,ardac,550.0,False
-AB361,Iddesleigh,,Alberta,CA,50.7356,-111.303,ardac,833.5,False
-AB362,Imperial Mills,,Alberta,CA,55.0001,-111.731,ardac,963.7,False
-AB363,Indian Cabins,,Alberta,CA,59.8675,-117.035,ardac,847.1,False
-AB364,Indus,,Alberta,CA,50.9158,-113.78,ardac,665.1,False
-AB365,Innisfail,,Alberta,CA,52.0242,-113.953,ardac,685.8,False
-AB366,Innisfree,,Alberta,CA,53.3825,-111.531,ardac,892.0,False
-AB367,Irma,,Alberta,CA,52.9119,-111.228,ardac,891.3,False
-AB368,Iron Springs,,Alberta,CA,49.93,-112.688,ardac,723.6,False
-AB369,Irricana,,Alberta,CA,51.3236,-113.608,ardac,686.0,False
-AB370,Irvine,,Alberta,CA,49.9553,-110.277,ardac,895.6,False
-AB371,Island Lake,,Alberta,CA,54.8415,-113.558,ardac,858.6,False
-AB372,Islay,,Alberta,CA,53.3939,-110.539,ardac,952.5,False
-AB373,Itaska Beach,,Alberta,CA,53.0722,-114.08,ardac,726.7,False
-AB374,Jarrow,,Alberta,CA,52.9408,-111.395,ardac,882.0,False
-AB375,Jarvie,,Alberta,CA,54.4547,-113.987,ardac,812.0,False
-AB376,Jarvis Bay,,Alberta,CA,52.3352,-114.08,ardac,690.6,False
-AB377,Jasper,,Alberta,CA,52.8711,-118.093,ardac,494.8,False
-AB378,Jean Côté,,Alberta,CA,55.8981,-117.311,ardac,701.4,False
-AB379,Jenner,,Alberta,CA,50.7467,-111.184,ardac,841.9,False
-AB380,Joffre,,Alberta,CA,52.3371,-113.537,ardac,724.5,False
-AB381,John D'Or Prairie,,Alberta,CA,58.4938,-115.144,ardac,909.5,False
-AB382,Johnson's Addition,,Alberta,CA,49.7827,-112.177,ardac,758.4,False
-AB383,Josephburg,,Alberta,CA,53.7133,-113.07,ardac,819.1,False
-AB384,Joussard,,Alberta,CA,55.3952,-115.951,ardac,761.0,False
-AB385,Judson,,Alberta,CA,49.5222,-112.346,ardac,742.4,False
-AB386,Kapasiwin,,Alberta,CA,53.5442,-114.445,ardac,732.1,False
-AB387,Kapawe'no,,Alberta,CA,55.5475,-116.152,ardac,754.1,False
-AB388,Kathyrn,,Alberta,CA,51.2183,-113.708,ardac,676.6,False
-AB389,Kavanagh,,Alberta,CA,53.1822,-113.517,ardac,765.1,False
-AB390,Keg River,,Alberta,CA,57.746,-117.61,ardac,752.3,False
-AB391,Kehewin,,Alberta,CA,54.1104,-110.882,ardac,964.2,False
-AB392,Kelsey,,Alberta,CA,52.8458,-112.549,ardac,806.9,False
-AB393,Keoma,,Alberta,CA,51.2169,-113.649,ardac,680.6,False
-AB394,Kew,,Alberta,CA,50.7329,-114.417,ardac,617.7,False
-AB395,Kikino,,Alberta,CA,54.4442,-112.094,ardac,912.8,False
-AB396,Killam,,Alberta,CA,52.7897,-111.855,ardac,847.5,False
-AB397,Kingman,,Alberta,CA,53.2133,-112.749,ardac,811.6,False
-AB398,Kinsella,,Alberta,CA,53.0016,-111.524,ardac,876.4,False
-AB399,Kinuso,,Alberta,CA,55.3319,-115.435,ardac,784.3,False
-AB400,Kirkcaldy,,Alberta,CA,50.335,-113.238,ardac,691.3,False
-AB401,Kitscoty,,Alberta,CA,53.3419,-110.333,ardac,963.1,False
-AB402,La Crete,,Alberta,CA,58.1878,-116.417,ardac,830.9,False
-AB403,La Glace,,Alberta,CA,55.4028,-119.154,ardac,575.6,False
-AB404,Lac des Arcs,,Alberta,CA,51.0501,-115.157,ardac,574.4,False
-AB405,Lac La Biche,,Alberta,CA,54.7686,-111.978,ardac,937.2,False
-AB406,Lacombe,,Alberta,CA,52.4644,-113.734,ardac,717.6,False
-AB407,Lake Louise,,Alberta,CA,51.4253,-116.181,ardac,519.8,False
-AB408,Lakeview,,Alberta,CA,53.5597,-114.457,ardac,732.4,False
-AB409,Lamont,,Alberta,CA,53.7625,-112.778,ardac,838.2,False
-AB410,Lancaster Park,,Alberta,CA,53.6728,-113.491,ardac,792.9,False
-AB411,Langdon,,Alberta,CA,50.9737,-113.67,ardac,673.8,False
-AB412,Larkspur,,Alberta,CA,54.4387,-113.768,ardac,822.4,False
-AB413,Lavoy,,Alberta,CA,53.4587,-111.863,ardac,875.7,False
-AB414,Lawsonburg,,Alberta,CA,51.4836,-112.159,ardac,787.4,False
-AB415,Leahurst,,Alberta,CA,52.3763,-112.644,ardac,782.2,False
-AB416,Leavitt,,Alberta,CA,49.1709,-113.453,ardac,657.5,False
-AB417,Leduc,,Alberta,CA,53.2667,-113.546,ardac,767.8,False
-AB418,Leedale,,Alberta,CA,52.5819,-114.47,ardac,678.4,False
-AB419,Legal,,Alberta,CA,53.9495,-113.595,ardac,802.4,False
-AB420,Legend,,Alberta,CA,49.4844,-111.61,ardac,794.6,False
-AB421,Les Trailer Park,,Alberta,CA,52.2786,-113.867,ardac,701.4,False
-AB422,Leslieville,,Alberta,CA,52.3833,-114.605,ardac,660.7,False
-AB423,Lethbridge,,Alberta,CA,49.6928,-112.835,ardac,710.3,False
-AB424,Lindbergh,,Alberta,CA,53.8875,-110.673,ardac,965.7,False
-AB425,Linden,,Alberta,CA,51.5906,-113.488,ardac,701.3,False
-AB426,Linn Valley,,Alberta,CA,52.3214,-113.873,ardac,702.9,False
-AB427,Little Buffalo,,Alberta,CA,56.4375,-116.108,ardac,792.3,False
-AB428,Lloydminster,,Alberta,CA,53.279,-110.019,ardac,980.1,False
-AB429,Lodgepole,,Alberta,CA,53.1006,-115.314,ardac,658.1,False
-AB430,Lomond,,Alberta,CA,50.3494,-112.641,ardac,733.2,False
-AB431,Lone Pine,,Alberta,CA,54.3058,-115.115,ardac,743.8,False
-AB432,Long Lake,,Alberta,CA,54.4517,-112.775,ardac,876.0,False
-AB433,Longview,,Alberta,CA,50.5308,-114.231,ardac,627.4,False
-AB434,Loon Lake,,Alberta,CA,56.5389,-115.394,ardac,836.1,False
-AB435,Lougheed,,Alberta,CA,52.7444,-111.543,ardac,865.3,False
-AB436,Louis Bull,,Alberta,CA,52.8887,-113.541,ardac,748.9,False
-AB437,Lousana,,Alberta,CA,52.1128,-113.19,ardac,737.8,False
-AB438,Loyalist,,Alberta,CA,51.9858,-110.954,ardac,879.8,False
-AB439,Lundbreck,,Alberta,CA,49.5845,-114.164,ardac,613.8,False
-AB440,Lyalta,,Alberta,CA,51.1145,-113.602,ardac,681.4,False
-AB441,Ma-Me-O Beach,,Alberta,CA,52.9735,-113.96,ardac,728.4,False
-AB442,Magrath,,Alberta,CA,49.417,-112.865,ardac,703.5,False
-AB443,Makepeace,,Alberta,CA,50.9394,-112.616,ardac,745.8,False
-AB444,Mallaig,,Alberta,CA,54.2103,-111.361,ardac,942.0,False
-AB445,Manning,,Alberta,CA,56.92,-117.629,ardac,735.1,False
-AB446,Mannville,,Alberta,CA,53.3403,-111.178,ardac,911.5,False
-AB447,Manyberries,,Alberta,CA,49.4006,-110.695,ardac,859.5,False
-AB448,Markerville,,Alberta,CA,52.1236,-114.171,ardac,676.0,False
-AB449,Marlboro,,Alberta,CA,53.5556,-116.796,ardac,607.8,False
-AB450,Martins Trailer Court,,Alberta,CA,52.3597,-115.028,ardac,634.0,False
-AB451,Marwayne,,Alberta,CA,53.5175,-110.33,ardac,970.2,False
-AB452,Mayerthorpe,,Alberta,CA,53.9547,-115.138,ardac,720.1,False
-AB453,McDermott,,Alberta,CA,49.7309,-112.948,ardac,702.7,False
-AB454,McLaughlin,,Alberta,CA,52.9897,-110.165,ardac,960.7,False
-AB455,McLennan,,Alberta,CA,55.7062,-116.906,ardac,716.2,False
-AB456,McLeod Valley,,Alberta,CA,53.7206,-115.971,ardac,661.8,False
-AB457,McNab,,Alberta,CA,49.3494,-112.29,ardac,743.8,False
-AB458,Meander River,,Alberta,CA,59.0434,-117.714,ardac,791.4,False
-AB459,Meanook,,Alberta,CA,54.5766,-113.319,ardac,854.5,False
-AB460,Medicine Hat,,Alberta,CA,50.0408,-110.677,ardac,867.8,False
-AB461,Medley,,Alberta,CA,54.4191,-110.268,ardac,1014.5,False
-AB462,Meeting Creek,,Alberta,CA,52.6819,-112.732,ardac,788.8,False
-AB463,Meso West,,Alberta,CA,53.5915,-114.308,ardac,742.5,False
-AB464,Metiskow,,Alberta,CA,52.4086,-110.633,ardac,912.3,False
-AB465,Mewatha Beach,,Alberta,CA,54.6065,-112.741,ardac,886.9,False
-AB466,Michichi,,Alberta,CA,51.5853,-112.534,ardac,764.6,False
-AB467,Mikisew,,Alberta,CA,58.7678,-111.046,ardac,841.3,False
-AB468,Milk River,,Alberta,CA,49.1554,-112.083,ardac,756.6,False
-AB469,Millarville,,Alberta,CA,50.7564,-114.325,ardac,624.5,False
-AB470,Millet,,Alberta,CA,53.0923,-113.473,ardac,763.0,False
-AB471,Millicent,,Alberta,CA,50.7103,-111.779,ardac,800.2,False
-AB472,Milo,,Alberta,CA,50.57,-112.882,ardac,721.1,False
-AB473,Minburn,,Alberta,CA,53.3156,-111.364,ardac,899.2,False
-AB474,Mirror,,Alberta,CA,52.4656,-113.11,ardac,756.4,False
-AB475,Monarch,,Alberta,CA,49.8044,-113.108,ardac,692.2,False
-AB476,Monitor,,Alberta,CA,51.9783,-110.569,ardac,905.2,False
-AB477,Montana,,Alberta,CA,52.7271,-113.424,ardac,748.3,False
-AB478,Moon River Estates,,Alberta,CA,49.7286,-113.149,ardac,688.3,False
-AB479,Moose Portage,,Alberta,CA,55.2292,-113.883,ardac,861.5,False
-AB480,Morinville,,Alberta,CA,53.8028,-113.644,ardac,791.4,False
-AB481,Morley,,Alberta,CA,51.1672,-114.852,ardac,598.2,False
-AB482,Morningside,,Alberta,CA,52.5778,-113.634,ardac,728.8,False
-AB483,Morrin,,Alberta,CA,51.6603,-112.767,ardac,751.1,False
-AB484,Mossleigh,,Alberta,CA,50.7203,-113.324,ardac,693.4,False
-AB485,Mountain View,,Alberta,CA,49.1344,-113.596,ardac,646.6,False
-AB486,Mulhurst,,Alberta,CA,53.0493,-113.981,ardac,731.2,False
-AB487,Mundare,,Alberta,CA,53.5939,-112.342,ardac,854.3,False
-AB488,Munson,,Alberta,CA,51.5633,-112.738,ardac,750.4,False
-AB489,Musidora,,Alberta,CA,53.6897,-111.584,ardac,903.1,False
-AB490,Myrnam,,Alberta,CA,53.6617,-111.23,ardac,922.6,False
-AB491,Nacmine,,Alberta,CA,51.47,-112.784,ardac,745.0,False
-AB492,Nakamun Park,,Alberta,CA,53.8776,-114.214,ardac,764.3,False
-AB493,Namaka,,Alberta,CA,50.9583,-113.287,ardac,699.8,False
-AB494,Namao,,Alberta,CA,53.7671,-113.474,ardac,799.0,False
-AB495,Nampa,,Alberta,CA,56.0381,-117.13,ardac,717.8,False
-AB496,Nanton,,Alberta,CA,50.346,-113.777,ardac,654.1,False
-AB497,Neerlandia,,Alberta,CA,54.3192,-114.377,ardac,783.2,False
-AB498,Nevis,,Alberta,CA,52.3303,-113.031,ardac,756.0,False
-AB499,New Brigden,,Alberta,CA,51.7006,-110.49,ardac,904.4,False
-AB500,New Dayton,,Alberta,CA,49.4256,-112.381,ardac,738.4,False
-AB501,New Norway,,Alberta,CA,52.8689,-112.951,ardac,783.5,False
-AB502,New Sarepta,,Alberta,CA,53.2742,-113.146,ardac,791.4,False
-AB503,Newbrook,,Alberta,CA,54.326,-112.949,ardac,859.3,False
-AB504,Nightingale,,Alberta,CA,51.1603,-113.333,ardac,700.7,False
-AB505,Niton Junction,,Alberta,CA,53.6219,-115.77,ardac,665.4,False
-AB506,Nobleford,,Alberta,CA,49.8803,-113.054,ardac,696.9,False
-AB507,Norglenwold,,Alberta,CA,52.3245,-114.132,ardac,687.0,False
-AB508,Norris Beach,,Alberta,CA,52.9666,-114.023,ardac,724.4,False
-AB509,North Star,,Alberta,CA,56.8564,-117.615,ardac,734.8,False
-AB510,Notikewin,,Alberta,CA,56.9747,-117.625,ardac,736.1,False
-AB511,O'Chiese,,Alberta,CA,52.6839,-115.256,ardac,637.7,False
-AB512,Obed,,Alberta,CA,53.5583,-117.215,ardac,585.8,False
-AB513,Ohaton,,Alberta,CA,52.97,-112.661,ardac,805.6,False
-AB514,Okotoks,,Alberta,CA,50.7261,-113.977,ardac,648.1,False
-AB515,Olds,,Alberta,CA,51.7919,-114.107,ardac,667.3,False
-AB516,Onoway,,Alberta,CA,53.7025,-114.192,ardac,755.3,False
-AB517,Orton,,Alberta,CA,49.732,-113.264,ardac,680.1,False
-AB518,Osborne Acres,,Alberta,CA,53.558,-113.8,ardac,769.2,False
-AB519,Oyen,,Alberta,CA,51.3528,-110.483,ardac,898.8,False
-AB520,Paddle Prairie,,Alberta,CA,57.9511,-117.472,ardac,765.6,False
-AB521,Panorama Heights,,Alberta,CA,53.6318,-113.942,ardac,765.2,False
-AB522,Paradise Valley,,Alberta,CA,53.0328,-110.296,ardac,953.9,False
-AB523,Parkland,,Alberta,CA,50.2561,-113.659,ardac,660.4,False
-AB524,Parkland Beach,,Alberta,CA,52.6072,-114.065,ardac,704.0,False
-AB525,Patricia,,Alberta,CA,50.6994,-111.677,ardac,807.0,False
-AB526,Peace River,,Alberta,CA,56.2389,-117.292,ardac,718.4,False
-AB527,Peavine Metis Settlement,,Alberta,CA,55.7845,-116.297,ardac,754.3,False
-AB528,Peerless Lake,,Alberta,CA,56.6804,-114.581,ardac,887.0,False
-AB529,Peers,,Alberta,CA,53.6658,-115.993,ardac,656.9,False
-AB530,Pelican Narrows,,Alberta,CA,54.2629,-110.89,ardac,971.3,False
-AB531,Pemukan,,Alberta,CA,51.9719,-110.444,ardac,913.3,False
-AB532,Penhold,,Alberta,CA,52.1369,-113.873,ardac,695.3,False
-AB533,Perryvale,,Alberta,CA,54.4678,-113.387,ardac,844.2,False
-AB534,Peterburn Estates,,Alberta,CA,53.4952,-113.966,ardac,756.4,False
-AB535,Pibroch,,Alberta,CA,54.2544,-113.875,ardac,805.3,False
-AB536,Pickardville,,Alberta,CA,54.0519,-113.881,ardac,792.7,False
-AB537,Picture Butte,,Alberta,CA,49.8769,-112.78,ardac,716.4,False
-AB538,Pincher,,Alberta,CA,49.5248,-113.947,ardac,628.5,False
-AB539,Pincher Creek,,Alberta,CA,49.4853,-113.947,ardac,627.6,False
-AB540,Pine Lake,,Alberta,CA,52.1103,-113.482,ardac,719.1,False
-AB541,Pine Shadows,,Alberta,CA,53.6031,-116.305,ardac,636.8,False
-AB542,Pipestone,,Alberta,CA,53.0536,-113.795,ardac,742.2,False
-AB543,Plamondon,,Alberta,CA,54.8497,-112.342,ardac,922.5,False
-AB544,Point Alison,,Alberta,CA,53.5503,-114.486,ardac,730.2,False
-AB545,Pollockville,,Alberta,CA,51.1061,-111.59,ardac,819.1,False
-AB546,Ponoka,,Alberta,CA,52.675,-113.58,ardac,736.5,False
-AB547,Poplar Bay,,Alberta,CA,53.0078,-114.121,ardac,720.9,False
-AB548,Poplar Ridge,,Alberta,CA,52.2994,-113.937,ardac,698.0,False
-AB549,Prairie Lodge Trailer Court,,Alberta,CA,53.5145,-112.052,ardac,867.2,False
-AB550,Priddis,,Alberta,CA,50.8861,-114.329,ardac,626.8,False
-AB551,Provost,,Alberta,CA,52.3533,-110.265,ardac,934.7,False
-AB552,Purple Springs,,Alberta,CA,49.8156,-111.892,ardac,779.1,False
-AB553,Queenstown,,Alberta,CA,50.6394,-112.939,ardac,718.8,False
-AB554,Radway,,Alberta,CA,54.06,-112.945,ardac,844.6,False
-AB555,Rainbow Lake,,Alberta,CA,58.5044,-119.4,ardac,681.6,False
-AB556,Rainier,,Alberta,CA,50.3683,-112.092,ardac,771.9,False
-AB557,Ralston,,Alberta,CA,50.2458,-111.169,ardac,835.0,False
-AB558,Ranfurly,,Alberta,CA,53.4072,-111.68,ardac,884.2,False
-AB559,Raymond,,Alberta,CA,49.465,-112.661,ardac,718.9,False
-AB560,Red Deer,,Alberta,CA,52.2686,-113.81,ardac,704.6,False
-AB561,Red Earth Creek,,Alberta,CA,56.5363,-115.298,ardac,841.3,False
-AB562,Red Willow,,Alberta,CA,52.4504,-112.573,ardac,789.5,False
-AB563,Redcliff,,Alberta,CA,50.0775,-110.786,ardac,860.3,False
-AB564,Redland,,Alberta,CA,51.2897,-113.008,ardac,725.6,False
-AB565,Redwater,,Alberta,CA,53.9508,-113.107,ardac,829.6,False
-AB566,Reno,,Alberta,CA,55.9943,-117.0,ardac,723.1,False
-AB567,Rich Lake,,Alberta,CA,54.5078,-111.619,ardac,942.6,False
-AB568,Rich Valley,,Alberta,CA,53.8483,-114.35,ardac,755.2,False
-AB569,Richdale,,Alberta,CA,51.6103,-111.604,ardac,827.6,False
-AB570,Rimbey,,Alberta,CA,52.6392,-114.237,ardac,695.2,False
-AB571,Riverview,,Alberta,CA,53.8619,-110.642,ardac,966.4,False
-AB572,Riverview Pines,,Alberta,CA,55.0875,-118.946,ardac,573.6,False
-AB573,Robb,,Alberta,CA,53.2333,-116.979,ardac,576.9,False
-AB574,Rochester,,Alberta,CA,54.3725,-113.461,ardac,834.5,False
-AB575,Rochfort Bridge,,Alberta,CA,53.9136,-115.036,ardac,722.7,False
-AB576,Rochon Sands,,Alberta,CA,52.454,-112.882,ardac,770.2,False
-AB577,Rocky Lane,,Alberta,CA,58.4588,-116.259,ardac,847.4,False
-AB578,Rocky Mountain House,,Alberta,CA,52.3793,-114.919,ardac,641.5,False
-AB579,Rocky Rapids,,Alberta,CA,53.2797,-114.952,ardac,688.7,False
-AB580,Rockyford,,Alberta,CA,51.2342,-113.142,ardac,715.3,False
-AB581,Rolling Heights,,Alberta,CA,53.6383,-113.992,ardac,762.8,False
-AB582,Rolling Hills,,Alberta,CA,50.2256,-111.774,ardac,792.1,False
-AB583,Rolling Meadows,,Alberta,CA,53.5826,-113.854,ardac,767.5,False
-AB584,Rolly View,,Alberta,CA,53.2528,-113.317,ardac,780.3,False
-AB585,Rosalind,,Alberta,CA,52.7897,-112.444,ardac,811.0,False
-AB586,Rose Lynn,,Alberta,CA,51.4178,-111.677,ardac,818.6,False
-AB587,Rosebud,,Alberta,CA,51.2997,-112.951,ardac,729.7,False
-AB588,Rosedale,,Alberta,CA,51.4167,-112.633,ardac,753.9,False
-AB589,Rosemary,,Alberta,CA,50.7575,-112.09,ardac,779.8,False
-AB590,Ross Haven,,Alberta,CA,53.7342,-114.408,ardac,745.2,False
-AB591,Rossian,,Alberta,CA,54.9545,-112.371,ardac,927.2,False
-AB592,Round Hill,,Alberta,CA,53.1653,-112.631,ardac,816.3,False
-AB593,Rowley,,Alberta,CA,51.7622,-112.788,ardac,752.6,False
-AB594,Rumsey,,Alberta,CA,51.8419,-112.842,ardac,751.4,False
-AB595,Rycroft,,Alberta,CA,55.7558,-118.709,ardac,617.4,False
-AB596,Ryley,,Alberta,CA,53.2908,-112.43,ardac,834.2,False
-AB597,Saddle Lake,,Alberta,CA,53.9559,-111.701,ardac,909.5,False
-AB598,Samson Peak,,Alberta,CA,52.6806,-117.5273,ardac,510.7,False
-AB599,Sandy Beach,,Alberta,CA,53.8084,-114.039,ardac,769.8,False
-AB600,Sandy Lake,,Alberta,CA,55.8144,-113.416,ardac,917.9,False
-AB601,Sangudo,,Alberta,CA,53.8879,-114.895,ardac,728.5,False
-AB602,Saprae Creek,,Alberta,CA,56.6592,-111.143,ardac,967.2,False
-AB603,Saskatchewan River Crossing,,Alberta,CA,51.9758,-116.743,ardac,511.9,False
-AB605,Sawridge,,Alberta,CA,55.2901,-114.75,ardac,817.8,False
-AB606,Scandia,,Alberta,CA,50.2781,-112.047,ardac,773.6,False
-AB607,Schuler,,Alberta,CA,50.3407,-110.089,ardac,912.3,False
-AB608,Scollard,,Alberta,CA,51.9375,-112.834,ardac,754.9,False
-AB609,Seba Beach,,Alberta,CA,53.5593,-114.734,ardac,717.0,False
-AB610,Sedalia,,Alberta,CA,51.675,-110.665,ardac,892.1,False
-AB611,Sedgewick,,Alberta,CA,52.7747,-111.693,ardac,857.0,False
-AB612,Seven Persons,,Alberta,CA,49.8761,-110.908,ardac,849.9,False
-AB613,Sexsmith,,Alberta,CA,55.3503,-118.782,ardac,594.2,False
-AB614,Shaughnessy,,Alberta,CA,49.8528,-112.842,ardac,711.7,False
-AB615,Shepard,,Alberta,CA,50.953,-113.908,ardac,657.1,False
-AB616,Sherwood Park,,Alberta,CA,53.5339,-113.29,ardac,796.9,False
-AB617,Shouldice,,Alberta,CA,50.7167,-112.974,ardac,717.7,False
-AB618,Sibbald,,Alberta,CA,51.3883,-110.15,ardac,922.1,False
-AB619,Siksika,,Alberta,CA,50.7924,-112.855,ardac,727.0,False
-AB620,Silver Beach,,Alberta,CA,53.0368,-113.994,ardac,729.8,False
-AB621,Silver Sands,,Alberta,CA,53.6369,-114.657,ardac,725.8,False
-AB622,Skiff,,Alberta,CA,49.5025,-111.791,ardac,781.8,False
-AB623,Slave Lake,,Alberta,CA,55.2822,-114.77,ardac,816.3,False
-AB624,Smith,,Alberta,CA,55.162,-114.041,ardac,849.3,False
-AB625,Smoky Lake,,Alberta,CA,54.1167,-112.467,ardac,874.5,False
-AB626,South Baptiste,,Alberta,CA,54.7219,-113.573,ardac,850.4,False
-AB627,South View,,Alberta,CA,53.6468,-114.663,ardac,726.1,False
-AB628,Spedden,,Alberta,CA,54.1386,-111.726,ardac,917.7,False
-AB629,Spirit River,,Alberta,CA,55.7786,-118.837,ardac,611.6,False
-AB630,Spring Coulee,,Alberta,CA,49.3331,-113.053,ardac,688.7,False
-AB631,Spring Lake,,Alberta,CA,53.5186,-114.133,ardac,748.2,False
-AB632,Springbrook,,Alberta,CA,52.1767,-113.872,ardac,696.9,False
-AB633,Spruce Grove,,Alberta,CA,53.5539,-113.902,ardac,763.2,False
-AB634,Spruce Lane Acres,,Alberta,CA,52.3503,-113.813,ardac,707.8,False
-AB635,Spruce View,,Alberta,CA,52.0856,-114.31,ardac,665.7,False
-AB636,Sputinow,,Alberta,CA,53.9219,-110.268,ardac,991.2,False
-AB637,St. Albert,,Alberta,CA,53.6369,-113.62,ardac,783.7,False
-AB638,St. Isidore,,Alberta,CA,56.204,-117.107,ardac,726.8,False
-AB639,St. Lina,,Alberta,CA,54.2961,-111.454,ardac,941.0,False
-AB640,St. Michael,,Alberta,CA,53.8303,-112.636,ardac,849.9,False
-AB641,St. Paul,St-Paul-de-Métis,Alberta,CA,53.9913,-111.3269,ardac,932.7,False
-AB643,Stand Off,,Alberta,CA,49.4569,-113.303,ardac,672.9,False
-AB644,Standard,,Alberta,CA,51.1097,-112.984,ardac,723.5,False
-AB645,Stavely,,Alberta,CA,50.1611,-113.642,ardac,659.7,False
-AB646,Steen River,,Alberta,CA,59.6275,-117.167,ardac,842.4,False
-AB647,Stettler,,Alberta,CA,52.3239,-112.704,ardac,776.5,False
-AB648,Stirling,,Alberta,CA,49.5032,-112.527,ardac,729.1,False
-AB649,Stonelaw,,Alberta,CA,51.8686,-112.481,ardac,775.9,False
-AB650,Stony Plain,,Alberta,CA,53.5264,-114.007,ardac,755.8,False
-AB651,Strathmore,,Alberta,CA,51.0456,-113.393,ardac,694.2,False
-AB652,Strome,,Alberta,CA,52.8108,-112.067,ardac,835.2,False
-AB654,Sturgeon Lake,,Alberta,CA,55.0695,-117.489,ardac,658.9,False
-AB655,Suffield,,Alberta,CA,50.2183,-111.161,ardac,835.2,False
-AB656,Sunbreaker Cove,,Alberta,CA,52.3875,-114.187,ardac,686.4,False
-AB657,Sunchild,,Alberta,CA,52.6935,-115.33,ardac,634.0,False
-AB658,Sundance Beach,,Alberta,CA,53.0809,-114.121,ardac,724.8,False
-AB659,Sundre,,Alberta,CA,51.7983,-114.64,ardac,633.3,False
-AB660,Sunnybrook,,Alberta,CA,53.193,-114.2,ardac,726.4,False
-AB661,Sunnyslope,,Alberta,CA,51.649,-113.558,ardac,698.4,False
-AB662,Sunrise Beach,,Alberta,CA,53.7838,-114.055,ardac,767.5,False
-AB663,Sunset Beach,,Alberta,CA,54.7415,-113.541,ardac,853.3,False
-AB664,Sunset House,,Alberta,CA,55.112,-116.899,ardac,695.6,False
-AB665,Sunset Point,,Alberta,CA,53.6888,-114.353,ardac,745.6,False
-AB666,Sunset View Acres,,Alberta,CA,53.4502,-113.744,ardac,766.6,False
-AB667,Swalwell,,Alberta,CA,51.5572,-113.318,ardac,711.6,False
-AB668,Swan City Trailer Court,,Alberta,CA,55.1694,-118.754,ardac,588.1,False
-AB669,Swan Hills,,Alberta,CA,54.7167,-115.402,ardac,750.9,False
-AB670,Swan River,,Alberta,CA,55.3402,-115.451,ardac,783.9,False
-AB672,Sylvan Lake,,Alberta,CA,52.3057,-114.096,ardac,688.4,False
-AB673,T & E Trailer Park,,Alberta,CA,55.1766,-118.751,ardac,588.5,False
-AB674,Taber,,Alberta,CA,49.7848,-112.151,ardac,760.2,False
-AB675,Tallcree,,Alberta,CA,57.9119,-115.356,ardac,883.8,False
-AB676,Tawatinaw,,Alberta,CA,54.2979,-113.477,ardac,829.2,False
-AB677,Tees,,Alberta,CA,52.4675,-113.321,ardac,743.3,False
-AB678,Therien,,Alberta,CA,54.2389,-111.255,ardac,949.4,False
-AB679,Thorhild,,Alberta,CA,54.1589,-113.125,ardac,840.2,False
-AB680,Thorsby,,Alberta,CA,53.2269,-114.048,ardac,737.0,False
-AB681,Three Hills,,Alberta,CA,51.7031,-113.269,ardac,719.1,False
-AB682,Throne,,Alberta,CA,52.0534,-111.288,ardac,859.5,False
-AB683,Tilley,,Alberta,CA,50.4522,-111.653,ardac,804.0,False
-AB684,Tofield,,Alberta,CA,53.3708,-112.666,ardac,824.2,False
-AB685,Tomahawk,,Alberta,CA,53.3979,-114.763,ardac,706.0,False
-AB686,Torrington,,Alberta,CA,51.7914,-113.606,ardac,699.8,False
-AB687,Travers,,Alberta,CA,50.2481,-112.555,ardac,737.5,False
-AB688,Triple-L-Trailer Court,,Alberta,CA,55.1687,-118.65,ardac,594.1,False
-AB689,Trochu,,Alberta,CA,51.8286,-113.228,ardac,725.7,False
-AB690,Trout Lake,,Alberta,CA,56.4958,-114.558,ardac,880.8,False
-AB691,Tsuu T'ina,,Alberta,CA,50.9515,-114.166,ardac,639.4,False
-AB692,Tulliby Lake,,Alberta,CA,53.7139,-110.177,ardac,987.6,False
-AB693,Turin,,Alberta,CA,49.9641,-112.528,ardac,735.3,False
-AB694,Turner Valley,,Alberta,CA,50.6753,-114.28,ardac,626.2,False
-AB695,Tuttle,,Alberta,CA,52.2012,-113.843,ardac,699.8,False
-AB696,Twining,,Alberta,CA,51.6328,-113.297,ardac,715.2,False
-AB697,Two Hills,,Alberta,CA,53.7111,-111.745,ardac,894.7,False
-AB698,Upper and Lower Viscount Estates,,Alberta,CA,53.6748,-113.561,ardac,789.1,False
-AB699,Upper Manor Estates,,Alberta,CA,53.6874,-113.575,ardac,789.0,False
-AB700,Val Quentin,,Alberta,CA,53.664,-114.385,ardac,742.4,False
-AB701,Valhalla Centre,,Alberta,CA,55.4036,-119.382,ardac,562.9,False
-AB702,Valleyview,,Alberta,CA,55.0659,-117.282,ardac,671.2,False
-AB703,Vauxhall,,Alberta,CA,50.0683,-112.107,ardac,766.5,False
-AB705,Vegreville,,Alberta,CA,53.4956,-112.052,ardac,866.3,False
-AB706,Venice,,Alberta,CA,54.6978,-112.148,ardac,924.0,False
-AB707,Vermilion,,Alberta,CA,53.3547,-110.853,ardac,931.8,False
-AB708,Veteran,,Alberta,CA,52.0011,-111.119,ardac,869.3,False
-AB709,Viking,,Alberta,CA,53.0947,-111.776,ardac,864.7,False
-AB710,Villeneuve,,Alberta,CA,53.66,-113.811,ardac,774.1,False
-AB711,Vilna,,Alberta,CA,54.1167,-111.921,ardac,905.4,False
-AB712,Vimy,,Alberta,CA,54.0621,-113.647,ardac,806.0,False
-AB713,Violet Grove,,Alberta,CA,53.1597,-115.037,ardac,677.1,False
-AB714,Vulcan,,Alberta,CA,50.4042,-113.261,ardac,691.2,False
-AB715,Wabamun,,Alberta,CA,53.5609,-114.472,ardac,731.6,False
-AB716,Wabasca-Desmarais,,Alberta,CA,55.9792,-113.843,ardac,903.6,False
-AB717,Wainwright,,Alberta,CA,52.8382,-110.853,ardac,912.1,False
-AB718,Waiparous,,Alberta,CA,51.2828,-114.835,ardac,602.7,False
-AB719,Walsh,,Alberta,CA,49.9472,-110.042,ardac,912.3,False
-AB720,Wandering River,,Alberta,CA,55.1956,-112.475,ardac,936.7,False
-AB721,Wanham,,Alberta,CA,55.7375,-118.385,ardac,634.3,False
-AB722,Warburg,,Alberta,CA,53.1817,-114.32,ardac,719.0,False
-AB723,Warden,,Alberta,CA,52.2592,-112.742,ardac,771.7,False
-AB724,Wardlow,,Alberta,CA,50.9053,-111.546,ardac,819.4,False
-AB725,Warner,,Alberta,CA,49.2828,-112.208,ardac,748.9,False
-AB726,Warspite,,Alberta,CA,54.0911,-112.614,ardac,864.8,False
-AB727,Warwick,,Alberta,CA,53.6272,-112.052,ardac,872.7,False
-AB728,Waskatenau,,Alberta,CA,54.0939,-112.784,ardac,855.5,False
-AB729,Water Valley,,Alberta,CA,51.5061,-114.611,ardac,624.7,False
-AB730,Waterton Park,,Alberta,CA,49.0517,-113.914,ardac,622.5,False
-AB731,Watino,,Alberta,CA,55.7126,-117.624,ardac,675.7,False
-AB732,Wayne,,Alberta,CA,51.3815,-112.658,ardac,751.4,False
-AB733,Webster,,Alberta,CA,55.4419,-118.688,ardac,603.6,False
-AB734,Welling,,Alberta,CA,49.4811,-112.786,ardac,710.2,False
-AB735,Wembley,,Alberta,CA,55.1556,-119.146,ardac,564.9,False
-AB736,West Baptiste,,Alberta,CA,54.7622,-113.574,ardac,853.0,False
-AB737,West Cove,,Alberta,CA,53.6983,-114.504,ardac,737.9,False
-AB738,Westbrooke Crescents,,Alberta,CA,53.5926,-113.971,ardac,761.4,False
-AB739,Westlake Estates,,Alberta,CA,53.5283,-114.079,ardac,751.8,False
-AB740,Westlock,,Alberta,CA,54.1553,-113.857,ardac,800.2,False
-AB741,Wetaskiwin,,Alberta,CA,52.9692,-113.377,ardac,762.6,False
-AB742,Whispering Hills,,Alberta,CA,54.7584,-113.552,ardac,853.9,False
-AB743,Whitburn,,Alberta,CA,55.8689,-119.202,ardac,596.9,False
-AB744,White Sands,,Alberta,CA,52.4667,-112.817,ardac,774.8,False
-AB745,Whitecourt,,Alberta,CA,54.1411,-115.684,ardac,703.5,False
-AB746,Whitefish Lake,,Alberta,CA,55.9331,-115.369,ardac,813.3,False
-AB747,Whitelaw,,Alberta,CA,56.1089,-118.076,ardac,669.7,False
-AB748,Whitla,,Alberta,CA,49.8822,-111.057,ardac,839.3,False
-AB749,Widewater,,Alberta,CA,55.3604,-115.037,ardac,806.7,False
-AB750,Wildwood,,Alberta,CA,53.6105,-115.247,ardac,692.3,False
-AB751,Willingdon,,Alberta,CA,53.8286,-112.118,ardac,879.2,False
-AB752,Wimborne,,Alberta,CA,51.8664,-113.593,ardac,703.2,False
-AB753,Winfield,,Alberta,CA,52.9653,-114.423,ardac,701.1,False
-AB754,Winnifred,,Alberta,CA,49.9067,-111.21,ardac,828.6,False
-AB755,Woking,,Alberta,CA,55.5925,-118.775,ardac,605.8,False
-AB756,Woodbend Crescent,,Alberta,CA,53.4287,-113.731,ardac,766.1,False
-AB757,Woodland,,Alberta,CA,56.4863,-116.058,ardac,797.3,False
-AB758,Woodland Hills,,Alberta,CA,52.227,-113.831,ardac,701.6,False
-AB759,Woodland Park,,Alberta,CA,53.4323,-113.795,ardac,762.7,False
-AB760,Worsley,,Alberta,CA,56.5067,-119.134,ardac,638.1,False
-AB761,Wrentham,,Alberta,CA,49.5144,-112.173,ardac,754.6,False
-AB762,Yellowstone,,Alberta,CA,53.7296,-114.382,ardac,746.4,False
-AB763,Youngstown,,Alberta,CA,51.5278,-111.2,ardac,853.1,False
-AB764,Zama City,,Alberta,CA,59.1537,-118.687,ardac,745.1,False
+id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal,ocean_lat1,ocean_lon1
+AB1,Abee,,Alberta,CA,54.238,-113.025,ardac,850.1,False,,
+AB2,Acadia Valley,,Alberta,CA,51.1585,-110.209,ardac,915.0,False,,
+AB3,Acme,,Alberta,CA,51.4972,-113.509,ardac,697.2,False,,
+AB4,Aetna,,Alberta,CA,49.1339,-113.24,ardac,672.4,False,,
+AB5,Airdrie,,Alberta,CA,51.2814,-114.004,ardac,658.3,False,,
+AB6,Alberta Beach,,Alberta,CA,53.6756,-114.353,ardac,744.8,False,,
+AB7,Alder Flats,,Alberta,CA,52.9331,-114.957,ardac,668.9,False,,
+AB8,Aldersyde,,Alberta,CA,50.6761,-113.879,ardac,654.1,False,,
+AB9,Alexander,,Alberta,CA,53.8033,-113.919,ardac,776.1,False,,
+AB10,Alexis,,Alberta,CA,53.7324,-114.491,ardac,740.6,False,,
+AB11,Alhambra,,Alberta,CA,52.3431,-114.672,ardac,654.7,False,,
+AB12,Alix,,Alberta,CA,52.3981,-113.189,ardac,748.7,False,,
+AB13,Alliance,,Alberta,CA,52.4344,-111.785,ardac,839.0,False,,
+AB14,Altario,,Alberta,CA,51.9186,-110.162,ardac,930.9,False,,
+AB15,Amesbury,,Alberta,CA,55.0811,-112.497,ardac,928.4,False,,
+AB16,Amisk,,Alberta,CA,52.5656,-111.057,ardac,889.9,False,,
+AB17,Andrew,,Alberta,CA,53.8783,-112.335,ardac,869.5,False,,
+AB18,Anzac,,Alberta,CA,56.4478,-111.046,ardac,970.9,False,,
+AB19,Arcadia,,Alberta,CA,55.4026,-116.131,ardac,750.6,False,,
+AB20,Ardenode,,Alberta,CA,51.1444,-113.424,ardac,694.2,False,,
+AB21,Ardley,,Alberta,CA,52.2611,-113.232,ardac,740.7,False,,
+AB22,Ardmore,,Alberta,CA,54.3314,-110.477,ardac,998.3,False,,
+AB23,Ardrossan,,Alberta,CA,53.5522,-113.144,ardac,806.1,False,,
+AB24,Argentia Beach,,Alberta,CA,53.0536,-114.016,ardac,729.4,False,,
+AB25,Armada,,Alberta,CA,50.4139,-112.754,ardac,726.6,False,,
+AB26,Armena,,Alberta,CA,53.1225,-112.949,ardac,795.4,False,,
+AB27,Arrowwood,,Alberta,CA,50.7392,-113.15,ardac,705.8,False,,
+AB28,Artists View Park West,,Alberta,CA,51.0788,-114.272,ardac,635.0,False,,
+AB29,Ashmont,,Alberta,CA,54.1292,-111.568,ardac,926.1,False,,
+AB30,Assumption,,Alberta,CA,58.6994,-118.687,ardac,727.1,False,,
+AB31,Athabasca,,Alberta,CA,54.7151,-113.284,ardac,864.9,False,,
+AB32,Atikameg,,Alberta,CA,55.9169,-115.651,ardac,796.4,False,,
+AB33,Atmore,,Alberta,CA,54.8192,-112.55,ardac,909.7,False,,
+AB34,Balmoral,,Alberta,CA,52.2754,-113.7,ardac,711.7,False,,
+AB35,Banff,,Alberta,CA,51.179,-115.569,ardac,550.7,False,,
+AB36,Barnwell,,Alberta,CA,49.7606,-112.263,ardac,752.0,False,,
+AB37,Barons,,Alberta,CA,49.9975,-113.081,ardac,696.5,False,,
+AB38,Barrhead,,Alberta,CA,54.1217,-114.404,ardac,769.1,False,,
+AB39,Bashaw,,Alberta,CA,52.5831,-112.97,ardac,769.9,False,,
+AB40,Bassano,,Alberta,CA,50.7875,-112.468,ardac,753.9,False,,
+AB41,Bawlf,,Alberta,CA,52.9194,-112.466,ardac,815.2,False,,
+AB42,Bay Tree,,Alberta,CA,55.825,-119.906,ardac,557.6,False,,
+AB43,Beaumont,,Alberta,CA,53.3525,-113.415,ardac,779.9,False,,
+AB44,Beauvallon,,Alberta,CA,53.6592,-111.362,ardac,914.7,False,,
+AB45,Beaver,,Alberta,CA,58.4708,-116.584,ardac,830.1,False,,
+AB46,Beaver Lake,,Alberta,CA,54.753,-111.927,ardac,939.1,False,,
+AB48,Beaver Mines,,Alberta,CA,49.4567,-114.197,ardac,609.3,False,,
+AB49,Beaverlodge,,Alberta,CA,55.2118,-119.422,ardac,551.6,False,,
+AB50,Beiseker,,Alberta,CA,51.385,-113.536,ardac,692.4,False,,
+AB51,Bellevue,,Alberta,CA,49.5808,-114.366,ardac,599.3,False,,
+AB52,Bellis,,Alberta,CA,54.1428,-112.15,ardac,893.7,False,,
+AB53,Benalto,,Alberta,CA,52.3078,-114.278,ardac,677.2,False,,
+AB54,Benchlands,,Alberta,CA,51.2834,-114.801,ardac,605.0,False,,
+AB55,Bentley,,Alberta,CA,52.4664,-114.051,ardac,698.3,False,,
+AB56,Bergen,,Alberta,CA,51.7081,-114.632,ardac,630.4,False,,
+AB57,Berwyn,,Alberta,CA,56.1488,-117.724,ardac,690.6,False,,
+AB58,Betula Beach,,Alberta,CA,53.5362,-114.677,ardac,718.8,False,,
+AB59,Bezanson,,Alberta,CA,55.2286,-118.361,ardac,613.3,False,,
+AB60,Big Valley,,Alberta,CA,52.0328,-112.752,ardac,763.3,False,,
+AB61,Bigstone,,Alberta,CA,55.9436,-113.769,ardac,906.8,False,,
+AB62,Bindloss,,Alberta,CA,50.88,-110.274,ardac,907.2,False,,
+AB63,Birch Cove,,Alberta,CA,53.9538,-114.372,ardac,760.4,False,,
+AB64,Bircham,,Alberta,CA,51.4589,-113.431,ardac,701.4,False,,
+AB65,Birchcliff,,Alberta,CA,52.3619,-114.118,ardac,689.5,False,,
+AB66,Bittern Lake,,Alberta,CA,53.0081,-113.057,ardac,783.5,False,,
+AB67,Black Diamond,,Alberta,CA,50.6881,-114.234,ardac,629.6,False,,
+AB68,Blackfalds,,Alberta,CA,52.3783,-113.796,ardac,710.1,False,,
+AB69,Blackfoot,,Alberta,CA,53.2892,-110.173,ardac,970.9,False,,
+AB70,Blackie,,Alberta,CA,50.6044,-113.623,ardac,670.9,False,,
+AB71,Blairmore,,Alberta,CA,49.6081,-114.443,ardac,594.2,False,,
+AB72,Blue Ridge,,Alberta,CA,54.125,-115.378,ardac,718.8,False,,
+AB73,Blueberry Mountain,,Alberta,CA,55.9267,-119.15,ardac,602.8,False,,
+AB74,Bluesky,,Alberta,CA,56.0735,-118.239,ardac,659.1,False,,
+AB75,Bluffton,,Alberta,CA,52.7494,-114.292,ardac,697.4,False,,
+AB76,Bodo,,Alberta,CA,52.1533,-110.079,ardac,941.8,False,,
+AB77,Bon Accord,,Alberta,CA,53.8369,-113.412,ardac,806.3,False,,
+AB78,Bonanza,,Alberta,CA,55.9128,-119.827,ardac,566.8,False,,
+AB79,Bondiss,,Alberta,CA,54.5981,-112.695,ardac,888.8,False,,
+AB80,Bonnyville,,Alberta,CA,54.2672,-110.739,ardac,980.1,False,,
+AB81,Botha,,Alberta,CA,52.3081,-112.524,ardac,787.4,False,,
+AB82,Bow Island,,Alberta,CA,49.8672,-111.379,ardac,816.2,False,,
+AB83,Bowden,,Alberta,CA,51.9332,-114.032,ardac,677.3,False,,
+AB84,Boyle,,Alberta,CA,54.5897,-112.807,ardac,882.4,False,,
+AB85,Bragg Creek,,Alberta,CA,50.9503,-114.57,ardac,611.7,False,,
+AB86,Brant,,Alberta,CA,50.5169,-113.512,ardac,676.4,False,,
+AB87,Breton,,Alberta,CA,53.1101,-114.471,ardac,706.4,False,,
+AB88,Breynat,,Alberta,CA,55.1414,-112.491,ardac,932.5,False,,
+AB89,Bristol Oakes,,Alberta,CA,53.6824,-113.564,ardac,789.3,False,,
+AB90,Brocket,,Alberta,CA,49.5467,-113.75,ardac,642.9,False,,
+AB91,Brooks,,Alberta,CA,50.5672,-111.895,ardac,789.3,False,,
+AB92,Brownfield,,Alberta,CA,52.3172,-111.433,ardac,857.8,False,,
+AB93,Brownvale,,Alberta,CA,56.1282,-117.896,ardac,680.3,False,,
+AB94,Bruce,,Alberta,CA,53.1739,-112.039,ardac,852.2,False,,
+AB95,Bruderheim,,Alberta,CA,53.7997,-112.928,ardac,831.7,False,,
+AB96,Brule,,Alberta,CA,53.284,-117.874,ardac,533.2,False,,
+AB97,Buck Creek,,Alberta,CA,53.1039,-114.896,ardac,682.1,False,,
+AB98,Buck Lake,,Alberta,CA,52.9486,-114.777,ardac,680.0,False,,
+AB99,Buffalo Head Prairie,,Alberta,CA,58.0508,-116.349,ardac,831.0,False,,
+AB100,Buffalo Lake Metis Settlement,,Alberta,CA,54.5791,-112.448,ardac,901.0,False,,
+AB101,Buford,,Alberta,CA,53.2471,-113.927,ardac,745.0,False,,
+AB102,Bulwark,,Alberta,CA,52.2417,-111.587,ardac,845.5,False,,
+AB103,Burdett,,Alberta,CA,49.835,-111.523,ardac,805.6,False,,
+AB104,Burmis,,Alberta,CA,49.5572,-114.288,ardac,604.6,False,,
+AB105,Burnstick Lake,,Alberta,CA,51.9894,-114.892,ardac,625.1,False,,
+AB106,Busby,,Alberta,CA,53.9481,-113.891,ardac,786.1,False,,
+AB107,Byemoor,,Alberta,CA,51.9797,-112.287,ardac,791.9,False,,
+AB108,Cadogan,,Alberta,CA,52.3192,-110.449,ardac,921.8,False,,
+AB109,Cadomin,,Alberta,CA,53.0282,-117.331,ardac,544.7,False,,
+AB110,Cadotte Lake,,Alberta,CA,56.4705,-116.382,ardac,778.9,False,,
+AB111,Calahoo,,Alberta,CA,53.7145,-113.958,ardac,768.9,False,,
+AB112,Calgary,,Alberta,CA,51.0458,-114.057,ardac,648.9,False,,
+AB113,Calling Lake,,Alberta,CA,55.2103,-113.19,ardac,899.0,False,,
+AB115,Calmar,,Alberta,CA,53.2664,-113.809,ardac,752.7,False,,
+AB116,Cambria,,Alberta,CA,51.3939,-112.59,ardac,756.3,False,,
+AB117,Campsie,,Alberta,CA,54.1278,-114.647,ardac,756.8,False,,
+AB118,Camrose,,Alberta,CA,53.0181,-112.839,ardac,797.0,False,,
+AB119,Canmore,,Alberta,CA,51.0928,-115.361,ardac,561.9,False,,
+AB120,Canyon Creek,,Alberta,CA,55.3666,-115.097,ardac,803.9,False,,
+AB121,Canyon Heights,,Alberta,CA,52.2907,-113.704,ardac,712.1,False,,
+AB122,Carbon,,Alberta,CA,51.4858,-113.151,ardac,720.8,False,,
+AB123,Carbondale,,Alberta,CA,53.7464,-113.527,ardac,794.9,False,,
+AB124,Cardiff,,Alberta,CA,53.7728,-113.6,ardac,792.2,False,,
+AB125,Cardston,,Alberta,CA,49.1962,-113.307,ardac,668.4,False,,
+AB126,Carmangay,,Alberta,CA,50.1294,-113.111,ardac,696.4,False,,
+AB127,Caroline,,Alberta,CA,52.0948,-114.738,ardac,639.3,False,,
+AB128,Carseland,,Alberta,CA,50.8544,-113.471,ardac,685.3,False,,
+AB129,Carstairs,,Alberta,CA,51.5656,-114.099,ardac,660.2,False,,
+AB130,Caslan,,Alberta,CA,54.6311,-112.512,ardac,900.6,False,,
+AB131,Cassils,,Alberta,CA,50.5769,-112.046,ardac,779.0,False,,
+AB132,Castor,,Alberta,CA,52.2192,-111.904,ardac,824.2,False,,
+AB133,Cayley,,Alberta,CA,50.4481,-113.847,ardac,651.7,False,,
+AB134,Central Park,,Alberta,CA,52.3309,-113.823,ardac,706.4,False,,
+AB135,Cereal,,Alberta,CA,51.4183,-110.8,ardac,878.2,False,,
+AB136,Cessford,,Alberta,CA,51.0064,-111.557,ardac,819.9,False,,
+AB137,Champion,,Alberta,CA,50.2397,-113.148,ardac,695.7,False,,
+AB138,Chancellor,,Alberta,CA,51.0885,-112.835,ardac,733.3,False,,
+AB139,Chauvin,,Alberta,CA,52.6936,-110.141,ardac,952.6,False,,
+AB140,Cheadle,,Alberta,CA,51.0144,-113.541,ardac,683.5,False,,
+AB141,Cherhill,,Alberta,CA,53.8192,-114.677,ardac,735.8,False,,
+AB142,Cherry Grove,,Alberta,CA,54.3561,-110.075,ardac,1022.5,False,,
+AB143,Chestermere,,Alberta,CA,51.0373,-113.828,ardac,664.3,False,,
+AB144,Chin,,Alberta,CA,49.7635,-112.445,ardac,739.0,False,,
+AB145,Chinook,,Alberta,CA,51.4494,-110.925,ardac,870.3,False,,
+AB146,Chipewyan Lake,,Alberta,CA,56.9403,-113.473,ardac,958.9,False,,
+AB147,Chipewyan Prairie,,Alberta,CA,55.9358,-110.717,ardac,977.0,False,,
+AB148,Chipman,,Alberta,CA,53.6983,-112.638,ardac,842.7,False,,
+AB149,Chisholm,,Alberta,CA,54.9094,-114.169,ardac,829.4,False,,
+AB150,Chokio,,Alberta,CA,49.5819,-113.66,ardac,650.0,False,,
+AB151,Clairmont,,Alberta,CA,55.2614,-118.794,ardac,589.6,False,,
+AB152,Clandonald,,Alberta,CA,53.5719,-110.714,ardac,949.3,False,,
+AB153,Claresholm,,Alberta,CA,50.0197,-113.583,ardac,661.3,False,,
+AB154,Cleardale,,Alberta,CA,56.3558,-119.478,ardac,611.6,False,,
+AB155,Clearwater Estates,,Alberta,CA,53.5694,-114.081,ardac,753.9,False,,
+AB156,Clive,,Alberta,CA,52.4774,-113.445,ardac,736.0,False,,
+AB157,Cluny,,Alberta,CA,50.8411,-112.869,ardac,726.8,False,,
+AB158,Clyde,,Alberta,CA,54.1502,-113.636,ardac,811.8,False,,
+AB159,Coaldale,,Alberta,CA,49.7278,-112.619,ardac,726.2,False,,
+AB160,Coalhurst,,Alberta,CA,49.7467,-112.931,ardac,704.1,False,,
+AB161,Cochrane,,Alberta,CA,51.1897,-114.484,ardac,623.5,False,,
+AB162,Cochrane Lake,,Alberta,CA,51.2434,-114.482,ardac,625.1,False,,
+AB163,Cold Lake,,Alberta,CA,54.4664,-110.188,ardac,1021.4,False,,
+AB164,Coleman,,Alberta,CA,49.6353,-114.503,ardac,590.3,False,,
+AB165,Colinton,,Alberta,CA,54.6206,-113.253,ardac,860.6,False,,
+AB166,College Heights,,Alberta,CA,52.4892,-113.733,ardac,718.8,False,,
+AB167,Collingwood Cove,,Alberta,CA,53.4469,-113.005,ardac,808.5,False,,
+AB168,Compeer,,Alberta,CA,51.8594,-110.013,ardac,939.7,False,,
+AB169,Condor,,Alberta,CA,52.3264,-114.555,ardac,661.0,False,,
+AB170,Conklin,,Alberta,CA,55.6308,-111.09,ardac,1012.9,False,,
+AB171,Connemara,,Alberta,CA,50.4001,-113.829,ardac,651.8,False,,
+AB172,Conrich,,Alberta,CA,51.0933,-113.863,ardac,663.2,False,,
+AB173,Consort,,Alberta,CA,52.0123,-110.771,ardac,892.6,False,,
+AB174,Cooking Lake,,Alberta,CA,53.4114,-113.122,ardac,799.9,False,,
+AB175,Coronado,,Alberta,CA,53.8878,-113.295,ardac,815.6,False,,
+AB176,Coronation,,Alberta,CA,52.0947,-111.448,ardac,850.2,False,,
+AB177,Coutts,,Alberta,CA,49.0028,-111.959,ardac,764.4,False,,
+AB178,Cowley,,Alberta,CA,49.568,-114.074,ardac,620.1,False,,
+AB179,Craigmyle,,Alberta,CA,51.6697,-112.243,ardac,786.2,False,,
+AB180,Cremona,,Alberta,CA,51.5453,-114.485,ardac,634.2,False,,
+AB181,Crossfield,,Alberta,CA,51.4306,-114.031,ardac,660.6,False,,
+AB182,Crystal Meadows,,Alberta,CA,53.5634,-114.168,ardac,748.7,False,,
+AB183,Crystal Springs,,Alberta,CA,52.9733,-114.041,ardac,723.7,False,,
+AB184,Czar,,Alberta,CA,52.4547,-110.828,ardac,901.1,False,,
+AB185,Dalemead,,Alberta,CA,50.8747,-113.637,ardac,674.2,False,,
+AB186,Dalroy,,Alberta,CA,51.1286,-113.669,ardac,677.2,False,,
+AB187,Dapp,,Alberta,CA,54.345,-113.916,ardac,808.8,False,,
+AB188,Dawn Valley,,Alberta,CA,53.6214,-114.02,ardac,760.3,False,,
+AB189,Daysland,,Alberta,CA,52.8673,-112.264,ardac,825.3,False,,
+AB190,De Winton,,Alberta,CA,50.8231,-114.019,ardac,646.9,False,,
+AB191,Deadwood,,Alberta,CA,56.7411,-117.458,ardac,736.2,False,,
+AB192,DeBolt,,Alberta,CA,55.2217,-118.02,ardac,632.9,False,,
+AB193,Del Bonita,,Alberta,CA,49.0294,-112.791,ardac,703.9,False,,
+AB194,Delburne,,Alberta,CA,52.1981,-113.235,ardac,738.1,False,,
+AB195,Delia,,Alberta,CA,51.6306,-112.374,ardac,776.5,False,,
+AB196,Dene Tha',,Alberta,CA,58.5149,-117.065,ardac,805.6,False,,
+AB197,Denwood,,Alberta,CA,52.8176,-110.891,ardac,909.0,False,,
+AB198,Derwent,,Alberta,CA,53.6545,-110.967,ardac,937.8,False,,
+AB199,Devon,,Alberta,CA,53.3613,-113.725,ardac,762.7,False,,
+AB200,Devonshire Meadows,,Alberta,CA,53.3888,-113.83,ardac,758.3,False,,
+AB201,Dewberry,,Alberta,CA,53.5881,-110.525,ardac,961.4,False,,
+AB202,Diamond City,,Alberta,CA,49.7956,-112.839,ardac,711.2,False,,
+AB203,Dickson,,Alberta,CA,52.0581,-114.308,ardac,664.7,False,,
+AB204,Didsbury,,Alberta,CA,51.6594,-114.137,ardac,660.8,False,,
+AB205,Dixonville,,Alberta,CA,56.5374,-117.672,ardac,713.8,False,,
+AB206,Dogpound,,Alberta,CA,51.4567,-114.397,ardac,637.1,False,,
+AB207,Donalda,,Alberta,CA,52.5836,-112.574,ardac,794.6,False,,
+AB208,Donnelly,,Alberta,CA,55.7289,-117.105,ardac,705.8,False,,
+AB209,Dorothy,,Alberta,CA,51.2792,-112.325,ardac,771.8,False,,
+AB210,Drayton Valley,,Alberta,CA,53.2215,-114.974,ardac,684.1,False,,
+AB211,Driftpile,,Alberta,CA,55.3428,-115.788,ardac,766.8,False,,
+AB212,Drumheller,,Alberta,CA,51.4644,-112.719,ardac,749.2,False,,
+AB213,Duchess,,Alberta,CA,50.7311,-111.906,ardac,791.9,False,,
+AB214,Duffield,,Alberta,CA,53.5281,-114.344,ardac,736.9,False,,
+AB215,Duhamel,,Alberta,CA,52.9156,-112.963,ardac,784.8,False,,
+AB216,Duncan's,,Alberta,CA,56.1208,-117.861,ardac,681.8,False,,
+AB217,Dunmore,,Alberta,CA,49.9703,-110.584,ardac,873.8,False,,
+AB218,Durward,,Alberta,CA,50.2956,-113.713,ardac,657.4,False,,
+AB219,Duvernay,,Alberta,CA,53.7861,-111.692,ardac,901.5,False,,
+AB220,Eaglesham,,Alberta,CA,55.7825,-117.883,ardac,664.3,False,,
+AB221,East Coulee,,Alberta,CA,51.3436,-112.498,ardac,761.4,False,,
+AB222,East Prairie Metis Settlement,,Alberta,CA,55.1891,-116.27,ardac,732.6,False,,
+AB223,Eastview Acres,,Alberta,CA,49.7895,-113.016,ardac,698.5,False,,
+AB224,Eckville,,Alberta,CA,52.36,-114.367,ardac,674.1,False,,
+AB225,Edberg,,Alberta,CA,52.7847,-112.789,ardac,789.6,False,,
+AB226,Edgerton,,Alberta,CA,52.7586,-110.458,ardac,934.4,False,,
+AB227,Edmonton,,Alberta,CA,53.5358,-113.494,ardac,785.5,False,,
+AB228,Edson,,Alberta,CA,53.5866,-116.436,ardac,629.0,False,,
+AB229,Egremont,,Alberta,CA,54.0383,-113.126,ardac,833.3,False,,
+AB230,Eldoes Trailer Park,,Alberta,CA,55.1696,-118.744,ardac,588.7,False,,
+AB231,Elizabeth Metis Settlement,,Alberta,CA,54.217,-110.092,ardac,1014.9,False,,
+AB232,Elk Point,,Alberta,CA,53.9011,-110.901,ardac,953.0,False,,
+AB233,Elkwater,,Alberta,CA,49.6608,-110.282,ardac,892.0,False,,
+AB234,Ellscott,,Alberta,CA,54.5031,-112.901,ardac,872.2,False,,
+AB235,Elmworth,,Alberta,CA,55.0539,-119.616,ardac,533.5,False,,
+AB236,Elnora,,Alberta,CA,51.9936,-113.201,ardac,732.9,False,,
+AB237,Empress,,Alberta,CA,50.9543,-110.008,ardac,926.8,False,,
+AB238,Enchant,,Alberta,CA,50.17,-112.422,ardac,745.6,False,,
+AB239,Endiang,,Alberta,CA,51.9539,-112.158,ardac,799.6,False,,
+AB240,Enilda,,Alberta,CA,55.4169,-116.311,ardac,740.4,False,,
+AB241,Enoch,,Alberta,CA,53.4997,-113.761,ardac,768.4,False,,
+AB242,Ensign,,Alberta,CA,50.475,-113.432,ardac,680.9,False,,
+AB243,Entrance,,Alberta,CA,53.3748,-117.684,ardac,549.2,False,,
+AB244,Entwistle,,Alberta,CA,53.5944,-114.996,ardac,704.8,False,,
+AB245,Ermineskin,,Alberta,CA,52.836,-113.454,ardac,751.6,False,,
+AB246,Erskine,,Alberta,CA,52.3211,-112.88,ardac,765.2,False,,
+AB247,Etzikom,,Alberta,CA,49.4769,-111.107,ardac,830.6,False,,
+AB248,Evansburg,,Alberta,CA,53.6004,-115.017,ardac,704.1,False,,
+AB249,Exshaw,,Alberta,CA,51.0635,-115.159,ardac,574.7,False,,
+AB250,Fabyan,,Alberta,CA,52.8819,-110.994,ardac,904.8,False,,
+AB251,Fairview,,Alberta,CA,56.0672,-118.384,ardac,651.0,False,,
+AB252,Falher,,Alberta,CA,55.7372,-117.201,ardac,700.7,False,,
+AB253,Fallis,,Alberta,CA,53.5853,-114.641,ardac,723.7,False,,
+AB254,Faust,,Alberta,CA,55.3158,-115.628,ardac,773.3,False,,
+AB255,Fawcett,,Alberta,CA,54.5394,-114.096,ardac,811.9,False,,
+AB256,Federal,,Alberta,CA,52.1117,-111.572,ardac,842.5,False,,
+AB257,Ferintosh,,Alberta,CA,52.7658,-112.972,ardac,777.6,False,,
+AB258,Ferrier Acres,,Alberta,CA,52.3649,-115.061,ardac,632.3,False,,
+AB259,Fincastle,,Alberta,CA,49.8083,-112.002,ardac,771.1,False,,
+AB260,Fitzgerald,,Alberta,CA,59.8617,-111.606,ardac,732.9,False,,
+AB261,Flatbush,,Alberta,CA,54.6892,-114.156,ardac,817.9,False,,
+AB262,Fleet,,Alberta,CA,52.1533,-111.73,ardac,833.5,False,,
+AB263,Fleming Park,,Alberta,CA,53.4432,-113.72,ardac,767.6,False,,
+AB264,Flyingshot Lake,,Alberta,CA,55.1421,-118.863,ardac,580.6,False,,
+AB265,Foremost,,Alberta,CA,49.4764,-111.447,ardac,806.2,False,,
+AB266,Forestburg,,Alberta,CA,52.5839,-112.064,ardac,826.6,False,,
+AB267,Forshee,,Alberta,CA,52.558,-114.145,ardac,696.8,False,,
+AB268,Fort Assiniboine,,Alberta,CA,54.3342,-114.775,ardac,763.7,False,,
+AB269,Fort Chipewyan,,Alberta,CA,58.7144,-111.158,ardac,848.3,False,,
+AB270,Fort Kent,,Alberta,CA,54.3108,-110.604,ardac,990.0,False,,
+AB271,Fort MacKay,,Alberta,CA,57.1869,-111.636,ardac,973.9,False,,
+AB272,Fort Macleod,,Alberta,CA,49.7231,-113.404,ardac,670.0,False,,
+AB273,Fort McMurray,,Alberta,CA,56.7275,-111.387,ardac,977.8,False,,
+AB274,Fort Saskatchewan,,Alberta,CA,53.7002,-113.225,ardac,809.6,False,,
+AB275,Fort Vermilion,,Alberta,CA,58.3893,-116.007,ardac,859.2,False,,
+AB276,Fox Creek,,Alberta,CA,54.4043,-116.81,ardac,656.5,False,,
+AB277,Fox Lake,,Alberta,CA,58.4705,-114.533,ardac,926.0,False,,
+AB278,Frank,,Alberta,CA,49.6027,-114.406,ardac,596.7,False,,
+AB279,Frog Lake,,Alberta,CA,53.8721,-110.391,ardac,981.7,False,,
+AB280,Gadsby,,Alberta,CA,52.2968,-112.356,ardac,797.7,False,,
+AB281,Gainford,,Alberta,CA,53.5847,-114.785,ardac,715.7,False,,
+AB282,Galahad,,Alberta,CA,52.5142,-111.931,ardac,832.4,False,,
+AB283,Garden Creek,,Alberta,CA,58.7047,-113.886,ardac,889.9,False,,
+AB284,Garden Grove Estates,,Alberta,CA,53.4836,-113.947,ardac,756.9,False,,
+AB285,Gem,,Alberta,CA,50.9506,-112.189,ardac,775.5,False,,
+AB286,Ghost Lake,,Alberta,CA,51.2066,-114.764,ardac,605.2,False,,
+AB287,Gibbons,,Alberta,CA,53.8297,-113.328,ardac,810.6,False,,
+AB288,Gift Lake,,Alberta,CA,55.8825,-115.813,ardac,785.8,False,,
+AB289,Girouxville,,Alberta,CA,55.7536,-117.339,ardac,693.5,False,,
+AB290,Gleichen,,Alberta,CA,50.8661,-113.055,ardac,714.3,False,,
+AB291,Glen Leslie,,Alberta,CA,55.1994,-118.487,ardac,604.8,False,,
+AB292,Glendon,,Alberta,CA,54.2525,-111.16,ardac,955.5,False,,
+AB293,Glenevis,,Alberta,CA,53.7897,-114.517,ardac,742.6,False,,
+AB294,Glenwood,,Alberta,CA,49.3659,-113.515,ardac,656.1,False,,
+AB295,Glory Hills,,Alberta,CA,53.6828,-113.971,ardac,766.4,False,,
+AB296,Golden Days,,Alberta,CA,53.0514,-114.053,ardac,727.1,False,,
+AB297,Goodfish Lake,,Alberta,CA,54.2975,-111.806,ardac,921.2,False,,
+AB298,Gordondale,,Alberta,CA,55.84,-119.54,ardac,577.5,False,,
+AB299,Grande Cache,,Alberta,CA,53.8881,-119.119,ardac,502.4,False,,
+AB300,Grande Prairie,,Alberta,CA,55.1708,-118.796,ardac,585.7,False,,
+AB301,Grandview,,Alberta,CA,52.9879,-114.066,ardac,723.0,False,,
+AB302,Grantham,,Alberta,CA,50.0687,-112.009,ardac,773.4,False,,
+AB303,Granum,,Alberta,CA,49.8711,-113.508,ardac,664.5,False,,
+AB304,Grassland,,Alberta,CA,54.82,-112.687,ardac,902.5,False,,
+AB305,Grassy Lake,,Alberta,CA,49.8253,-111.698,ardac,793.0,False,,
+AB306,Green Acre Estates,,Alberta,CA,53.4979,-113.941,ardac,758.0,False,,
+AB307,Green Court,,Alberta,CA,54.0078,-115.239,ardac,718.4,False,,
+AB308,Gregoire Lake Estates,,Alberta,CA,56.4669,-111.194,ardac,978.3,False,,
+AB309,Grimshaw,,Alberta,CA,56.1886,-117.606,ardac,699.0,False,,
+AB310,Grouard,,Alberta,CA,55.5203,-116.161,ardac,752.7,False,,
+AB311,Grouard Mission,,Alberta,CA,55.5422,-116.154,ardac,753.8,False,,
+AB312,Grovedale,,Alberta,CA,55.0278,-118.859,ardac,576.3,False,,
+AB313,Gull Lake,,Alberta,CA,52.4622,-113.941,ardac,704.8,False,,
+AB314,Gunn,,Alberta,CA,53.7305,-114.348,ardac,748.3,False,,
+AB315,Guy,,Alberta,CA,55.5489,-117.12,ardac,697.8,False,,
+AB316,Gwynne,,Alberta,CA,52.9867,-113.199,ardac,774.0,False,,
+AB317,Hairy Hill,,Alberta,CA,53.7633,-111.979,ardac,883.8,False,,
+AB318,Half Moon Bay,,Alberta,CA,52.345,-114.172,ardac,685.4,False,,
+AB319,Half Moon Estates,,Alberta,CA,53.4615,-113.084,ardac,804.7,False,,
+AB320,Halkirk,,Alberta,CA,52.2825,-112.154,ardac,810.2,False,,
+AB321,Hanna,,Alberta,CA,51.6458,-111.925,ardac,806.8,False,,
+AB322,Hardisty,,Alberta,CA,52.675,-111.304,ardac,877.9,False,,
+AB323,Hartleyville,,Alberta,CA,49.3644,-113.609,ardac,649.3,False,,
+AB324,Harvie Heights,,Alberta,CA,51.13,-115.376,ardac,562.0,False,,
+AB325,Hawk Hills,,Alberta,CA,57.2555,-117.413,ardac,753.0,False,,
+AB326,Hay Lakes,,Alberta,CA,53.1967,-113.057,ardac,792.7,False,,
+AB327,Hayfield,,Alberta,CA,55.1708,-119.615,ardac,538.8,False,,
+AB328,Haynes,,Alberta,CA,52.3175,-113.392,ardac,732.8,False,,
+AB329,Hays,,Alberta,CA,50.0981,-111.794,ardac,789.0,False,,
+AB330,Hayter,,Alberta,CA,52.3564,-110.108,ardac,945.0,False,,
+AB331,Hazell,,Alberta,CA,49.63,-114.664,ardac,578.7,False,,
+AB332,Heart Lake,,Alberta,CA,54.9832,-111.56,ardac,971.9,False,,
+AB333,Heinsburg,,Alberta,CA,53.7675,-110.522,ardac,969.3,False,,
+AB334,Heisler,,Alberta,CA,52.6711,-112.224,ardac,819.9,False,,
+AB335,Heritage Woods,,Alberta,CA,51.0555,-114.241,ardac,636.6,False,,
+AB336,Herronton,,Alberta,CA,50.6247,-113.439,ardac,684.1,False,,
+AB337,Hesketh,,Alberta,CA,51.4703,-112.975,ardac,732.2,False,,
+AB338,Hewitt Estates,,Alberta,CA,53.8073,-113.397,ardac,805.5,False,,
+AB339,High Level,,Alberta,CA,58.516,-117.138,ardac,801.7,False,,
+AB340,High Point Estates,,Alberta,CA,51.0309,-113.781,ardac,667.4,False,,
+AB341,High Prairie,,Alberta,CA,55.4347,-116.488,ardac,730.5,False,,
+AB342,High River,,Alberta,CA,50.5797,-113.874,ardac,653.1,False,,
+AB343,Hilda,,Alberta,CA,50.4797,-110.033,ardac,917.8,False,,
+AB344,Hill Spring,,Alberta,CA,49.2931,-113.622,ardac,647.2,False,,
+AB345,Hillcrest Mines,,Alberta,CA,49.5689,-114.377,ardac,598.4,False,,
+AB346,Hilliard,,Alberta,CA,53.64,-112.482,ardac,848.6,False,,
+AB347,Hines Creek,,Alberta,CA,56.2486,-118.603,ardac,649.4,False,,
+AB348,Hinton,,Alberta,CA,53.4,-117.572,ardac,556.7,False,,
+AB349,Hobbema,,Alberta,CA,52.8194,-113.461,ardac,750.4,False,,
+AB350,Holden,,Alberta,CA,53.2333,-112.234,ardac,843.2,False,,
+AB351,Hondo,,Alberta,CA,55.0716,-114.039,ardac,844.8,False,,
+AB352,Horse Lake,,Alberta,CA,54.8229,-119.352,ardac,539.4,False,,
+AB353,Horseshoe Bay,,Alberta,CA,54.1262,-111.364,ardac,937.4,False,,
+AB354,Hu Haven,,Alberta,CA,53.7709,-113.205,ardac,814.4,False,,
+AB355,Hubbles Lake,,Alberta,CA,53.5593,-114.088,ardac,753.0,False,,
+AB356,Hughenden,,Alberta,CA,52.5106,-110.967,ardac,893.9,False,,
+AB357,Hussar,,Alberta,CA,51.0414,-112.682,ardac,742.9,False,,
+AB358,Huxley,,Alberta,CA,51.9243,-113.23,ardac,728.7,False,,
+AB359,Hylo,,Alberta,CA,54.6775,-112.211,ardac,919.5,False,,
+AB360,Hythe,,Alberta,CA,55.33,-119.55,ardac,550.0,False,,
+AB361,Iddesleigh,,Alberta,CA,50.7356,-111.303,ardac,833.5,False,,
+AB362,Imperial Mills,,Alberta,CA,55.0001,-111.731,ardac,963.7,False,,
+AB363,Indian Cabins,,Alberta,CA,59.8675,-117.035,ardac,847.1,False,,
+AB364,Indus,,Alberta,CA,50.9158,-113.78,ardac,665.1,False,,
+AB365,Innisfail,,Alberta,CA,52.0242,-113.953,ardac,685.8,False,,
+AB366,Innisfree,,Alberta,CA,53.3825,-111.531,ardac,892.0,False,,
+AB367,Irma,,Alberta,CA,52.9119,-111.228,ardac,891.3,False,,
+AB368,Iron Springs,,Alberta,CA,49.93,-112.688,ardac,723.6,False,,
+AB369,Irricana,,Alberta,CA,51.3236,-113.608,ardac,686.0,False,,
+AB370,Irvine,,Alberta,CA,49.9553,-110.277,ardac,895.6,False,,
+AB371,Island Lake,,Alberta,CA,54.8415,-113.558,ardac,858.6,False,,
+AB372,Islay,,Alberta,CA,53.3939,-110.539,ardac,952.5,False,,
+AB373,Itaska Beach,,Alberta,CA,53.0722,-114.08,ardac,726.7,False,,
+AB374,Jarrow,,Alberta,CA,52.9408,-111.395,ardac,882.0,False,,
+AB375,Jarvie,,Alberta,CA,54.4547,-113.987,ardac,812.0,False,,
+AB376,Jarvis Bay,,Alberta,CA,52.3352,-114.08,ardac,690.6,False,,
+AB377,Jasper,,Alberta,CA,52.8711,-118.093,ardac,494.8,False,,
+AB378,Jean Côté,,Alberta,CA,55.8981,-117.311,ardac,701.4,False,,
+AB379,Jenner,,Alberta,CA,50.7467,-111.184,ardac,841.9,False,,
+AB380,Joffre,,Alberta,CA,52.3371,-113.537,ardac,724.5,False,,
+AB381,John D'Or Prairie,,Alberta,CA,58.4938,-115.144,ardac,909.5,False,,
+AB382,Johnson's Addition,,Alberta,CA,49.7827,-112.177,ardac,758.4,False,,
+AB383,Josephburg,,Alberta,CA,53.7133,-113.07,ardac,819.1,False,,
+AB384,Joussard,,Alberta,CA,55.3952,-115.951,ardac,761.0,False,,
+AB385,Judson,,Alberta,CA,49.5222,-112.346,ardac,742.4,False,,
+AB386,Kapasiwin,,Alberta,CA,53.5442,-114.445,ardac,732.1,False,,
+AB387,Kapawe'no,,Alberta,CA,55.5475,-116.152,ardac,754.1,False,,
+AB388,Kathyrn,,Alberta,CA,51.2183,-113.708,ardac,676.6,False,,
+AB389,Kavanagh,,Alberta,CA,53.1822,-113.517,ardac,765.1,False,,
+AB390,Keg River,,Alberta,CA,57.746,-117.61,ardac,752.3,False,,
+AB391,Kehewin,,Alberta,CA,54.1104,-110.882,ardac,964.2,False,,
+AB392,Kelsey,,Alberta,CA,52.8458,-112.549,ardac,806.9,False,,
+AB393,Keoma,,Alberta,CA,51.2169,-113.649,ardac,680.6,False,,
+AB394,Kew,,Alberta,CA,50.7329,-114.417,ardac,617.7,False,,
+AB395,Kikino,,Alberta,CA,54.4442,-112.094,ardac,912.8,False,,
+AB396,Killam,,Alberta,CA,52.7897,-111.855,ardac,847.5,False,,
+AB397,Kingman,,Alberta,CA,53.2133,-112.749,ardac,811.6,False,,
+AB398,Kinsella,,Alberta,CA,53.0016,-111.524,ardac,876.4,False,,
+AB399,Kinuso,,Alberta,CA,55.3319,-115.435,ardac,784.3,False,,
+AB400,Kirkcaldy,,Alberta,CA,50.335,-113.238,ardac,691.3,False,,
+AB401,Kitscoty,,Alberta,CA,53.3419,-110.333,ardac,963.1,False,,
+AB402,La Crete,,Alberta,CA,58.1878,-116.417,ardac,830.9,False,,
+AB403,La Glace,,Alberta,CA,55.4028,-119.154,ardac,575.6,False,,
+AB404,Lac des Arcs,,Alberta,CA,51.0501,-115.157,ardac,574.4,False,,
+AB405,Lac La Biche,,Alberta,CA,54.7686,-111.978,ardac,937.2,False,,
+AB406,Lacombe,,Alberta,CA,52.4644,-113.734,ardac,717.6,False,,
+AB407,Lake Louise,,Alberta,CA,51.4253,-116.181,ardac,519.8,False,,
+AB408,Lakeview,,Alberta,CA,53.5597,-114.457,ardac,732.4,False,,
+AB409,Lamont,,Alberta,CA,53.7625,-112.778,ardac,838.2,False,,
+AB410,Lancaster Park,,Alberta,CA,53.6728,-113.491,ardac,792.9,False,,
+AB411,Langdon,,Alberta,CA,50.9737,-113.67,ardac,673.8,False,,
+AB412,Larkspur,,Alberta,CA,54.4387,-113.768,ardac,822.4,False,,
+AB413,Lavoy,,Alberta,CA,53.4587,-111.863,ardac,875.7,False,,
+AB414,Lawsonburg,,Alberta,CA,51.4836,-112.159,ardac,787.4,False,,
+AB415,Leahurst,,Alberta,CA,52.3763,-112.644,ardac,782.2,False,,
+AB416,Leavitt,,Alberta,CA,49.1709,-113.453,ardac,657.5,False,,
+AB417,Leduc,,Alberta,CA,53.2667,-113.546,ardac,767.8,False,,
+AB418,Leedale,,Alberta,CA,52.5819,-114.47,ardac,678.4,False,,
+AB419,Legal,,Alberta,CA,53.9495,-113.595,ardac,802.4,False,,
+AB420,Legend,,Alberta,CA,49.4844,-111.61,ardac,794.6,False,,
+AB421,Les Trailer Park,,Alberta,CA,52.2786,-113.867,ardac,701.4,False,,
+AB422,Leslieville,,Alberta,CA,52.3833,-114.605,ardac,660.7,False,,
+AB423,Lethbridge,,Alberta,CA,49.6928,-112.835,ardac,710.3,False,,
+AB424,Lindbergh,,Alberta,CA,53.8875,-110.673,ardac,965.7,False,,
+AB425,Linden,,Alberta,CA,51.5906,-113.488,ardac,701.3,False,,
+AB426,Linn Valley,,Alberta,CA,52.3214,-113.873,ardac,702.9,False,,
+AB427,Little Buffalo,,Alberta,CA,56.4375,-116.108,ardac,792.3,False,,
+AB428,Lloydminster,,Alberta,CA,53.279,-110.019,ardac,980.1,False,,
+AB429,Lodgepole,,Alberta,CA,53.1006,-115.314,ardac,658.1,False,,
+AB430,Lomond,,Alberta,CA,50.3494,-112.641,ardac,733.2,False,,
+AB431,Lone Pine,,Alberta,CA,54.3058,-115.115,ardac,743.8,False,,
+AB432,Long Lake,,Alberta,CA,54.4517,-112.775,ardac,876.0,False,,
+AB433,Longview,,Alberta,CA,50.5308,-114.231,ardac,627.4,False,,
+AB434,Loon Lake,,Alberta,CA,56.5389,-115.394,ardac,836.1,False,,
+AB435,Lougheed,,Alberta,CA,52.7444,-111.543,ardac,865.3,False,,
+AB436,Louis Bull,,Alberta,CA,52.8887,-113.541,ardac,748.9,False,,
+AB437,Lousana,,Alberta,CA,52.1128,-113.19,ardac,737.8,False,,
+AB438,Loyalist,,Alberta,CA,51.9858,-110.954,ardac,879.8,False,,
+AB439,Lundbreck,,Alberta,CA,49.5845,-114.164,ardac,613.8,False,,
+AB440,Lyalta,,Alberta,CA,51.1145,-113.602,ardac,681.4,False,,
+AB441,Ma-Me-O Beach,,Alberta,CA,52.9735,-113.96,ardac,728.4,False,,
+AB442,Magrath,,Alberta,CA,49.417,-112.865,ardac,703.5,False,,
+AB443,Makepeace,,Alberta,CA,50.9394,-112.616,ardac,745.8,False,,
+AB444,Mallaig,,Alberta,CA,54.2103,-111.361,ardac,942.0,False,,
+AB445,Manning,,Alberta,CA,56.92,-117.629,ardac,735.1,False,,
+AB446,Mannville,,Alberta,CA,53.3403,-111.178,ardac,911.5,False,,
+AB447,Manyberries,,Alberta,CA,49.4006,-110.695,ardac,859.5,False,,
+AB448,Markerville,,Alberta,CA,52.1236,-114.171,ardac,676.0,False,,
+AB449,Marlboro,,Alberta,CA,53.5556,-116.796,ardac,607.8,False,,
+AB450,Martins Trailer Court,,Alberta,CA,52.3597,-115.028,ardac,634.0,False,,
+AB451,Marwayne,,Alberta,CA,53.5175,-110.33,ardac,970.2,False,,
+AB452,Mayerthorpe,,Alberta,CA,53.9547,-115.138,ardac,720.1,False,,
+AB453,McDermott,,Alberta,CA,49.7309,-112.948,ardac,702.7,False,,
+AB454,McLaughlin,,Alberta,CA,52.9897,-110.165,ardac,960.7,False,,
+AB455,McLennan,,Alberta,CA,55.7062,-116.906,ardac,716.2,False,,
+AB456,McLeod Valley,,Alberta,CA,53.7206,-115.971,ardac,661.8,False,,
+AB457,McNab,,Alberta,CA,49.3494,-112.29,ardac,743.8,False,,
+AB458,Meander River,,Alberta,CA,59.0434,-117.714,ardac,791.4,False,,
+AB459,Meanook,,Alberta,CA,54.5766,-113.319,ardac,854.5,False,,
+AB460,Medicine Hat,,Alberta,CA,50.0408,-110.677,ardac,867.8,False,,
+AB461,Medley,,Alberta,CA,54.4191,-110.268,ardac,1014.5,False,,
+AB462,Meeting Creek,,Alberta,CA,52.6819,-112.732,ardac,788.8,False,,
+AB463,Meso West,,Alberta,CA,53.5915,-114.308,ardac,742.5,False,,
+AB464,Metiskow,,Alberta,CA,52.4086,-110.633,ardac,912.3,False,,
+AB465,Mewatha Beach,,Alberta,CA,54.6065,-112.741,ardac,886.9,False,,
+AB466,Michichi,,Alberta,CA,51.5853,-112.534,ardac,764.6,False,,
+AB467,Mikisew,,Alberta,CA,58.7678,-111.046,ardac,841.3,False,,
+AB468,Milk River,,Alberta,CA,49.1554,-112.083,ardac,756.6,False,,
+AB469,Millarville,,Alberta,CA,50.7564,-114.325,ardac,624.5,False,,
+AB470,Millet,,Alberta,CA,53.0923,-113.473,ardac,763.0,False,,
+AB471,Millicent,,Alberta,CA,50.7103,-111.779,ardac,800.2,False,,
+AB472,Milo,,Alberta,CA,50.57,-112.882,ardac,721.1,False,,
+AB473,Minburn,,Alberta,CA,53.3156,-111.364,ardac,899.2,False,,
+AB474,Mirror,,Alberta,CA,52.4656,-113.11,ardac,756.4,False,,
+AB475,Monarch,,Alberta,CA,49.8044,-113.108,ardac,692.2,False,,
+AB476,Monitor,,Alberta,CA,51.9783,-110.569,ardac,905.2,False,,
+AB477,Montana,,Alberta,CA,52.7271,-113.424,ardac,748.3,False,,
+AB478,Moon River Estates,,Alberta,CA,49.7286,-113.149,ardac,688.3,False,,
+AB479,Moose Portage,,Alberta,CA,55.2292,-113.883,ardac,861.5,False,,
+AB480,Morinville,,Alberta,CA,53.8028,-113.644,ardac,791.4,False,,
+AB481,Morley,,Alberta,CA,51.1672,-114.852,ardac,598.2,False,,
+AB482,Morningside,,Alberta,CA,52.5778,-113.634,ardac,728.8,False,,
+AB483,Morrin,,Alberta,CA,51.6603,-112.767,ardac,751.1,False,,
+AB484,Mossleigh,,Alberta,CA,50.7203,-113.324,ardac,693.4,False,,
+AB485,Mountain View,,Alberta,CA,49.1344,-113.596,ardac,646.6,False,,
+AB486,Mulhurst,,Alberta,CA,53.0493,-113.981,ardac,731.2,False,,
+AB487,Mundare,,Alberta,CA,53.5939,-112.342,ardac,854.3,False,,
+AB488,Munson,,Alberta,CA,51.5633,-112.738,ardac,750.4,False,,
+AB489,Musidora,,Alberta,CA,53.6897,-111.584,ardac,903.1,False,,
+AB490,Myrnam,,Alberta,CA,53.6617,-111.23,ardac,922.6,False,,
+AB491,Nacmine,,Alberta,CA,51.47,-112.784,ardac,745.0,False,,
+AB492,Nakamun Park,,Alberta,CA,53.8776,-114.214,ardac,764.3,False,,
+AB493,Namaka,,Alberta,CA,50.9583,-113.287,ardac,699.8,False,,
+AB494,Namao,,Alberta,CA,53.7671,-113.474,ardac,799.0,False,,
+AB495,Nampa,,Alberta,CA,56.0381,-117.13,ardac,717.8,False,,
+AB496,Nanton,,Alberta,CA,50.346,-113.777,ardac,654.1,False,,
+AB497,Neerlandia,,Alberta,CA,54.3192,-114.377,ardac,783.2,False,,
+AB498,Nevis,,Alberta,CA,52.3303,-113.031,ardac,756.0,False,,
+AB499,New Brigden,,Alberta,CA,51.7006,-110.49,ardac,904.4,False,,
+AB500,New Dayton,,Alberta,CA,49.4256,-112.381,ardac,738.4,False,,
+AB501,New Norway,,Alberta,CA,52.8689,-112.951,ardac,783.5,False,,
+AB502,New Sarepta,,Alberta,CA,53.2742,-113.146,ardac,791.4,False,,
+AB503,Newbrook,,Alberta,CA,54.326,-112.949,ardac,859.3,False,,
+AB504,Nightingale,,Alberta,CA,51.1603,-113.333,ardac,700.7,False,,
+AB505,Niton Junction,,Alberta,CA,53.6219,-115.77,ardac,665.4,False,,
+AB506,Nobleford,,Alberta,CA,49.8803,-113.054,ardac,696.9,False,,
+AB507,Norglenwold,,Alberta,CA,52.3245,-114.132,ardac,687.0,False,,
+AB508,Norris Beach,,Alberta,CA,52.9666,-114.023,ardac,724.4,False,,
+AB509,North Star,,Alberta,CA,56.8564,-117.615,ardac,734.8,False,,
+AB510,Notikewin,,Alberta,CA,56.9747,-117.625,ardac,736.1,False,,
+AB511,O'Chiese,,Alberta,CA,52.6839,-115.256,ardac,637.7,False,,
+AB512,Obed,,Alberta,CA,53.5583,-117.215,ardac,585.8,False,,
+AB513,Ohaton,,Alberta,CA,52.97,-112.661,ardac,805.6,False,,
+AB514,Okotoks,,Alberta,CA,50.7261,-113.977,ardac,648.1,False,,
+AB515,Olds,,Alberta,CA,51.7919,-114.107,ardac,667.3,False,,
+AB516,Onoway,,Alberta,CA,53.7025,-114.192,ardac,755.3,False,,
+AB517,Orton,,Alberta,CA,49.732,-113.264,ardac,680.1,False,,
+AB518,Osborne Acres,,Alberta,CA,53.558,-113.8,ardac,769.2,False,,
+AB519,Oyen,,Alberta,CA,51.3528,-110.483,ardac,898.8,False,,
+AB520,Paddle Prairie,,Alberta,CA,57.9511,-117.472,ardac,765.6,False,,
+AB521,Panorama Heights,,Alberta,CA,53.6318,-113.942,ardac,765.2,False,,
+AB522,Paradise Valley,,Alberta,CA,53.0328,-110.296,ardac,953.9,False,,
+AB523,Parkland,,Alberta,CA,50.2561,-113.659,ardac,660.4,False,,
+AB524,Parkland Beach,,Alberta,CA,52.6072,-114.065,ardac,704.0,False,,
+AB525,Patricia,,Alberta,CA,50.6994,-111.677,ardac,807.0,False,,
+AB526,Peace River,,Alberta,CA,56.2389,-117.292,ardac,718.4,False,,
+AB527,Peavine Metis Settlement,,Alberta,CA,55.7845,-116.297,ardac,754.3,False,,
+AB528,Peerless Lake,,Alberta,CA,56.6804,-114.581,ardac,887.0,False,,
+AB529,Peers,,Alberta,CA,53.6658,-115.993,ardac,656.9,False,,
+AB530,Pelican Narrows,,Alberta,CA,54.2629,-110.89,ardac,971.3,False,,
+AB531,Pemukan,,Alberta,CA,51.9719,-110.444,ardac,913.3,False,,
+AB532,Penhold,,Alberta,CA,52.1369,-113.873,ardac,695.3,False,,
+AB533,Perryvale,,Alberta,CA,54.4678,-113.387,ardac,844.2,False,,
+AB534,Peterburn Estates,,Alberta,CA,53.4952,-113.966,ardac,756.4,False,,
+AB535,Pibroch,,Alberta,CA,54.2544,-113.875,ardac,805.3,False,,
+AB536,Pickardville,,Alberta,CA,54.0519,-113.881,ardac,792.7,False,,
+AB537,Picture Butte,,Alberta,CA,49.8769,-112.78,ardac,716.4,False,,
+AB538,Pincher,,Alberta,CA,49.5248,-113.947,ardac,628.5,False,,
+AB539,Pincher Creek,,Alberta,CA,49.4853,-113.947,ardac,627.6,False,,
+AB540,Pine Lake,,Alberta,CA,52.1103,-113.482,ardac,719.1,False,,
+AB541,Pine Shadows,,Alberta,CA,53.6031,-116.305,ardac,636.8,False,,
+AB542,Pipestone,,Alberta,CA,53.0536,-113.795,ardac,742.2,False,,
+AB543,Plamondon,,Alberta,CA,54.8497,-112.342,ardac,922.5,False,,
+AB544,Point Alison,,Alberta,CA,53.5503,-114.486,ardac,730.2,False,,
+AB545,Pollockville,,Alberta,CA,51.1061,-111.59,ardac,819.1,False,,
+AB546,Ponoka,,Alberta,CA,52.675,-113.58,ardac,736.5,False,,
+AB547,Poplar Bay,,Alberta,CA,53.0078,-114.121,ardac,720.9,False,,
+AB548,Poplar Ridge,,Alberta,CA,52.2994,-113.937,ardac,698.0,False,,
+AB549,Prairie Lodge Trailer Court,,Alberta,CA,53.5145,-112.052,ardac,867.2,False,,
+AB550,Priddis,,Alberta,CA,50.8861,-114.329,ardac,626.8,False,,
+AB551,Provost,,Alberta,CA,52.3533,-110.265,ardac,934.7,False,,
+AB552,Purple Springs,,Alberta,CA,49.8156,-111.892,ardac,779.1,False,,
+AB553,Queenstown,,Alberta,CA,50.6394,-112.939,ardac,718.8,False,,
+AB554,Radway,,Alberta,CA,54.06,-112.945,ardac,844.6,False,,
+AB555,Rainbow Lake,,Alberta,CA,58.5044,-119.4,ardac,681.6,False,,
+AB556,Rainier,,Alberta,CA,50.3683,-112.092,ardac,771.9,False,,
+AB557,Ralston,,Alberta,CA,50.2458,-111.169,ardac,835.0,False,,
+AB558,Ranfurly,,Alberta,CA,53.4072,-111.68,ardac,884.2,False,,
+AB559,Raymond,,Alberta,CA,49.465,-112.661,ardac,718.9,False,,
+AB560,Red Deer,,Alberta,CA,52.2686,-113.81,ardac,704.6,False,,
+AB561,Red Earth Creek,,Alberta,CA,56.5363,-115.298,ardac,841.3,False,,
+AB562,Red Willow,,Alberta,CA,52.4504,-112.573,ardac,789.5,False,,
+AB563,Redcliff,,Alberta,CA,50.0775,-110.786,ardac,860.3,False,,
+AB564,Redland,,Alberta,CA,51.2897,-113.008,ardac,725.6,False,,
+AB565,Redwater,,Alberta,CA,53.9508,-113.107,ardac,829.6,False,,
+AB566,Reno,,Alberta,CA,55.9943,-117.0,ardac,723.1,False,,
+AB567,Rich Lake,,Alberta,CA,54.5078,-111.619,ardac,942.6,False,,
+AB568,Rich Valley,,Alberta,CA,53.8483,-114.35,ardac,755.2,False,,
+AB569,Richdale,,Alberta,CA,51.6103,-111.604,ardac,827.6,False,,
+AB570,Rimbey,,Alberta,CA,52.6392,-114.237,ardac,695.2,False,,
+AB571,Riverview,,Alberta,CA,53.8619,-110.642,ardac,966.4,False,,
+AB572,Riverview Pines,,Alberta,CA,55.0875,-118.946,ardac,573.6,False,,
+AB573,Robb,,Alberta,CA,53.2333,-116.979,ardac,576.9,False,,
+AB574,Rochester,,Alberta,CA,54.3725,-113.461,ardac,834.5,False,,
+AB575,Rochfort Bridge,,Alberta,CA,53.9136,-115.036,ardac,722.7,False,,
+AB576,Rochon Sands,,Alberta,CA,52.454,-112.882,ardac,770.2,False,,
+AB577,Rocky Lane,,Alberta,CA,58.4588,-116.259,ardac,847.4,False,,
+AB578,Rocky Mountain House,,Alberta,CA,52.3793,-114.919,ardac,641.5,False,,
+AB579,Rocky Rapids,,Alberta,CA,53.2797,-114.952,ardac,688.7,False,,
+AB580,Rockyford,,Alberta,CA,51.2342,-113.142,ardac,715.3,False,,
+AB581,Rolling Heights,,Alberta,CA,53.6383,-113.992,ardac,762.8,False,,
+AB582,Rolling Hills,,Alberta,CA,50.2256,-111.774,ardac,792.1,False,,
+AB583,Rolling Meadows,,Alberta,CA,53.5826,-113.854,ardac,767.5,False,,
+AB584,Rolly View,,Alberta,CA,53.2528,-113.317,ardac,780.3,False,,
+AB585,Rosalind,,Alberta,CA,52.7897,-112.444,ardac,811.0,False,,
+AB586,Rose Lynn,,Alberta,CA,51.4178,-111.677,ardac,818.6,False,,
+AB587,Rosebud,,Alberta,CA,51.2997,-112.951,ardac,729.7,False,,
+AB588,Rosedale,,Alberta,CA,51.4167,-112.633,ardac,753.9,False,,
+AB589,Rosemary,,Alberta,CA,50.7575,-112.09,ardac,779.8,False,,
+AB590,Ross Haven,,Alberta,CA,53.7342,-114.408,ardac,745.2,False,,
+AB591,Rossian,,Alberta,CA,54.9545,-112.371,ardac,927.2,False,,
+AB592,Round Hill,,Alberta,CA,53.1653,-112.631,ardac,816.3,False,,
+AB593,Rowley,,Alberta,CA,51.7622,-112.788,ardac,752.6,False,,
+AB594,Rumsey,,Alberta,CA,51.8419,-112.842,ardac,751.4,False,,
+AB595,Rycroft,,Alberta,CA,55.7558,-118.709,ardac,617.4,False,,
+AB596,Ryley,,Alberta,CA,53.2908,-112.43,ardac,834.2,False,,
+AB597,Saddle Lake,,Alberta,CA,53.9559,-111.701,ardac,909.5,False,,
+AB598,Samson Peak,,Alberta,CA,52.6806,-117.5273,ardac,510.7,False,,
+AB599,Sandy Beach,,Alberta,CA,53.8084,-114.039,ardac,769.8,False,,
+AB600,Sandy Lake,,Alberta,CA,55.8144,-113.416,ardac,917.9,False,,
+AB601,Sangudo,,Alberta,CA,53.8879,-114.895,ardac,728.5,False,,
+AB602,Saprae Creek,,Alberta,CA,56.6592,-111.143,ardac,967.2,False,,
+AB603,Saskatchewan River Crossing,,Alberta,CA,51.9758,-116.743,ardac,511.9,False,,
+AB605,Sawridge,,Alberta,CA,55.2901,-114.75,ardac,817.8,False,,
+AB606,Scandia,,Alberta,CA,50.2781,-112.047,ardac,773.6,False,,
+AB607,Schuler,,Alberta,CA,50.3407,-110.089,ardac,912.3,False,,
+AB608,Scollard,,Alberta,CA,51.9375,-112.834,ardac,754.9,False,,
+AB609,Seba Beach,,Alberta,CA,53.5593,-114.734,ardac,717.0,False,,
+AB610,Sedalia,,Alberta,CA,51.675,-110.665,ardac,892.1,False,,
+AB611,Sedgewick,,Alberta,CA,52.7747,-111.693,ardac,857.0,False,,
+AB612,Seven Persons,,Alberta,CA,49.8761,-110.908,ardac,849.9,False,,
+AB613,Sexsmith,,Alberta,CA,55.3503,-118.782,ardac,594.2,False,,
+AB614,Shaughnessy,,Alberta,CA,49.8528,-112.842,ardac,711.7,False,,
+AB615,Shepard,,Alberta,CA,50.953,-113.908,ardac,657.1,False,,
+AB616,Sherwood Park,,Alberta,CA,53.5339,-113.29,ardac,796.9,False,,
+AB617,Shouldice,,Alberta,CA,50.7167,-112.974,ardac,717.7,False,,
+AB618,Sibbald,,Alberta,CA,51.3883,-110.15,ardac,922.1,False,,
+AB619,Siksika,,Alberta,CA,50.7924,-112.855,ardac,727.0,False,,
+AB620,Silver Beach,,Alberta,CA,53.0368,-113.994,ardac,729.8,False,,
+AB621,Silver Sands,,Alberta,CA,53.6369,-114.657,ardac,725.8,False,,
+AB622,Skiff,,Alberta,CA,49.5025,-111.791,ardac,781.8,False,,
+AB623,Slave Lake,,Alberta,CA,55.2822,-114.77,ardac,816.3,False,,
+AB624,Smith,,Alberta,CA,55.162,-114.041,ardac,849.3,False,,
+AB625,Smoky Lake,,Alberta,CA,54.1167,-112.467,ardac,874.5,False,,
+AB626,South Baptiste,,Alberta,CA,54.7219,-113.573,ardac,850.4,False,,
+AB627,South View,,Alberta,CA,53.6468,-114.663,ardac,726.1,False,,
+AB628,Spedden,,Alberta,CA,54.1386,-111.726,ardac,917.7,False,,
+AB629,Spirit River,,Alberta,CA,55.7786,-118.837,ardac,611.6,False,,
+AB630,Spring Coulee,,Alberta,CA,49.3331,-113.053,ardac,688.7,False,,
+AB631,Spring Lake,,Alberta,CA,53.5186,-114.133,ardac,748.2,False,,
+AB632,Springbrook,,Alberta,CA,52.1767,-113.872,ardac,696.9,False,,
+AB633,Spruce Grove,,Alberta,CA,53.5539,-113.902,ardac,763.2,False,,
+AB634,Spruce Lane Acres,,Alberta,CA,52.3503,-113.813,ardac,707.8,False,,
+AB635,Spruce View,,Alberta,CA,52.0856,-114.31,ardac,665.7,False,,
+AB636,Sputinow,,Alberta,CA,53.9219,-110.268,ardac,991.2,False,,
+AB637,St. Albert,,Alberta,CA,53.6369,-113.62,ardac,783.7,False,,
+AB638,St. Isidore,,Alberta,CA,56.204,-117.107,ardac,726.8,False,,
+AB639,St. Lina,,Alberta,CA,54.2961,-111.454,ardac,941.0,False,,
+AB640,St. Michael,,Alberta,CA,53.8303,-112.636,ardac,849.9,False,,
+AB641,St. Paul,St-Paul-de-Métis,Alberta,CA,53.9913,-111.3269,ardac,932.7,False,,
+AB643,Stand Off,,Alberta,CA,49.4569,-113.303,ardac,672.9,False,,
+AB644,Standard,,Alberta,CA,51.1097,-112.984,ardac,723.5,False,,
+AB645,Stavely,,Alberta,CA,50.1611,-113.642,ardac,659.7,False,,
+AB646,Steen River,,Alberta,CA,59.6275,-117.167,ardac,842.4,False,,
+AB647,Stettler,,Alberta,CA,52.3239,-112.704,ardac,776.5,False,,
+AB648,Stirling,,Alberta,CA,49.5032,-112.527,ardac,729.1,False,,
+AB649,Stonelaw,,Alberta,CA,51.8686,-112.481,ardac,775.9,False,,
+AB650,Stony Plain,,Alberta,CA,53.5264,-114.007,ardac,755.8,False,,
+AB651,Strathmore,,Alberta,CA,51.0456,-113.393,ardac,694.2,False,,
+AB652,Strome,,Alberta,CA,52.8108,-112.067,ardac,835.2,False,,
+AB654,Sturgeon Lake,,Alberta,CA,55.0695,-117.489,ardac,658.9,False,,
+AB655,Suffield,,Alberta,CA,50.2183,-111.161,ardac,835.2,False,,
+AB656,Sunbreaker Cove,,Alberta,CA,52.3875,-114.187,ardac,686.4,False,,
+AB657,Sunchild,,Alberta,CA,52.6935,-115.33,ardac,634.0,False,,
+AB658,Sundance Beach,,Alberta,CA,53.0809,-114.121,ardac,724.8,False,,
+AB659,Sundre,,Alberta,CA,51.7983,-114.64,ardac,633.3,False,,
+AB660,Sunnybrook,,Alberta,CA,53.193,-114.2,ardac,726.4,False,,
+AB661,Sunnyslope,,Alberta,CA,51.649,-113.558,ardac,698.4,False,,
+AB662,Sunrise Beach,,Alberta,CA,53.7838,-114.055,ardac,767.5,False,,
+AB663,Sunset Beach,,Alberta,CA,54.7415,-113.541,ardac,853.3,False,,
+AB664,Sunset House,,Alberta,CA,55.112,-116.899,ardac,695.6,False,,
+AB665,Sunset Point,,Alberta,CA,53.6888,-114.353,ardac,745.6,False,,
+AB666,Sunset View Acres,,Alberta,CA,53.4502,-113.744,ardac,766.6,False,,
+AB667,Swalwell,,Alberta,CA,51.5572,-113.318,ardac,711.6,False,,
+AB668,Swan City Trailer Court,,Alberta,CA,55.1694,-118.754,ardac,588.1,False,,
+AB669,Swan Hills,,Alberta,CA,54.7167,-115.402,ardac,750.9,False,,
+AB670,Swan River,,Alberta,CA,55.3402,-115.451,ardac,783.9,False,,
+AB672,Sylvan Lake,,Alberta,CA,52.3057,-114.096,ardac,688.4,False,,
+AB673,T & E Trailer Park,,Alberta,CA,55.1766,-118.751,ardac,588.5,False,,
+AB674,Taber,,Alberta,CA,49.7848,-112.151,ardac,760.2,False,,
+AB675,Tallcree,,Alberta,CA,57.9119,-115.356,ardac,883.8,False,,
+AB676,Tawatinaw,,Alberta,CA,54.2979,-113.477,ardac,829.2,False,,
+AB677,Tees,,Alberta,CA,52.4675,-113.321,ardac,743.3,False,,
+AB678,Therien,,Alberta,CA,54.2389,-111.255,ardac,949.4,False,,
+AB679,Thorhild,,Alberta,CA,54.1589,-113.125,ardac,840.2,False,,
+AB680,Thorsby,,Alberta,CA,53.2269,-114.048,ardac,737.0,False,,
+AB681,Three Hills,,Alberta,CA,51.7031,-113.269,ardac,719.1,False,,
+AB682,Throne,,Alberta,CA,52.0534,-111.288,ardac,859.5,False,,
+AB683,Tilley,,Alberta,CA,50.4522,-111.653,ardac,804.0,False,,
+AB684,Tofield,,Alberta,CA,53.3708,-112.666,ardac,824.2,False,,
+AB685,Tomahawk,,Alberta,CA,53.3979,-114.763,ardac,706.0,False,,
+AB686,Torrington,,Alberta,CA,51.7914,-113.606,ardac,699.8,False,,
+AB687,Travers,,Alberta,CA,50.2481,-112.555,ardac,737.5,False,,
+AB688,Triple-L-Trailer Court,,Alberta,CA,55.1687,-118.65,ardac,594.1,False,,
+AB689,Trochu,,Alberta,CA,51.8286,-113.228,ardac,725.7,False,,
+AB690,Trout Lake,,Alberta,CA,56.4958,-114.558,ardac,880.8,False,,
+AB691,Tsuu T'ina,,Alberta,CA,50.9515,-114.166,ardac,639.4,False,,
+AB692,Tulliby Lake,,Alberta,CA,53.7139,-110.177,ardac,987.6,False,,
+AB693,Turin,,Alberta,CA,49.9641,-112.528,ardac,735.3,False,,
+AB694,Turner Valley,,Alberta,CA,50.6753,-114.28,ardac,626.2,False,,
+AB695,Tuttle,,Alberta,CA,52.2012,-113.843,ardac,699.8,False,,
+AB696,Twining,,Alberta,CA,51.6328,-113.297,ardac,715.2,False,,
+AB697,Two Hills,,Alberta,CA,53.7111,-111.745,ardac,894.7,False,,
+AB698,Upper and Lower Viscount Estates,,Alberta,CA,53.6748,-113.561,ardac,789.1,False,,
+AB699,Upper Manor Estates,,Alberta,CA,53.6874,-113.575,ardac,789.0,False,,
+AB700,Val Quentin,,Alberta,CA,53.664,-114.385,ardac,742.4,False,,
+AB701,Valhalla Centre,,Alberta,CA,55.4036,-119.382,ardac,562.9,False,,
+AB702,Valleyview,,Alberta,CA,55.0659,-117.282,ardac,671.2,False,,
+AB703,Vauxhall,,Alberta,CA,50.0683,-112.107,ardac,766.5,False,,
+AB705,Vegreville,,Alberta,CA,53.4956,-112.052,ardac,866.3,False,,
+AB706,Venice,,Alberta,CA,54.6978,-112.148,ardac,924.0,False,,
+AB707,Vermilion,,Alberta,CA,53.3547,-110.853,ardac,931.8,False,,
+AB708,Veteran,,Alberta,CA,52.0011,-111.119,ardac,869.3,False,,
+AB709,Viking,,Alberta,CA,53.0947,-111.776,ardac,864.7,False,,
+AB710,Villeneuve,,Alberta,CA,53.66,-113.811,ardac,774.1,False,,
+AB711,Vilna,,Alberta,CA,54.1167,-111.921,ardac,905.4,False,,
+AB712,Vimy,,Alberta,CA,54.0621,-113.647,ardac,806.0,False,,
+AB713,Violet Grove,,Alberta,CA,53.1597,-115.037,ardac,677.1,False,,
+AB714,Vulcan,,Alberta,CA,50.4042,-113.261,ardac,691.2,False,,
+AB715,Wabamun,,Alberta,CA,53.5609,-114.472,ardac,731.6,False,,
+AB716,Wabasca-Desmarais,,Alberta,CA,55.9792,-113.843,ardac,903.6,False,,
+AB717,Wainwright,,Alberta,CA,52.8382,-110.853,ardac,912.1,False,,
+AB718,Waiparous,,Alberta,CA,51.2828,-114.835,ardac,602.7,False,,
+AB719,Walsh,,Alberta,CA,49.9472,-110.042,ardac,912.3,False,,
+AB720,Wandering River,,Alberta,CA,55.1956,-112.475,ardac,936.7,False,,
+AB721,Wanham,,Alberta,CA,55.7375,-118.385,ardac,634.3,False,,
+AB722,Warburg,,Alberta,CA,53.1817,-114.32,ardac,719.0,False,,
+AB723,Warden,,Alberta,CA,52.2592,-112.742,ardac,771.7,False,,
+AB724,Wardlow,,Alberta,CA,50.9053,-111.546,ardac,819.4,False,,
+AB725,Warner,,Alberta,CA,49.2828,-112.208,ardac,748.9,False,,
+AB726,Warspite,,Alberta,CA,54.0911,-112.614,ardac,864.8,False,,
+AB727,Warwick,,Alberta,CA,53.6272,-112.052,ardac,872.7,False,,
+AB728,Waskatenau,,Alberta,CA,54.0939,-112.784,ardac,855.5,False,,
+AB729,Water Valley,,Alberta,CA,51.5061,-114.611,ardac,624.7,False,,
+AB730,Waterton Park,,Alberta,CA,49.0517,-113.914,ardac,622.5,False,,
+AB731,Watino,,Alberta,CA,55.7126,-117.624,ardac,675.7,False,,
+AB732,Wayne,,Alberta,CA,51.3815,-112.658,ardac,751.4,False,,
+AB733,Webster,,Alberta,CA,55.4419,-118.688,ardac,603.6,False,,
+AB734,Welling,,Alberta,CA,49.4811,-112.786,ardac,710.2,False,,
+AB735,Wembley,,Alberta,CA,55.1556,-119.146,ardac,564.9,False,,
+AB736,West Baptiste,,Alberta,CA,54.7622,-113.574,ardac,853.0,False,,
+AB737,West Cove,,Alberta,CA,53.6983,-114.504,ardac,737.9,False,,
+AB738,Westbrooke Crescents,,Alberta,CA,53.5926,-113.971,ardac,761.4,False,,
+AB739,Westlake Estates,,Alberta,CA,53.5283,-114.079,ardac,751.8,False,,
+AB740,Westlock,,Alberta,CA,54.1553,-113.857,ardac,800.2,False,,
+AB741,Wetaskiwin,,Alberta,CA,52.9692,-113.377,ardac,762.6,False,,
+AB742,Whispering Hills,,Alberta,CA,54.7584,-113.552,ardac,853.9,False,,
+AB743,Whitburn,,Alberta,CA,55.8689,-119.202,ardac,596.9,False,,
+AB744,White Sands,,Alberta,CA,52.4667,-112.817,ardac,774.8,False,,
+AB745,Whitecourt,,Alberta,CA,54.1411,-115.684,ardac,703.5,False,,
+AB746,Whitefish Lake,,Alberta,CA,55.9331,-115.369,ardac,813.3,False,,
+AB747,Whitelaw,,Alberta,CA,56.1089,-118.076,ardac,669.7,False,,
+AB748,Whitla,,Alberta,CA,49.8822,-111.057,ardac,839.3,False,,
+AB749,Widewater,,Alberta,CA,55.3604,-115.037,ardac,806.7,False,,
+AB750,Wildwood,,Alberta,CA,53.6105,-115.247,ardac,692.3,False,,
+AB751,Willingdon,,Alberta,CA,53.8286,-112.118,ardac,879.2,False,,
+AB752,Wimborne,,Alberta,CA,51.8664,-113.593,ardac,703.2,False,,
+AB753,Winfield,,Alberta,CA,52.9653,-114.423,ardac,701.1,False,,
+AB754,Winnifred,,Alberta,CA,49.9067,-111.21,ardac,828.6,False,,
+AB755,Woking,,Alberta,CA,55.5925,-118.775,ardac,605.8,False,,
+AB756,Woodbend Crescent,,Alberta,CA,53.4287,-113.731,ardac,766.1,False,,
+AB757,Woodland,,Alberta,CA,56.4863,-116.058,ardac,797.3,False,,
+AB758,Woodland Hills,,Alberta,CA,52.227,-113.831,ardac,701.6,False,,
+AB759,Woodland Park,,Alberta,CA,53.4323,-113.795,ardac,762.7,False,,
+AB760,Worsley,,Alberta,CA,56.5067,-119.134,ardac,638.1,False,,
+AB761,Wrentham,,Alberta,CA,49.5144,-112.173,ardac,754.6,False,,
+AB762,Yellowstone,,Alberta,CA,53.7296,-114.382,ardac,746.4,False,,
+AB763,Youngstown,,Alberta,CA,51.5278,-111.2,ardac,853.1,False,,
+AB764,Zama City,,Alberta,CA,59.1537,-118.687,ardac,745.1,False,,
