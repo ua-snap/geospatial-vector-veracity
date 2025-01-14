@@ -235,13 +235,13 @@ def find_nearest_neighbors(
             gdf = gdf.to_crs("EPSG:4326")
             # for each nearest neighbor, create a column for the latitude and longitude and add the latitude and longitude value for that neighbor to the column
             for i in range(k_nearest_neighbors):
-                gdf[f"{label_prefix}_latitude_{i+1}"] = gdf.geometry.y.iloc[i]
-                gdf[f"{label_prefix}_longitude_{i+1}"] = gdf.geometry.x.iloc[i]
-                result[f"{label_prefix}_latitude_{i+1}"] = round(
-                    gdf[f"{label_prefix}_latitude_{i+1}"].iloc[0], 4
+                gdf[f"{label_prefix}_lat{i+1}"] = gdf.geometry.y.iloc[i]
+                gdf[f"{label_prefix}_lon{i+1}"] = gdf.geometry.x.iloc[i]
+                result[f"{label_prefix}_lat{i+1}"] = round(
+                    gdf[f"{label_prefix}_lat{i+1}"].iloc[0], 4
                 )
-                result[f"{label_prefix}_longitude_{i+1}"] = round(
-                    gdf[f"{label_prefix}_longitude_{i+1}"].iloc[0], 4
+                result[f"{label_prefix}_lon{i+1}"] = round(
+                    gdf[f"{label_prefix}_lon{i+1}"].iloc[0], 4
                 )
                 # now drop the projected NN keys because we don't need them anymore
                 result.pop(f"NN{i+1}_x")
@@ -257,6 +257,10 @@ def find_nearest_neighbors(
 
     # convert to df and concatenate with original df
     results_df = pd.DataFrame(results)
+    # drop any "NN" columns that might exist
+    results_df = results_df.drop(
+        columns=[col for col in results_df.columns if "NN" in col]
+    )
     updated_community_df = pd.concat([community_df.reset_index(), results_df], axis=1)
     return updated_community_df
 
