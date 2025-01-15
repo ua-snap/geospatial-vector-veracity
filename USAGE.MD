@@ -1,6 +1,6 @@
 # Usage
 
-We're adding this section because when possible, we want to avoid manual editing of vector data that isn't reversible or reproducible.
+We're adding this section because we want to avoid manual editing of vector data that isn't reversible or reproducible whenever possible.
 
 So, if possible...
 
@@ -26,7 +26,14 @@ Use this script to create a "shadow mask" of a polygon - this effectively genera
 
 ### `find_nearest_raster_neighbors.py`
 
-A utility for finding the nearest sets of raster grid cells that meet certain conditions to a list of communities. Basically this takes a CSV file with community lat-lon coordinates and a GeoTIFF and then filters the community points to include only those within the raster bounds and identifies the N closest raster grid cells for each point using a combination of windowed raster reads and a k-d tree. The resulting nearest neighbors and coordinates that represent the center of the raster grid cell are written to an output CSV file. There are some optional debugging shapefiles and raster subsets that can be generated for detailed inspection.
+A utility for finding the nearest raster grid cells that meet certain conditions for a set of community point locations. The script uses a CSV file with community lat-lon coordinates and a GeoTIFF and identifies the N closest raster grid cell neighbors for each point using a combination of windowed raster reads and a k-d tree. The resulting nearest neighbor coordinates represent the center of the raster grid cells and are added to the input CSV file. Run with `--DEBUG` to write interim shapefiles and raster subsets for detailed inspection. An example usage of this script to generate a single nearest sea ice atlas neighbor for all community CSVs is:
+
+```sh
+for csv in ../vector_data/point/*_point_locations.csv; do
+    echo "Processing $csv..."
+    python find_nearest_raster_neighbors.py "$csv" hsia_mask.tif --grid_cell_values 1 --N 1
+done
+```
 
 ### `simplify_huc12.py`
 
