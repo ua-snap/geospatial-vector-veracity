@@ -16,9 +16,9 @@ Use this script to add new point locations to a point location CSV file. You sho
 
 This script computes the distance to the nearest coastline for a list of communities. The script will create or update a column in the input CSV file with the distance to the nearest coastline in kilometers. A column `is_coastal` will also be created or updated to indicate whether the community is coastal or not based on some threshold distance, for which the default is 100 km. The script will iterate through all CSV files in the `../vector_data/point` directory and update each file with the new distance and coastal tag.
 
-### `create_updated_ncr_shapefiles.py`
+### `create_shapefiles.py`
 
-This script creates updated versions of shapefiles on GeoServer for various geographical boundaries and communities. First it loads community point geometries while renaming columns to adhere to the ESRI Shapefile format's 10-character limit. Community points are filtered to retain only those within the IEM AOI. Attu is specifically kicked out of the community list. A schema for the output shapefile is defined and a new filtered community points shapefile is written. Next the polygonal boundaries (watersheds, boroughs, census areas, climate divisions, protected areas,etc.) are 4326-ified if they aren't already in that CRS, and BC and YT protected areas are filtered to retain only those within the IEM AOI. All these geographical areas are then merged into a single DataFrame, with unnecessary metadata columns dropped. The merged DataFrame is written to a new shapefile. Finally, the script generates a separate shapefile for HUC12 areas, setting their type and CRS before saving them to a file.
+This script creates updated versions of shapefiles on GeoServer for various geographical boundaries and communities. First it loads community point geometries while renaming columns to adhere to the ESRI Shapefile format's 10-character limit. Attu is specifically kicked out of the community list. A schema for the output shapefile is defined and a new filtered community points shapefile is written. Next the polygonal boundaries (watersheds, boroughs, census areas, climate divisions, protected areas,etc.) are 4326-ified if they aren't already in that CRS, and BC and YT protected areas are filtered to retain only those within the IEM AOI. All these geographical areas are then merged into a single DataFrame, with unnecessary metadata columns dropped. The merged DataFrame is written to a new shapefile. Finally, the script generates a separate shapefile for HUC12 areas, setting their type and CRS before saving them to a file.
 
 ### `symmetric_difference.py`
 
@@ -42,3 +42,7 @@ More of a one-off, this script reads a source shapefile `wbdhu12_a_ak.shp` of AK
 ### `crop_aiem_domain.py`
 
 This script removes extraneous polygon feature blobs from the `AIEM_domain.shp` file that are outside the actual IEM domain. This is a one-off, and actually probably doesn't need to be tracked, but is dumped here for posterity.
+
+### `tag_point_locations.py`
+
+This script reads point location CSVs from the `vector_data/point` directory and then adds (or overwrites) the "tags" column in each CSV. The "tags" column is a comma-separated list of webapps that the community should be included in. This includes communities that are exclusive to Arctic-EDS, communities that are contained by the IEM AOI for Northern Climate Reports, and nearly all Alaska + international communities to be included in ARDAC Explorer. Tagged CSVs are written to the `utilities/tagged_csvs` directory for review.
