@@ -160,7 +160,7 @@ def main():
     
     write_new_csv(merged, args.points)
     
-    update_shapefile(updated_polys, args.shapefile)
+    update_shapefile(updated_polys, args.polygons)
 
     print(f"Converted {len(new_points)} small polygons to points")
 
