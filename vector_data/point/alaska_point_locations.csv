@@ -1,568 +1,568 @@
-id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal,ocean_latitude_1,ocean_longitude_1,ocean_lat1,ocean_lon1
-AK1,Afognak,Agw’aneq,Alaska,US,58.0078,-152.768,"ardac,eds,ncr",1.0,True,58.214,-152.8521,57.9202,-152.9095
-AK2,Akhiok,Kasukuak,Alaska,US,56.9455,-154.17,"ardac,eds,ncr",0.8,True,56.8357,-154.2574,57.0185,-154.3053
-AK3,Akiachak,Akiacuar,Alaska,US,60.9094,-161.431,"ardac,eds,ncr",33.5,True,60.4267,-162.3873,60.433,-162.4693
-AK4,Akiak,Akiaq,Alaska,US,60.9122,-161.214,"ardac,eds,ncr",43.0,True,60.4113,-162.4916,60.4169,-162.583
-AK5,Akutan,Achan-ingiiga,Alaska,US,54.1385,-165.778,"ardac,eds,ncr",1.4,True,54.2052,-165.6081,54.1978,-165.9233
-AK6,Alakanuk,Alarneq,Alaska,US,62.6889,-164.615,"ardac,eds,ncr",0.5,True,62.7285,-164.7354,62.7494,-164.7989
-AK7,Alatna,Alaasuq,Alaska,US,66.5542,-152.7019,"ardac,eds,ncr",335.0,False,66.4869,-160.3146,66.4668,-161.409
-AK488,Alcan Border,,Alaska,US,62.6856,-141.1253,"ardac,eds,ncr",284.8,False,59.9304,-141.9863,60.2524,-142.5763
-AK8,Aleknagik,Alaqnaqiq,Alaska,US,59.273,-158.618,"ardac,eds,ncr",11.7,True,58.8466,-158.6536,59.0177,-158.7265
-AK489,Aleneva,,Alaska,US,58.0046,-152.8825,"ardac,eds,ncr",0.9,True,58.2108,-152.9673,57.9168,-153.0237
-AK9,Aleut Village,,Alaska,US,58.0171,-152.761,"ardac,eds",0.7,True,58.2233,-152.8451,57.9295,-152.9025
-AK10,Alexander Creek,,Alaska,US,61.4171,-150.593,"ardac,eds,ncr",6.0,True,61.1532,-150.7212,61.1703,-150.7721
-AK11,Allakaket,Aalaa Kkaakk’et,Alaska,US,66.5656,-152.646,"ardac,eds,ncr",337.4,False,66.5008,-160.2625,66.3191,-161.3129
-AK12,Ambler,Ivisaappaat,Alaska,US,67.0861,-157.851,"ardac,eds,ncr",116.2,False,66.7418,-160.3142,66.8627,-161.7188
-AK13,Anaktuvuk Pass,Anaqtuuvak / Naqsraq,Alaska,US,68.1433,-151.736,"ardac,eds,ncr",246.6,False,70.5907,-151.6351,70.2748,-147.9584
-AK14,Anchor Point,,Alaska,US,59.7766,-151.831,"ardac,eds,ncr",3.1,True,59.826,-151.9237,59.852,-151.9726
-AK15,Anchorage,Dgheyaytnu,Alaska,US,61.1817,-149.993,"ardac,eds,ncr",2.1,True,61.2324,-150.0869,61.0974,-150.156
-AK16,Anderson,,Alaska,US,64.3441,-149.187,"ardac,eds,ncr",316.6,False,61.2545,-149.756,61.1887,-149.8175
-AK18,Angoon,Aangóon,Alaska,US,57.5033,-134.584,"ardac,eds,ncr",1.3,True,57.5631,-134.6441,57.5945,-134.6758
-AK19,Aniak,Anyaraq,Alaska,US,61.5783,-159.522,"ardac,eds,ncr",160.0,False,60.3785,-162.313,60.5235,-162.4883
-AK20,Annette,,Alaska,US,55.063,-131.541,"ardac,eds",0.3,True,55.1243,-131.5924,55.1566,-131.6195
-AK21,Anvik,Gitr’ingith Chagg,Alaska,US,62.6561,-160.207,"ardac,eds,ncr",107.0,False,63.6069,-161.2312,63.4947,-161.2817
-AK22,Arctic Village,Vashrąįį K'ǫǫ,Alaska,US,68.1269,-145.538,"ardac,eds,ncr",205.4,False,70.0812,-144.9646,70.1664,-145.0053
-AK23,Atka,Atx̂ax̂,Alaska,US,52.191,-174.189,"ardac,eds,ncr",0.6,True,52.2226,-174.2868,52.2392,-174.3384
-AK24,Atmautluak,Atmaulluaq,Alaska,US,60.8641,-162.2723,"ardac,eds,ncr",15.6,True,60.4375,-162.2618,60.4456,-162.3157
-AK25,Atqasuk,,Alaska,US,70.4694,-157.396,"ardac,eds,ncr",46.9,True,70.6764,-157.5689,71.027,-158.1887
-AK26,Attu,,Alaska,US,52.9365,173.24,"ardac,eds,ncr",1.1,True,52.9035,174.6505,52.9664,173.0757
-AK27,Auke Bay,,Alaska,US,58.383,-134.657,"ardac,eds,ncr",0.4,True,58.4427,-134.7187,58.3187,-134.8399
-AK28,Ayakulik,,Alaska,US,57.2113,-154.546,"ardac,eds,ncr",2.1,True,57.2589,-154.6357,57.1216,-154.6799
-AK558,Back Island,,Alaska,US,55.5483,-131.7561,eds,4.0,True,55.6095,-131.8085,55.6417,-131.8361
-AK490,Badger,,Alaska,US,64.8058,-147.4039,"ardac,eds,ncr",380.4,False,61.154,-149.9058,60.9507,-147.0027
-AK29,Baranof Warm Springs,,Alaska,US,57.0895,-134.8337,"ardac,eds,ncr",2.8,True,57.1041,-134.6145,57.1342,-134.6376
-AK30,Bartlett Cove,,Alaska,US,58.45,-135.916,"ardac,eds",1.5,True,58.4665,-135.6887,58.5401,-136.0138
-AK491,Bear Creek,,Alaska,US,60.1839,-149.3886,"ardac,eds,ncr",6.8,True,59.9211,-149.5216,59.9387,-149.57
-AK31,Beaver,Ts'aahudaaneekk'onh Denh,Alaska,US,66.3594,-147.396,"ardac,eds,ncr",411.3,False,70.1737,-145.5249,70.1894,-146.5127
-AK444,Beecher Pass State Marine Park,,Alaska,US,56.6003,-133.0267,"ardac,eds",1.2,True,56.8107,-132.9933,56.3838,-133.2939
-AK32,Belkofski,Taxtamax̂,Alaska,US,55.0905,-162.034,"ardac,eds,ncr",0.8,True,55.1324,-162.1275,55.1544,-162.1768
-AK33,Bell Island Hot Springs,,Alaska,US,55.933,-131.566,"ardac,eds,ncr",1.6,True,55.8453,-131.7116,55.8731,-131.742
-AK492,Beluga,,Alaska,US,61.1849,-151.035,"ardac,eds,ncr",0.4,True,61.0706,-150.8179,61.0921,-150.8586
-AK35,Bessie No. 5 Dredge,,Alaska,US,64.5502,-165.151,"ardac,eds,ncr",10.1,True,64.4071,-165.5782,64.2902,-165.2208
-AK36,Bethel,Mamterilleq,Alaska,US,60.7922,-161.756,"ardac,eds,ncr",12.0,True,60.3274,-162.3872,60.4949,-162.5016
-AK37,Bettles,Kk’odlel T’odegheelenh Denh,Alaska,US,66.9185,-151.5162,"ardac,eds,ncr",381.7,False,66.7038,-160.3996,70.2002,-148.0775
-AK445,Bettles Bay State Marine Park,,Alaska,US,60.9597,-148.3184,"ardac,eds,ncr",0.4,True,60.8412,-148.1127,60.8489,-147.8182
-AK465,Big Bear Baby Bear State Marine Park,,Alaska,US,57.432,-135.563,"ardac,eds",0.9,True,57.4913,-135.6246,57.2102,-135.8209
-AK38,Big Delta,,Alaska,US,64.1525,-145.842,"ardac,eds,ncr",335.2,False,60.9228,-146.766,61.0148,-146.7977
-AK39,Big Lake,,Alaska,US,61.5378,-149.824,"ardac,eds,ncr",10.1,True,61.2746,-149.9591,61.1304,-150.03
-AK40,Bill Moore's Slough,,Alaska,US,62.9504,-163.7777,"ardac,eds,ncr",4.3,True,63.0359,-163.2088,63.1961,-163.6588
-AK41,Biorka,,Alaska,US,53.831,-166.208,"ardac,eds",0.9,True,53.8695,-166.3028,53.8898,-166.3528
-AK42,Birch Creek,Łiteet'aii,Alaska,US,66.2687,-145.824,"ardac,eds,ncr",411.7,False,69.5492,-140.7668,69.5112,-140.7405
-AK559,Birch Lake Recreation Annex,,Alaska,US,64.3175,-146.647,eds,341.2,False,60.9263,-147.5261,60.9974,-147.2266
-AK43,Birchwood,,Alaska,US,61.4081,-149.481,"ardac,eds,ncr",9.3,True,61.1452,-149.6184,61.1628,-149.6687
-AK44,Bird Point,,Alaska,US,60.9311,-149.358,"ardac,eds,ncr",0.3,True,60.9926,-149.7756,61.0196,-149.8341
-AK560,Blair Lake Air Force Rangeex,,Alaska,US,64.3876,-147.6672,eds,332.1,False,61.1942,-149.7213,61.0174,-147.1375
-AK45,Bodenburg Butte,,Alaska,US,61.5495,-149.047,"ardac,eds,ncr",11.9,True,61.1513,-149.8664,61.1647,-149.9367
-AK466,Bogoslof Island Refuge,,Alaska,US,53.9379,-168.0438,"ardac,eds",40.9,True,53.9749,-168.1406,53.9943,-168.1916
-AK46,Boswell Bay,,Alaska,US,60.4001,-146.133,"ardac,eds",1.9,True,60.4533,-146.2185,60.4813,-146.2636
-AK47,Brevig Mission,Sitaisaq,Alaska,US,65.3347,-166.489,"ardac,eds,ncr",0.7,True,65.3729,-166.6236,65.3929,-166.6945
-AK48,Buckland,Kaŋiq,Alaska,US,65.9797,-161.123,"ardac,eds,ncr",15.3,True,66.0047,-161.6372,66.0264,-161.7172
-AK493,Buffalo Soapstone,,Alaska,US,61.6684,-149.1217,"ardac,eds,ncr",19.9,True,61.2598,-149.6148,61.1114,-149.6975
-AK494,Butte,,Alaska,US,61.5417,-149.0363,"ardac,eds,ncr",12.1,True,61.1436,-149.8556,61.157,-149.9259
-AK49,Candle,,Alaska,US,65.9133,-161.924,"ardac,eds,ncr",7.5,True,65.974,-161.6713,65.9968,-161.7287
-AK467,Canoe Passage State Marine Park,,Alaska,US,60.5181,-146.1118,"ardac,eds,ncr",0.5,True,60.5713,-146.1976,60.5993,-146.2428
-AK50,Cantwell,Yidateni Na’,Alaska,US,63.3917,-148.951,"ardac,eds,ncr",211.4,False,61.2565,-149.7211,61.0572,-149.81
-AK51,Cape Lisburne,,Alaska,US,68.8678,-166.193,"ardac,eds,ncr",1.9,True,68.9066,-166.3466,68.927,-166.4277
-AK52,Cape Pole,,Alaska,US,55.965,-133.798,"ardac,eds,ncr",2.4,True,56.0252,-133.8543,56.0569,-133.884
-AK53,Cape Yakataga,,Alaska,US,60.0652,-142.428,"ardac,eds,ncr",3.5,True,59.8107,-142.6149,60.1498,-142.5479
-AK468,Captain Cook State Recreation Area,,Alaska,US,60.7858,-151.0463,"ardac,eds,ncr",1.2,True,60.8357,-151.1407,60.862,-151.1905
-AK54,Central,,Alaska,US,65.5724,-144.803,"ardac,eds,ncr",474.1,False,69.5393,-140.6814,69.5226,-140.6834
-AK55,Chakaktolik,,Alaska,US,61.7711,-163.625,"ardac,eds,ncr",59.3,True,60.8777,-163.4556,62.2369,-164.9928
-AK56,Chakwaktolik,,Alaska,US,61.2291,-163.754,"ardac,eds,ncr",25.8,True,60.9583,-163.7713,60.7354,-164.7674
-AK57,Chalkyitsik,Jałgiitsik,Alaska,US,66.6544,-143.722,"ardac,eds,ncr",344.8,False,69.5747,-140.7728,69.5275,-140.8184
-AK58,Chaniliut,,Alaska,US,63.0332,-163.417,"ardac,eds,ncr",2.6,True,63.096,-163.1916,63.0952,-163.6006
-AK495,Chase,,Alaska,US,62.4251,-150.1245,"ardac,eds,ncr",107.7,False,61.2102,-150.0439,61.2087,-150.4258
-AK60,Chatham,,Alaska,US,57.514,-134.924,"ardac,eds,ncr",4.0,True,57.5288,-134.7022,57.5589,-134.7256
-AK61,Chefornak,Cevvʼarneq / Caputnguaq,Alaska,US,60.1607,-164.271,"ardac,eds,ncr",10.6,True,60.0452,-164.3324,60.2216,-164.4401
-AK62,Chena Hot Springs,,Alaska,US,65.053,-146.056,"ardac,eds,ncr",427.7,False,60.8811,-147.1901,61.1064,-147.1946
-AK496,Chena Ridge,,Alaska,US,64.8228,-147.9764,"ardac,eds,ncr",376.2,False,61.1433,-149.7589,61.06,-149.8515
-AK561,Chena River Research,,Alaska,US,64.8283,-146.9699,eds,388.8,False,61.1936,-149.8511,60.9896,-146.9544
-AK63,Chenega Bay,Caniqaq,Alaska,US,60.0746,-148.003,"ardac,eds,ncr",0.9,True,60.1266,-148.0906,59.9926,-148.1656
-AK64,Chevak,Cevʼaq,Alaska,US,61.5278,-165.586,"ardac,eds,ncr",10.2,True,61.7215,-165.7617,61.587,-165.765
-AK65,Chickaloon,Nay’dini’aa Na’,Alaska,US,61.7967,-148.463,"ardac,eds,ncr",53.1,True,61.2557,-149.6476,61.1033,-149.75
-AK66,Chicken,,Alaska,US,64.0733,-141.936,"ardac,eds,ncr",397.3,False,60.9319,-146.5163,61.0245,-146.644
-AK67,Chignik,Cirniq,Alaska,US,56.2953,-158.402,"ardac,eds",0.8,True,56.3503,-158.21,56.2015,-158.523
-AK68,Chignik Lagoon,Nanwarnaq,Alaska,US,56.3104,-158.5361,"ardac,eds,ncr",0.9,True,56.3657,-158.3442,56.3895,-158.3844
-AK69,Chignik Lake,Igyaraq,Alaska,US,56.2552,-158.7696,"ardac,eds,ncr",7.8,True,56.3214,-158.2943,56.1726,-158.5984
-AK446,Chilkat River Critical Habitat Area,,Alaska,US,59.373,-135.8596,"ardac,eds,ncr",18.3,True,58.9351,-135.8772,58.8176,-135.0012
-AK70,Chiniak,,Alaska,US,57.617,-152.2166,"ardac,eds,ncr",3.0,True,57.6618,-152.0087,57.6921,-152.3503
-AK71,Chisana,,Alaska,US,62.0671,-142.049,"ardac,eds,ncr",203.9,False,59.8719,-141.9858,60.2379,-142.873
-AK72,Chistochina,Tsiis Tl’edze’ Caegge,Alaska,US,62.565,-144.665,"ardac,eds,ncr",181.7,False,60.9812,-146.544,60.9605,-146.64
-AK73,Chitina,Tsedi Na',Alaska,US,61.5158,-144.437,"ardac,eds,ncr",89.9,True,60.3241,-144.8862,60.6997,-145.839
-AK74,Christian,,Alaska,US,67.3673,-145.2,"ardac,eds,ncr",288.3,False,69.79,-141.6969,69.7566,-142.176
-AK75,Chuathbaluk,Curarpalek,Alaska,US,61.5726,-159.235,"ardac,eds,ncr",172.1,False,60.3592,-162.3539,60.5036,-162.5386
-AK447,Chugach National Forest Municipal Watershed,,Alaska,US,60.5195,-145.7223,"ardac,eds,ncr",3.7,True,60.573,-145.8074,60.6011,-145.8523
-AK76,Chuloonawick,,Alaska,US,62.8961,-163.894,"ardac,eds,ncr",11.0,True,63.0678,-164.4116,63.0926,-164.4874
-AK77,Circle,Danzhit Khànląįį,Alaska,US,65.8255,-144.061,"ardac,eds,ncr",437.7,False,69.5278,-140.8282,69.5037,-140.8608
-AK78,Circle Hot Springs,,Alaska,US,65.4833,-144.634,"ardac,eds,ncr",481.4,False,69.4448,-140.5002,69.4608,-140.9487
-AK79,Clam Gulch,,Alaska,US,60.2311,-151.394,"ardac,eds,ncr",2.4,True,60.2808,-151.4873,60.3069,-151.5365
-AK80,Clark's Point,Saguyaq,Alaska,US,58.8441,-158.551,"ardac,eds,ncr",0.4,True,58.8886,-158.6504,58.912,-158.7028
-AK81,Clear,,Alaska,US,64.3332,-149.167,"ardac,eds,ncr",315.4,False,61.2437,-149.7378,61.1779,-149.7993
-AK562,Clear Air Force Station,,Alaska,US,64.2882,-149.1907,eds,310.4,False,61.1987,-149.7584,61.1329,-149.8198
-AK82,Clover Pass,,Alaska,US,55.472,-131.791,"ardac,eds,ncr",1.3,True,55.5332,-131.8433,55.5654,-131.8709
-AK83,Coffman Cove,,Alaska,US,56.0119,-132.8296,"ardac,eds,ncr",1.5,True,56.023,-132.6161,55.8457,-133.3689
-AK84,Cohoe,,Alaska,US,60.3671,-151.3,"ardac,eds,ncr",2.0,True,60.4169,-151.3936,60.443,-151.4429
-AK85,Cold Bay,,Alaska,US,55.1858,-162.721,"ardac,eds,ncr",2.0,True,55.2272,-162.8155,55.2489,-162.8653
-AK497,Coldfoot,,Alaska,US,67.251,-150.1744,"ardac,eds,ncr",342.2,False,70.4382,-147.9317,70.2293,-148.0057
-AK86,College,,Alaska,US,64.8582,-147.808,"ardac,eds,ncr",381.6,False,61.1805,-149.612,61.0973,-149.705
-AK87,Cooper Landing,,Alaska,US,60.4906,-149.833,"ardac,eds,ncr",47.2,True,61.0123,-149.8646,60.0731,-149.7064
-AK88,Copper Center,Tl’aticae’e,Alaska,US,61.955,-145.305,"ardac,eds,ncr",106.0,False,60.9721,-146.6583,60.9692,-146.7405
-AK89,Cordova,,Alaska,US,60.5428,-145.757,"ardac,eds,ncr",0.8,True,60.5962,-145.8422,60.6243,-145.8872
-AK90,Council,,Alaska,US,64.895,-163.676,"ardac,eds,ncr",34.4,True,64.4675,-163.6431,64.6813,-163.0091
-AK498,Covenant Life,,Alaska,US,59.4003,-136.0027,"ardac,eds,ncr",27.0,True,59.1792,-135.2583,58.8458,-135.1412
-AK91,Craig,Sháan Séet,Alaska,US,55.4764,-133.148,"ardac,eds",1.6,True,55.537,-133.2025,55.5688,-133.2313
-AK92,Crooked Creek,Qipcarpak,Alaska,US,61.87,-158.111,"ardac,eds,ncr",239.9,False,63.6874,-161.336,63.4563,-161.0533
-AK499,Crown Point,,Alaska,US,60.4289,-149.3707,"ardac,eds,ncr",34.2,True,60.0092,-149.5263,60.0222,-149.5754
-AK448,Dall Bay State Marine Park,,Alaska,US,55.1559,-131.749,"ardac,eds,ncr",1.0,True,55.2171,-131.8008,55.2494,-131.8282
-AK93,Deadhorse,,Alaska,US,70.2097,-148.418,"ardac,eds,ncr",11.3,True,70.4088,-148.0481,70.2763,-148.1422
-AK449,Decision Point State Marine Park,,Alaska,US,60.8016,-148.464,"ardac,eds,ncr",0.8,True,60.84,-148.2307,60.8526,-147.9354
-AK94,Deering,Ipnatchiaq,Alaska,US,66.0755,-162.717,"ardac,eds,ncr",1.1,True,66.1169,-162.8497,66.1386,-162.9197
-AK95,Delta Junction,,Alaska,US,64.0377,-145.732,"ardac,eds,ncr",324.7,False,60.9652,-146.6278,61.0619,-146.6581
-AK500,Deltana,,Alaska,US,64.0404,-145.5182,"ardac,eds,ncr",327.2,False,60.9692,-146.4346,61.0838,-146.799
-AK501,Denali Park,,Alaska,US,63.6388,-148.7895,"ardac,eds,ncr",239.7,False,61.1903,-149.6203,61.1434,-149.6891
-AK502,Diamond Ridge,,Alaska,US,59.6814,-151.6226,"ardac,eds,ncr",7.0,True,59.731,-151.7147,59.757,-151.7633
-AK96,Dillingham,Curyung,Alaska,US,59.0397,-158.457,"ardac,eds,ncr",1.4,True,58.7703,-158.515,58.9461,-158.5876
-AK97,Diomede,Iŋaliq,Alaska,US,65.7648,-168.911,"ardac,eds,ncr",0.4,True,65.8009,-169.051,65.8199,-169.1248
-AK98,Dot Lake,Kelt’aaddh Menn’,Alaska,US,63.663,-144.049,"ardac,eds,ncr",305.7,False,60.854,-146.6601,60.9578,-146.7371
-AK503,Dot Lake Village,,Alaska,US,63.6568,-144.0484,"ardac,eds,ncr",305.1,False,60.8479,-146.6591,60.9516,-146.7361
-AK99,Douglas,,Alaska,US,58.2762,-134.392,"ardac,eds,ncr",0.8,True,58.3813,-134.7418,58.1652,-134.2793
-AK469,Driftwood Bay State Marine Park,,Alaska,US,59.9128,-149.2571,"ardac,eds,ncr",1.4,True,59.964,-149.3463,59.9909,-149.3933
-AK100,Dry Creek,,Alaska,US,63.7,-144.567,"ardac,eds,ncr",300.5,False,60.8481,-146.4893,60.9686,-146.8802
-AK101,Dutch Harbor,,Alaska,US,53.891,-166.535,"ardac,eds",3.2,True,53.9589,-166.3675,53.9494,-166.6805
-AK573,Dyke Range,,Alaska,US,64.7118,-147.3332,eds,371.2,False,61.2184,-149.8153,61.0346,-147.2404
-AK102,Eagle,Tthee T'äwdlenn,Alaska,US,64.788,-141.2,"ardac,eds,ncr",482.9,False,69.0761,-137.6828,68.7892,-136.5351
-AK103,Eagle River,,Alaska,US,61.3221,-149.567,"ardac,eds,ncr",9.3,True,61.2161,-149.6821,61.0767,-149.7535
-AK104,Eagle Village,,Alaska,US,64.7805,-141.114,"ardac,eds,ncr",484.5,False,69.0666,-137.5828,68.8215,-136.8652
-AK441,Eareckson Air Station,,Alaska,US,52.7122,174.1136,"ardac,eds",1.2,True,52.7393,175.1676,52.7434,173.9509
-AK105,Edna Bay,,Alaska,US,55.9489,-133.662,"ardac,eds,ncr",1.3,True,56.0092,-133.7181,56.0409,-133.7476
-AK106,Eek,Ekvicuaq,Alaska,US,60.2189,-162.024,"ardac,eds,ncr",7.5,True,60.2411,-162.4485,60.2623,-162.515
-AK107,Egavik,,Alaska,US,64.0332,-160.917,"ardac,eds,ncr",1.8,True,63.9192,-160.9998,64.0983,-161.1015
-AK108,Egegik,Igyagiiq,Alaska,US,58.2155,-157.376,"ardac,eds,ncr",1.1,True,58.2523,-157.7722,58.2848,-157.5227
-AK109,Egorkovskoi,,Alaska,US,53.564,-168.0,"ardac,eds,ncr",0.9,True,53.601,-168.0959,53.6205,-168.1464
-AK442,Eielson Air Force Base,,Alaska,US,64.6656,-147.1014,"ardac,eds,ncr",369.6,False,61.1861,-149.9329,60.9884,-147.0353
-AK563,Eielson Alpa Research (1-1),,Alaska,US,65.2349,-147.763,eds,423.2,False,61.2425,-149.6374,61.15,-149.7318
-AK564,Eielson Alpa Research (2-2),,Alaska,US,65.1945,-147.3161,eds,423.4,False,61.2286,-149.9,61.0159,-146.9922
-AK565,Eielson Alpa Research (2-3),,Alaska,US,65.0653,-147.5641,eds,406.7,False,61.2433,-149.7591,61.0488,-147.175
-AK566,Eielson Alpa Research (2-4),,Alaska,US,65.0994,-148.0044,eds,406.4,False,61.2617,-149.82,61.1737,-149.9133
-AK568,Eielson Alpa Research (3-23),,Alaska,US,65.027,-147.1964,eds,406.8,False,61.2207,-149.7608,61.0267,-147.1881
-AK567,Eielson Alpa Research (3-3),,Alaska,US,64.9103,-147.4459,eds,391.2,False,61.2474,-149.6229,61.055,-147.0384
-AK569,Eielson Alpa Research (3-34),,Alaska,US,64.945,-147.861,eds,390.6,False,61.1095,-149.6851,61.1831,-149.7569
-AK110,Eklutna,Idlughet,Alaska,US,61.458,-149.362,"ardac,eds,ncr",3.3,True,61.2055,-149.8283,61.0617,-149.9092
-AK111,Ekuk,,Alaska,US,58.804,-158.541,"ardac,eds,ncr",0.6,True,58.8485,-158.6403,58.8719,-158.6926
-AK112,Ekwok,Iquaq,Alaska,US,59.3497,-157.475,"ardac,eds,ncr",43.7,True,58.9316,-157.2189,58.7718,-157.5583
-AK113,Elephant Point,,Alaska,US,66.2673,-161.333,"ardac,eds",1.5,True,66.3098,-161.4645,66.3322,-161.5339
-AK114,Elfin Cove,,Alaska,US,58.1944,-136.343,"ardac,eds",0.4,True,58.2532,-136.4073,58.2842,-136.4412
-AK115,Elim,Neviarcaurluq,Alaska,US,64.6175,-162.26,"ardac,eds,ncr",0.5,True,64.6786,-162.0195,64.7012,-162.0745
-AK116,Ellamar,,Alaska,US,60.8961,-146.708,"ardac,eds,ncr",0.5,True,60.9489,-146.7958,60.9767,-146.842
-AK570,Elmendorf Air Force Base,,Alaska,US,61.2698,-149.8112,eds,3.4,True,61.1636,-149.9253,61.1857,-149.9751
-AK583,Elmendorf Air Force Base Site 2,,Alaska,US,61.24,-149.765,eds,6.7,True,61.2908,-149.8587,61.1559,-149.9289
-AK117,Emmonak,Imangaq,Alaska,US,62.7778,-164.523,"ardac,eds,ncr",3.2,True,62.8175,-164.6437,62.8119,-165.0588
-AK470,Entry Cove State Marine Park,,Alaska,US,60.8048,-148.3636,"ardac,eds,ncr",1.1,True,60.8431,-148.1302,60.8554,-147.8348
-AK450,Ernie Haugen Public Use Area,,Alaska,US,56.5421,-132.6616,"ardac,eds,ncr",0.9,True,56.4033,-132.536,56.3767,-133.2095
-AK119,Eska,,Alaska,US,61.7381,-148.906,"ardac,eds,ncr",32.2,True,61.1838,-149.7531,61.1926,-149.8241
-AK120,Ester,,Alaska,US,64.8472,-148.014,"ardac,eds,ncr",378.6,False,61.1672,-149.7935,61.0838,-149.8861
-AK504,Eureka Roadhouse,,Alaska,US,61.9375,-147.1688,"ardac,eds,ncr",79.3,True,60.8945,-147.4909,61.0347,-147.1769
-AK505,Evansville,,Alaska,US,66.9238,-151.5061,"ardac,eds,ncr",381.0,False,66.7096,-160.3915,70.2054,-148.0652
-AK122,Excursion Inlet,,Alaska,US,58.417,-135.441,"ardac,eds,ncr",0.6,True,58.3249,-135.5869,58.4626,-135.2381
-AK123,Eyak,Igya’aq,Alaska,US,60.5652,-145.7,"ardac,eds,ncr",4.3,True,60.6187,-145.7852,60.6468,-145.8302
-AK124,Fairbanks,,Alaska,US,64.8378,-147.716,"ardac,eds,ncr",380.3,False,61.1715,-149.8568,60.9834,-147.2769
-AK574,Fairbanks Eielson Pipeline,,Alaska,US,64.6656,-147.1014,eds,369.6,False,61.1861,-149.9329,60.9884,-147.0353
-AK575,Fairbanks Permafrost Station,,Alaska,US,64.8743,-147.68,eds,384.7,False,61.2083,-149.8275,61.0197,-147.2447
-AK125,False Pass,Isanax̂,Alaska,US,54.8548,-163.407,"ardac,eds,ncr",0.8,True,54.9178,-163.2299,54.9171,-163.5512
-AK506,Farm Loop,,Alaska,US,61.6354,-149.1482,"ardac,eds,ncr",16.0,True,61.2267,-149.6405,61.0783,-149.723
-AK507,Farmers Loop,,Alaska,US,64.8988,-147.6978,"ardac,eds,ncr",387.2,False,61.2325,-149.8448,61.0442,-147.2601
-AK126,Ferry,,Alaska,US,64.0172,-149.117,"ardac,eds,ncr",280.3,False,61.2424,-149.6443,61.1859,-149.7048
-AK127,Fish Village,,Alaska,US,62.5212,-163.847,"ardac,eds,ncr",38.6,True,62.6682,-164.6981,62.5322,-164.726
-AK508,Fishhook,,Alaska,US,61.6718,-149.2239,"ardac,eds,ncr",18.7,True,61.2628,-149.7158,61.1144,-149.798
-AK128,Flat,,Alaska,US,62.4536,-158.007,"ardac,eds,ncr",198.5,False,63.647,-161.1352,63.38,-161.2111
-AK129,Fort Glenn,,Alaska,US,53.3956,-167.881,"ardac,eds,ncr",1.6,True,53.4327,-167.9764,53.4861,-167.7604
-AK440,Fort Greely,,Alaska,US,63.9731,-145.7181,"ardac,eds,ncr",318.1,False,60.9008,-146.6134,60.9975,-146.6436
-AK576,Fort Richardson,,Alaska,US,61.2656,-149.641,eds,10.4,True,61.1596,-149.7556,61.1817,-149.8054
-AK438,Fort Wainwright,,Alaska,US,64.8278,-147.6429,"ardac,eds,ncr",380.0,False,61.1625,-149.7915,60.9733,-147.2127
-AK130,Fort Yukon,Gwichyaa Zheh,Alaska,US,66.5647,-145.274,"ardac,eds,ncr",377.4,False,69.5496,-140.6976,69.7881,-142.4092
-AK509,Four Mile Road,,Alaska,US,64.6018,-149.1306,"ardac,eds,ncr",345.4,False,61.1979,-149.7522,61.1229,-149.8148
-AK131,Fox,,Alaska,US,64.958,-147.618,"ardac,eds,ncr",394.4,False,61.1356,-149.7991,61.103,-147.1891
-AK510,Fox River,,Alaska,US,59.8164,-151.0895,"ardac,eds,ncr",2.5,True,59.7092,-151.1945,60.0608,-151.542
-AK471,Fox River Flats Critical Habitat Area,,Alaska,US,59.7935,-150.925,"ardac,eds,ncr",4.1,True,59.6931,-151.3437,59.5388,-150.772
-AK511,Fritz Creek,,Alaska,US,59.6915,-151.3746,"ardac,eds,ncr",1.9,True,59.7412,-151.4664,59.6055,-151.5268
-AK512,Funny River,,Alaska,US,60.5021,-150.7939,"ardac,eds,ncr",26.7,True,60.7093,-150.8719,60.5856,-151.2675
-AK451,Funter Bay State Marine Park,,Alaska,US,58.2505,-134.9227,"ardac,eds,ncr",1.0,True,58.159,-135.0693,58.1858,-135.1044
-AK132,Gakona,Ggax Kuna’,Alaska,US,62.3019,-145.302,"ardac,eds,ncr",141.0,False,60.8324,-146.4548,60.9941,-146.8265
-AK133,Galena,Notaalee Denh,Alaska,US,64.7333,-156.927,"ardac,eds,ncr",183.9,False,64.6468,-161.0935,64.681,-160.9
-AK134,Gambell,Sivuqaq,Alaska,US,63.7797,-171.741,"ardac,eds",0.5,True,63.8132,-171.8749,63.8309,-171.9454
-AK513,Game Creek,,Alaska,US,58.0752,-135.484,"ardac,eds,ncr",2.6,True,58.091,-135.2589,58.1209,-135.2832
-AK514,Gateway,,Alaska,US,61.5638,-149.2645,"ardac,eds,ncr",6.4,True,61.1547,-149.7542,61.1679,-149.8148
-AK135,Georgetown,,Alaska,US,61.9085,-157.787,"ardac,eds,ncr",248.9,False,63.5597,-161.312,63.4847,-161.0784
-AK136,Girdwood,,Alaska,US,60.9421,-149.167,"ardac,eds,ncr",0.6,True,61.0142,-149.9102,61.0415,-149.9784
-AK515,Glacier View,,Alaska,US,61.7977,-147.6026,"ardac,eds,ncr",58.3,True,60.8955,-147.5556,61.04,-147.2313
-AK137,Glennallen,,Alaska,US,62.1092,-145.546,"ardac,eds,ncr",116.3,False,60.9505,-146.6092,60.9425,-146.6829
-AK516,Goldstream,,Alaska,US,64.9131,-147.9051,"ardac,eds,ncr",386.7,False,61.2341,-149.701,61.1508,-149.7939
-AK452,Goldstream Public Use Area,,Alaska,US,64.93,-147.7653,"ardac,eds,ncr",389.9,False,61.2627,-149.9066,61.1693,-149.6717
-AK138,Golovin,Cingik / Siŋik,Alaska,US,64.5433,-163.029,"ardac,eds,ncr",1.8,True,64.4281,-163.1048,64.4451,-163.1694
-AK139,Goodnews Bay,Mamterat,Alaska,US,59.1186,-161.589,"ardac,eds,ncr",0.7,True,59.1607,-161.6931,59.1828,-161.748
-AK140,Grayling,Sixno' Xidakagg,Alaska,US,62.9062,-160.077,"ardac,eds,ncr",87.1,True,63.7014,-161.0677,63.4235,-161.079
-AK141,Gulkana,C'uul C'ena',Alaska,US,62.2714,-145.382,"ardac,eds,ncr",136.3,False,60.9576,-146.4935,60.9627,-146.9018
-AK142,Gustavus,,Alaska,US,58.4125,-135.738,"ardac,eds,ncr",3.6,True,58.4716,-135.8016,58.5027,-135.8352
-AK143,Haines,Deishú,Alaska,US,59.2358,-135.445,"ardac,eds,ncr",1.2,True,59.1004,-135.2982,58.9251,-135.1101
-AK517,Halibut Cove,,Alaska,US,59.5906,-151.2335,"ardac,eds,ncr",1.2,True,59.6404,-151.3248,59.5108,-151.7064
-AK518,Happy Valley,,Alaska,US,59.9328,-151.729,"ardac,eds,ncr",6.2,True,59.9823,-151.822,60.0083,-151.871
-AK519,Harding-Birch Lakes,,Alaska,US,64.3481,-146.855,"ardac,eds,ncr",340.4,False,61.188,-149.6429,61.0108,-147.0791
-AK145,Haycock,,Alaska,US,65.2172,-161.167,"ardac,eds,ncr",30.7,True,64.946,-161.2117,64.9592,-161.2751
-AK472,Hazen Bay Refuge,,Alaska,US,60.8465,-165.0807,"ardac,eds",7.1,True,60.8857,-165.1948,60.9063,-165.255
-AK146,Healy,,Alaska,US,63.8578,-148.966,"ardac,eds,ncr",263.1,False,61.251,-149.8097,61.1994,-149.8789
-AK147,Healy Lake,Mendees Cheeg,Alaska,US,63.9441,-144.755,"ardac,eds,ncr",324.0,False,60.9154,-146.3875,61.0311,-146.7702
-AK148,Highland Park,,Alaska,US,64.7582,-147.371,"ardac,eds,ncr",375.7,False,61.264,-149.8525,61.0641,-146.9388
-AK520,Hobart Bay,,Alaska,US,57.401,-133.4127,"ardac,eds,ncr",0.6,True,57.4613,-133.4706,57.493,-133.5012
-AK149,Holikachuk,,Alaska,US,62.9112,-159.517,"ardac,eds,ncr",106.9,False,63.6778,-161.2015,63.3989,-161.2322
-AK150,Hollis,,Alaska,US,55.4879,-132.663,"ardac,eds,ncr",1.4,True,55.4987,-132.4524,55.477,-133.1073
-AK151,Holy Cross,Ingirraller / Deloy Chet,Alaska,US,62.1994,-159.771,"ardac,eds,ncr",162.7,False,63.6061,-161.2275,63.5073,-161.2918
-AK152,Homer,,Alaska,US,59.6425,-151.548,"ardac,eds,ncr",4.3,True,59.6921,-151.6399,59.5563,-151.6995
-AK153,Hoonah,Xunaa / Gaaw Yat’aḵ Aan,Alaska,US,58.11,-135.444,"ardac,eds,ncr",0.3,True,58.1257,-135.2187,58.2005,-135.5396
-AK154,Hooper Bay,Naparyaarmiut,Alaska,US,61.5311,-166.097,"ardac,eds,ncr",0.6,True,61.5695,-166.2148,61.5896,-166.277
-AK155,Hope,,Alaska,US,60.9203,-149.64,"ardac,eds,ncr",2.1,True,61.1282,-149.7115,60.998,-149.7814
-AK473,Horseshoe Bay State Marine Park,,Alaska,US,60.0322,-147.9418,"ardac,eds",0.5,True,60.0842,-148.0292,60.1116,-148.0753
-AK156,Houston,,Alaska,US,61.6302,-149.818,"ardac,eds,ncr",18.2,True,61.21,-149.9736,61.2228,-150.0247
-AK157,Hughes,Hut’odlee Kkaakk’et,Alaska,US,66.0488,-154.255,"ardac,eds,ncr",272.1,False,66.4521,-160.2855,66.4481,-161.3363
-AK158,Huslia,Ts’aateyhdenaadekk’onh Denh,Alaska,US,65.6986,-156.4,"ardac,eds,ncr",191.1,False,66.5839,-160.5616,64.9779,-161.1277
-AK159,Hydaburg,Higdáa G̱ándlaay,Alaska,US,55.208,-132.827,"ardac,eds,ncr",1.8,True,55.1187,-132.9669,55.1462,-132.9976
-AK160,Hyder,,Alaska,US,55.9169,-130.025,"ardac,eds,ncr",1.0,True,55.4418,-130.7274,55.6226,-131.5838
-AK161,Iditarod,,Alaska,US,62.5448,-158.094,"ardac,eds,ncr",188.6,False,63.753,-160.8804,63.4692,-161.3106
-AK162,Igiugig,Igyaraq,Alaska,US,59.3278,-155.895,"ardac,eds,ncr",54.1,True,59.3786,-155.6818,59.2526,-154.123
-AK163,Ikatan,,Alaska,US,54.75,-163.308,"ardac,eds,ncr",1.3,True,54.8129,-163.1313,54.6513,-163.4119
-AK164,Iliamna,Illiamna,Alaska,US,59.7536,-154.817,"ardac,eds,ncr",56.3,True,59.6436,-154.9097,59.6669,-153.6704
-AK165,Inakpuk,,Alaska,US,59.5331,-157.15,"ardac,eds,ncr",47.1,True,58.95,-157.1896,58.7854,-157.5378
-AK166,Indian,,Alaska,US,60.9881,-149.513,"ardac,eds,ncr",0.2,True,61.0491,-149.9317,61.0659,-149.6544
-AK167,Indian River,,Alaska,US,62.6672,-144.433,"ardac,eds,ncr",197.5,False,60.9478,-146.6908,61.0838,-146.7607
-AK168,Ingrihak,,Alaska,US,61.7561,-162.0,"ardac,eds,ncr",114.8,False,60.9142,-163.5304,60.4941,-162.5049
-AK474,Ishtalitna Creek Hot Springs Research Natural Area,,Alaska,US,65.8669,-151.6311,"ardac,eds,ncr",393.2,False,66.4427,-160.3567,66.4392,-161.4888
-AK169,Ivanof Bay,,Alaska,US,55.8996,-159.507,"ardac,eds,ncr",0.8,True,55.6289,-159.5526,55.6561,-159.3127
-AK475,Jack Bay State Marine Park,,Alaska,US,61.032,-146.5743,"ardac,eds,ncr",0.3,True,60.9286,-146.6981,60.9518,-146.7453
-AK453,Joe Mace Island State Marine Park,,Alaska,US,56.3473,-133.635,"ardac,eds",1.3,True,56.4076,-133.6916,56.4393,-133.7215
-AK170,Joe Ward Camp,,Alaska,US,66.8673,-143.699,"ardac,eds,ncr",321.8,False,69.4436,-140.4623,69.5805,-140.857
-AK439,Joint Base Elmendorf-Richardson,,Alaska,US,61.2514,-149.8064,"ardac,eds,ncr",4.4,True,61.1452,-149.9204,61.1673,-149.9703
-AK171,Jonesville,,Alaska,US,61.7311,-148.933,"ardac,eds,ncr",30.8,True,61.1766,-149.7795,61.1854,-149.8504
-AK172,Juneau,Dzánti K'ihéeni,Alaska,US,58.3019,-134.42,"ardac,eds,ncr",2.1,True,58.407,-134.7701,58.238,-134.6029
-AK173,Kachemak,,Alaska,US,59.6488,-151.451,"ardac,eds,ncr",0.9,True,59.6985,-151.5428,59.5628,-151.6028
-AK174,Kake,Ḵéex̱ʼ,Alaska,US,56.9758,-133.947,"ardac,eds,ncr",4.2,True,57.0359,-134.0051,57.0675,-134.0358
-AK176,Kaktovik,Qaaktuġvik,Alaska,US,70.1131,-143.6623,"ardac,eds,ncr",2.5,True,70.1689,-143.778,70.1983,-143.8391
-AK177,Kalifornsky,Unhghenesditnu,Alaska,US,60.4412,-151.198,"ardac,eds,ncr",6.0,True,60.4971,-151.6126,60.5172,-151.341
-AK179,Kaltag,Ggaał Doh,Alaska,US,64.3272,-158.722,"ardac,eds,ncr",106.0,False,63.9739,-160.9413,64.1455,-161.1053
-AK180,Kanakanak,,Alaska,US,59.0031,-158.533,"ardac,eds,ncr",0.7,True,58.8906,-158.6115,59.071,-158.6855
-AK443,Kantishna,,Alaska,US,63.5253,-150.9581,"ardac,eds,ncr",237.4,False,61.1853,-149.9672,61.1594,-150.6607
-AK454,Kanuti Hot Springs Area Of Critical Environmental Concern,,Alaska,US,66.3427,-150.8468,"ardac,eds,ncr",419.7,False,66.4553,-160.4016,70.2922,-148.153
-AK181,Karluk,Kal’ut,Alaska,US,57.5719,-154.455,"ardac,eds,ncr",0.5,True,57.6195,-154.5455,57.6445,-154.5932
-AK182,Kasaan,Gasa'áan,Alaska,US,55.5389,-132.401,"ardac,eds,ncr",0.4,True,55.5998,-132.4544,55.5271,-131.9386
-AK183,Kashega,,Alaska,US,53.467,-167.16,"ardac,eds,ncr",0.7,True,53.5048,-167.2548,53.5246,-167.3048
-AK184,Kashegelok,,Alaska,US,60.8331,-157.833,"ardac,eds,ncr",189.5,False,59.6666,-155.5995,58.9308,-158.7101
-AK185,Kasigluk,Kassigluq,Alaska,US,60.8955,-162.521,"ardac,eds,ncr",26.0,True,60.8723,-163.599,60.4769,-162.5612
-AK186,Kasilof,,Alaska,US,60.3375,-151.274,"ardac,eds,ncr",5.6,True,60.3873,-151.3674,60.4135,-151.4167
-AK187,Kathakne,,Alaska,US,62.9692,-141.832,"ardac,eds,ncr",291.3,False,60.3792,-144.8496,60.183,-143.0249
-AK188,Kenai,Shk'ituk't,Alaska,US,60.5544,-151.258,"ardac,eds,ncr",1.8,True,60.6042,-151.352,60.6304,-151.4016
-AK476,Kenai River Special Management Area,,Alaska,US,60.5069,-150.9635,"ardac,eds,ncr",17.4,True,60.714,-151.0426,60.5832,-151.1062
-AK189,Kenny Lake,,Alaska,US,61.7379,-144.945,"ardac,eds,ncr",98.8,True,60.9327,-146.586,60.9349,-146.6766
-AK190,Kepangalook,,Alaska,US,60.8501,-161.617,"ardac,eds,ncr",21.8,True,60.386,-162.2513,60.3929,-162.3238
-AK191,Ketchikan,Kichx̱áan,Alaska,US,55.3422,-131.646,"ardac,eds,ncr",1.0,True,55.3511,-131.436,55.2821,-131.8191
-AK192,Kiana,Katyaaq,Alaska,US,66.975,-160.423,"ardac,eds,ncr",35.8,True,66.703,-160.4783,66.8258,-161.8116
-AK193,Kinegnak,,Alaska,US,58.8331,-161.667,"ardac,eds,ncr",1.9,True,58.8751,-161.7703,58.8972,-161.8248
-AK194,King Cove,Agdaaĝux̂,Alaska,US,55.0629,-162.31,"ardac,eds",0.6,True,55.1046,-162.4038,55.1265,-162.4532
-AK195,King Island,Ugiuvak,Alaska,US,64.9694,-168.065,"ardac,eds,ncr",1.4,True,65.0062,-168.1999,65.0255,-168.2711
-AK196,King Salmon,,Alaska,US,58.6883,-156.661,"ardac,eds,ncr",17.1,True,58.8846,-157.076,58.5813,-157.4193
-AK197,Kipnuk,Qipnek,Alaska,US,59.9389,-164.041,"ardac,eds,ncr",5.3,True,59.979,-164.1507,60.0001,-164.2086
-AK198,Kivalina,Kivaliñiq,Alaska,US,67.7269,-164.533,"ardac,eds,ncr",2.6,True,67.767,-164.6772,67.788,-164.7533
-AK199,Kiwalik,,Alaska,US,66.0333,-161.833,"ardac,eds",1.0,True,66.0754,-161.9642,66.1167,-161.6365
-AK200,Klawock,Lawaak,Alaska,US,55.5522,-133.096,"ardac,eds",0.8,True,55.6612,-133.4166,55.49,-133.2677
-AK201,Klery Creek,,Alaska,US,67.1793,-160.4,"ardac,eds,ncr",53.3,True,66.7495,-160.4174,66.8682,-161.7513
-AK202,Klukwan,Tlákw.aan,Alaska,US,59.3991,-135.894,"ardac,eds,ncr",21.2,True,58.9612,-135.9112,58.8439,-135.0343
-AK203,Knik,,Alaska,US,61.4578,-149.729,"ardac,eds,ncr",1.6,True,61.1947,-149.8646,61.2122,-149.915
-AK521,Knik River,,Alaska,US,61.4812,-149.13,"ardac,eds,ncr",6.4,True,61.2295,-149.5985,61.0858,-149.6805
-AK204,Kobuk,Laugviik,Alaska,US,66.9072,-156.881,"ardac,eds,ncr",151.4,False,66.6926,-160.5589,66.8335,-161.5907
-AK205,Kodiak,Sun'aq,Alaska,US,57.79,-152.407,"ardac,eds,ncr",3.1,True,57.8351,-152.1984,57.8649,-152.5418
-AK522,Kodiak Station,,Alaska,US,57.7552,-152.514,"ardac,eds,ncr",1.4,True,57.8005,-152.3057,57.83,-152.6489
-AK206,Kokhanok,Qarr’unaq,Alaska,US,59.4426,-154.761,"ardac,eds,ncr",35.5,True,59.4899,-154.857,59.1937,-154.263
-AK207,Kokrines,Łoyh Denlekk’es Denh,Alaska,US,64.9332,-154.7,"ardac,eds,ncr",289.9,False,64.8204,-161.1224,64.8517,-160.9929
-AK208,Koliganek,Qalirneq,Alaska,US,59.7286,-157.284,"ardac,eds,ncr",70.1,True,59.6515,-155.4917,58.9503,-158.6169
-AK209,Kongiganak,Kangirnaq,Alaska,US,59.9647,-162.877,"ardac,eds,ncr",4.6,True,59.8499,-162.9429,59.8669,-162.9985
-AK210,Kotlik,Qerrulliik,Alaska,US,63.0341,-163.553,"ardac,eds,ncr",4.5,True,63.1187,-162.9819,63.0959,-163.7369
-AK211,Kotzebue,Qikiqtaġruk,Alaska,US,66.8983,-162.597,"ardac,eds,ncr",1.8,True,66.9399,-162.7337,66.8,-162.7516
-AK212,Koyuk,Kuuyuk,Alaska,US,64.9319,-161.157,"ardac,eds,ncr",0.8,True,64.8176,-161.2415,65.0143,-160.9662
-AK213,Koyukuk,Meneelghaadze’ T’oh,Alaska,US,64.8802,-157.701,"ardac,eds,ncr",147.8,False,64.8083,-161.1495,64.8435,-160.9332
-AK214,Kupreanof,,Alaska,US,56.8153,-133.006,"ardac,eds,ncr",1.2,True,56.8267,-132.7878,57.1121,-133.2841
-AK215,Kustatan,Qezdeghnen,Alaska,US,60.7171,-151.75,"ardac,eds,ncr",0.2,True,60.7611,-151.5215,60.6307,-151.906
-AK216,Kvichak,,Alaska,US,58.9671,-156.933,"ardac,eds,ncr",1.2,True,58.8556,-157.0167,58.6968,-157.6791
-AK217,Kwethluk,Kuiggluk,Alaska,US,60.8122,-161.436,"ardac,eds,ncr",27.1,True,60.3295,-162.3894,60.4963,-162.5132
-AK218,Kwigillingok,Kuigilnguq,Alaska,US,59.8644,-163.134,"ardac,eds,ncr",2.7,True,59.9052,-163.2424,59.9267,-163.2995
-AK219,Kwiguk,,Alaska,US,62.7683,-164.5067,"ardac,eds,ncr",2.0,True,62.808,-164.6273,62.8025,-165.0423
-AK523,Lake Louise,,Alaska,US,62.2721,-146.5351,"ardac,eds,ncr",126.8,False,60.9177,-146.9511,61.065,-146.9712
-AK220,Lake Minchumina,Menchuh Mene’,Alaska,US,63.8828,-152.312,"ardac,eds,ncr",295.2,False,61.205,-149.9242,61.177,-150.9179
-AK455,Lake Todatonten Pingos Research Natural Area,,Alaska,US,66.1055,-152.938,"ardac,eds,ncr",329.7,False,66.5026,-160.5371,66.3331,-161.5897
-AK221,Larsen Bay,Uyaqsaq,Alaska,US,57.54,-153.979,"ardac,eds,ncr",1.1,True,57.5878,-153.7739,57.6131,-153.8123
-AK222,Last Tetlin Village,,Alaska,US,63.0332,-142.616,"ardac,eds,ncr",279.5,False,60.9523,-146.4223,60.1894,-143.0969
-AK223,Latouche,,Alaska,US,60.0511,-147.9,"ardac,eds,ncr",2.1,True,60.1032,-147.9874,60.1305,-148.0335
-AK524,Lazy Mountain,,Alaska,US,61.6152,-149.0608,"ardac,eds,ncr",16.3,True,61.2169,-149.8817,61.0687,-149.9727
-AK225,Lena Beach,,Alaska,US,58.393,-134.746,"ardac,eds,ncr",1.4,True,58.4526,-134.8079,58.484,-134.8406
-AK226,Levelock,Liivlek,Alaska,US,59.115,-156.857,"ardac,eds,ncr",0.6,True,58.8391,-157.2331,58.6833,-157.59
-AK227,Libbyville,,Alaska,US,58.7781,-157.056,"ardac,eds,ncr",0.7,True,58.8237,-157.1532,58.6777,-157.5023
-AK228,Lime Village,Hekdichen Hdakaq',Alaska,US,61.3564,-155.436,"ardac,eds,ncr",173.9,False,59.6735,-155.4589,60.7777,-152.2242
-AK229,Livengood,,Alaska,US,65.5244,-148.545,"ardac,eds,ncr",450.1,False,61.189,-149.7178,61.0866,-149.7938
-AK230,Loring,,Alaska,US,55.603,-131.632,"ardac,eds,ncr",0.2,True,55.5152,-131.7761,55.543,-131.8064
-AK525,Lowell Point,,Alaska,US,60.0709,-149.442,"ardac,eds,ncr",0.9,True,59.965,-149.5531,59.9872,-149.6009
-AK231,Lower Kalskag,Qalqaq,Alaska,US,61.5122,-160.358,"ardac,eds,ncr",121.9,False,60.3375,-162.4784,60.4835,-162.6354
-AK232,Lower Tonsina,Kentsii Cae'e,Alaska,US,61.655,-144.659,"ardac,eds,ncr",104.8,False,60.8709,-146.6259,60.6563,-145.771
-AK233,Lucky Shot Landing,,Alaska,US,61.7751,-149.408,"ardac,eds,ncr",29.3,True,61.2085,-149.9194,61.2068,-149.6432
-AK526,Lutak,,Alaska,US,59.3233,-135.5602,"ardac,eds,ncr",0.5,True,59.1442,-135.1161,58.8119,-135.0092
-AK477,Magoun Islands State Marine Park,,Alaska,US,57.1619,-135.5777,"ardac,eds",1.4,True,57.1779,-135.3584,57.2078,-135.3821
-AK234,Manley Hot Springs,Too Naaleł Denh,Alaska,US,65.0011,-150.634,"ardac,eds,ncr",394.3,False,61.2526,-150.1434,61.1844,-150.852
-AK235,Manokotak,Manuquutaq,Alaska,US,58.9796,-159.053,"ardac,eds,ncr",13.1,True,59.0111,-159.4598,58.8724,-159.4958
-AK236,Mansfield Village,Dihthâad,Alaska,US,63.4672,-143.433,"ardac,eds,ncr",300.1,False,60.8617,-146.6888,60.9711,-146.7839
-AK237,Marshall,Masserculleq,Alaska,US,61.8778,-162.081,"ardac,eds,ncr",128.2,False,62.9705,-163.1848,63.1833,-163.3282
-AK238,Marys Igloo,,Alaska,US,65.1478,-165.063,"ardac,eds,ncr",46.6,True,65.1039,-166.3016,65.0908,-166.7826
-AK239,Matanuska,,Alaska,US,61.5421,-149.229,"ardac,eds,ncr",4.8,True,61.1331,-149.7188,61.1463,-149.7793
-AK240,McCarthy,,Alaska,US,61.4333,-142.922,"ardac,eds,ncr",121.5,False,60.3406,-144.688,60.1864,-142.8323
-AK241,McGrath,Tochak’,Alaska,US,62.9564,-155.596,"ardac,eds,ncr",274.0,False,63.806,-160.7702,63.8494,-160.9866
-AK242,McKinley Park Airport,,Alaska,US,63.7331,-148.9111,"ardac,eds,ncr",249.5,False,61.1268,-149.756,61.0752,-149.8251
-AK527,Meadow Lakes,,Alaska,US,61.5846,-149.628,"ardac,eds,ncr",10.8,True,61.1646,-149.7858,61.1775,-149.8368
-AK243,Meakerville,,Alaska,US,60.5421,-145.008,"ardac,eds,ncr",1.1,True,60.2842,-145.1774,60.4639,-145.1803
-AK244,Medfra,,Alaska,US,63.1067,-154.714,"ardac,eds,ncr",287.5,False,60.9313,-151.5079,61.2003,-150.7658
-AK245,Mekoryuk,Mikuryar,Alaska,US,60.388,-166.185,"ardac,eds,ncr",0.3,True,60.3002,-165.9261,60.4464,-166.3588
-AK246,Mendeltna,,Alaska,US,62.0487,-146.5386,"ardac,eds,ncr",101.8,False,61.0072,-146.8824,61.0027,-146.936
-AK247,Mentasta Lake,Mendaesde,Alaska,US,62.9212,-143.792,"ardac,eds,ncr",239.0,False,60.9172,-146.5031,61.0623,-146.9184
-AK528,Mertarvik,,Alaska,US,60.8196,-164.5123,"ardac,eds,ncr",2.6,True,60.884,-164.3046,60.6941,-164.9605
-AK248,Metlakatla,Maxłakxaała,Alaska,US,55.1292,-131.572,"ardac,eds",0.6,True,55.1905,-131.6235,55.2228,-131.6507
-AK249,Meyers Chuck,,Alaska,US,55.7408,-132.256,"ardac,eds,ncr",0.4,True,55.8018,-132.3095,55.5749,-131.8854
-AK529,Mill Bay,,Alaska,US,57.8195,-152.3559,"ardac,eds,ncr",1.3,True,57.8646,-152.147,57.7323,-152.4976
-AK250,Minto,,Alaska,US,65.1496,-149.3504,"ardac,eds,ncr",406.2,False,61.2722,-150.019,61.1832,-150.0828
-AK478,Misty Fjords National Monument,,Alaska,US,55.7913,-130.7927,"ardac,eds,ncr",8.3,True,55.3538,-130.8675,55.6884,-131.6093
-AK530,Moose Creek,,Alaska,US,64.7155,-147.1645,"ardac,eds,ncr",374.0,False,61.2248,-149.6655,61.0382,-147.0911
-AK251,Moose Pass,,Alaska,US,60.4876,-149.367,"ardac,eds,ncr",37.3,True,61.0199,-149.7167,60.8993,-149.7947
-AK252,Morzhovoi,,Alaska,US,54.91,-163.303,"ardac,eds,ncr",0.4,True,54.9729,-163.1255,54.9724,-163.4473
-AK253,Moses Point,,Alaska,US,64.7002,-162.033,"ardac,eds",1.6,True,64.742,-162.1583,64.764,-162.2244
-AK531,Mosquito Lake,,Alaska,US,59.4246,-136.016,"ardac,eds,ncr",28.7,True,58.9867,-136.0316,58.8702,-135.1537
-AK254,Mountain Village,Asaacaryaraq,Alaska,US,62.0884,-163.72,"ardac,eds,ncr",58.5,True,62.5468,-164.6671,62.2338,-164.9872
-AK532,Mud Bay,,Alaska,US,59.1702,-135.3665,"ardac,eds,ncr",1.4,True,59.1857,-135.1341,58.8593,-135.033
-AK571,Murphy Dome Long Range Radar Site,,Alaska,US,64.9517,-148.3398,eds,387.7,False,61.2581,-149.7589,61.1744,-149.8421
-AK256,Nabesna,Naambia Niign Daacheeg,Alaska,US,62.3719,-143.009,"ardac,eds,ncr",203.9,False,60.3213,-144.7718,60.2997,-142.8623
-AK257,Nakeen,,Alaska,US,58.9361,-157.038,"ardac,eds,ncr",0.7,True,58.8246,-157.1212,58.674,-157.4699
-AK258,Naknek,Nakniq,Alaska,US,58.7283,-157.014,"ardac,eds,ncr",0.6,True,58.7662,-157.4158,58.6361,-157.1473
-AK259,Nanwalek,English Bay,Alaska,US,59.354,-151.916,"ardac,eds,ncr",0.5,True,59.4034,-152.0076,59.4293,-152.056
-AK262,Napaimute,,Alaska,US,61.54,-158.674,"ardac,eds,ncr",196.0,False,60.4567,-162.4861,60.4644,-162.3213
-AK261,Napakiak,Naparyarraq,Alaska,US,60.6967,-161.952,"ardac,eds,ncr",0.7,True,60.407,-162.3021,60.4191,-162.3665
-AK263,Napaskiak,Napaskiaq,Alaska,US,60.708,-161.766,"ardac,eds,ncr",6.3,True,60.3992,-162.4358,60.4106,-162.5096
-AK264,Nash Harbor,,Alaska,US,60.2041,-166.939,"ardac,eds",3.7,True,60.396,-167.1156,60.2294,-167.4348
-AK577,National Guard Alcantra Armory Complex,,Alaska,US,61.603,-149.3748,eds,10.4,True,61.1935,-149.8637,61.2066,-149.9244
-AK585,National Guard Anchorage International Airport,,Alaska,US,61.1599,-149.9695,eds,4.3,True,61.2106,-150.0633,61.0756,-150.1325
-AK580,National Guard Fairbanks Armory,,Alaska,US,64.8417,-147.7535,eds,380.4,False,61.1748,-149.8903,61.0815,-149.656
-AK584,National Guard Wasilla Storefront Recruiting Office,,Alaska,US,61.5769,-149.4107,eds,7.2,True,61.1673,-149.8987,61.1804,-149.9594
-AK533,Naukati Bay,,Alaska,US,55.8762,-133.1921,"ardac,eds,ncr",1.6,True,55.7865,-133.3336,55.8139,-133.3652
-AK557,Naval Air Facility Adak,,Alaska,US,51.8751,-176.6498,eds,1.4,True,51.9045,-176.7487,51.9199,-176.8008
-AK265,Nelchina,,Alaska,US,61.996,-146.8203,"ardac,eds,ncr",93.4,True,60.9538,-147.1544,61.1102,-147.1734
-AK266,Nelson Lagoon,Niilsanam Alĝuudaa,Alaska,US,56.0012,-161.201,"ardac,eds,ncr",1.6,True,56.0437,-161.2959,56.0661,-161.3459
-AK267,Nenana,Toghotili,Alaska,US,64.5638,-149.093,"ardac,eds,ncr",341.3,False,61.1601,-149.7179,61.0851,-149.7805
-AK268,New Knockhock,,Alaska,US,62.1291,-164.894,"ardac,eds,ncr",29.1,True,62.2972,-165.4042,62.1892,-165.0751
-AK269,New Stuyahok,Cetuyaraq,Alaska,US,59.4528,-157.312,"ardac,eds,ncr",44.8,True,58.8772,-157.0431,58.7046,-157.6954
-AK270,Newhalen,Nuuriileng,Alaska,US,59.72,-154.897,"ardac,eds,ncr",56.8,True,59.7672,-154.994,59.3103,-154.0728
-AK271,Newtok,Niugtaq,Alaska,US,60.9427,-164.629,"ardac,eds,ncr",1.2,True,60.9566,-165.0645,60.8168,-165.0785
-AK272,Nightmute,Negtemiut,Alaska,US,60.4794,-164.724,"ardac,eds,ncr",14.4,True,60.3379,-165.0999,60.5129,-165.2221
-AK578,Nike Alaska Mike,,Alaska,US,64.5849,-146.7309,eds,367.1,False,60.8795,-147.6709,61.0862,-147.0053
-AK579,Nike Alaska Peter,,Alaska,US,64.6745,-146.7542,eds,376.1,False,61.2013,-149.6247,61.0145,-147.0621
-AK273,Nikiski,,Alaska,US,60.6394,-151.334,"ardac,eds,ncr",1.1,True,60.6891,-151.4284,60.7153,-151.4782
-AK274,Nikolaevsk,,Alaska,US,59.8109,-151.623,"ardac,eds,ncr",12.4,True,59.8605,-151.7155,59.8865,-151.7642
-AK275,Nikolai,Nikolai,Alaska,US,63.0133,-154.375,"ardac,eds,ncr",268.7,False,60.9941,-151.5137,61.1063,-150.7958
-AK276,Nikolski,Chalukax̂,Alaska,US,52.938,-168.868,"ardac,eds,ncr",1.6,True,52.9743,-168.9632,52.9934,-169.0133
-AK277,Nilikluguk,,Alaska,US,60.6501,-165.15,"ardac,eds,ncr",1.4,True,60.6893,-165.2635,60.7098,-165.3233
-AK278,Ninilchik,,Alaska,US,60.0514,-151.669,"ardac,eds,ncr",2.3,True,60.1009,-151.7622,60.127,-151.8114
-AK279,Noatak,Nuataam Kuuŋa,Alaska,US,67.5711,-162.965,"ardac,eds,ncr",43.5,True,67.5671,-163.9187,67.5871,-164.0175
-AK280,Nome,Sitŋasuaq,Alaska,US,64.5107,-165.4447,"ardac,eds,ncr",0.1,True,64.3944,-165.5107,64.4104,-165.5766
-AK281,Nondalton,Nundaltin,Alaska,US,59.9736,-154.846,"ardac,eds,ncr",72.3,True,59.7063,-154.9347,59.724,-153.3702
-AK282,Noorvik,Nuurvik,Alaska,US,66.8383,-161.033,"ardac,eds,ncr",19.6,True,66.8636,-161.5639,66.8854,-161.6465
-AK534,North Lakes,,Alaska,US,61.6135,-149.3298,"ardac,eds,ncr",12.3,True,61.2042,-149.8194,61.2173,-149.8801
-AK283,North Pole,,Alaska,US,64.7511,-147.349,"ardac,eds,ncr",375.3,False,61.2573,-149.8324,61.0738,-147.2543
-AK284,Northway,K’ehtthiign,Alaska,US,62.9616,-141.937,"ardac,eds,ncr",287.8,False,60.3477,-144.6286,60.3343,-143.067
-AK285,Northway Indian Village,,Alaska,US,62.9832,-141.949,"ardac,eds,ncr",289.6,False,60.369,-144.6414,60.196,-143.1324
-AK286,Northway Junction,,Alaska,US,63.0173,-141.792,"ardac,eds,ncr",296.9,False,60.2722,-144.8612,60.2314,-142.99
-AK287,Nuiqsut,Nuiqsat,Alaska,US,70.2175,-150.976,"ardac,eds,ncr",19.4,True,70.5897,-151.0686,70.6261,-151.1386
-AK288,Nulato,Noolaaghe Doh,Alaska,US,64.7194,-158.103,"ardac,eds,ncr",127.9,False,64.6563,-161.1644,64.692,-160.9384
-AK289,Nunam Iqua,Sheldon Point,Alaska,US,62.5336,-164.841,"ardac,eds,ncr",0.8,True,62.573,-164.9611,62.5938,-165.0244
-AK290,Nunapitchuk,Nunapicuar,Alaska,US,60.8969,-162.459,"ardac,eds,ncr",23.8,True,60.8742,-163.5371,60.4783,-162.5
-AK479,Nunivak Island Refuge,,Alaska,US,59.8228,-165.2814,"ardac,eds",19.5,True,59.8619,-165.3922,59.8824,-165.4506
-AK291,Nyac,,Alaska,US,61.0061,-159.946,"ardac,eds,ncr",110.1,False,60.4426,-162.5223,60.4664,-162.3236
-AK292,Ohogamiut,Urr'agmiut,Alaska,US,61.5677,-161.864,"ardac,eds,ncr",94.7,True,60.883,-163.4349,60.4668,-162.4128
-AK293,Old Harbor,Nuniaq,Alaska,US,57.2028,-153.304,"ardac,eds,ncr",1.0,True,57.2513,-153.392,57.1128,-153.1414
-AK294,Old Minto,Menhti Xwghotthit,Alaska,US,64.8882,-149.182,"ardac,eds,ncr",377.3,False,61.1693,-149.8451,61.085,-149.9087
-AK456,Oliver Inlet State Marine Park,,Alaska,US,58.1015,-134.3127,"ardac,eds,ncr",0.5,True,58.1152,-134.087,58.1454,-134.1102
-AK295,Ophir,,Alaska,US,63.1447,-156.519,"ardac,eds,ncr",223.0,False,63.8395,-160.9973,63.7349,-160.7872
-AK296,Oscarville,Kuiggayagaq,Alaska,US,60.7273,-161.79,"ardac,eds,ncr",5.6,True,60.4184,-162.46,60.4298,-162.5338
-AK297,Osviak,,Alaska,US,58.8171,-161.3,"ardac,eds,ncr",0.3,True,58.703,-161.3689,58.7207,-161.4219
-AK298,Ouzinkie,Uusenkaa,Alaska,US,57.9236,-152.496,"ardac,eds,ncr",0.6,True,57.9689,-152.2867,57.9946,-152.3244
-AK299,Paimiut,Paimute,Alaska,US,61.6971,-165.83,"ardac,eds,ncr",0.7,True,61.7357,-165.9481,61.756,-166.0104
-AK300,Palmer,,Alaska,US,61.5997,-149.113,"ardac,eds,ncr",13.3,True,61.1911,-149.6052,61.2043,-149.6658
-AK301,Pastolik,,Alaska,US,62.9972,-163.304,"ardac,eds,ncr",4.4,True,63.0598,-163.0787,63.2197,-163.5385
-AK302,Pauloff Harbor,,Alaska,US,54.4589,-162.7,"ardac,eds,ncr",1.5,True,54.5003,-162.7927,54.5221,-162.8416
-AK303,Paxson,,Alaska,US,63.033,-145.4979,"ardac,eds,ncr",216.4,False,60.9187,-146.4883,61.0613,-146.8556
-AK304,Pedro Bay,,Alaska,US,59.7914,-154.098,"ardac,eds,ncr",27.9,True,59.6811,-154.5065,59.702,-153.5978
-AK305,Pelican,K'udeis'x̱'e,Alaska,US,57.9608,-136.227,"ardac,eds,ncr",0.9,True,58.0197,-136.2906,58.0507,-136.3242
-AK306,Pennock Island,,Alaska,US,55.328,-131.628,"ardac,eds,ncr",0.9,True,55.2401,-131.7711,55.268,-131.8011
-AK307,Perryville,Perry-q,Alaska,US,55.9119,-159.166,"ardac,eds,ncr",0.4,True,55.9682,-158.9771,55.6553,-159.261
-AK308,Petersburg,Séet Ká,Alaska,US,56.8125,-132.955,"ardac,eds,ncr",0.3,True,56.8238,-132.7368,57.1094,-133.2327
-AK309,Petersville,,Alaska,US,62.373,-150.7332,"ardac,eds,ncr",112.7,False,61.141,-149.9748,61.1477,-150.6736
-AK310,Pile Bay Village,,Alaska,US,59.7789,-153.8819,"ardac,eds,ncr",17.3,True,59.668,-153.3511,59.6887,-153.3825
-AK311,Pilot Point,Agisaq,Alaska,US,57.5641,-157.579,"ardac,eds,ncr",0.5,True,57.7666,-157.69,57.6332,-157.7234
-AK312,Pilot Station,Tuutalgaq,Alaska,US,61.9389,-162.875,"ardac,eds,ncr",102.7,False,61.0019,-163.3727,62.174,-165.2192
-AK313,Pitkas Point,Negeqliim Painga,Alaska,US,62.0328,-163.288,"ardac,eds,ncr",80.2,True,62.6249,-164.6193,62.3158,-164.9522
-AK314,Platinum,Arviiq,Alaska,US,59.013,-161.816,"ardac,eds,ncr",0.8,True,59.0549,-161.92,59.0769,-161.9749
-AK535,Pleasant Valley,,Alaska,US,64.8802,-146.8875,"ardac,eds,ncr",395.5,False,61.2468,-149.7829,61.0583,-147.2165
-AK315,Point Baker,,Alaska,US,56.3528,-133.621,"ardac,eds,ncr",0.4,True,56.4131,-133.6776,56.4448,-133.7075
-AK480,Point Bridget State Park,,Alaska,US,58.6657,-134.9685,"ardac,eds,ncr",0.5,True,58.5742,-135.1167,58.7565,-135.0644
-AK316,Point Hope,Tikiġaq,Alaska,US,68.348,-166.734,"ardac,eds,ncr",1.8,True,68.3863,-166.8853,68.4064,-166.9651
-AK317,Point Lay,Kali,Alaska,US,69.7574,-163.051,"ardac,eds,ncr",1.8,True,69.799,-163.2051,69.8209,-163.2864
-AK536,Point MacKenzie,,Alaska,US,61.3471,-150.0659,"ardac,eds,ncr",8.3,True,61.2407,-150.1794,61.101,-150.2487
-AK537,Point Possession,,Alaska,US,60.9536,-150.6744,"ardac,eds,ncr",4.7,True,61.0038,-150.7687,61.0302,-150.8184
-AK318,Poorman,,Alaska,US,64.0991,-155.544,"ardac,eds,ncr",257.3,False,63.9908,-161.0602,64.023,-160.9132
-AK538,Pope-Vannoy Landing,,Alaska,US,59.5354,-154.5052,"ardac,eds,ncr",26.7,True,59.5829,-154.6011,59.2852,-154.3266
-AK319,Port Alexander,,Alaska,US,56.2497,-134.644,"ardac,eds,ncr",1.2,True,56.1583,-134.7833,56.341,-134.7328
-AK320,Port Alsworth,,Alaska,US,60.2025,-154.313,"ardac,eds,ncr",66.2,True,59.7769,-154.7191,59.7892,-153.4841
-AK321,Port Ashton,,Alaska,US,60.0581,-148.05,"ardac,eds,ncr",0.4,True,60.1101,-148.1377,60.1228,-147.8582
-AK539,Port Clarence,,Alaska,US,65.2573,-166.8661,"ardac,eds,ncr",1.2,True,65.2952,-167.0008,65.315,-167.0718
-AK322,Port Graham,Paluwik,Alaska,US,59.3514,-151.83,"ardac,eds,ncr",0.9,True,59.4008,-151.9215,59.4268,-151.9698
-AK323,Port Heiden,Masrriq,Alaska,US,56.9566,-158.645,"ardac,eds,ncr",3.3,True,57.1583,-158.7601,57.0245,-158.789
-AK324,Port Lions,Masiqsirraq,Alaska,US,57.8675,-152.882,"ardac,eds,ncr",0.9,True,57.9099,-152.376,57.9418,-153.0181
-AK325,Port Mackenzie,,Alaska,US,61.2686,-149.9202,"ardac,eds",1.0,True,61.1623,-150.0339,61.1844,-150.0838
-AK326,Port Moller,,Alaska,US,55.99,-160.577,"ardac,eds,ncr",0.2,True,56.033,-160.6711,56.0556,-160.7208
-AK327,Port Protection,,Alaska,US,56.3127,-133.602,"ardac,eds",1.8,True,56.373,-133.6585,56.4047,-133.6883
-AK328,Portage,,Alaska,US,60.8381,-148.979,"ardac,eds,ncr",3.1,True,61.0682,-149.6983,60.9386,-149.7872
-AK329,Portage Creek,,Alaska,US,58.9006,-157.714,"ardac,eds,ncr",16.2,True,58.6315,-157.7776,58.646,-157.828
-AK330,Portlock,,Alaska,US,59.2144,-151.7461,"ardac,eds,ncr",0.9,True,59.2639,-151.8371,59.2899,-151.8851
-AK540,Primrose,,Alaska,US,60.3236,-149.3576,"ardac,eds,ncr",22.5,True,59.9039,-149.5129,59.9169,-149.5618
-AK331,Prudhoe Bay,,Alaska,US,70.2366,-148.38,"ardac,eds,ncr",8.3,True,70.4356,-148.0093,70.3031,-148.1038
-AK332,Quinhagak,Kuinerraq,Alaska,US,59.7489,-161.916,"ardac,eds,ncr",3.4,True,59.6346,-161.9848,59.7927,-162.4
-AK333,Rainbow,,Alaska,US,61.0041,-149.642,"ardac,eds,ncr",1.7,True,61.055,-149.7348,61.0818,-149.7838
-AK334,Rampart,Dleł Taaneets,Alaska,US,65.5049,-150.17,"ardac,eds,ncr",447.3,False,66.5817,-160.4196,61.2102,-150.8399
-AK335,Red Devil,,Alaska,US,61.7611,-157.313,"ardac,eds,ncr",271.5,False,59.6358,-155.6313,63.4931,-160.9619
-AK541,Red Dog Mine,,Alaska,US,68.036,-162.8964,"ardac,eds,ncr",70.4,True,67.5374,-164.091,67.7288,-163.8411
-AK336,Refuge Cove,,Alaska,US,55.407,-131.741,"ardac,eds,ncr",0.8,True,55.4682,-131.7932,55.5004,-131.8207
-AK542,Ridgeway,,Alaska,US,60.5165,-151.0582,"ardac,eds,ncr",12.2,True,60.5728,-151.4736,60.5927,-151.2012
-AK337,Ruby,Tl'aa'ologhe,Alaska,US,64.7394,-155.487,"ardac,eds,ncr",252.4,False,64.6308,-161.1276,64.6631,-160.9774
-AK338,Russian Mission,Iqugmiut,Alaska,US,61.7856,-161.325,"ardac,eds,ncr",123.9,False,60.9076,-163.5196,60.4863,-162.5132
-AK457,Safety Cove State Marine Park,,Alaska,US,59.9819,-149.2235,"ardac,eds,ncr",0.9,True,59.8762,-149.335,60.06,-149.3599
-AK339,Saint George,Anĝaaxchalux̂,Alaska,US,56.603,-169.545,"ardac,eds",1.8,True,56.6385,-169.6504,56.6572,-169.7059
-AK340,Saint Mary's,Negeqliq,Alaska,US,62.053,-163.166,"ardac,eds,ncr",84.4,True,62.621,-164.8353,62.4973,-164.8875
-AK341,Saint Michael,Taciq,Alaska,US,63.478,-162.039,"ardac,eds,ncr",0.7,True,63.5198,-162.1591,63.5417,-162.2224
-AK342,Saint Paul,Tanax̂ Amix̂,Alaska,US,57.1221,-170.276,"ardac,eds,ncr",0.6,True,57.157,-170.3836,57.1753,-170.4403
-AK343,Salamatof,,Alaska,US,60.5878,-151.326,"ardac,eds,ncr",0.7,True,60.6376,-151.4202,60.6637,-151.4699
-AK344,Salcha,Soł Chaget,Alaska,US,64.5288,-146.899,"ardac,eds,ncr",358.4,False,61.2104,-149.7196,61.0299,-147.1546
-AK345,Salt Chuck,,Alaska,US,55.628,-132.552,"ardac,eds,ncr",1.0,True,55.6386,-132.3406,55.463,-133.0871
-AK346,Sanak,,Alaska,US,54.4831,-162.814,"ardac,eds,ncr",1.2,True,54.5244,-162.9069,54.5461,-162.9559
-AK347,Sand Point,,Alaska,US,55.3397,-160.497,"ardac,eds,ncr",0.5,True,55.3828,-160.5894,55.4055,-160.6381
-AK458,Sandspit Point State Marine Park,,Alaska,US,59.9378,-149.318,"ardac,eds",1.5,True,59.9889,-149.4073,60.0158,-149.4544
-AK348,Savonoski,,Alaska,US,58.7171,-156.867,"ardac,eds,ncr",4.8,True,58.7555,-157.2685,58.6174,-157.313
-AK349,Savoonga,Sivunga,Alaska,US,63.6904,-170.481,"ardac,eds,ncr",1.3,True,63.6108,-170.1808,63.7432,-170.6826
-AK481,Sawmill Bay State Marine Park,,Alaska,US,61.0575,-146.7888,"ardac,eds,ncr",3.2,True,60.9539,-146.912,60.977,-146.9594
-AK350,Saxman,,Alaska,US,55.3183,-131.596,"ardac,eds,ncr",2.0,True,55.2305,-131.7391,55.2583,-131.7691
-AK351,Scammon Bay,Marayaarmiut,Alaska,US,61.8428,-165.582,"ardac,eds,ncr",1.7,True,61.8816,-165.7004,61.8731,-166.1028
-AK482,Security Bay State Marine Park,,Alaska,US,56.8515,-134.3301,"ardac,eds",1.2,True,56.9114,-134.3887,56.9429,-134.4196
-AK352,Selawik,Siiḷivik / Akuliġaq,Alaska,US,66.6039,-160.007,"ardac,eds,ncr",11.5,True,66.6324,-160.5322,66.4584,-161.3787
-AK353,Seldovia,Angagkitaqnuuq,Alaska,US,59.438,-151.711,"ardac,eds,ncr",1.5,True,59.4875,-151.8026,59.5135,-151.8509
-AK543,Seldovia Village,,Alaska,US,59.4716,-151.6548,"ardac,eds,ncr",1.6,True,59.5211,-151.7464,59.5472,-151.7947
-AK483,Serpentine Slide Research Natural Area,,Alaska,US,65.7113,-147.4653,"ardac,eds,ncr",478.0,False,70.1535,-145.428,70.1692,-145.9422
-AK354,Seward,Qutalleq,Alaska,US,60.1043,-149.442,"ardac,eds,ncr",0.3,True,59.9984,-149.5532,60.0206,-149.6011
-AK355,Shageluk,Edixi,Alaska,US,62.6822,-159.562,"ardac,eds,ncr",123.1,False,63.6047,-161.2733,63.509,-160.982
-AK356,Shaktoolik,Saktuliq,Alaska,US,64.35,-161.183,"ardac,eds,ncr",0.4,True,64.3925,-161.3055,64.4148,-161.3701
-AK484,Shelter Island State Marine Park,,Alaska,US,58.4513,-134.881,"ardac,eds,ncr",6.1,True,58.5109,-134.9432,58.5422,-134.9761
-AK357,Shemya Station,,Alaska,US,52.7246,174.112,"ardac,eds",1.6,True,52.7517,175.1663,52.7558,173.9492
-AK358,Shishmaref,Qigiqtaq,Alaska,US,66.2567,-166.072,"ardac,eds,ncr",0.7,True,66.2953,-166.2106,66.3156,-166.2837
-AK359,Shungnak,Isiŋnaq / Nuurviuraq,Alaska,US,66.888,-157.136,"ardac,eds,ncr",140.0,False,66.6836,-160.4143,66.8259,-161.4332
-AK544,Silver Springs,,Alaska,US,62.0138,-145.336,"ardac,eds,ncr",111.0,False,60.8567,-146.4036,61.0277,-146.7732
-AK360,Sitka,Sheet'ká,Alaska,US,57.053,-135.33,"ardac,eds,ncr",1.3,True,56.9609,-135.4707,57.1437,-135.4225
-AK361,Skagway,,Alaska,US,59.4583,-135.314,"ardac,eds,ncr",1.3,True,59.1716,-135.2531,58.8364,-135.1559
-AK362,Skwentna,,Alaska,US,61.9649,-151.158,"ardac,eds,ncr",74.0,True,61.0577,-150.6839,61.2176,-150.7005
-AK363,Slana,Stl’aa Caegge,Alaska,US,62.707,-143.9697,"ardac,eds,ncr",214.2,False,60.8564,-146.6158,60.9883,-146.6959
-AK365,Sleetmute,Cellitemiut,Alaska,US,61.7025,-157.17,"ardac,eds,ncr",270.4,False,59.7328,-155.5074,63.4212,-161.165
-AK366,Soldotna,,Alaska,US,60.4878,-151.058,"ardac,eds,ncr",12.3,True,60.5441,-151.473,60.564,-151.2009
-AK367,Solomon,,Alaska,US,64.5608,-164.439,"ardac,eds,ncr",2.6,True,64.445,-164.5092,64.4613,-164.5746
-AK545,South Lakes,,Alaska,US,61.5903,-149.3165,"ardac,eds,ncr",9.6,True,61.181,-149.8059,61.1942,-149.8666
-AK368,South Naknek,Qinuyang,Alaska,US,58.7155,-156.998,"ardac,eds,ncr",0.9,True,58.9184,-157.1093,58.6153,-157.4436
-AK459,South Todatonten Summit Research Natural Area,,Alaska,US,66.0506,-152.881,"ardac,eds,ncr",333.3,False,66.4507,-160.4641,66.4434,-161.5607
-AK546,South Van Horn,,Alaska,US,64.8075,-147.774,"ardac,eds,ncr",376.5,False,61.1405,-149.9061,61.0472,-149.672
-AK369,Spenard,,Alaska,US,61.1881,-149.917,"ardac,eds,ncr",2.7,True,61.2388,-150.0108,61.1039,-150.0802
-AK460,Stan Price State Wildlife Sanctuary,,Alaska,US,57.9051,-134.275,"ardac,eds,ncr",0.1,True,57.9187,-134.0505,57.9489,-134.0736
-AK372,Stebbins,Tapraq,Alaska,US,63.5222,-162.288,"ardac,eds,ncr",1.8,True,63.5638,-162.4086,63.5856,-162.4723
-AK548,Steele Creek,,Alaska,US,64.9028,-147.5241,"ardac,eds,ncr",389.5,False,61.2389,-149.6915,61.0477,-147.1072
-AK373,Sterling,,Alaska,US,60.5381,-150.758,"ardac,eds,ncr",28.7,True,60.7453,-150.8359,60.6218,-151.232
-AK374,Stevens Village,Denyeet,Alaska,US,66.0063,-149.091,"ardac,eds,ncr",467.4,False,70.0602,-145.1744,70.3183,-147.909
-AK375,Stony River,Gidighuyghatno’ Xidochagg Qay / K'qizaghetnu,Alaska,US,61.7831,-156.588,"ardac,eds,ncr",251.2,False,59.6433,-155.5777,60.7362,-152.3221
-AK376,Summit,,Alaska,US,63.3292,-149.119,"ardac,eds,ncr",203.6,False,61.1932,-149.8763,61.1554,-149.9436
-AK461,Sunny Cove State Marine Park,,Alaska,US,59.9024,-149.3453,"ardac,eds,ncr",3.3,True,59.9535,-149.4346,59.9804,-149.4816
-AK377,Sunrise,,Alaska,US,60.8921,-149.425,"ardac,eds,ncr",3.9,True,61.1103,-149.8218,60.9804,-149.9007
-AK378,Suntrana,,Alaska,US,63.8582,-148.846,"ardac,eds,ncr",263.8,False,61.2521,-149.6996,61.2005,-149.769
-AK485,Surprise Cove State Marine Park,,Alaska,US,60.7568,-148.3873,"ardac,eds,ncr",0.9,True,60.7951,-148.1543,60.8075,-147.8593
-AK487,Susitna,,Alaska,US,61.5786,-150.6091,"ardac,eds,ncr",23.7,True,61.2977,-150.0799,61.1701,-150.8053
-AK549,Susitna North,,Alaska,US,62.1322,-150.0322,"ardac,eds,ncr",74.8,True,61.2406,-150.244,61.0778,-150.3157
-AK379,Susitna Station,,Alaska,US,61.5432,-150.5162,"ardac,eds,ncr",19.5,True,61.2619,-149.9884,61.1348,-150.7134
-AK380,Sutton,,Alaska,US,61.7114,-148.894,"ardac,eds,ncr",30.2,True,61.1571,-149.7406,61.166,-149.8115
-AK550,Sutton-Alpine,,Alaska,US,61.7168,-148.8844,"ardac,eds,ncr",31.0,True,61.1626,-149.7313,61.1714,-149.8022
-AK381,Takotna,Tochotno’,Alaska,US,62.9886,-156.064,"ardac,eds,ncr",250.7,False,63.8383,-160.9,63.7377,-160.7019
-AK462,Taku Harbor State Marine Park,,Alaska,US,58.0622,-134.0187,"ardac,eds,ncr",0.0,True,58.1222,-134.0788,58.1538,-134.1105
-AK382,Talkeetna,K'dalkitnu,Alaska,US,62.3239,-150.109,"ardac,eds,ncr",96.5,True,61.2661,-150.0096,61.1076,-150.4099
-AK383,Tanacross,Taats’altęy,Alaska,US,63.378,-143.356,"ardac,eds,ncr",293.7,False,60.9307,-146.5729,61.0447,-146.6668
-AK551,Tanaina,,Alaska,US,61.6141,-149.4508,"ardac,eds,ncr",11.4,True,61.1943,-149.6111,61.2073,-149.6621
-AK384,Tanana,Hohudodetlaatl Denh,Alaska,US,65.1719,-152.079,"ardac,eds,ncr",398.0,False,66.5309,-160.3921,64.9341,-161.0902
-AK386,Tatitlek,Taatiilaaq,Alaska,US,60.8647,-146.679,"ardac,eds,ncr",1.7,True,60.9175,-146.7666,60.9453,-146.8128
-AK387,Tazlina,Tezdlen Na’,Alaska,US,62.0305,-145.416,"ardac,eds,ncr",110.8,False,60.8728,-146.4813,61.0436,-146.8515
-AK388,Tee Harbor,,Alaska,US,58.41,-134.757,"ardac,eds,ncr",1.2,True,58.4696,-134.8189,58.501,-134.8516
-AK389,Telida,Tilayadi,Alaska,US,63.3833,-153.267,"ardac,eds,ncr",265.2,False,61.036,-150.8055,61.1529,-150.769
-AK390,Teller,Tala,Alaska,US,65.2636,-166.361,"ardac,eds,ncr",1.0,True,65.3019,-166.4951,65.322,-166.5657
-AK392,Tenakee Springs,Tʼanag̱eey / Tlaagoowu Aan,Alaska,US,57.7808,-135.219,"ardac,eds,ncr",1.1,True,57.9915,-135.1976,57.8261,-135.0195
-AK393,Tetlin,Teełąy,Alaska,US,63.1373,-142.5208,"ardac,eds,ncr",292.1,False,60.9199,-146.7066,60.2937,-143.0115
-AK394,Tetlin Junction,,Alaska,US,63.3172,-142.599,"ardac,eds,ncr",309.3,False,60.9234,-146.5144,61.0386,-146.6272
-AK395,Thane,,Alaska,US,58.264,-134.328,"ardac,eds,ncr",3.2,True,58.3693,-134.6775,58.153,-134.2155
-AK486,Thoms Place State Marine Park,,Alaska,US,56.1732,-132.1328,"ardac,eds",1.0,True,55.9354,-132.3685,55.8535,-131.8536
-AK396,Thorne Bay,,Alaska,US,55.7274,-132.471,"ardac,eds,ncr",1.4,True,55.7378,-132.259,55.7676,-133.1926
-AK463,Thumb Cove State Marine Park,,Alaska,US,60.004,-149.3008,"ardac,eds,ncr",0.3,True,59.8982,-149.4121,59.9205,-149.4598
-AK397,Tin City,,Alaska,US,65.5502,-167.851,"ardac,eds,ncr",1.7,True,65.5872,-167.9885,65.6067,-168.061
-AK398,Togiak,Tuyuryaq,Alaska,US,59.0619,-160.376,"ardac,eds,ncr",1.7,True,58.9484,-160.4485,58.9664,-160.5014
-AK399,Tok,,Alaska,US,63.3366,-142.985,"ardac,eds,ncr",300.3,False,60.9154,-146.5496,61.03,-146.653
-AK400,Tokeen,,Alaska,US,55.938,-133.324,"ardac,eds,ncr",4.1,True,55.8482,-133.4654,56.0303,-133.4088
-AK401,Toksook Bay,Nunakauyaq,Alaska,US,60.5303,-165.102,"ardac,eds,ncr",3.3,True,60.5695,-165.215,60.5901,-165.2746
-AK402,Tolovana,,Alaska,US,64.8542,-149.824,"ardac,eds,ncr",373.8,False,61.124,-150.0844,61.21,-150.4555
-AK552,Tolsona,,Alaska,US,62.099,-146.0444,"ardac,eds,ncr",108.7,False,60.9024,-146.442,61.0723,-146.7931
-AK403,Tonsina,,Alaska,US,61.6558,-145.175,"ardac,eds,ncr",83.7,True,60.9868,-146.4464,61.011,-146.8605
-AK586,Toolik Field Station,,Alaska,US,68.6268,-149.5952,"ardac,eds,ncr",190.3,False,70.3963,-148.0108,70.3101,-148.0662
-AK553,Trapper Creek,,Alaska,US,62.3114,-150.2458,"ardac,eds,ncr",97.2,True,61.2537,-150.1418,61.0948,-150.5414
-AK404,Tuluksak,Tuulkessaaq,Alaska,US,61.1025,-160.962,"ardac,eds,ncr",66.8,True,60.4281,-162.5295,60.4491,-162.3015
-AK405,Tuntutuliak,Tuntutuliaq,Alaska,US,60.3397,-162.669,"ardac,eds,ncr",3.4,True,60.4013,-162.4608,60.4236,-162.5089
-AK406,Tununak,Tununeq,Alaska,US,60.5855,-165.256,"ardac,eds,ncr",1.5,True,60.6246,-165.3694,60.6451,-165.4292
-AK407,Twin Hills,Ingricuar,Alaska,US,59.0792,-160.275,"ardac,eds,ncr",3.2,True,58.9657,-160.3479,58.9838,-160.4007
-AK436,Two Rivers,,Alaska,US,64.8767,-147.0384,"ardac,eds,ncr",392.9,False,61.2405,-149.9161,61.0379,-147.0147
-AK408,Tyonek,Qaggeyshlat,Alaska,US,61.0681,-151.137,"ardac,eds,ncr",1.0,True,61.111,-150.9052,61.1372,-150.9455
-AK409,Ugashik,Ugaasaq,Alaska,US,57.513,-157.397,"ardac,eds,ncr",0.1,True,57.5498,-157.7854,57.5733,-157.8439
-AK411,Umiat,,Alaska,US,69.3674,-152.133,"ardac,eds,ncr",116.2,False,70.7003,-152.1661,70.5991,-152.2487
-AK412,Umkumiute,,Alaska,US,60.4983,-165.199,"ardac,eds,ncr",0.5,True,60.5374,-165.312,60.558,-165.3716
-AK413,Umnak,,Alaska,US,53.267,-168.217,"ardac,eds,ncr",1.0,True,53.3039,-168.3124,53.3232,-168.3626
-AK414,Unalakleet,Uŋalaqłiit,Alaska,US,63.873,-160.788,"ardac,eds,ncr",3.6,True,63.9158,-160.9079,63.9383,-160.9712
-AK415,Unalaska,Iluulux̂,Alaska,US,53.8733,-166.533,"ardac,eds,ncr",3.3,True,53.9412,-166.3656,53.9317,-166.6784
-AK416,Unga,Uĝnaasaqax̂,Alaska,US,55.1828,-160.506,"ardac,eds,ncr",0.9,True,55.2259,-160.598,55.2486,-160.6466
-AK178,Upper Kalskag,Qalqaq,Alaska,US,61.5391,-160.306,"ardac,eds,ncr",126.0,False,60.3652,-162.43,60.5112,-162.5869
-AK418,Utqiaġvik,Barrow,Alaska,US,71.2905,-156.789,"ardac,eds,ncr",2.0,True,71.3376,-156.9412,71.3623,-157.0216
-AK419,Utukakarvik,,Alaska,US,61.9611,-164.75,"ardac,eds,ncr",37.2,True,62.2847,-165.314,62.1811,-164.987
-AK420,Uyak,,Alaska,US,57.6256,-153.988,"ardac,eds,ncr",0.9,True,57.6734,-153.7824,57.6987,-153.8209
-AK421,Valdez,Suacit,Alaska,US,61.1369,-146.3471,"ardac,eds,ncr",1.1,True,60.8774,-146.5088,61.0748,-146.8539
-AK422,Venetie,Vįįhtąįį,Alaska,US,67.0139,-146.419,"ardac,eds,ncr",332.3,False,70.0736,-145.5574,70.1915,-145.5883
-AK423,Wainwright,Ulġuniq,Alaska,US,70.6369,-160.038,"ardac,eds,ncr",1.3,True,70.6812,-160.1924,70.7045,-160.2738
-AK424,Wales,Kiŋigin,Alaska,US,65.6097,-168.0876,"ardac,eds,ncr",0.8,True,65.6465,-168.2257,65.6659,-168.2985
-AK425,Ward Cove,,Alaska,US,55.408,-131.724,"ardac,eds,ncr",1.2,True,55.4692,-131.7761,55.5014,-131.8036
-AK426,Wasilla,,Alaska,US,61.5814,-149.439,"ardac,eds,ncr",7.7,True,61.1616,-149.5993,61.1746,-149.6502
-AK427,Whale Pass,,Alaska,US,56.1,-133.167,"ardac,eds,ncr",2.7,True,56.3106,-133.1349,56.1924,-133.2518
-AK428,White Mountain,Nasirvik,Alaska,US,64.6813,-163.406,"ardac,eds,ncr",8.6,True,64.4099,-163.4287,64.4221,-163.4919
-AK554,Whitestone,,Alaska,US,64.1536,-145.8863,"ardac,eds,ncr",334.7,False,60.9237,-146.8058,61.0157,-146.8377
-AK555,Whitestone Logging Camp,,Alaska,US,58.0831,-135.4367,"ardac,eds,ncr",0.4,True,58.0988,-135.2115,58.1736,-135.5322
-AK429,Whittier,,Alaska,US,60.773,-148.684,"ardac,eds,ncr",1.6,True,60.7983,-148.128,60.8102,-147.8235
-AK581,Whittier Anchorage Pipeline,,Alaska,US,60.9399,-149.2897,eds,2.6,True,61.0016,-149.7073,61.0287,-149.7658
-AK430,Willow,,Alaska,US,61.7472,-150.037,"ardac,eds,ncr",35.5,True,61.1697,-150.209,61.1778,-150.2607
-AK556,Willow Creek,,Alaska,US,61.8123,-145.1944,"ardac,eds,ncr",96.1,True,60.9868,-146.5086,61.0062,-146.9237
-AK431,Wiseman,,Alaska,US,67.41,-150.107,"ardac,eds,ncr",324.5,False,70.4382,-147.882,70.2247,-147.9576
-AK432,Womens Bay,,Alaska,US,57.7099,-152.586,"ardac,eds,ncr",2.2,True,57.7554,-152.3781,57.7846,-152.7209
-AK433,Woody Island,,Alaska,US,57.78,-152.355,"ardac,eds,ncr",2.1,True,57.8251,-152.1464,57.8549,-152.4897
-AK434,Wrangell,Shtax’héen,Alaska,US,56.4708,-132.377,"ardac,eds,ncr",0.1,True,56.3822,-132.5227,56.3571,-133.2039
-AK435,Yakutat,Yaakwdáat,Alaska,US,59.5469,-139.727,"ardac,eds,ncr",0.7,True,59.6039,-139.7997,59.6339,-139.8381
-AK582,Yukon Command Training Site,,Alaska,US,64.6892,-146.6233,eds,379.9,False,60.9841,-147.5788,61.0294,-146.9463
-AK572,Yukon Weapons Range,,Alaska,US,64.7682,-146.8895,eds,383.7,False,61.1352,-149.7745,60.9466,-147.2171
-AK464,Ziegler Cove State Marine Park,,Alaska,US,60.8381,-148.3205,"ardac,eds,ncr",1.1,True,60.8763,-148.0868,60.8885,-147.7911
+id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal,ocean_lat1,ocean_lon1
+AK1,Afognak,Agw’aneq,Alaska,US,58.0078,-152.768,"ardac,eds,ncr",1.0,TRUE,57.9202,-152.9095
+AK2,Akhiok,Kasukuak,Alaska,US,56.9455,-154.17,"ardac,eds,ncr",0.8,TRUE,57.0185,-154.3053
+AK3,Akiachak,Akiacuar,Alaska,US,60.9094,-161.431,"ardac,eds,ncr",33.5,TRUE,60.433,-162.4693
+AK4,Akiak,Akiaq,Alaska,US,60.9122,-161.214,"ardac,eds,ncr",43.0,TRUE,60.4169,-162.583
+AK5,Akutan,Achan-ingiiga,Alaska,US,54.1385,-165.778,"ardac,eds,ncr",1.4,TRUE,54.1978,-165.9233
+AK6,Alakanuk,Alarneq,Alaska,US,62.6889,-164.615,"ardac,eds,ncr",0.5,TRUE,62.7494,-164.7989
+AK7,Alatna,Alaasuq,Alaska,US,66.5542,-152.7019,"ardac,eds,ncr",335.0,FALSE,66.4668,-161.409
+AK488,Alcan Border,,Alaska,US,62.6856,-141.1253,"ardac,eds,ncr",284.8,FALSE,60.2524,-142.5763
+AK8,Aleknagik,Alaqnaqiq,Alaska,US,59.273,-158.618,"ardac,eds,ncr",11.7,TRUE,59.0177,-158.7265
+AK489,Aleneva,,Alaska,US,58.0046,-152.8825,"ardac,eds,ncr",0.9,TRUE,57.9168,-153.0237
+AK9,Aleut Village,,Alaska,US,58.0171,-152.761,"ardac,eds",0.7,TRUE,57.9295,-152.9025
+AK10,Alexander Creek,,Alaska,US,61.4171,-150.593,"ardac,eds,ncr",6.0,TRUE,61.1703,-150.7721
+AK11,Allakaket,Aalaa Kkaakk’et,Alaska,US,66.5656,-152.646,"ardac,eds,ncr",337.4,FALSE,66.3191,-161.3129
+AK12,Ambler,Ivisaappaat,Alaska,US,67.0861,-157.851,"ardac,eds,ncr",116.2,FALSE,66.8627,-161.7188
+AK13,Anaktuvuk Pass,Anaqtuuvak / Naqsraq,Alaska,US,68.1433,-151.736,"ardac,eds,ncr",246.6,FALSE,70.2748,-147.9584
+AK14,Anchor Point,,Alaska,US,59.7766,-151.831,"ardac,eds,ncr",3.1,TRUE,59.852,-151.9726
+AK15,Anchorage,Dgheyaytnu,Alaska,US,61.1817,-149.993,"ardac,eds,ncr",2.1,TRUE,61.0974,-150.156
+AK16,Anderson,,Alaska,US,64.3441,-149.187,"ardac,eds,ncr",316.6,FALSE,61.1887,-149.8175
+AK18,Angoon,Aangóon,Alaska,US,57.5033,-134.584,"ardac,eds,ncr",1.3,TRUE,57.5945,-134.6758
+AK19,Aniak,Anyaraq,Alaska,US,61.5783,-159.522,"ardac,eds,ncr",160.0,FALSE,60.5235,-162.4883
+AK20,Annette,,Alaska,US,55.063,-131.541,"ardac,eds",0.3,TRUE,55.1566,-131.6195
+AK21,Anvik,Gitr’ingith Chagg,Alaska,US,62.6561,-160.207,"ardac,eds,ncr",107.0,FALSE,63.4947,-161.2817
+AK22,Arctic Village,Vashrąįį K'ǫǫ,Alaska,US,68.1269,-145.538,"ardac,eds,ncr",205.4,FALSE,70.1664,-145.0053
+AK23,Atka,Atx̂ax̂,Alaska,US,52.191,-174.189,"ardac,eds,ncr",0.6,TRUE,52.2392,-174.3384
+AK24,Atmautluak,Atmaulluaq,Alaska,US,60.8641,-162.2723,"ardac,eds,ncr",15.6,TRUE,60.4456,-162.3157
+AK25,Atqasuk,,Alaska,US,70.4694,-157.396,"ardac,eds,ncr",46.9,TRUE,71.027,-158.1887
+AK26,Attu,,Alaska,US,52.9365,173.24,"ardac,eds,ncr",1.1,TRUE,52.9664,173.0757
+AK27,Auke Bay,,Alaska,US,58.383,-134.657,"ardac,eds,ncr",0.4,TRUE,58.3187,-134.8399
+AK28,Ayakulik,,Alaska,US,57.2113,-154.546,"ardac,eds,ncr",2.1,TRUE,57.1216,-154.6799
+AK558,Back Island,,Alaska,US,55.5483,-131.7561,eds,4.0,TRUE,55.6417,-131.8361
+AK490,Badger,,Alaska,US,64.8058,-147.4039,"ardac,eds,ncr",380.4,FALSE,60.9507,-147.0027
+AK29,Baranof Warm Springs,,Alaska,US,57.0895,-134.8337,"ardac,eds,ncr",2.8,TRUE,57.1342,-134.6376
+AK30,Bartlett Cove,,Alaska,US,58.45,-135.916,"ardac,eds",1.5,TRUE,58.5401,-136.0138
+AK491,Bear Creek,,Alaska,US,60.1839,-149.3886,"ardac,eds,ncr",6.8,TRUE,59.9387,-149.57
+AK31,Beaver,Ts'aahudaaneekk'onh Denh,Alaska,US,66.3594,-147.396,"ardac,eds,ncr",411.3,FALSE,70.1894,-146.5127
+AK444,Beecher Pass State Marine Park,,Alaska,US,56.6003,-133.0267,"ardac,eds",1.2,TRUE,56.3838,-133.2939
+AK32,Belkofski,Taxtamax̂,Alaska,US,55.0905,-162.034,"ardac,eds,ncr",0.8,TRUE,55.1544,-162.1768
+AK33,Bell Island Hot Springs,,Alaska,US,55.933,-131.566,"ardac,eds,ncr",1.6,TRUE,55.8731,-131.742
+AK492,Beluga,,Alaska,US,61.1849,-151.035,"ardac,eds,ncr",0.4,TRUE,61.0921,-150.8586
+AK35,Bessie No. 5 Dredge,,Alaska,US,64.5502,-165.151,"ardac,eds,ncr",10.1,TRUE,64.2902,-165.2208
+AK36,Bethel,Mamterilleq,Alaska,US,60.7922,-161.756,"ardac,eds,ncr",12.0,TRUE,60.4949,-162.5016
+AK37,Bettles,Kk’odlel T’odegheelenh Denh,Alaska,US,66.9185,-151.5162,"ardac,eds,ncr",381.7,FALSE,70.2002,-148.0775
+AK445,Bettles Bay State Marine Park,,Alaska,US,60.9597,-148.3184,"ardac,eds,ncr",0.4,TRUE,60.8489,-147.8182
+AK465,Big Bear Baby Bear State Marine Park,,Alaska,US,57.432,-135.563,"ardac,eds",0.9,TRUE,57.2102,-135.8209
+AK38,Big Delta,,Alaska,US,64.1525,-145.842,"ardac,eds,ncr",335.2,FALSE,61.0148,-146.7977
+AK39,Big Lake,,Alaska,US,61.5378,-149.824,"ardac,eds,ncr",10.1,TRUE,61.1304,-150.03
+AK40,Bill Moore's Slough,,Alaska,US,62.9504,-163.7777,"ardac,eds,ncr",4.3,TRUE,63.1961,-163.6588
+AK41,Biorka,,Alaska,US,53.831,-166.208,"ardac,eds",0.9,TRUE,53.8898,-166.3528
+AK42,Birch Creek,Łiteet'aii,Alaska,US,66.2687,-145.824,"ardac,eds,ncr",411.7,FALSE,69.5112,-140.7405
+AK559,Birch Lake Recreation Annex,,Alaska,US,64.3175,-146.647,eds,341.2,FALSE,60.9974,-147.2266
+AK43,Birchwood,,Alaska,US,61.4081,-149.481,"ardac,eds,ncr",9.3,TRUE,61.1628,-149.6687
+AK44,Bird Point,,Alaska,US,60.9311,-149.358,"ardac,eds,ncr",0.3,TRUE,61.0196,-149.8341
+AK560,Blair Lake Air Force Rangeex,,Alaska,US,64.3876,-147.6672,eds,332.1,FALSE,61.0174,-147.1375
+AK45,Bodenburg Butte,,Alaska,US,61.5495,-149.047,"ardac,eds,ncr",11.9,TRUE,61.1647,-149.9367
+AK466,Bogoslof Island Refuge,,Alaska,US,53.9379,-168.0438,"ardac,eds",40.9,TRUE,53.9943,-168.1916
+AK46,Boswell Bay,,Alaska,US,60.4001,-146.133,"ardac,eds",1.9,TRUE,60.4813,-146.2636
+AK47,Brevig Mission,Sitaisaq,Alaska,US,65.3347,-166.489,"ardac,eds,ncr",0.7,TRUE,65.3929,-166.6945
+AK48,Buckland,Kaŋiq,Alaska,US,65.9797,-161.123,"ardac,eds,ncr",15.3,TRUE,66.0264,-161.7172
+AK493,Buffalo Soapstone,,Alaska,US,61.6684,-149.1217,"ardac,eds,ncr",19.9,TRUE,61.1114,-149.6975
+AK494,Butte,,Alaska,US,61.5417,-149.0363,"ardac,eds,ncr",12.1,TRUE,61.157,-149.9259
+AK49,Candle,,Alaska,US,65.9133,-161.924,"ardac,eds,ncr",7.5,TRUE,65.9968,-161.7287
+AK467,Canoe Passage State Marine Park,,Alaska,US,60.5181,-146.1118,"ardac,eds,ncr",0.5,TRUE,60.5993,-146.2428
+AK50,Cantwell,Yidateni Na’,Alaska,US,63.3917,-148.951,"ardac,eds,ncr",211.4,FALSE,61.0572,-149.81
+AK51,Cape Lisburne,,Alaska,US,68.8678,-166.193,"ardac,eds,ncr",1.9,TRUE,68.927,-166.4277
+AK52,Cape Pole,,Alaska,US,55.965,-133.798,"ardac,eds,ncr",2.4,TRUE,56.0569,-133.884
+AK53,Cape Yakataga,,Alaska,US,60.0652,-142.428,"ardac,eds,ncr",3.5,TRUE,60.1498,-142.5479
+AK468,Captain Cook State Recreation Area,,Alaska,US,60.7858,-151.0463,"ardac,eds,ncr",1.2,TRUE,60.862,-151.1905
+AK54,Central,,Alaska,US,65.5724,-144.803,"ardac,eds,ncr",474.1,FALSE,69.5226,-140.6834
+AK55,Chakaktolik,,Alaska,US,61.7711,-163.625,"ardac,eds,ncr",59.3,TRUE,62.2369,-164.9928
+AK56,Chakwaktolik,,Alaska,US,61.2291,-163.754,"ardac,eds,ncr",25.8,TRUE,60.7354,-164.7674
+AK57,Chalkyitsik,Jałgiitsik,Alaska,US,66.6544,-143.722,"ardac,eds,ncr",344.8,FALSE,69.5275,-140.8184
+AK58,Chaniliut,,Alaska,US,63.0332,-163.417,"ardac,eds,ncr",2.6,TRUE,63.0952,-163.6006
+AK495,Chase,,Alaska,US,62.4251,-150.1245,"ardac,eds,ncr",107.7,FALSE,61.2087,-150.4258
+AK60,Chatham,,Alaska,US,57.514,-134.924,"ardac,eds,ncr",4.0,TRUE,57.5589,-134.7256
+AK61,Chefornak,Cevvʼarneq / Caputnguaq,Alaska,US,60.1607,-164.271,"ardac,eds,ncr",10.6,TRUE,60.2216,-164.4401
+AK62,Chena Hot Springs,,Alaska,US,65.053,-146.056,"ardac,eds,ncr",427.7,FALSE,61.1064,-147.1946
+AK496,Chena Ridge,,Alaska,US,64.8228,-147.9764,"ardac,eds,ncr",376.2,FALSE,61.06,-149.8515
+AK561,Chena River Research,,Alaska,US,64.8283,-146.9699,eds,388.8,FALSE,60.9896,-146.9544
+AK63,Chenega Bay,Caniqaq,Alaska,US,60.0746,-148.003,"ardac,eds,ncr",0.9,TRUE,59.9926,-148.1656
+AK64,Chevak,Cevʼaq,Alaska,US,61.5278,-165.586,"ardac,eds,ncr",10.2,TRUE,61.587,-165.765
+AK65,Chickaloon,Nay’dini’aa Na’,Alaska,US,61.7967,-148.463,"ardac,eds,ncr",53.1,TRUE,61.1033,-149.75
+AK66,Chicken,,Alaska,US,64.0733,-141.936,"ardac,eds,ncr",397.3,FALSE,61.0245,-146.644
+AK67,Chignik,Cirniq,Alaska,US,56.2953,-158.402,"ardac,eds",0.8,TRUE,56.2015,-158.523
+AK68,Chignik Lagoon,Nanwarnaq,Alaska,US,56.3104,-158.5361,"ardac,eds,ncr",0.9,TRUE,56.3895,-158.3844
+AK69,Chignik Lake,Igyaraq,Alaska,US,56.2552,-158.7696,"ardac,eds,ncr",7.8,TRUE,56.1726,-158.5984
+AK446,Chilkat River Critical Habitat Area,,Alaska,US,59.373,-135.8596,"ardac,eds,ncr",18.3,TRUE,58.8176,-135.0012
+AK70,Chiniak,,Alaska,US,57.617,-152.2166,"ardac,eds,ncr",3.0,TRUE,57.6921,-152.3503
+AK71,Chisana,,Alaska,US,62.0671,-142.049,"ardac,eds,ncr",203.9,FALSE,60.2379,-142.873
+AK72,Chistochina,Tsiis Tl’edze’ Caegge,Alaska,US,62.565,-144.665,"ardac,eds,ncr",181.7,FALSE,60.9605,-146.64
+AK73,Chitina,Tsedi Na',Alaska,US,61.5158,-144.437,"ardac,eds,ncr",89.9,TRUE,60.6997,-145.839
+AK74,Christian,,Alaska,US,67.3673,-145.2,"ardac,eds,ncr",288.3,FALSE,69.7566,-142.176
+AK75,Chuathbaluk,Curarpalek,Alaska,US,61.5726,-159.235,"ardac,eds,ncr",172.1,FALSE,60.5036,-162.5386
+AK447,Chugach National Forest Municipal Watershed,,Alaska,US,60.5195,-145.7223,"ardac,eds,ncr",3.7,TRUE,60.6011,-145.8523
+AK76,Chuloonawick,,Alaska,US,62.8961,-163.894,"ardac,eds,ncr",11.0,TRUE,63.0926,-164.4874
+AK77,Circle,Danzhit Khànląįį,Alaska,US,65.8255,-144.061,"ardac,eds,ncr",437.7,FALSE,69.5037,-140.8608
+AK78,Circle Hot Springs,,Alaska,US,65.4833,-144.634,"ardac,eds,ncr",481.4,FALSE,69.4608,-140.9487
+AK79,Clam Gulch,,Alaska,US,60.2311,-151.394,"ardac,eds,ncr",2.4,TRUE,60.3069,-151.5365
+AK80,Clark's Point,Saguyaq,Alaska,US,58.8441,-158.551,"ardac,eds,ncr",0.4,TRUE,58.912,-158.7028
+AK81,Clear,,Alaska,US,64.3332,-149.167,"ardac,eds,ncr",315.4,FALSE,61.1779,-149.7993
+AK562,Clear Air Force Station,,Alaska,US,64.2882,-149.1907,eds,310.4,FALSE,61.1329,-149.8198
+AK82,Clover Pass,,Alaska,US,55.472,-131.791,"ardac,eds,ncr",1.3,TRUE,55.5654,-131.8709
+AK83,Coffman Cove,,Alaska,US,56.0119,-132.8296,"ardac,eds,ncr",1.5,TRUE,55.8457,-133.3689
+AK84,Cohoe,,Alaska,US,60.3671,-151.3,"ardac,eds,ncr",2.0,TRUE,60.443,-151.4429
+AK85,Cold Bay,,Alaska,US,55.1858,-162.721,"ardac,eds,ncr",2.0,TRUE,55.2489,-162.8653
+AK497,Coldfoot,,Alaska,US,67.251,-150.1744,"ardac,eds,ncr",342.2,FALSE,70.2293,-148.0057
+AK86,College,,Alaska,US,64.8582,-147.808,"ardac,eds,ncr",381.6,FALSE,61.0973,-149.705
+AK87,Cooper Landing,,Alaska,US,60.4906,-149.833,"ardac,eds,ncr",47.2,TRUE,60.0731,-149.7064
+AK88,Copper Center,Tl’aticae’e,Alaska,US,61.955,-145.305,"ardac,eds,ncr",106.0,FALSE,60.9692,-146.7405
+AK89,Cordova,,Alaska,US,60.5428,-145.757,"ardac,eds,ncr",0.8,TRUE,60.6243,-145.8872
+AK90,Council,,Alaska,US,64.895,-163.676,"ardac,eds,ncr",34.4,TRUE,64.6813,-163.0091
+AK498,Covenant Life,,Alaska,US,59.4003,-136.0027,"ardac,eds,ncr",27.0,TRUE,58.8458,-135.1412
+AK91,Craig,Sháan Séet,Alaska,US,55.4764,-133.148,"ardac,eds",1.6,TRUE,55.5688,-133.2313
+AK92,Crooked Creek,Qipcarpak,Alaska,US,61.87,-158.111,"ardac,eds,ncr",239.9,FALSE,63.4563,-161.0533
+AK499,Crown Point,,Alaska,US,60.4289,-149.3707,"ardac,eds,ncr",34.2,TRUE,60.0222,-149.5754
+AK448,Dall Bay State Marine Park,,Alaska,US,55.1559,-131.749,"ardac,eds,ncr",1.0,TRUE,55.2494,-131.8282
+AK93,Deadhorse,,Alaska,US,70.2097,-148.418,"ardac,eds,ncr",11.3,TRUE,70.2763,-148.1422
+AK449,Decision Point State Marine Park,,Alaska,US,60.8016,-148.464,"ardac,eds,ncr",0.8,TRUE,60.8526,-147.9354
+AK94,Deering,Ipnatchiaq,Alaska,US,66.0755,-162.717,"ardac,eds,ncr",1.1,TRUE,66.1386,-162.9197
+AK95,Delta Junction,,Alaska,US,64.0377,-145.732,"ardac,eds,ncr",324.7,FALSE,61.0619,-146.6581
+AK500,Deltana,,Alaska,US,64.0404,-145.5182,"ardac,eds,ncr",327.2,FALSE,61.0838,-146.799
+AK501,Denali Park,,Alaska,US,63.6388,-148.7895,"ardac,eds,ncr",239.7,FALSE,61.1434,-149.6891
+AK502,Diamond Ridge,,Alaska,US,59.6814,-151.6226,"ardac,eds,ncr",7.0,TRUE,59.757,-151.7633
+AK96,Dillingham,Curyung,Alaska,US,59.0397,-158.457,"ardac,eds,ncr",1.4,TRUE,58.9461,-158.5876
+AK97,Diomede,Iŋaliq,Alaska,US,65.7648,-168.911,"ardac,eds,ncr",0.4,TRUE,65.8199,-169.1248
+AK98,Dot Lake,Kelt’aaddh Menn’,Alaska,US,63.663,-144.049,"ardac,eds,ncr",305.7,FALSE,60.9578,-146.7371
+AK503,Dot Lake Village,,Alaska,US,63.6568,-144.0484,"ardac,eds,ncr",305.1,FALSE,60.9516,-146.7361
+AK99,Douglas,,Alaska,US,58.2762,-134.392,"ardac,eds,ncr",0.8,TRUE,58.1652,-134.2793
+AK469,Driftwood Bay State Marine Park,,Alaska,US,59.9128,-149.2571,"ardac,eds,ncr",1.4,TRUE,59.9909,-149.3933
+AK100,Dry Creek,,Alaska,US,63.7,-144.567,"ardac,eds,ncr",300.5,FALSE,60.9686,-146.8802
+AK101,Dutch Harbor,,Alaska,US,53.891,-166.535,"ardac,eds",3.2,TRUE,53.9494,-166.6805
+AK573,Dyke Range,,Alaska,US,64.7118,-147.3332,eds,371.2,FALSE,61.0346,-147.2404
+AK102,Eagle,Tthee T'äwdlenn,Alaska,US,64.788,-141.2,"ardac,eds,ncr",482.9,FALSE,68.7892,-136.5351
+AK103,Eagle River,,Alaska,US,61.3221,-149.567,"ardac,eds,ncr",9.3,TRUE,61.0767,-149.7535
+AK104,Eagle Village,,Alaska,US,64.7805,-141.114,"ardac,eds,ncr",484.5,FALSE,68.8215,-136.8652
+AK441,Eareckson Air Station,,Alaska,US,52.7122,174.1136,"ardac,eds",1.2,TRUE,52.7434,173.9509
+AK105,Edna Bay,,Alaska,US,55.9489,-133.662,"ardac,eds,ncr",1.3,TRUE,56.0409,-133.7476
+AK106,Eek,Ekvicuaq,Alaska,US,60.2189,-162.024,"ardac,eds,ncr",7.5,TRUE,60.2623,-162.515
+AK107,Egavik,,Alaska,US,64.0332,-160.917,"ardac,eds,ncr",1.8,TRUE,64.0983,-161.1015
+AK108,Egegik,Igyagiiq,Alaska,US,58.2155,-157.376,"ardac,eds,ncr",1.1,TRUE,58.2848,-157.5227
+AK109,Egorkovskoi,,Alaska,US,53.564,-168.0,"ardac,eds,ncr",0.9,TRUE,53.6205,-168.1464
+AK442,Eielson Air Force Base,,Alaska,US,64.6656,-147.1014,"ardac,eds,ncr",369.6,FALSE,60.9884,-147.0353
+AK563,Eielson Alpa Research (1-1),,Alaska,US,65.2349,-147.763,eds,423.2,FALSE,61.15,-149.7318
+AK564,Eielson Alpa Research (2-2),,Alaska,US,65.1945,-147.3161,eds,423.4,FALSE,61.0159,-146.9922
+AK565,Eielson Alpa Research (2-3),,Alaska,US,65.0653,-147.5641,eds,406.7,FALSE,61.0488,-147.175
+AK566,Eielson Alpa Research (2-4),,Alaska,US,65.0994,-148.0044,eds,406.4,FALSE,61.1737,-149.9133
+AK568,Eielson Alpa Research (3-23),,Alaska,US,65.027,-147.1964,eds,406.8,FALSE,61.0267,-147.1881
+AK567,Eielson Alpa Research (3-3),,Alaska,US,64.9103,-147.4459,eds,391.2,FALSE,61.055,-147.0384
+AK569,Eielson Alpa Research (3-34),,Alaska,US,64.945,-147.861,eds,390.6,FALSE,61.1831,-149.7569
+AK110,Eklutna,Idlughet,Alaska,US,61.458,-149.362,"ardac,eds,ncr",3.3,TRUE,61.0617,-149.9092
+AK111,Ekuk,,Alaska,US,58.804,-158.541,"ardac,eds,ncr",0.6,TRUE,58.8719,-158.6926
+AK112,Ekwok,Iquaq,Alaska,US,59.3497,-157.475,"ardac,eds,ncr",43.7,TRUE,58.7718,-157.5583
+AK113,Elephant Point,,Alaska,US,66.2673,-161.333,"ardac,eds",1.5,TRUE,66.3322,-161.5339
+AK114,Elfin Cove,,Alaska,US,58.1944,-136.343,"ardac,eds",0.4,TRUE,58.2842,-136.4412
+AK115,Elim,Neviarcaurluq,Alaska,US,64.6175,-162.26,"ardac,eds,ncr",0.5,TRUE,64.7012,-162.0745
+AK116,Ellamar,,Alaska,US,60.8961,-146.708,"ardac,eds,ncr",0.5,TRUE,60.9767,-146.842
+AK570,Elmendorf Air Force Base,,Alaska,US,61.2698,-149.8112,eds,3.4,TRUE,61.1857,-149.9751
+AK583,Elmendorf Air Force Base Site 2,,Alaska,US,61.24,-149.765,eds,6.7,TRUE,61.1559,-149.9289
+AK117,Emmonak,Imangaq,Alaska,US,62.7778,-164.523,"ardac,eds,ncr",3.2,TRUE,62.8119,-165.0588
+AK470,Entry Cove State Marine Park,,Alaska,US,60.8048,-148.3636,"ardac,eds,ncr",1.1,TRUE,60.8554,-147.8348
+AK450,Ernie Haugen Public Use Area,,Alaska,US,56.5421,-132.6616,"ardac,eds,ncr",0.9,TRUE,56.3767,-133.2095
+AK119,Eska,,Alaska,US,61.7381,-148.906,"ardac,eds,ncr",32.2,TRUE,61.1926,-149.8241
+AK120,Ester,,Alaska,US,64.8472,-148.014,"ardac,eds,ncr",378.6,FALSE,61.0838,-149.8861
+AK504,Eureka Roadhouse,,Alaska,US,61.9375,-147.1688,"ardac,eds,ncr",79.3,TRUE,61.0347,-147.1769
+AK505,Evansville,,Alaska,US,66.9238,-151.5061,"ardac,eds,ncr",381.0,FALSE,70.2054,-148.0652
+AK122,Excursion Inlet,,Alaska,US,58.417,-135.441,"ardac,eds,ncr",0.6,TRUE,58.4626,-135.2381
+AK123,Eyak,Igya’aq,Alaska,US,60.5652,-145.7,"ardac,eds,ncr",4.3,TRUE,60.6468,-145.8302
+AK124,Fairbanks,,Alaska,US,64.8378,-147.716,"ardac,eds,ncr",380.3,FALSE,60.9834,-147.2769
+AK574,Fairbanks Eielson Pipeline,,Alaska,US,64.6656,-147.1014,eds,369.6,FALSE,60.9884,-147.0353
+AK575,Fairbanks Permafrost Station,,Alaska,US,64.8743,-147.68,eds,384.7,FALSE,61.0197,-147.2447
+AK125,False Pass,Isanax̂,Alaska,US,54.8548,-163.407,"ardac,eds,ncr",0.8,TRUE,54.9171,-163.5512
+AK506,Farm Loop,,Alaska,US,61.6354,-149.1482,"ardac,eds,ncr",16.0,TRUE,61.0783,-149.723
+AK507,Farmers Loop,,Alaska,US,64.8988,-147.6978,"ardac,eds,ncr",387.2,FALSE,61.0442,-147.2601
+AK126,Ferry,,Alaska,US,64.0172,-149.117,"ardac,eds,ncr",280.3,FALSE,61.1859,-149.7048
+AK127,Fish Village,,Alaska,US,62.5212,-163.847,"ardac,eds,ncr",38.6,TRUE,62.5322,-164.726
+AK508,Fishhook,,Alaska,US,61.6718,-149.2239,"ardac,eds,ncr",18.7,TRUE,61.1144,-149.798
+AK128,Flat,,Alaska,US,62.4536,-158.007,"ardac,eds,ncr",198.5,FALSE,63.38,-161.2111
+AK129,Fort Glenn,,Alaska,US,53.3956,-167.881,"ardac,eds,ncr",1.6,TRUE,53.4861,-167.7604
+AK440,Fort Greely,,Alaska,US,63.9731,-145.7181,"ardac,eds,ncr",318.1,FALSE,60.9975,-146.6436
+AK576,Fort Richardson,,Alaska,US,61.2656,-149.641,eds,10.4,TRUE,61.1817,-149.8054
+AK438,Fort Wainwright,,Alaska,US,64.8278,-147.6429,"ardac,eds,ncr",380.0,FALSE,60.9733,-147.2127
+AK130,Fort Yukon,Gwichyaa Zheh,Alaska,US,66.5647,-145.274,"ardac,eds,ncr",377.4,FALSE,69.7881,-142.4092
+AK509,Four Mile Road,,Alaska,US,64.6018,-149.1306,"ardac,eds,ncr",345.4,FALSE,61.1229,-149.8148
+AK131,Fox,,Alaska,US,64.958,-147.618,"ardac,eds,ncr",394.4,FALSE,61.103,-147.1891
+AK510,Fox River,,Alaska,US,59.8164,-151.0895,"ardac,eds,ncr",2.5,TRUE,60.0608,-151.542
+AK471,Fox River Flats Critical Habitat Area,,Alaska,US,59.7935,-150.925,"ardac,eds,ncr",4.1,TRUE,59.5388,-150.772
+AK511,Fritz Creek,,Alaska,US,59.6915,-151.3746,"ardac,eds,ncr",1.9,TRUE,59.6055,-151.5268
+AK512,Funny River,,Alaska,US,60.5021,-150.7939,"ardac,eds,ncr",26.7,TRUE,60.5856,-151.2675
+AK451,Funter Bay State Marine Park,,Alaska,US,58.2505,-134.9227,"ardac,eds,ncr",1.0,TRUE,58.1858,-135.1044
+AK132,Gakona,Ggax Kuna’,Alaska,US,62.3019,-145.302,"ardac,eds,ncr",141.0,FALSE,60.9941,-146.8265
+AK133,Galena,Notaalee Denh,Alaska,US,64.7333,-156.927,"ardac,eds,ncr",183.9,FALSE,64.681,-160.9
+AK134,Gambell,Sivuqaq,Alaska,US,63.7797,-171.741,"ardac,eds",0.5,TRUE,63.8309,-171.9454
+AK513,Game Creek,,Alaska,US,58.0752,-135.484,"ardac,eds,ncr",2.6,TRUE,58.1209,-135.2832
+AK514,Gateway,,Alaska,US,61.5638,-149.2645,"ardac,eds,ncr",6.4,TRUE,61.1679,-149.8148
+AK135,Georgetown,,Alaska,US,61.9085,-157.787,"ardac,eds,ncr",248.9,FALSE,63.4847,-161.0784
+AK136,Girdwood,,Alaska,US,60.9421,-149.167,"ardac,eds,ncr",0.6,TRUE,61.0415,-149.9784
+AK515,Glacier View,,Alaska,US,61.7977,-147.6026,"ardac,eds,ncr",58.3,TRUE,61.04,-147.2313
+AK137,Glennallen,,Alaska,US,62.1092,-145.546,"ardac,eds,ncr",116.3,FALSE,60.9425,-146.6829
+AK516,Goldstream,,Alaska,US,64.9131,-147.9051,"ardac,eds,ncr",386.7,FALSE,61.1508,-149.7939
+AK452,Goldstream Public Use Area,,Alaska,US,64.93,-147.7653,"ardac,eds,ncr",389.9,FALSE,61.1693,-149.6717
+AK138,Golovin,Cingik / Siŋik,Alaska,US,64.5433,-163.029,"ardac,eds,ncr",1.8,TRUE,64.4451,-163.1694
+AK139,Goodnews Bay,Mamterat,Alaska,US,59.1186,-161.589,"ardac,eds,ncr",0.7,TRUE,59.1828,-161.748
+AK140,Grayling,Sixno' Xidakagg,Alaska,US,62.9062,-160.077,"ardac,eds,ncr",87.1,TRUE,63.4235,-161.079
+AK141,Gulkana,C'uul C'ena',Alaska,US,62.2714,-145.382,"ardac,eds,ncr",136.3,FALSE,60.9627,-146.9018
+AK142,Gustavus,,Alaska,US,58.4125,-135.738,"ardac,eds,ncr",3.6,TRUE,58.5027,-135.8352
+AK143,Haines,Deishú,Alaska,US,59.2358,-135.445,"ardac,eds,ncr",1.2,TRUE,58.9251,-135.1101
+AK517,Halibut Cove,,Alaska,US,59.5906,-151.2335,"ardac,eds,ncr",1.2,TRUE,59.5108,-151.7064
+AK518,Happy Valley,,Alaska,US,59.9328,-151.729,"ardac,eds,ncr",6.2,TRUE,60.0083,-151.871
+AK519,Harding-Birch Lakes,,Alaska,US,64.3481,-146.855,"ardac,eds,ncr",340.4,FALSE,61.0108,-147.0791
+AK145,Haycock,,Alaska,US,65.2172,-161.167,"ardac,eds,ncr",30.7,TRUE,64.9592,-161.2751
+AK472,Hazen Bay Refuge,,Alaska,US,60.8465,-165.0807,"ardac,eds",7.1,TRUE,60.9063,-165.255
+AK146,Healy,,Alaska,US,63.8578,-148.966,"ardac,eds,ncr",263.1,FALSE,61.1994,-149.8789
+AK147,Healy Lake,Mendees Cheeg,Alaska,US,63.9441,-144.755,"ardac,eds,ncr",324.0,FALSE,61.0311,-146.7702
+AK148,Highland Park,,Alaska,US,64.7582,-147.371,"ardac,eds,ncr",375.7,FALSE,61.0641,-146.9388
+AK520,Hobart Bay,,Alaska,US,57.401,-133.4127,"ardac,eds,ncr",0.6,TRUE,57.493,-133.5012
+AK149,Holikachuk,,Alaska,US,62.9112,-159.517,"ardac,eds,ncr",106.9,FALSE,63.3989,-161.2322
+AK150,Hollis,,Alaska,US,55.4879,-132.663,"ardac,eds,ncr",1.4,TRUE,55.477,-133.1073
+AK151,Holy Cross,Ingirraller / Deloy Chet,Alaska,US,62.1994,-159.771,"ardac,eds,ncr",162.7,FALSE,63.5073,-161.2918
+AK152,Homer,,Alaska,US,59.6425,-151.548,"ardac,eds,ncr",4.3,TRUE,59.5563,-151.6995
+AK153,Hoonah,Xunaa / Gaaw Yat’aḵ Aan,Alaska,US,58.11,-135.444,"ardac,eds,ncr",0.3,TRUE,58.2005,-135.5396
+AK154,Hooper Bay,Naparyaarmiut,Alaska,US,61.5311,-166.097,"ardac,eds,ncr",0.6,TRUE,61.5896,-166.277
+AK155,Hope,,Alaska,US,60.9203,-149.64,"ardac,eds,ncr",2.1,TRUE,60.998,-149.7814
+AK473,Horseshoe Bay State Marine Park,,Alaska,US,60.0322,-147.9418,"ardac,eds",0.5,TRUE,60.1116,-148.0753
+AK156,Houston,,Alaska,US,61.6302,-149.818,"ardac,eds,ncr",18.2,TRUE,61.2228,-150.0247
+AK157,Hughes,Hut’odlee Kkaakk’et,Alaska,US,66.0488,-154.255,"ardac,eds,ncr",272.1,FALSE,66.4481,-161.3363
+AK158,Huslia,Ts’aateyhdenaadekk’onh Denh,Alaska,US,65.6986,-156.4,"ardac,eds,ncr",191.1,FALSE,64.9779,-161.1277
+AK159,Hydaburg,Higdáa G̱ándlaay,Alaska,US,55.208,-132.827,"ardac,eds,ncr",1.8,TRUE,55.1462,-132.9976
+AK160,Hyder,,Alaska,US,55.9169,-130.025,"ardac,eds,ncr",1.0,TRUE,55.6226,-131.5838
+AK161,Iditarod,,Alaska,US,62.5448,-158.094,"ardac,eds,ncr",188.6,FALSE,63.4692,-161.3106
+AK162,Igiugig,Igyaraq,Alaska,US,59.3278,-155.895,"ardac,eds,ncr",54.1,TRUE,59.2526,-154.123
+AK163,Ikatan,,Alaska,US,54.75,-163.308,"ardac,eds,ncr",1.3,TRUE,54.6513,-163.4119
+AK164,Iliamna,Illiamna,Alaska,US,59.7536,-154.817,"ardac,eds,ncr",56.3,TRUE,59.6669,-153.6704
+AK165,Inakpuk,,Alaska,US,59.5331,-157.15,"ardac,eds,ncr",47.1,TRUE,58.7854,-157.5378
+AK166,Indian,,Alaska,US,60.9881,-149.513,"ardac,eds,ncr",0.2,TRUE,61.0659,-149.6544
+AK167,Indian River,,Alaska,US,62.6672,-144.433,"ardac,eds,ncr",197.5,FALSE,61.0838,-146.7607
+AK168,Ingrihak,,Alaska,US,61.7561,-162.0,"ardac,eds,ncr",114.8,FALSE,60.4941,-162.5049
+AK474,Ishtalitna Creek Hot Springs Research Natural Area,,Alaska,US,65.8669,-151.6311,"ardac,eds,ncr",393.2,FALSE,66.4392,-161.4888
+AK169,Ivanof Bay,,Alaska,US,55.8996,-159.507,"ardac,eds,ncr",0.8,TRUE,55.6561,-159.3127
+AK475,Jack Bay State Marine Park,,Alaska,US,61.032,-146.5743,"ardac,eds,ncr",0.3,TRUE,60.9518,-146.7453
+AK453,Joe Mace Island State Marine Park,,Alaska,US,56.3473,-133.635,"ardac,eds",1.3,TRUE,56.4393,-133.7215
+AK170,Joe Ward Camp,,Alaska,US,66.8673,-143.699,"ardac,eds,ncr",321.8,FALSE,69.5805,-140.857
+AK439,Joint Base Elmendorf-Richardson,,Alaska,US,61.2514,-149.8064,"ardac,eds,ncr",4.4,TRUE,61.1673,-149.9703
+AK171,Jonesville,,Alaska,US,61.7311,-148.933,"ardac,eds,ncr",30.8,TRUE,61.1854,-149.8504
+AK172,Juneau,Dzánti K'ihéeni,Alaska,US,58.3019,-134.42,"ardac,eds,ncr",2.1,TRUE,58.238,-134.6029
+AK173,Kachemak,,Alaska,US,59.6488,-151.451,"ardac,eds,ncr",0.9,TRUE,59.5628,-151.6028
+AK174,Kake,Ḵéex̱ʼ,Alaska,US,56.9758,-133.947,"ardac,eds,ncr",4.2,TRUE,57.0675,-134.0358
+AK176,Kaktovik,Qaaktuġvik,Alaska,US,70.1131,-143.6623,"ardac,eds,ncr",2.5,TRUE,70.1983,-143.8391
+AK177,Kalifornsky,Unhghenesditnu,Alaska,US,60.4412,-151.198,"ardac,eds,ncr",6.0,TRUE,60.5172,-151.341
+AK179,Kaltag,Ggaał Doh,Alaska,US,64.3272,-158.722,"ardac,eds,ncr",106.0,FALSE,64.1455,-161.1053
+AK180,Kanakanak,,Alaska,US,59.0031,-158.533,"ardac,eds,ncr",0.7,TRUE,59.071,-158.6855
+AK443,Kantishna,,Alaska,US,63.5253,-150.9581,"ardac,eds,ncr",237.4,FALSE,61.1594,-150.6607
+AK454,Kanuti Hot Springs Area Of Critical Environmental Concern,,Alaska,US,66.3427,-150.8468,"ardac,eds,ncr",419.7,FALSE,70.2922,-148.153
+AK181,Karluk,Kal’ut,Alaska,US,57.5719,-154.455,"ardac,eds,ncr",0.5,TRUE,57.6445,-154.5932
+AK182,Kasaan,Gasa'áan,Alaska,US,55.5389,-132.401,"ardac,eds,ncr",0.4,TRUE,55.5271,-131.9386
+AK183,Kashega,,Alaska,US,53.467,-167.16,"ardac,eds,ncr",0.7,TRUE,53.5246,-167.3048
+AK184,Kashegelok,,Alaska,US,60.8331,-157.833,"ardac,eds,ncr",189.5,FALSE,58.9308,-158.7101
+AK185,Kasigluk,Kassigluq,Alaska,US,60.8955,-162.521,"ardac,eds,ncr",26.0,TRUE,60.4769,-162.5612
+AK186,Kasilof,,Alaska,US,60.3375,-151.274,"ardac,eds,ncr",5.6,TRUE,60.4135,-151.4167
+AK187,Kathakne,,Alaska,US,62.9692,-141.832,"ardac,eds,ncr",291.3,FALSE,60.183,-143.0249
+AK188,Kenai,Shk'ituk't,Alaska,US,60.5544,-151.258,"ardac,eds,ncr",1.8,TRUE,60.6304,-151.4016
+AK476,Kenai River Special Management Area,,Alaska,US,60.5069,-150.9635,"ardac,eds,ncr",17.4,TRUE,60.5832,-151.1062
+AK189,Kenny Lake,,Alaska,US,61.7379,-144.945,"ardac,eds,ncr",98.8,TRUE,60.9349,-146.6766
+AK190,Kepangalook,,Alaska,US,60.8501,-161.617,"ardac,eds,ncr",21.8,TRUE,60.3929,-162.3238
+AK191,Ketchikan,Kichx̱áan,Alaska,US,55.3422,-131.646,"ardac,eds,ncr",1.0,TRUE,55.2821,-131.8191
+AK192,Kiana,Katyaaq,Alaska,US,66.975,-160.423,"ardac,eds,ncr",35.8,TRUE,66.8258,-161.8116
+AK193,Kinegnak,,Alaska,US,58.8331,-161.667,"ardac,eds,ncr",1.9,TRUE,58.8972,-161.8248
+AK194,King Cove,Agdaaĝux̂,Alaska,US,55.0629,-162.31,"ardac,eds",0.6,TRUE,55.1265,-162.4532
+AK195,King Island,Ugiuvak,Alaska,US,64.9694,-168.065,"ardac,eds,ncr",1.4,TRUE,65.0255,-168.2711
+AK196,King Salmon,,Alaska,US,58.6883,-156.661,"ardac,eds,ncr",17.1,TRUE,58.5813,-157.4193
+AK197,Kipnuk,Qipnek,Alaska,US,59.9389,-164.041,"ardac,eds,ncr",5.3,TRUE,60.0001,-164.2086
+AK198,Kivalina,Kivaliñiq,Alaska,US,67.7269,-164.533,"ardac,eds,ncr",2.6,TRUE,67.788,-164.7533
+AK199,Kiwalik,,Alaska,US,66.0333,-161.833,"ardac,eds",1.0,TRUE,66.1167,-161.6365
+AK200,Klawock,Lawaak,Alaska,US,55.5522,-133.096,"ardac,eds",0.8,TRUE,55.49,-133.2677
+AK201,Klery Creek,,Alaska,US,67.1793,-160.4,"ardac,eds,ncr",53.3,TRUE,66.8682,-161.7513
+AK202,Klukwan,Tlákw.aan,Alaska,US,59.3991,-135.894,"ardac,eds,ncr",21.2,TRUE,58.8439,-135.0343
+AK203,Knik,,Alaska,US,61.4578,-149.729,"ardac,eds,ncr",1.6,TRUE,61.2122,-149.915
+AK521,Knik River,,Alaska,US,61.4812,-149.13,"ardac,eds,ncr",6.4,TRUE,61.0858,-149.6805
+AK204,Kobuk,Laugviik,Alaska,US,66.9072,-156.881,"ardac,eds,ncr",151.4,FALSE,66.8335,-161.5907
+AK205,Kodiak,Sun'aq,Alaska,US,57.79,-152.407,"ardac,eds,ncr",3.1,TRUE,57.8649,-152.5418
+AK522,Kodiak Station,,Alaska,US,57.7552,-152.514,"ardac,eds,ncr",1.4,TRUE,57.83,-152.6489
+AK206,Kokhanok,Qarr’unaq,Alaska,US,59.4426,-154.761,"ardac,eds,ncr",35.5,TRUE,59.1937,-154.263
+AK207,Kokrines,Łoyh Denlekk’es Denh,Alaska,US,64.9332,-154.7,"ardac,eds,ncr",289.9,FALSE,64.8517,-160.9929
+AK208,Koliganek,Qalirneq,Alaska,US,59.7286,-157.284,"ardac,eds,ncr",70.1,TRUE,58.9503,-158.6169
+AK209,Kongiganak,Kangirnaq,Alaska,US,59.9647,-162.877,"ardac,eds,ncr",4.6,TRUE,59.8669,-162.9985
+AK210,Kotlik,Qerrulliik,Alaska,US,63.0341,-163.553,"ardac,eds,ncr",4.5,TRUE,63.0959,-163.7369
+AK211,Kotzebue,Qikiqtaġruk,Alaska,US,66.8983,-162.597,"ardac,eds,ncr",1.8,TRUE,66.8,-162.7516
+AK212,Koyuk,Kuuyuk,Alaska,US,64.9319,-161.157,"ardac,eds,ncr",0.8,TRUE,65.0143,-160.9662
+AK213,Koyukuk,Meneelghaadze’ T’oh,Alaska,US,64.8802,-157.701,"ardac,eds,ncr",147.8,FALSE,64.8435,-160.9332
+AK214,Kupreanof,,Alaska,US,56.8153,-133.006,"ardac,eds,ncr",1.2,TRUE,57.1121,-133.2841
+AK215,Kustatan,Qezdeghnen,Alaska,US,60.7171,-151.75,"ardac,eds,ncr",0.2,TRUE,60.6307,-151.906
+AK216,Kvichak,,Alaska,US,58.9671,-156.933,"ardac,eds,ncr",1.2,TRUE,58.6968,-157.6791
+AK217,Kwethluk,Kuiggluk,Alaska,US,60.8122,-161.436,"ardac,eds,ncr",27.1,TRUE,60.4963,-162.5132
+AK218,Kwigillingok,Kuigilnguq,Alaska,US,59.8644,-163.134,"ardac,eds,ncr",2.7,TRUE,59.9267,-163.2995
+AK219,Kwiguk,,Alaska,US,62.7683,-164.5067,"ardac,eds,ncr",2.0,TRUE,62.8025,-165.0423
+AK523,Lake Louise,,Alaska,US,62.2721,-146.5351,"ardac,eds,ncr",126.8,FALSE,61.065,-146.9712
+AK220,Lake Minchumina,Menchuh Mene’,Alaska,US,63.8828,-152.312,"ardac,eds,ncr",295.2,FALSE,61.177,-150.9179
+AK455,Lake Todatonten Pingos Research Natural Area,,Alaska,US,66.1055,-152.938,"ardac,eds,ncr",329.7,FALSE,66.3331,-161.5897
+AK221,Larsen Bay,Uyaqsaq,Alaska,US,57.54,-153.979,"ardac,eds,ncr",1.1,TRUE,57.6131,-153.8123
+AK222,Last Tetlin Village,,Alaska,US,63.0332,-142.616,"ardac,eds,ncr",279.5,FALSE,60.1894,-143.0969
+AK223,Latouche,,Alaska,US,60.0511,-147.9,"ardac,eds,ncr",2.1,TRUE,60.1305,-148.0335
+AK524,Lazy Mountain,,Alaska,US,61.6152,-149.0608,"ardac,eds,ncr",16.3,TRUE,61.0687,-149.9727
+AK225,Lena Beach,,Alaska,US,58.393,-134.746,"ardac,eds,ncr",1.4,TRUE,58.484,-134.8406
+AK226,Levelock,Liivlek,Alaska,US,59.115,-156.857,"ardac,eds,ncr",0.6,TRUE,58.6833,-157.59
+AK227,Libbyville,,Alaska,US,58.7781,-157.056,"ardac,eds,ncr",0.7,TRUE,58.6777,-157.5023
+AK228,Lime Village,Hekdichen Hdakaq',Alaska,US,61.3564,-155.436,"ardac,eds,ncr",173.9,FALSE,60.7777,-152.2242
+AK229,Livengood,,Alaska,US,65.5244,-148.545,"ardac,eds,ncr",450.1,FALSE,61.0866,-149.7938
+AK230,Loring,,Alaska,US,55.603,-131.632,"ardac,eds,ncr",0.2,TRUE,55.543,-131.8064
+AK525,Lowell Point,,Alaska,US,60.0709,-149.442,"ardac,eds,ncr",0.9,TRUE,59.9872,-149.6009
+AK231,Lower Kalskag,Qalqaq,Alaska,US,61.5122,-160.358,"ardac,eds,ncr",121.9,FALSE,60.4835,-162.6354
+AK232,Lower Tonsina,Kentsii Cae'e,Alaska,US,61.655,-144.659,"ardac,eds,ncr",104.8,FALSE,60.6563,-145.771
+AK233,Lucky Shot Landing,,Alaska,US,61.7751,-149.408,"ardac,eds,ncr",29.3,TRUE,61.2068,-149.6432
+AK526,Lutak,,Alaska,US,59.3233,-135.5602,"ardac,eds,ncr",0.5,TRUE,58.8119,-135.0092
+AK477,Magoun Islands State Marine Park,,Alaska,US,57.1619,-135.5777,"ardac,eds",1.4,TRUE,57.2078,-135.3821
+AK234,Manley Hot Springs,Too Naaleł Denh,Alaska,US,65.0011,-150.634,"ardac,eds,ncr",394.3,FALSE,61.1844,-150.852
+AK235,Manokotak,Manuquutaq,Alaska,US,58.9796,-159.053,"ardac,eds,ncr",13.1,TRUE,58.8724,-159.4958
+AK236,Mansfield Village,Dihthâad,Alaska,US,63.4672,-143.433,"ardac,eds,ncr",300.1,FALSE,60.9711,-146.7839
+AK237,Marshall,Masserculleq,Alaska,US,61.8778,-162.081,"ardac,eds,ncr",128.2,FALSE,63.1833,-163.3282
+AK238,Marys Igloo,,Alaska,US,65.1478,-165.063,"ardac,eds,ncr",46.6,TRUE,65.0908,-166.7826
+AK239,Matanuska,,Alaska,US,61.5421,-149.229,"ardac,eds,ncr",4.8,TRUE,61.1463,-149.7793
+AK240,McCarthy,,Alaska,US,61.4333,-142.922,"ardac,eds,ncr",121.5,FALSE,60.1864,-142.8323
+AK241,McGrath,Tochak’,Alaska,US,62.9564,-155.596,"ardac,eds,ncr",274.0,FALSE,63.8494,-160.9866
+AK242,McKinley Park Airport,,Alaska,US,63.7331,-148.9111,"ardac,eds,ncr",249.5,FALSE,61.0752,-149.8251
+AK527,Meadow Lakes,,Alaska,US,61.5846,-149.628,"ardac,eds,ncr",10.8,TRUE,61.1775,-149.8368
+AK243,Meakerville,,Alaska,US,60.5421,-145.008,"ardac,eds,ncr",1.1,TRUE,60.4639,-145.1803
+AK244,Medfra,,Alaska,US,63.1067,-154.714,"ardac,eds,ncr",287.5,FALSE,61.2003,-150.7658
+AK245,Mekoryuk,Mikuryar,Alaska,US,60.388,-166.185,"ardac,eds,ncr",0.3,TRUE,60.4464,-166.3588
+AK246,Mendeltna,,Alaska,US,62.0487,-146.5386,"ardac,eds,ncr",101.8,FALSE,61.0027,-146.936
+AK247,Mentasta Lake,Mendaesde,Alaska,US,62.9212,-143.792,"ardac,eds,ncr",239.0,FALSE,61.0623,-146.9184
+AK528,Mertarvik,,Alaska,US,60.8196,-164.5123,"ardac,eds,ncr",2.6,TRUE,60.6941,-164.9605
+AK248,Metlakatla,Maxłakxaała,Alaska,US,55.1292,-131.572,"ardac,eds",0.6,TRUE,55.2228,-131.6507
+AK249,Meyers Chuck,,Alaska,US,55.7408,-132.256,"ardac,eds,ncr",0.4,TRUE,55.5749,-131.8854
+AK529,Mill Bay,,Alaska,US,57.8195,-152.3559,"ardac,eds,ncr",1.3,TRUE,57.7323,-152.4976
+AK250,Minto,,Alaska,US,65.1496,-149.3504,"ardac,eds,ncr",406.2,FALSE,61.1832,-150.0828
+AK478,Misty Fjords National Monument,,Alaska,US,55.7913,-130.7927,"ardac,eds,ncr",8.3,TRUE,55.6884,-131.6093
+AK530,Moose Creek,,Alaska,US,64.7155,-147.1645,"ardac,eds,ncr",374.0,FALSE,61.0382,-147.0911
+AK251,Moose Pass,,Alaska,US,60.4876,-149.367,"ardac,eds,ncr",37.3,TRUE,60.8993,-149.7947
+AK252,Morzhovoi,,Alaska,US,54.91,-163.303,"ardac,eds,ncr",0.4,TRUE,54.9724,-163.4473
+AK253,Moses Point,,Alaska,US,64.7002,-162.033,"ardac,eds",1.6,TRUE,64.764,-162.2244
+AK531,Mosquito Lake,,Alaska,US,59.4246,-136.016,"ardac,eds,ncr",28.7,TRUE,58.8702,-135.1537
+AK254,Mountain Village,Asaacaryaraq,Alaska,US,62.0884,-163.72,"ardac,eds,ncr",58.5,TRUE,62.2338,-164.9872
+AK532,Mud Bay,,Alaska,US,59.1702,-135.3665,"ardac,eds,ncr",1.4,TRUE,58.8593,-135.033
+AK571,Murphy Dome Long Range Radar Site,,Alaska,US,64.9517,-148.3398,eds,387.7,FALSE,61.1744,-149.8421
+AK256,Nabesna,Naambia Niign Daacheeg,Alaska,US,62.3719,-143.009,"ardac,eds,ncr",203.9,FALSE,60.2997,-142.8623
+AK257,Nakeen,,Alaska,US,58.9361,-157.038,"ardac,eds,ncr",0.7,TRUE,58.674,-157.4699
+AK258,Naknek,Nakniq,Alaska,US,58.7283,-157.014,"ardac,eds,ncr",0.6,TRUE,58.6361,-157.1473
+AK259,Nanwalek,English Bay,Alaska,US,59.354,-151.916,"ardac,eds,ncr",0.5,TRUE,59.4293,-152.056
+AK262,Napaimute,,Alaska,US,61.54,-158.674,"ardac,eds,ncr",196.0,FALSE,60.4644,-162.3213
+AK261,Napakiak,Naparyarraq,Alaska,US,60.6967,-161.952,"ardac,eds,ncr",0.7,TRUE,60.4191,-162.3665
+AK263,Napaskiak,Napaskiaq,Alaska,US,60.708,-161.766,"ardac,eds,ncr",6.3,TRUE,60.4106,-162.5096
+AK264,Nash Harbor,,Alaska,US,60.2041,-166.939,"ardac,eds",3.7,TRUE,60.2294,-167.4348
+AK577,National Guard Alcantra Armory Complex,,Alaska,US,61.603,-149.3748,eds,10.4,TRUE,61.2066,-149.9244
+AK585,National Guard Anchorage International Airport,,Alaska,US,61.1599,-149.9695,eds,4.3,TRUE,61.0756,-150.1325
+AK580,National Guard Fairbanks Armory,,Alaska,US,64.8417,-147.7535,eds,380.4,FALSE,61.0815,-149.656
+AK584,National Guard Wasilla Storefront Recruiting Office,,Alaska,US,61.5769,-149.4107,eds,7.2,TRUE,61.1804,-149.9594
+AK533,Naukati Bay,,Alaska,US,55.8762,-133.1921,"ardac,eds,ncr",1.6,TRUE,55.8139,-133.3652
+AK557,Naval Air Facility Adak,,Alaska,US,51.8751,-176.6498,eds,1.4,TRUE,51.9199,-176.8008
+AK265,Nelchina,,Alaska,US,61.996,-146.8203,"ardac,eds,ncr",93.4,TRUE,61.1102,-147.1734
+AK266,Nelson Lagoon,Niilsanam Alĝuudaa,Alaska,US,56.0012,-161.201,"ardac,eds,ncr",1.6,TRUE,56.0661,-161.3459
+AK267,Nenana,Toghotili,Alaska,US,64.5638,-149.093,"ardac,eds,ncr",341.3,FALSE,61.0851,-149.7805
+AK268,New Knockhock,,Alaska,US,62.1291,-164.894,"ardac,eds,ncr",29.1,TRUE,62.1892,-165.0751
+AK269,New Stuyahok,Cetuyaraq,Alaska,US,59.4528,-157.312,"ardac,eds,ncr",44.8,TRUE,58.7046,-157.6954
+AK270,Newhalen,Nuuriileng,Alaska,US,59.72,-154.897,"ardac,eds,ncr",56.8,TRUE,59.3103,-154.0728
+AK271,Newtok,Niugtaq,Alaska,US,60.9427,-164.629,"ardac,eds,ncr",1.2,TRUE,60.8168,-165.0785
+AK272,Nightmute,Negtemiut,Alaska,US,60.4794,-164.724,"ardac,eds,ncr",14.4,TRUE,60.5129,-165.2221
+AK578,Nike Alaska Mike,,Alaska,US,64.5849,-146.7309,eds,367.1,FALSE,61.0862,-147.0053
+AK579,Nike Alaska Peter,,Alaska,US,64.6745,-146.7542,eds,376.1,FALSE,61.0145,-147.0621
+AK273,Nikiski,,Alaska,US,60.6394,-151.334,"ardac,eds,ncr",1.1,TRUE,60.7153,-151.4782
+AK274,Nikolaevsk,,Alaska,US,59.8109,-151.623,"ardac,eds,ncr",12.4,TRUE,59.8865,-151.7642
+AK275,Nikolai,Nikolai,Alaska,US,63.0133,-154.375,"ardac,eds,ncr",268.7,FALSE,61.1063,-150.7958
+AK276,Nikolski,Chalukax̂,Alaska,US,52.938,-168.868,"ardac,eds,ncr",1.6,TRUE,52.9934,-169.0133
+AK277,Nilikluguk,,Alaska,US,60.6501,-165.15,"ardac,eds,ncr",1.4,TRUE,60.7098,-165.3233
+AK278,Ninilchik,,Alaska,US,60.0514,-151.669,"ardac,eds,ncr",2.3,TRUE,60.127,-151.8114
+AK279,Noatak,Nuataam Kuuŋa,Alaska,US,67.5711,-162.965,"ardac,eds,ncr",43.5,TRUE,67.5871,-164.0175
+AK280,Nome,Sitŋasuaq,Alaska,US,64.5107,-165.4447,"ardac,eds,ncr",0.1,TRUE,64.4104,-165.5766
+AK281,Nondalton,Nundaltin,Alaska,US,59.9736,-154.846,"ardac,eds,ncr",72.3,TRUE,59.724,-153.3702
+AK282,Noorvik,Nuurvik,Alaska,US,66.8383,-161.033,"ardac,eds,ncr",19.6,TRUE,66.8854,-161.6465
+AK534,North Lakes,,Alaska,US,61.6135,-149.3298,"ardac,eds,ncr",12.3,TRUE,61.2173,-149.8801
+AK283,North Pole,,Alaska,US,64.7511,-147.349,"ardac,eds,ncr",375.3,FALSE,61.0738,-147.2543
+AK284,Northway,K’ehtthiign,Alaska,US,62.9616,-141.937,"ardac,eds,ncr",287.8,FALSE,60.3343,-143.067
+AK285,Northway Indian Village,,Alaska,US,62.9832,-141.949,"ardac,eds,ncr",289.6,FALSE,60.196,-143.1324
+AK286,Northway Junction,,Alaska,US,63.0173,-141.792,"ardac,eds,ncr",296.9,FALSE,60.2314,-142.99
+AK287,Nuiqsut,Nuiqsat,Alaska,US,70.2175,-150.976,"ardac,eds,ncr",19.4,TRUE,70.6261,-151.1386
+AK288,Nulato,Noolaaghe Doh,Alaska,US,64.7194,-158.103,"ardac,eds,ncr",127.9,FALSE,64.692,-160.9384
+AK289,Nunam Iqua,Sheldon Point,Alaska,US,62.5336,-164.841,"ardac,eds,ncr",0.8,TRUE,62.5938,-165.0244
+AK290,Nunapitchuk,Nunapicuar,Alaska,US,60.8969,-162.459,"ardac,eds,ncr",23.8,TRUE,60.4783,-162.5
+AK479,Nunivak Island Refuge,,Alaska,US,59.8228,-165.2814,"ardac,eds",19.5,TRUE,59.8824,-165.4506
+AK291,Nyac,,Alaska,US,61.0061,-159.946,"ardac,eds,ncr",110.1,FALSE,60.4664,-162.3236
+AK292,Ohogamiut,Urr'agmiut,Alaska,US,61.5677,-161.864,"ardac,eds,ncr",94.7,TRUE,60.4668,-162.4128
+AK293,Old Harbor,Nuniaq,Alaska,US,57.2028,-153.304,"ardac,eds,ncr",1.0,TRUE,57.1128,-153.1414
+AK294,Old Minto,Menhti Xwghotthit,Alaska,US,64.8882,-149.182,"ardac,eds,ncr",377.3,FALSE,61.085,-149.9087
+AK456,Oliver Inlet State Marine Park,,Alaska,US,58.1015,-134.3127,"ardac,eds,ncr",0.5,TRUE,58.1454,-134.1102
+AK295,Ophir,,Alaska,US,63.1447,-156.519,"ardac,eds,ncr",223.0,FALSE,63.7349,-160.7872
+AK296,Oscarville,Kuiggayagaq,Alaska,US,60.7273,-161.79,"ardac,eds,ncr",5.6,TRUE,60.4298,-162.5338
+AK297,Osviak,,Alaska,US,58.8171,-161.3,"ardac,eds,ncr",0.3,TRUE,58.7207,-161.4219
+AK298,Ouzinkie,Uusenkaa,Alaska,US,57.9236,-152.496,"ardac,eds,ncr",0.6,TRUE,57.9946,-152.3244
+AK299,Paimiut,Paimute,Alaska,US,61.6971,-165.83,"ardac,eds,ncr",0.7,TRUE,61.756,-166.0104
+AK300,Palmer,,Alaska,US,61.5997,-149.113,"ardac,eds,ncr",13.3,TRUE,61.2043,-149.6658
+AK301,Pastolik,,Alaska,US,62.9972,-163.304,"ardac,eds,ncr",4.4,TRUE,63.2197,-163.5385
+AK302,Pauloff Harbor,,Alaska,US,54.4589,-162.7,"ardac,eds,ncr",1.5,TRUE,54.5221,-162.8416
+AK303,Paxson,,Alaska,US,63.033,-145.4979,"ardac,eds,ncr",216.4,FALSE,61.0613,-146.8556
+AK304,Pedro Bay,,Alaska,US,59.7914,-154.098,"ardac,eds,ncr",27.9,TRUE,59.702,-153.5978
+AK305,Pelican,K'udeis'x̱'e,Alaska,US,57.9608,-136.227,"ardac,eds,ncr",0.9,TRUE,58.0507,-136.3242
+AK306,Pennock Island,,Alaska,US,55.328,-131.628,"ardac,eds,ncr",0.9,TRUE,55.268,-131.8011
+AK307,Perryville,Perry-q,Alaska,US,55.9119,-159.166,"ardac,eds,ncr",0.4,TRUE,55.6553,-159.261
+AK308,Petersburg,Séet Ká,Alaska,US,56.8125,-132.955,"ardac,eds,ncr",0.3,TRUE,57.1094,-133.2327
+AK309,Petersville,,Alaska,US,62.373,-150.7332,"ardac,eds,ncr",112.7,FALSE,61.1477,-150.6736
+AK310,Pile Bay Village,,Alaska,US,59.7789,-153.8819,"ardac,eds,ncr",17.3,TRUE,59.6887,-153.3825
+AK311,Pilot Point,Agisaq,Alaska,US,57.5641,-157.579,"ardac,eds,ncr",0.5,TRUE,57.6332,-157.7234
+AK312,Pilot Station,Tuutalgaq,Alaska,US,61.9389,-162.875,"ardac,eds,ncr",102.7,FALSE,62.174,-165.2192
+AK313,Pitkas Point,Negeqliim Painga,Alaska,US,62.0328,-163.288,"ardac,eds,ncr",80.2,TRUE,62.3158,-164.9522
+AK314,Platinum,Arviiq,Alaska,US,59.013,-161.816,"ardac,eds,ncr",0.8,TRUE,59.0769,-161.9749
+AK535,Pleasant Valley,,Alaska,US,64.8802,-146.8875,"ardac,eds,ncr",395.5,FALSE,61.0583,-147.2165
+AK315,Point Baker,,Alaska,US,56.3528,-133.621,"ardac,eds,ncr",0.4,TRUE,56.4448,-133.7075
+AK480,Point Bridget State Park,,Alaska,US,58.6657,-134.9685,"ardac,eds,ncr",0.5,TRUE,58.7565,-135.0644
+AK316,Point Hope,Tikiġaq,Alaska,US,68.348,-166.734,"ardac,eds,ncr",1.8,TRUE,68.4064,-166.9651
+AK317,Point Lay,Kali,Alaska,US,69.7574,-163.051,"ardac,eds,ncr",1.8,TRUE,69.8209,-163.2864
+AK536,Point MacKenzie,,Alaska,US,61.3471,-150.0659,"ardac,eds,ncr",8.3,TRUE,61.101,-150.2487
+AK537,Point Possession,,Alaska,US,60.9536,-150.6744,"ardac,eds,ncr",4.7,TRUE,61.0302,-150.8184
+AK318,Poorman,,Alaska,US,64.0991,-155.544,"ardac,eds,ncr",257.3,FALSE,64.023,-160.9132
+AK538,Pope-Vannoy Landing,,Alaska,US,59.5354,-154.5052,"ardac,eds,ncr",26.7,TRUE,59.2852,-154.3266
+AK319,Port Alexander,,Alaska,US,56.2497,-134.644,"ardac,eds,ncr",1.2,TRUE,56.341,-134.7328
+AK320,Port Alsworth,,Alaska,US,60.2025,-154.313,"ardac,eds,ncr",66.2,TRUE,59.7892,-153.4841
+AK321,Port Ashton,,Alaska,US,60.0581,-148.05,"ardac,eds,ncr",0.4,TRUE,60.1228,-147.8582
+AK539,Port Clarence,,Alaska,US,65.2573,-166.8661,"ardac,eds,ncr",1.2,TRUE,65.315,-167.0718
+AK322,Port Graham,Paluwik,Alaska,US,59.3514,-151.83,"ardac,eds,ncr",0.9,TRUE,59.4268,-151.9698
+AK323,Port Heiden,Masrriq,Alaska,US,56.9566,-158.645,"ardac,eds,ncr",3.3,TRUE,57.0245,-158.789
+AK324,Port Lions,Masiqsirraq,Alaska,US,57.8675,-152.882,"ardac,eds,ncr",0.9,TRUE,57.9418,-153.0181
+AK325,Port Mackenzie,,Alaska,US,61.2686,-149.9202,"ardac,eds",1.0,TRUE,61.1844,-150.0838
+AK326,Port Moller,,Alaska,US,55.99,-160.577,"ardac,eds,ncr",0.2,TRUE,56.0556,-160.7208
+AK327,Port Protection,,Alaska,US,56.3127,-133.602,"ardac,eds",1.8,TRUE,56.4047,-133.6883
+AK328,Portage,,Alaska,US,60.8381,-148.979,"ardac,eds,ncr",3.1,TRUE,60.9386,-149.7872
+AK329,Portage Creek,,Alaska,US,58.9006,-157.714,"ardac,eds,ncr",16.2,TRUE,58.646,-157.828
+AK330,Portlock,,Alaska,US,59.2144,-151.7461,"ardac,eds,ncr",0.9,TRUE,59.2899,-151.8851
+AK540,Primrose,,Alaska,US,60.3236,-149.3576,"ardac,eds,ncr",22.5,TRUE,59.9169,-149.5618
+AK331,Prudhoe Bay,,Alaska,US,70.2366,-148.38,"ardac,eds,ncr",8.3,TRUE,70.3031,-148.1038
+AK332,Quinhagak,Kuinerraq,Alaska,US,59.7489,-161.916,"ardac,eds,ncr",3.4,TRUE,59.7927,-162.4
+AK333,Rainbow,,Alaska,US,61.0041,-149.642,"ardac,eds,ncr",1.7,TRUE,61.0818,-149.7838
+AK334,Rampart,Dleł Taaneets,Alaska,US,65.5049,-150.17,"ardac,eds,ncr",447.3,FALSE,61.2102,-150.8399
+AK335,Red Devil,,Alaska,US,61.7611,-157.313,"ardac,eds,ncr",271.5,FALSE,63.4931,-160.9619
+AK541,Red Dog Mine,,Alaska,US,68.036,-162.8964,"ardac,eds,ncr",70.4,TRUE,67.7288,-163.8411
+AK336,Refuge Cove,,Alaska,US,55.407,-131.741,"ardac,eds,ncr",0.8,TRUE,55.5004,-131.8207
+AK542,Ridgeway,,Alaska,US,60.5165,-151.0582,"ardac,eds,ncr",12.2,TRUE,60.5927,-151.2012
+AK337,Ruby,Tl'aa'ologhe,Alaska,US,64.7394,-155.487,"ardac,eds,ncr",252.4,FALSE,64.6631,-160.9774
+AK338,Russian Mission,Iqugmiut,Alaska,US,61.7856,-161.325,"ardac,eds,ncr",123.9,FALSE,60.4863,-162.5132
+AK457,Safety Cove State Marine Park,,Alaska,US,59.9819,-149.2235,"ardac,eds,ncr",0.9,TRUE,60.06,-149.3599
+AK339,Saint George,Anĝaaxchalux̂,Alaska,US,56.603,-169.545,"ardac,eds",1.8,TRUE,56.6572,-169.7059
+AK340,Saint Mary's,Negeqliq,Alaska,US,62.053,-163.166,"ardac,eds,ncr",84.4,TRUE,62.4973,-164.8875
+AK341,Saint Michael,Taciq,Alaska,US,63.478,-162.039,"ardac,eds,ncr",0.7,TRUE,63.5417,-162.2224
+AK342,Saint Paul,Tanax̂ Amix̂,Alaska,US,57.1221,-170.276,"ardac,eds,ncr",0.6,TRUE,57.1753,-170.4403
+AK343,Salamatof,,Alaska,US,60.5878,-151.326,"ardac,eds,ncr",0.7,TRUE,60.6637,-151.4699
+AK344,Salcha,Soł Chaget,Alaska,US,64.5288,-146.899,"ardac,eds,ncr",358.4,FALSE,61.0299,-147.1546
+AK345,Salt Chuck,,Alaska,US,55.628,-132.552,"ardac,eds,ncr",1.0,TRUE,55.463,-133.0871
+AK346,Sanak,,Alaska,US,54.4831,-162.814,"ardac,eds,ncr",1.2,TRUE,54.5461,-162.9559
+AK347,Sand Point,,Alaska,US,55.3397,-160.497,"ardac,eds,ncr",0.5,TRUE,55.4055,-160.6381
+AK458,Sandspit Point State Marine Park,,Alaska,US,59.9378,-149.318,"ardac,eds",1.5,TRUE,60.0158,-149.4544
+AK348,Savonoski,,Alaska,US,58.7171,-156.867,"ardac,eds,ncr",4.8,TRUE,58.6174,-157.313
+AK349,Savoonga,Sivunga,Alaska,US,63.6904,-170.481,"ardac,eds,ncr",1.3,TRUE,63.7432,-170.6826
+AK481,Sawmill Bay State Marine Park,,Alaska,US,61.0575,-146.7888,"ardac,eds,ncr",3.2,TRUE,60.977,-146.9594
+AK350,Saxman,,Alaska,US,55.3183,-131.596,"ardac,eds,ncr",2.0,TRUE,55.2583,-131.7691
+AK351,Scammon Bay,Marayaarmiut,Alaska,US,61.8428,-165.582,"ardac,eds,ncr",1.7,TRUE,61.8731,-166.1028
+AK482,Security Bay State Marine Park,,Alaska,US,56.8515,-134.3301,"ardac,eds",1.2,TRUE,56.9429,-134.4196
+AK352,Selawik,Siiḷivik / Akuliġaq,Alaska,US,66.6039,-160.007,"ardac,eds,ncr",11.5,TRUE,66.4584,-161.3787
+AK353,Seldovia,Angagkitaqnuuq,Alaska,US,59.438,-151.711,"ardac,eds,ncr",1.5,TRUE,59.5135,-151.8509
+AK543,Seldovia Village,,Alaska,US,59.4716,-151.6548,"ardac,eds,ncr",1.6,TRUE,59.5472,-151.7947
+AK483,Serpentine Slide Research Natural Area,,Alaska,US,65.7113,-147.4653,"ardac,eds,ncr",478.0,FALSE,70.1692,-145.9422
+AK354,Seward,Qutalleq,Alaska,US,60.1043,-149.442,"ardac,eds,ncr",0.3,TRUE,60.0206,-149.6011
+AK355,Shageluk,Edixi,Alaska,US,62.6822,-159.562,"ardac,eds,ncr",123.1,FALSE,63.509,-160.982
+AK356,Shaktoolik,Saktuliq,Alaska,US,64.35,-161.183,"ardac,eds,ncr",0.4,TRUE,64.4148,-161.3701
+AK484,Shelter Island State Marine Park,,Alaska,US,58.4513,-134.881,"ardac,eds,ncr",6.1,TRUE,58.5422,-134.9761
+AK357,Shemya Station,,Alaska,US,52.7246,174.112,"ardac,eds",1.6,TRUE,52.7558,173.9492
+AK358,Shishmaref,Qigiqtaq,Alaska,US,66.2567,-166.072,"ardac,eds,ncr",0.7,TRUE,66.3156,-166.2837
+AK359,Shungnak,Isiŋnaq / Nuurviuraq,Alaska,US,66.888,-157.136,"ardac,eds,ncr",140.0,FALSE,66.8259,-161.4332
+AK544,Silver Springs,,Alaska,US,62.0138,-145.336,"ardac,eds,ncr",111.0,FALSE,61.0277,-146.7732
+AK360,Sitka,Sheet'ká,Alaska,US,57.053,-135.33,"ardac,eds,ncr",1.3,TRUE,57.1437,-135.4225
+AK361,Skagway,,Alaska,US,59.4583,-135.314,"ardac,eds,ncr",1.3,TRUE,58.8364,-135.1559
+AK362,Skwentna,,Alaska,US,61.9649,-151.158,"ardac,eds,ncr",74.0,TRUE,61.2176,-150.7005
+AK363,Slana,Stl’aa Caegge,Alaska,US,62.707,-143.9697,"ardac,eds,ncr",214.2,FALSE,60.9883,-146.6959
+AK365,Sleetmute,Cellitemiut,Alaska,US,61.7025,-157.17,"ardac,eds,ncr",270.4,FALSE,63.4212,-161.165
+AK366,Soldotna,,Alaska,US,60.4878,-151.058,"ardac,eds,ncr",12.3,TRUE,60.564,-151.2009
+AK367,Solomon,,Alaska,US,64.5608,-164.439,"ardac,eds,ncr",2.6,TRUE,64.4613,-164.5746
+AK545,South Lakes,,Alaska,US,61.5903,-149.3165,"ardac,eds,ncr",9.6,TRUE,61.1942,-149.8666
+AK368,South Naknek,Qinuyang,Alaska,US,58.7155,-156.998,"ardac,eds,ncr",0.9,TRUE,58.6153,-157.4436
+AK459,South Todatonten Summit Research Natural Area,,Alaska,US,66.0506,-152.881,"ardac,eds,ncr",333.3,FALSE,66.4434,-161.5607
+AK546,South Van Horn,,Alaska,US,64.8075,-147.774,"ardac,eds,ncr",376.5,FALSE,61.0472,-149.672
+AK369,Spenard,,Alaska,US,61.1881,-149.917,"ardac,eds,ncr",2.7,TRUE,61.1039,-150.0802
+AK460,Stan Price State Wildlife Sanctuary,,Alaska,US,57.9051,-134.275,"ardac,eds,ncr",0.1,TRUE,57.9489,-134.0736
+AK372,Stebbins,Tapraq,Alaska,US,63.5222,-162.288,"ardac,eds,ncr",1.8,TRUE,63.5856,-162.4723
+AK548,Steele Creek,,Alaska,US,64.9028,-147.5241,"ardac,eds,ncr",389.5,FALSE,61.0477,-147.1072
+AK373,Sterling,,Alaska,US,60.5381,-150.758,"ardac,eds,ncr",28.7,TRUE,60.6218,-151.232
+AK374,Stevens Village,Denyeet,Alaska,US,66.0063,-149.091,"ardac,eds,ncr",467.4,FALSE,70.3183,-147.909
+AK375,Stony River,Gidighuyghatno’ Xidochagg Qay / K'qizaghetnu,Alaska,US,61.7831,-156.588,"ardac,eds,ncr",251.2,FALSE,60.7362,-152.3221
+AK376,Summit,,Alaska,US,63.3292,-149.119,"ardac,eds,ncr",203.6,FALSE,61.1554,-149.9436
+AK461,Sunny Cove State Marine Park,,Alaska,US,59.9024,-149.3453,"ardac,eds,ncr",3.3,TRUE,59.9804,-149.4816
+AK377,Sunrise,,Alaska,US,60.8921,-149.425,"ardac,eds,ncr",3.9,TRUE,60.9804,-149.9007
+AK378,Suntrana,,Alaska,US,63.8582,-148.846,"ardac,eds,ncr",263.8,FALSE,61.2005,-149.769
+AK485,Surprise Cove State Marine Park,,Alaska,US,60.7568,-148.3873,"ardac,eds,ncr",0.9,TRUE,60.8075,-147.8593
+AK487,Susitna,,Alaska,US,61.5786,-150.6091,"ardac,eds,ncr",23.7,TRUE,61.1701,-150.8053
+AK549,Susitna North,,Alaska,US,62.1322,-150.0322,"ardac,eds,ncr",74.8,TRUE,61.0778,-150.3157
+AK379,Susitna Station,,Alaska,US,61.5432,-150.5162,"ardac,eds,ncr",19.5,TRUE,61.1348,-150.7134
+AK380,Sutton,,Alaska,US,61.7114,-148.894,"ardac,eds,ncr",30.2,TRUE,61.166,-149.8115
+AK550,Sutton-Alpine,,Alaska,US,61.7168,-148.8844,"ardac,eds,ncr",31.0,TRUE,61.1714,-149.8022
+AK381,Takotna,Tochotno’,Alaska,US,62.9886,-156.064,"ardac,eds,ncr",250.7,FALSE,63.7377,-160.7019
+AK462,Taku Harbor State Marine Park,,Alaska,US,58.0622,-134.0187,"ardac,eds,ncr",0.0,TRUE,58.1538,-134.1105
+AK382,Talkeetna,K'dalkitnu,Alaska,US,62.3239,-150.109,"ardac,eds,ncr",96.5,TRUE,61.1076,-150.4099
+AK383,Tanacross,Taats’altęy,Alaska,US,63.378,-143.356,"ardac,eds,ncr",293.7,FALSE,61.0447,-146.6668
+AK551,Tanaina,,Alaska,US,61.6141,-149.4508,"ardac,eds,ncr",11.4,TRUE,61.2073,-149.6621
+AK384,Tanana,Hohudodetlaatl Denh,Alaska,US,65.1719,-152.079,"ardac,eds,ncr",398.0,FALSE,64.9341,-161.0902
+AK386,Tatitlek,Taatiilaaq,Alaska,US,60.8647,-146.679,"ardac,eds,ncr",1.7,TRUE,60.9453,-146.8128
+AK387,Tazlina,Tezdlen Na’,Alaska,US,62.0305,-145.416,"ardac,eds,ncr",110.8,FALSE,61.0436,-146.8515
+AK388,Tee Harbor,,Alaska,US,58.41,-134.757,"ardac,eds,ncr",1.2,TRUE,58.501,-134.8516
+AK389,Telida,Tilayadi,Alaska,US,63.3833,-153.267,"ardac,eds,ncr",265.2,FALSE,61.1529,-150.769
+AK390,Teller,Tala,Alaska,US,65.2636,-166.361,"ardac,eds,ncr",1.0,TRUE,65.322,-166.5657
+AK392,Tenakee Springs,Tʼanag̱eey / Tlaagoowu Aan,Alaska,US,57.7808,-135.219,"ardac,eds,ncr",1.1,TRUE,57.8261,-135.0195
+AK393,Tetlin,Teełąy,Alaska,US,63.1373,-142.5208,"ardac,eds,ncr",292.1,FALSE,60.2937,-143.0115
+AK394,Tetlin Junction,,Alaska,US,63.3172,-142.599,"ardac,eds,ncr",309.3,FALSE,61.0386,-146.6272
+AK395,Thane,,Alaska,US,58.264,-134.328,"ardac,eds,ncr",3.2,TRUE,58.153,-134.2155
+AK486,Thoms Place State Marine Park,,Alaska,US,56.1732,-132.1328,"ardac,eds",1.0,TRUE,55.8535,-131.8536
+AK396,Thorne Bay,,Alaska,US,55.7274,-132.471,"ardac,eds,ncr",1.4,TRUE,55.7676,-133.1926
+AK463,Thumb Cove State Marine Park,,Alaska,US,60.004,-149.3008,"ardac,eds,ncr",0.3,TRUE,59.9205,-149.4598
+AK397,Tin City,,Alaska,US,65.5502,-167.851,"ardac,eds,ncr",1.7,TRUE,65.6067,-168.061
+AK398,Togiak,Tuyuryaq,Alaska,US,59.0619,-160.376,"ardac,eds,ncr",1.7,TRUE,58.9664,-160.5014
+AK399,Tok,,Alaska,US,63.3366,-142.985,"ardac,eds,ncr",300.3,FALSE,61.03,-146.653
+AK400,Tokeen,,Alaska,US,55.938,-133.324,"ardac,eds,ncr",4.1,TRUE,56.0303,-133.4088
+AK401,Toksook Bay,Nunakauyaq,Alaska,US,60.5303,-165.102,"ardac,eds,ncr",3.3,TRUE,60.5901,-165.2746
+AK402,Tolovana,,Alaska,US,64.8542,-149.824,"ardac,eds,ncr",373.8,FALSE,61.21,-150.4555
+AK552,Tolsona,,Alaska,US,62.099,-146.0444,"ardac,eds,ncr",108.7,FALSE,61.0723,-146.7931
+AK403,Tonsina,,Alaska,US,61.6558,-145.175,"ardac,eds,ncr",83.7,TRUE,61.011,-146.8605
+AK586,Toolik Field Station,,Alaska,US,68.6268,-149.5952,"ardac,eds,ncr",190.3,FALSE,70.3101,-148.0662
+AK553,Trapper Creek,,Alaska,US,62.3114,-150.2458,"ardac,eds,ncr",97.2,TRUE,61.0948,-150.5414
+AK404,Tuluksak,Tuulkessaaq,Alaska,US,61.1025,-160.962,"ardac,eds,ncr",66.8,TRUE,60.4491,-162.3015
+AK405,Tuntutuliak,Tuntutuliaq,Alaska,US,60.3397,-162.669,"ardac,eds,ncr",3.4,TRUE,60.4236,-162.5089
+AK406,Tununak,Tununeq,Alaska,US,60.5855,-165.256,"ardac,eds,ncr",1.5,TRUE,60.6451,-165.4292
+AK407,Twin Hills,Ingricuar,Alaska,US,59.0792,-160.275,"ardac,eds,ncr",3.2,TRUE,58.9838,-160.4007
+AK436,Two Rivers,,Alaska,US,64.8767,-147.0384,"ardac,eds,ncr",392.9,FALSE,61.0379,-147.0147
+AK408,Tyonek,Qaggeyshlat,Alaska,US,61.0681,-151.137,"ardac,eds,ncr",1.0,TRUE,61.1372,-150.9455
+AK409,Ugashik,Ugaasaq,Alaska,US,57.513,-157.397,"ardac,eds,ncr",0.1,TRUE,57.5733,-157.8439
+AK411,Umiat,,Alaska,US,69.3674,-152.133,"ardac,eds,ncr",116.2,FALSE,70.5991,-152.2487
+AK412,Umkumiute,,Alaska,US,60.4983,-165.199,"ardac,eds,ncr",0.5,TRUE,60.558,-165.3716
+AK413,Umnak,,Alaska,US,53.267,-168.217,"ardac,eds,ncr",1.0,TRUE,53.3232,-168.3626
+AK414,Unalakleet,Uŋalaqłiit,Alaska,US,63.873,-160.788,"ardac,eds,ncr",3.6,TRUE,63.9383,-160.9712
+AK415,Unalaska,Iluulux̂,Alaska,US,53.8733,-166.533,"ardac,eds,ncr",3.3,TRUE,53.9317,-166.6784
+AK416,Unga,Uĝnaasaqax̂,Alaska,US,55.1828,-160.506,"ardac,eds,ncr",0.9,TRUE,55.2486,-160.6466
+AK178,Upper Kalskag,Qalqaq,Alaska,US,61.5391,-160.306,"ardac,eds,ncr",126.0,FALSE,60.5112,-162.5869
+AK418,Utqiaġvik,Barrow,Alaska,US,71.2905,-156.789,"ardac,eds,ncr",2.0,TRUE,71.3623,-157.0216
+AK419,Utukakarvik,,Alaska,US,61.9611,-164.75,"ardac,eds,ncr",37.2,TRUE,62.1811,-164.987
+AK420,Uyak,,Alaska,US,57.6256,-153.988,"ardac,eds,ncr",0.9,TRUE,57.6987,-153.8209
+AK421,Valdez,Suacit,Alaska,US,61.1369,-146.3471,"ardac,eds,ncr",1.1,TRUE,61.0748,-146.8539
+AK422,Venetie,Vįįhtąįį,Alaska,US,67.0139,-146.419,"ardac,eds,ncr",332.3,FALSE,70.1915,-145.5883
+AK423,Wainwright,Ulġuniq,Alaska,US,70.6369,-160.038,"ardac,eds,ncr",1.3,TRUE,70.7045,-160.2738
+AK424,Wales,Kiŋigin,Alaska,US,65.6097,-168.0876,"ardac,eds,ncr",0.8,TRUE,65.6659,-168.2985
+AK425,Ward Cove,,Alaska,US,55.408,-131.724,"ardac,eds,ncr",1.2,TRUE,55.5014,-131.8036
+AK426,Wasilla,,Alaska,US,61.5814,-149.439,"ardac,eds,ncr",7.7,TRUE,61.1746,-149.6502
+AK427,Whale Pass,,Alaska,US,56.1,-133.167,"ardac,eds,ncr",2.7,TRUE,56.1924,-133.2518
+AK428,White Mountain,Nasirvik,Alaska,US,64.6813,-163.406,"ardac,eds,ncr",8.6,TRUE,64.4221,-163.4919
+AK554,Whitestone,,Alaska,US,64.1536,-145.8863,"ardac,eds,ncr",334.7,FALSE,61.0157,-146.8377
+AK555,Whitestone Logging Camp,,Alaska,US,58.0831,-135.4367,"ardac,eds,ncr",0.4,TRUE,58.1736,-135.5322
+AK429,Whittier,,Alaska,US,60.773,-148.684,"ardac,eds,ncr",1.6,TRUE,60.8102,-147.8235
+AK581,Whittier Anchorage Pipeline,,Alaska,US,60.9399,-149.2897,eds,2.6,TRUE,61.0287,-149.7658
+AK430,Willow,,Alaska,US,61.7472,-150.037,"ardac,eds,ncr",35.5,TRUE,61.1778,-150.2607
+AK556,Willow Creek,,Alaska,US,61.8123,-145.1944,"ardac,eds,ncr",96.1,TRUE,61.0062,-146.9237
+AK431,Wiseman,,Alaska,US,67.41,-150.107,"ardac,eds,ncr",324.5,FALSE,70.2247,-147.9576
+AK432,Womens Bay,,Alaska,US,57.7099,-152.586,"ardac,eds,ncr",2.2,TRUE,57.7846,-152.7209
+AK433,Woody Island,,Alaska,US,57.78,-152.355,"ardac,eds,ncr",2.1,TRUE,57.8549,-152.4897
+AK434,Wrangell,Shtax’héen,Alaska,US,56.4708,-132.377,"ardac,eds,ncr",0.1,TRUE,56.3571,-133.2039
+AK435,Yakutat,Yaakwdáat,Alaska,US,59.5469,-139.727,"ardac,eds,ncr",0.7,TRUE,59.6339,-139.8381
+AK582,Yukon Command Training Site,,Alaska,US,64.6892,-146.6233,eds,379.9,FALSE,61.0294,-146.9463
+AK572,Yukon Weapons Range,,Alaska,US,64.7682,-146.8895,eds,383.7,FALSE,60.9466,-147.2171
+AK464,Ziegler Cove State Marine Park,,Alaska,US,60.8381,-148.3205,"ardac,eds,ncr",1.1,TRUE,60.8885,-147.7911
