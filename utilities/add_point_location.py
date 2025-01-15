@@ -57,6 +57,11 @@ def cmdline_args():
         type=str,
         help="Secondary or alternate name of point location. Optional.",
     )
+    p.add_argument(
+        "--tags",
+        type=str,
+        help="Comma separated list of tags for the point location. Optional.",
+    )
 
     return p.parse_args()
 
@@ -82,20 +87,20 @@ def create_new_id(region, last_id_number):
     return new_id
 
 
-def create_new_record(new_id, name, region, country, lat, lon, alt_name):
+def create_new_record(new_id, name, region, country, lat, lon, alt_name, tags):
     """Create the new point location from user input.
     A defualt value of 0 will be added for the coastal distance which can
     then be computed later."""
     if alt_name == None:
         alt_name = np.nan
-    record = [new_id, name, alt_name, postal_di[region], country, lat, lon, 0]
+    record = [new_id, name, alt_name, postal_di[region], country, lat, lon, 0, tags]
     return record
 
 
 def insert_new_record(df, record):
     """Insert new record at end of DataFrame."""
     row = pd.Series(record, index=df.columns)
-    new_df = df.append(row, ignore_index=True)
+    new_df = pd.concat([df, pd.DataFrame([row])], ignore_index=True)
     new_df = new_df.round(4)
     return new_df
 
@@ -152,6 +157,7 @@ if __name__ == "__main__":
             args.latitude,
             args.longitude,
             args.optional_name,
+            args.tags,
         )
         new_df = insert_new_record(df, record)
         new_df = sort_alphabetically(new_df)
@@ -163,5 +169,5 @@ if __name__ == "__main__":
             print("No new file was created. Program exiting.")
     except:
         print(
-            "Try python add_point_location.py 'Vanta' 'AK' 'US' 99.9999 -99.9999 --optional_name='Bubba'"
+            "Try python add_point_location.py 'Vanta' 'AK' 'US' 99.9999 -99.9999 --optional_name='Bubba' --tags 'ncr,eds'"
         )
