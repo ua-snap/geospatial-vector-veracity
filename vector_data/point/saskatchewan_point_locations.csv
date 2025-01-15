@@ -1,905 +1,905 @@
-id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal
-SK1,Abbey,,Saskatchewan,CA,50.7369,-108.76,ardac,1021.7,False
-SK2,Aberdeen,,Saskatchewan,CA,52.327,-106.288,ardac,999.9,False
-SK3,Aberfeldy,,Saskatchewan,CA,53.25,-109.883,ardac,999.7,False
-SK4,Abernethy,,Saskatchewan,CA,50.7474,-103.416,ardac,973.6,False
-SK5,Admiral,,Saskatchewan,CA,49.7134,-108.006,ardac,1066.8,False
-SK6,Air Ronge,,Saskatchewan,CA,55.0833,-105.317,ardac,755.3,False
-SK7,Alameda,,Saskatchewan,CA,49.2667,-102.283,ardac,1055.5,False
-SK8,Albertville,,Saskatchewan,CA,53.3963,-105.541,ardac,881.1,False
-SK9,Alice Beach,,Saskatchewan,CA,50.9257,-105.165,ardac,1044.1,False
-SK10,Alida,,Saskatchewan,CA,49.389,-101.874,ardac,1028.0,False
-SK11,Allan,,Saskatchewan,CA,51.8952,-106.053,ardac,1019.1,False
-SK12,Alta Vista,,Saskatchewan,CA,50.8035,-104.968,ardac,1043.8,False
-SK13,Alticane,,Saskatchewan,CA,52.9015,-107.481,ardac,1014.8,False
-SK14,Alvena,,Saskatchewan,CA,52.5176,-106.02,ardac,972.0,False
-SK15,Amazon,,Saskatchewan,CA,51.55,-105.45,ardac,1011.6,False
-SK16,Amsterdam,,Saskatchewan,CA,51.7488,-102.46,ardac,846.4,False
-SK17,Aneroid,,Saskatchewan,CA,49.7167,-107.3,ardac,1118.1,False
-SK18,Annaheim,,Saskatchewan,CA,52.32,-104.818,ardac,923.4,False
-SK19,Antler,,Saskatchewan,CA,49.5675,-101.458,ardac,995.3,False
-SK20,Aquadeo,,Saskatchewan,CA,53.1319,-108.42,ardac,1046.8,False
-SK21,Arborfield,,Saskatchewan,CA,53.1061,-103.661,ardac,808.1,False
-SK22,Archerwill,,Saskatchewan,CA,52.439,-103.859,ardac,864.2,False
-SK23,Arcola,,Saskatchewan,CA,49.6377,-102.492,ardac,1029.9,False
-SK24,Ardill,,Saskatchewan,CA,49.9377,-105.844,ardac,1156.3,False
-SK25,Arlington Beach,,Saskatchewan,CA,51.2479,-105.231,ardac,1022.7,False
-SK26,Armit,,Saskatchewan,CA,52.8333,-101.783,ardac,729.0,False
-SK27,Armley,,Saskatchewan,CA,53.1167,-104.033,ardac,827.6,False
-SK28,Arran,,Saskatchewan,CA,51.8833,-101.717,ardac,800.5,False
-SK29,Asquith,,Saskatchewan,CA,52.1336,-107.226,ardac,1060.3,False
-SK30,Assiniboia,,Saskatchewan,CA,49.6305,-105.987,ardac,1188.4,False
-SK31,Atwater,,Saskatchewan,CA,50.7768,-102.227,ardac,917.3,False
-SK32,Auburnton,,Saskatchewan,CA,49.4048,-102.077,ardac,1034.5,False
-SK33,Avonlea,,Saskatchewan,CA,50.0156,-105.056,ardac,1111.8,False
-SK34,Aylesbury,,Saskatchewan,CA,50.9395,-105.692,ardac,1069.8,False
-SK35,Aylsham,,Saskatchewan,CA,53.1937,-103.805,ardac,810.2,False
-SK36,B-Say-Tah,,Saskatchewan,CA,50.7868,-103.858,ardac,991.1,False
-SK37,Badgerville,,Saskatchewan,CA,51.6336,-101.912,ardac,830.2,False
-SK38,Balcarres,,Saskatchewan,CA,50.8035,-103.546,ardac,975.0,False
-SK39,Baldwinton,,Saskatchewan,CA,52.7888,-109.256,ardac,1025.0,False
-SK40,Balgonie,,Saskatchewan,CA,50.4893,-104.265,ardac,1034.9,False
-SK41,Balone Beach,,Saskatchewan,CA,52.6679,-105.602,ardac,940.2,False
-SK42,Bangor,,Saskatchewan,CA,50.8073,-102.342,ardac,919.7,False
-SK43,Bankend,,Saskatchewan,CA,51.5098,-103.848,ardac,932.8,False
-SK44,Bapaume,,Saskatchewan,CA,53.3833,-107.674,ardac,990.4,False
-SK45,Barrier Ford,,Saskatchewan,CA,52.5405,-103.706,ardac,849.0,False
-SK46,Battleford,,Saskatchewan,CA,52.7382,-108.308,ardac,1068.9,False
-SK47,Bayard,,Saskatchewan,CA,50.0204,-105.289,ardac,1122.6,False
-SK48,Beacon Hill,,Saskatchewan,CA,54.3546,-109.654,ardac,1034.7,False
-SK49,Beadle,,Saskatchewan,CA,51.4671,-109.004,ardac,1014.4,False
-SK50,Bear Creek,,Saskatchewan,CA,56.2975,-108.936,ardac,882.5,False
-SK51,Beardy's 97 and Okemasis' 96,,Saskatchewan,CA,52.8129,-106.3484,ardac,964.9,False
-SK52,Beatty,,Saskatchewan,CA,52.9001,-104.805,ardac,883.9,False
-SK53,Beaubier,,Saskatchewan,CA,49.1263,-104.078,ardac,1143.2,False
-SK54,Beauval,,Saskatchewan,CA,55.1472,-107.611,ardac,876.4,False
-SK55,Beaver Creek,,Saskatchewan,CA,51.9729,-106.669,ardac,1046.4,False
-SK56,Beaver Flat,,Saskatchewan,CA,50.6604,-107.656,ardac,1099.1,False
-SK57,Beechy,,Saskatchewan,CA,50.8833,-107.383,ardac,1120.6,False
-SK58,Belbutte,,Saskatchewan,CA,53.3667,-107.817,ardac,999.0,False
-SK59,Belle Plaine,,Saskatchewan,CA,50.3945,-105.156,ardac,1085.7,False
-SK60,Bellegarde,,Saskatchewan,CA,49.5308,-101.549,ardac,1002.2,False
-SK61,Bengough,,Saskatchewan,CA,49.396,-105.127,ardac,1167.1,False
-SK62,Benson,,Saskatchewan,CA,49.4551,-103.004,ardac,1067.7,False
-SK63,Bertwell,,Saskatchewan,CA,52.5886,-102.545,ardac,785.5,False
-SK64,Bethune,,Saskatchewan,CA,50.7129,-105.207,ardac,1062.8,False
-SK65,Beverley,,Saskatchewan,CA,50.2685,-107.98,ardac,1073.2,False
-SK66,Bienfait,,Saskatchewan,CA,49.1423,-102.805,ardac,1087.9,False
-SK67,Big Beaver,,Saskatchewan,CA,49.1006,-105.171,ardac,1194.4,False
-SK68,Big Island Lake,,Saskatchewan,CA,54.4291,-109.66,ardac,1030.1,False
-SK69,Big River,,Saskatchewan,CA,53.8348,-107.034,ardac,926.1,False
-SK70,Big Shell,,Saskatchewan,CA,53.2004,-107.129,ardac,975.2,False
-SK71,Biggar,,Saskatchewan,CA,52.058,-107.985,ardac,1093.3,False
-SK72,Birch Hills,,Saskatchewan,CA,52.983,-105.435,ardac,907.5,False
-SK73,Birch Narrows,,Saskatchewan,CA,56.4703,-108.689,ardac,860.4,False
-SK74,Bird's Point,,Saskatchewan,CA,50.5465,-102.368,ardac,943.5,False
-SK75,Birmingham,,Saskatchewan,CA,50.9735,-102.938,ardac,932.5,False
-SK76,Birsay,,Saskatchewan,CA,51.0976,-106.981,ardac,1125.4,False
-SK77,Bjorkdale,,Saskatchewan,CA,52.7107,-103.646,ardac,833.9,False
-SK78,Black Lake,,Saskatchewan,CA,59.1333,-105.6,ardac,604.9,False
-SK79,Black Point,,Saskatchewan,CA,56.3667,-109.45,ardac,907.7,False
-SK80,Bladworth,,Saskatchewan,CA,51.3669,-106.137,ardac,1061.1,False
-SK81,Blaine Lake,,Saskatchewan,CA,52.8302,-106.881,ardac,989.9,False
-SK82,Blumenheim,,Saskatchewan,CA,52.3896,-106.417,ardac,1001.1,False
-SK83,Blumenhof,,Saskatchewan,CA,50.0229,-107.7,ardac,1091.6,False
-SK84,Blumenthal,,Saskatchewan,CA,52.4818,-106.377,ardac,991.9,False
-SK85,Bodmin,,Saskatchewan,CA,53.7544,-106.986,ardac,929.0,False
-SK86,Boharm,,Saskatchewan,CA,50.4,-105.717,ardac,1113.0,False
-SK87,Borden,,Saskatchewan,CA,52.4056,-107.238,ardac,1039.8,False
-SK88,Brabant Lake,,Saskatchewan,CA,56.1167,-103.75,ardac,612.7,False
-SK89,Bracken,,Saskatchewan,CA,49.1782,-108.096,ardac,1057.8,False
-SK90,Bradwell,,Saskatchewan,CA,51.9477,-106.232,ardac,1025.2,False
-SK91,Brancepeth,,Saskatchewan,CA,53.002,-105.262,ardac,897.7,False
-SK92,Bredenbury,,Saskatchewan,CA,50.9435,-102.049,ardac,895.0,False
-SK93,Brewer,,Saskatchewan,CA,50.9872,-102.7273,ardac,921.7,False
-SK94,Briercrest,,Saskatchewan,CA,50.1667,-105.267,ardac,1109.5,False
-SK95,Broadview,,Saskatchewan,CA,50.3793,-102.58,ardac,967.4,False
-SK96,Brock,,Saskatchewan,CA,51.4421,-108.72,ardac,1033.8,False
-SK97,Broderick,,Saskatchewan,CA,51.4883,-106.919,ardac,1094.3,False
-SK98,Brownlee,,Saskatchewan,CA,50.7371,-106.018,ardac,1101.9,False
-SK99,Bruno,,Saskatchewan,CA,52.2632,-105.524,ardac,965.3,False
-SK100,Buchanan,,Saskatchewan,CA,51.7,-102.75,ardac,864.2,False
-SK101,Buena Vista,,Saskatchewan,CA,50.7821,-104.942,ardac,1044.2,False
-SK102,Buffalo Narrows,,Saskatchewan,CA,55.8661,-108.489,ardac,880.4,False
-SK103,Bulyea,,Saskatchewan,CA,50.9854,-104.863,ardac,1024.3,False
-SK104,Burgis Beach,,Saskatchewan,CA,51.5431,-102.622,ardac,870.7,False
-SK105,Burr,,Saskatchewan,CA,52.042,-105.135,ardac,959.7,False
-SK106,Burstall,,Saskatchewan,CA,50.6559,-109.908,ardac,939.5,False
-SK107,Bushell Park,,Saskatchewan,CA,50.3396,-105.552,ardac,1109.6,False
-SK108,Cabri,,Saskatchewan,CA,50.6194,-108.461,ardac,1041.6,False
-SK109,Cadillac,,Saskatchewan,CA,49.7259,-107.737,ardac,1086.4,False
-SK110,Calder,,Saskatchewan,CA,51.1579,-101.749,ardac,863.3,False
-SK111,Camp Dundurn,,Saskatchewan,CA,51.8522,-106.555,ardac,1049.3,False
-SK112,Camsell Portage,,Saskatchewan,CA,59.6093,-109.264,ardac,759.4,False
-SK113,Cana,,Saskatchewan,CA,50.8854,-102.643,ardac,926.4,False
-SK114,Candiac,,Saskatchewan,CA,50.2111,-103.259,ardac,1012.0,False
-SK115,Candle Lake,,Saskatchewan,CA,53.7517,-105.252,ardac,840.5,False
-SK116,Cando,,Saskatchewan,CA,52.3731,-108.215,ardac,1083.7,False
-SK117,Cannington Lake,,Saskatchewan,CA,49.7838,-102.162,ardac,1003.1,False
-SK118,Canoe Lake 165,,Saskatchewan,CA,54.1018,-108.085,ardac,964.9,False
-SK119,Canoe Narrows,,Saskatchewan,CA,55.1634,-108.157,ardac,904.0,False
-SK120,Canora,,Saskatchewan,CA,51.6333,-102.433,ardac,854.4,False
-SK121,Cantuar,,Saskatchewan,CA,50.383,-108.009,ardac,1071.8,False
-SK122,Canwood,,Saskatchewan,CA,53.3616,-106.604,ardac,936.8,False
-SK123,Carievale,,Saskatchewan,CA,49.1743,-101.624,ardac,1038.7,False
-SK124,Carlea,,Saskatchewan,CA,53.15,-103.9,ardac,818.2,False
-SK125,Carlyle,,Saskatchewan,CA,49.6333,-102.267,ardac,1021.1,False
-SK126,Carlyle Lake Resort,,Saskatchewan,CA,49.7418,-102.274,ardac,1011.5,False
-SK127,Carmel,,Saskatchewan,CA,52.2248,-105.349,ardac,958.4,False
-SK128,Carmichael,,Saskatchewan,CA,50.0455,-108.648,ardac,1023.7,False
-SK129,Carnduff,,Saskatchewan,CA,49.1749,-101.794,ardac,1045.0,False
-SK130,Caron,,Saskatchewan,CA,50.4582,-105.874,ardac,1116.3,False
-SK131,Caronport,,Saskatchewan,CA,50.459,-105.815,ardac,1113.2,False
-SK132,Carrot River,,Saskatchewan,CA,53.2833,-103.583,ardac,792.4,False
-SK133,Carry The Kettle,,Saskatchewan,CA,50.3522,-103.468,ardac,1009.3,False
-SK134,Casa Rio,,Saskatchewan,CA,52.0275,-106.646,ardac,1040.9,False
-SK135,Cedar Villa Estates,,Saskatchewan,CA,52.0965,-106.772,ardac,1041.4,False
-SK136,Cedoux,,Saskatchewan,CA,49.8833,-103.867,ardac,1067.6,False
-SK137,Central Butte,,Saskatchewan,CA,50.7976,-106.507,ardac,1122.6,False
-SK138,Ceylon,,Saskatchewan,CA,49.4587,-104.601,ardac,1137.5,False
-SK139,Chamberlain,,Saskatchewan,CA,50.85,-105.567,ardac,1070.3,False
-SK140,Chaplin,,Saskatchewan,CA,50.4616,-106.658,ardac,1155.9,False
-SK141,Chelan,,Saskatchewan,CA,52.6105,-103.393,ardac,827.6,False
-SK142,Chitek Lake,,Saskatchewan,CA,53.7538,-107.731,ardac,968.3,False
-SK143,Choiceland,,Saskatchewan,CA,53.4924,-104.484,ardac,822.4,False
-SK144,Chorney Beach,,Saskatchewan,CA,51.8064,-103.553,ardac,895.2,False
-SK145,Chortitz,,Saskatchewan,CA,50.1056,-107.645,ardac,1096.4,False
-SK146,Christopher Lake,,Saskatchewan,CA,53.5402,-105.791,ardac,882.9,False
-SK147,Churchbridge,,Saskatchewan,CA,50.8977,-101.891,ardac,892.1,False
-SK148,Clair,,Saskatchewan,CA,52.0222,-104.077,ardac,905.6,False
-SK149,Clavet,,Saskatchewan,CA,51.9957,-106.374,ardac,1029.7,False
-SK150,Claybank,,Saskatchewan,CA,50.0455,-105.233,ardac,1117.8,False
-SK151,Clearwater River,,Saskatchewan,CA,56.5296,-109.492,ardac,902.4,False
-SK153,Clemenceau,,Saskatchewan,CA,52.6652,-102.527,ardac,779.0,False
-SK154,Climax,,Saskatchewan,CA,49.2077,-108.388,ardac,1036.4,False
-SK155,Clouston,,Saskatchewan,CA,53.1,-105.85,ardac,918.6,False
-SK156,Cluff Lake,,Saskatchewan,CA,58.3653,-109.531,ardac,841.2,False
-SK157,Cochin,,Saskatchewan,CA,53.0823,-108.337,ardac,1046.0,False
-SK158,Coderre,,Saskatchewan,CA,50.1333,-106.383,ardac,1167.5,False
-SK159,Codette,,Saskatchewan,CA,53.2815,-104.028,ardac,816.9,False
-SK160,Cole Bay,,Saskatchewan,CA,55.0974,-108.322,ardac,916.8,False
-SK161,Colesdale Park,,Saskatchewan,CA,50.9523,-105.148,ardac,1041.2,False
-SK162,Coleville,,Saskatchewan,CA,51.7105,-109.246,ardac,1001.2,False
-SK163,Colfax,,Saskatchewan,CA,49.9445,-103.982,ardac,1067.6,False
-SK164,Colgate,,Saskatchewan,CA,49.3993,-103.892,ardac,1110.9,False
-SK165,Colonsay,,Saskatchewan,CA,51.9775,-105.87,ardac,1003.6,False
-SK166,Congress,,Saskatchewan,CA,49.7539,-106.021,ardac,1180.0,False
-SK167,Conquest,,Saskatchewan,CA,51.5306,-107.24,ardac,1108.7,False
-SK168,Consul,,Saskatchewan,CA,49.2946,-109.52,ardac,953.5,False
-SK169,Corning,,Saskatchewan,CA,49.9582,-102.971,ardac,1021.4,False
-SK170,Coronach,,Saskatchewan,CA,49.1114,-105.516,ardac,1209.5,False
-SK171,Coteau Beach,,Saskatchewan,CA,51.1663,-106.825,ardac,1112.1,False
-SK172,Cowessess 73,,Saskatchewan,CA,50.5106,-102.654,ardac,959.2,False
-SK173,Craik,,Saskatchewan,CA,51.05,-105.817,ardac,1067.8,False
-SK174,Crane Valley,,Saskatchewan,CA,49.757,-105.527,ardac,1155.7,False
-SK175,Craven,,Saskatchewan,CA,50.7084,-104.81,ardac,1043.5,False
-SK176,Cree Lake,,Saskatchewan,CA,57.3562,-106.834,ardac,718.0,False
-SK177,Creelman,,Saskatchewan,CA,49.818,-103.31,ardac,1048.5,False
-SK178,Creighton,,Saskatchewan,CA,54.75,-101.9,ardac,603.5,False
-SK179,Crooked River,,Saskatchewan,CA,52.8551,-103.733,ardac,828.7,False
-SK180,Crutwell,,Saskatchewan,CA,53.2193,-106.069,ardac,920.4,False
-SK181,Crystal Bay-Sunset,,Saskatchewan,CA,53.5426,-108.867,ardac,1042.9,False
-SK182,Crystal Lake,,Saskatchewan,CA,51.85,-102.433,ardac,837.0,False
-SK183,Crystal Springs,,Saskatchewan,CA,52.8079,-105.364,ardac,917.9,False
-SK184,Cudsaskwa Beach,,Saskatchewan,CA,52.6491,-105.637,ardac,943.4,False
-SK185,Cudworth,,Saskatchewan,CA,52.4915,-105.733,ardac,960.5,False
-SK186,Cumberland House,,Saskatchewan,CA,53.9538,-102.269,ardac,678.4,False
-SK187,Cupar,,Saskatchewan,CA,50.9465,-104.212,ardac,995.2,False
-SK188,Cut Knife,,Saskatchewan,CA,52.745,-109.018,ardac,1039.4,False
-SK189,D'Arcy,,Saskatchewan,CA,51.4667,-108.533,ardac,1047.1,False
-SK190,Dafoe,,Saskatchewan,CA,51.7544,-104.526,ardac,948.6,False
-SK191,Dalmeny,,Saskatchewan,CA,52.3423,-106.773,ardac,1022.0,False
-SK192,Dana,,Saskatchewan,CA,52.2884,-105.705,ardac,973.4,False
-SK193,Danbury,,Saskatchewan,CA,52.055,-102.265,ardac,812.6,False
-SK194,Darlings Beach,,Saskatchewan,CA,49.9791,-107.925,ardac,1074.9,False
-SK195,Davidson,,Saskatchewan,CA,51.2633,-105.989,ardac,1060.9,False
-SK196,Davin,,Saskatchewan,CA,50.3836,-104.109,ardac,1036.3,False
-SK197,Davis,,Saskatchewan,CA,53.1104,-105.672,ardac,909.1,False
-SK198,Day Star,,Saskatchewan,CA,51.5076,-104.223,ardac,951.7,False
-SK199,Day's Beach,,Saskatchewan,CA,53.0502,-108.335,ardac,1048.1,False
-SK200,Debden,,Saskatchewan,CA,53.5265,-106.881,ardac,939.3,False
-SK201,Deer Valley,,Saskatchewan,CA,50.5929,-104.885,ardac,1056.5,False
-SK202,Delisle,,Saskatchewan,CA,51.9267,-107.134,ardac,1072.2,False
-SK203,Delmas,,Saskatchewan,CA,52.9289,-108.603,ardac,1070.6,False
-SK204,Demaine,,Saskatchewan,CA,50.8905,-107.259,ardac,1129.5,False
-SK205,Denare Beach,,Saskatchewan,CA,54.6575,-102.081,ardac,619.1,False
-SK206,Denholm,,Saskatchewan,CA,52.6572,-108.01,ardac,1059.6,False
-SK207,Denzil,,Saskatchewan,CA,52.2278,-109.649,ardac,984.2,False
-SK208,Deschambault Lake,,Saskatchewan,CA,54.9107,-103.374,ardac,664.3,False
-SK209,Descharme Lake,,Saskatchewan,CA,57.1043,-109.212,ardac,862.1,False
-SK210,Dilke,,Saskatchewan,CA,50.8667,-105.25,ardac,1052.9,False
-SK211,Dillon,,Saskatchewan,CA,55.9278,-108.931,ardac,901.2,False
-SK212,Dinsmore,,Saskatchewan,CA,51.3332,-107.444,ardac,1121.7,False
-SK213,Disley,,Saskatchewan,CA,50.6402,-105.051,ardac,1060.8,False
-SK214,Dodsland,,Saskatchewan,CA,51.7997,-108.836,ardac,1030.8,False
-SK215,Dollard,,Saskatchewan,CA,49.6167,-108.583,ardac,1024.1,False
-SK216,Domremy,,Saskatchewan,CA,52.7886,-105.729,ardac,936.8,False
-SK217,Donavon,,Saskatchewan,CA,51.8,-107.133,ardac,1082.3,False
-SK218,Dore Lake,,Saskatchewan,CA,54.6209,-107.409,ardac,896.5,False
-SK219,Dorintosh,,Saskatchewan,CA,54.3527,-108.625,ardac,979.1,False
-SK220,Drake,,Saskatchewan,CA,51.7468,-105.012,ardac,974.3,False
-SK221,Drinkwater,,Saskatchewan,CA,50.2967,-105.136,ardac,1092.6,False
-SK222,Dubuc,,Saskatchewan,CA,50.6838,-102.476,ardac,936.3,False
-SK223,Duck Lake,,Saskatchewan,CA,52.8117,-106.227,ardac,959.0,False
-SK224,Duff,,Saskatchewan,CA,50.8741,-103.091,ardac,947.9,False
-SK225,Dunblane,,Saskatchewan,CA,51.2023,-106.88,ardac,1112.5,False
-SK226,Dundurn,,Saskatchewan,CA,51.8093,-106.507,ardac,1049.6,False
-SK227,Dunfermline,,Saskatchewan,CA,52.1339,-107.039,ardac,1051.2,False
-SK228,Dunkirk,,Saskatchewan,CA,50.0333,-105.717,ardac,1142.4,False
-SK229,Duperow,,Saskatchewan,CA,51.97,-108.243,ardac,1074.2,False
-SK230,Duval,,Saskatchewan,CA,51.1572,-104.991,ardac,1017.4,False
-SK231,Dysart,,Saskatchewan,CA,50.9472,-104.036,ardac,986.6,False
-SK232,Eagle Ridge,,Saskatchewan,CA,52.1611,-106.492,ardac,1022.9,False
-SK233,Earl Grey,,Saskatchewan,CA,50.9342,-104.71,ardac,1020.7,False
-SK234,Eastend,,Saskatchewan,CA,49.5167,-108.817,ardac,1006.3,False
-SK235,Eatonia,,Saskatchewan,CA,51.2234,-109.39,ardac,984.6,False
-SK236,Ebenezer,,Saskatchewan,CA,51.3696,-102.447,ardac,876.8,False
-SK237,Echo Bay,,Saskatchewan,CA,53.2167,-107.133,ardac,974.2,False
-SK238,Edam,,Saskatchewan,CA,53.1876,-108.769,ardac,1061.4,False
-SK239,Edenwold,,Saskatchewan,CA,50.6333,-104.25,ardac,1022.4,False
-SK240,Edgeley,,Saskatchewan,CA,50.6377,-103.995,ardac,1009.9,False
-SK241,Elbow,,Saskatchewan,CA,51.1212,-106.596,ardac,1103.3,False
-SK242,Elbow Lake,,Saskatchewan,CA,52.4927,-101.716,ardac,751.7,False
-SK243,Eldersley,,Saskatchewan,CA,52.8602,-103.818,ardac,832.9,False
-SK244,Eldorado,,Saskatchewan,CA,59.5516,-108.514,ardac,761.8,False
-SK245,Elfros,,Saskatchewan,CA,51.7418,-103.864,ardac,915.8,False
-SK246,Elrose,,Saskatchewan,CA,51.2,-108.033,ardac,1079.3,False
-SK247,Elstow,,Saskatchewan,CA,51.9874,-106.058,ardac,1013.0,False
-SK248,Emma Lake,,Saskatchewan,CA,53.562,-105.872,ardac,885.4,False
-SK249,Endeavour,,Saskatchewan,CA,52.1609,-102.657,ardac,823.4,False
-SK250,Englefeld,,Saskatchewan,CA,52.162,-104.655,ardac,925.7,False
-SK251,English River,,Saskatchewan,CA,55.9169,-107.723,ardac,836.1,False
-SK252,Ernfold,,Saskatchewan,CA,50.4462,-106.892,ardac,1152.1,False
-SK253,Erwood,,Saskatchewan,CA,52.8582,-102.187,ardac,747.6,False
-SK254,Esk,,Saskatchewan,CA,51.8167,-104.85,ardac,960.8,False
-SK255,Espeseth Cove,,Saskatchewan,CA,50.5508,-102.4,ardac,944.5,False
-SK256,Esterhazy,,Saskatchewan,CA,50.6551,-102.074,ardac,921.2,False
-SK257,Estevan,,Saskatchewan,CA,49.1333,-102.983,ardac,1096.1,False
-SK258,Estlin,,Saskatchewan,CA,50.2512,-104.526,ardac,1067.0,False
-SK259,Eston,,Saskatchewan,CA,51.15,-108.75,ardac,1028.5,False
-SK260,Ethelton,,Saskatchewan,CA,52.7866,-104.932,ardac,898.2,False
-SK261,Etomami,,Saskatchewan,CA,52.7312,-102.319,ardac,763.6,False
-SK262,Etters Beach,,Saskatchewan,CA,51.234,-105.289,ardac,1026.8,False
-SK263,Evergreen Acres,,Saskatchewan,CA,53.5162,-108.661,ardac,1033.6,False
-SK264,Evergreen Brightsand,,Saskatchewan,CA,53.6144,-108.835,ardac,1036.5,False
-SK265,Evesham,,Saskatchewan,CA,52.3911,-109.844,ardac,975.3,False
-SK266,Eyebrow,,Saskatchewan,CA,50.8,-106.15,ardac,1103.9,False
-SK267,Fairholme,,Saskatchewan,CA,53.4277,-108.54,ardac,1033.0,False
-SK268,Fairlight,,Saskatchewan,CA,49.8749,-101.68,ardac,975.3,False
-SK269,Fairy Glen,,Saskatchewan,CA,53.0348,-104.538,ardac,860.6,False
-SK270,Fenton,,Saskatchewan,CA,53.0161,-105.586,ardac,912.2,False
-SK271,Fenwood,,Saskatchewan,CA,51.0125,-103.047,ardac,934.3,False
-SK272,Ferland,,Saskatchewan,CA,49.4489,-106.951,ardac,1142.5,False
-SK273,Fielding,,Saskatchewan,CA,52.5184,-107.55,ardac,1046.7,False
-SK274,Fife Lake,,Saskatchewan,CA,49.1949,-105.729,ardac,1212.4,False
-SK275,Fillmore,,Saskatchewan,CA,49.8795,-103.434,ardac,1048.6,False
-SK276,Findlater,,Saskatchewan,CA,50.7885,-105.402,ardac,1066.7,False
-SK277,Fishing Lake,,Saskatchewan,CA,51.8625,-103.636,ardac,895.1,False
-SK278,Fiske,,Saskatchewan,CA,51.4833,-108.4,ardac,1056.5,False
-SK279,Flaxcombe,,Saskatchewan,CA,51.4785,-109.601,ardac,973.1,False
-SK280,Fleming,,Saskatchewan,CA,50.0735,-101.508,ardac,950.2,False
-SK281,Flying Dust,,Saskatchewan,CA,54.1402,-108.399,ardac,979.6,False
-SK282,Foam Lake,,Saskatchewan,CA,51.6429,-103.53,ardac,906.7,False
-SK283,Fond-du-Lac,,Saskatchewan,CA,59.3214,-107.189,ardac,694.0,False
-SK284,Forget,,Saskatchewan,CA,49.65,-102.867,ardac,1044.4,False
-SK285,Fort Qu'Appelle,,Saskatchewan,CA,50.7669,-103.79,ardac,989.5,False
-SK286,Fort San,,Saskatchewan,CA,50.7879,-103.804,ardac,988.4,False
-SK287,Fort Walsh,,Saskatchewan,CA,49.5667,-109.883,ardac,929.0,False
-SK288,Fosston,,Saskatchewan,CA,52.1902,-103.812,ardac,879.7,False
-SK289,Fox Valley,,Saskatchewan,CA,50.4656,-109.481,ardac,967.4,False
-SK290,Francis,,Saskatchewan,CA,50.1,-103.867,ardac,1049.0,False
-SK291,Frenchman Butte,,Saskatchewan,CA,53.5907,-109.633,ardac,1028.3,False
-SK292,Frobisher,,Saskatchewan,CA,49.2092,-102.426,ardac,1066.5,False
-SK293,Frontier,,Saskatchewan,CA,49.206,-108.563,ardac,1023.5,False
-SK294,Fulda,,Saskatchewan,CA,52.35,-105.217,ardac,942.8,False
-SK295,Furdale,,Saskatchewan,CA,52.0781,-106.688,ardac,1038.8,False
-SK296,Furness,,Saskatchewan,CA,53.1167,-109.967,ardac,989.6,False
-SK297,Gainsborough,,Saskatchewan,CA,49.1791,-101.449,ardac,1031.7,False
-SK298,Garrick,,Saskatchewan,CA,53.4917,-104.338,ardac,815.5,False
-SK299,Garson Lake,,Saskatchewan,CA,56.3127,-109.956,ardac,938.5,False
-SK300,Gerald,,Saskatchewan,CA,50.6662,-101.794,ardac,908.3,False
-SK301,Gibbs,,Saskatchewan,CA,50.9037,-104.866,ardac,1030.8,False
-SK302,Girvin,,Saskatchewan,CA,51.1585,-105.912,ardac,1064.6,False
-SK303,Gladmar,,Saskatchewan,CA,49.1641,-104.453,ardac,1156.4,False
-SK304,Glaslyn,,Saskatchewan,CA,53.3577,-108.353,ardac,1027.8,False
-SK305,Glen Ewen,,Saskatchewan,CA,49.2077,-102.013,ardac,1050.4,False
-SK306,Glen Harbour,,Saskatchewan,CA,50.8899,-105.093,ardac,1043.2,False
-SK307,Glenavon,,Saskatchewan,CA,50.1961,-103.139,ardac,1007.9,False
-SK308,Glenbain,,Saskatchewan,CA,49.8443,-107.021,ardac,1139.2,False
-SK309,Glenside,,Saskatchewan,CA,51.4536,-106.807,ardac,1090.6,False
-SK310,Glentworth,,Saskatchewan,CA,49.4241,-106.683,ardac,1162.1,False
-SK311,Glidden,,Saskatchewan,CA,51.2398,-109.168,ardac,1000.3,False
-SK312,Golden Prairie,,Saskatchewan,CA,50.2213,-109.631,ardac,954.4,False
-SK313,Good Spirit Acres,,Saskatchewan,CA,51.4833,-102.683,ardac,878.5,False
-SK314,Goodeve,,Saskatchewan,CA,51.0609,-103.182,ardac,936.6,False
-SK315,Goodsoil,,Saskatchewan,CA,54.3998,-109.231,ardac,1009.6,False
-SK316,Goodwater,,Saskatchewan,CA,49.3959,-103.705,ardac,1103.0,False
-SK317,Gordon 86,,Saskatchewan,CA,51.2735,-104.303,ardac,973.9,False
-SK318,Gouldtown,,Saskatchewan,CA,50.6167,-107.217,ardac,1130.0,False
-SK319,Govan,,Saskatchewan,CA,51.3107,-104.993,ardac,1005.8,False
-SK320,Grand Coulee,,Saskatchewan,CA,50.4333,-104.817,ardac,1066.0,False
-SK321,Grandora,,Saskatchewan,CA,52.1144,-106.98,ardac,1049.9,False
-SK322,Grandview Beach,,Saskatchewan,CA,50.8747,-105.104,ardac,1045.0,False
-SK323,Grasswood,,Saskatchewan,CA,52.0573,-106.647,ardac,1038.6,False
-SK324,Gravelbourg,,Saskatchewan,CA,49.8771,-106.552,ardac,1173.3,False
-SK325,Gray,,Saskatchewan,CA,50.1717,-104.445,ardac,1069.8,False
-SK326,Grayson,,Saskatchewan,CA,50.7202,-102.644,ardac,940.6,False
-SK327,Green Lake,,Saskatchewan,CA,54.2908,-107.792,ardac,937.3,False
-SK328,Greenfeld,,Saskatchewan,CA,52.4365,-106.639,ardac,1008.1,False
-SK329,Greenstreet,,Saskatchewan,CA,53.4614,-109.815,ardac,1011.9,False
-SK330,Greig Lake,,Saskatchewan,CA,54.4433,-108.693,ardac,977.5,False
-SK331,Grenfell,,Saskatchewan,CA,50.4114,-102.931,ardac,980.0,False
-SK332,Griffin,,Saskatchewan,CA,49.6667,-103.433,ardac,1067.2,False
-SK333,Gronlid,,Saskatchewan,CA,53.1016,-104.464,ardac,852.2,False
-SK334,Gruenthal,,Saskatchewan,CA,52.4634,-106.519,ardac,1000.2,False
-SK335,Guernsey,,Saskatchewan,CA,51.8708,-105.186,ardac,974.5,False
-SK336,Gull Lake,,Saskatchewan,CA,50.0954,-108.485,ardac,1035.9,False
-SK337,Hafford,,Saskatchewan,CA,52.7258,-107.353,ardac,1021.3,False
-SK338,Hagen,,Saskatchewan,CA,52.9384,-105.557,ardac,916.8,False
-SK339,Hague,,Saskatchewan,CA,52.5111,-106.417,ardac,991.6,False
-SK340,Halbrite,,Saskatchewan,CA,49.4897,-103.557,ardac,1088.3,False
-SK341,Handel,,Saskatchewan,CA,52.0635,-108.694,ardac,1045.1,False
-SK342,Hanley,,Saskatchewan,CA,51.6297,-106.437,ardac,1058.3,False
-SK343,Harris,,Saskatchewan,CA,51.7348,-107.58,ardac,1109.0,False
-SK344,Hatchet Lake,,Saskatchewan,CA,58.119,-103.136,ardac,482.8,False
-SK345,Hawarden,,Saskatchewan,CA,51.4149,-106.599,ardac,1082.2,False
-SK346,Hazel Dell,,Saskatchewan,CA,51.977,-102.977,ardac,853.4,False
-SK347,Hazenmore,,Saskatchewan,CA,49.6874,-107.137,ardac,1129.8,False
-SK348,Hazlet,,Saskatchewan,CA,50.4007,-108.595,ardac,1030.0,False
-SK349,Hendon,,Saskatchewan,CA,52.0885,-103.829,ardac,888.0,False
-SK350,Henribourg,,Saskatchewan,CA,53.3947,-105.627,ardac,885.4,False
-SK351,Hepburn,,Saskatchewan,CA,52.5229,-106.729,ardac,1005.8,False
-SK352,Herbert,,Saskatchewan,CA,50.4277,-107.221,ardac,1128.5,False
-SK353,Herschel,,Saskatchewan,CA,51.6383,-108.356,ardac,1061.5,False
-SK354,Heward,,Saskatchewan,CA,49.7376,-103.15,ardac,1048.7,False
-SK355,High Tor,,Saskatchewan,CA,52.4667,-103.3,ardac,833.1,False
-SK356,Hillmond,,Saskatchewan,CA,53.4278,-109.697,ardac,1018.0,False
-SK357,Hirsch,,Saskatchewan,CA,49.1782,-102.593,ardac,1076.1,False
-SK358,Hitchcock,,Saskatchewan,CA,49.224,-103.124,ardac,1093.7,False
-SK359,Hitchcock Bay,,Saskatchewan,CA,51.0472,-106.867,ardac,1123.0,False
-SK360,Hodgeville,,Saskatchewan,CA,50.1134,-106.962,ardac,1145.6,False
-SK361,Hoey,,Saskatchewan,CA,52.8679,-105.796,ardac,933.8,False
-SK362,Holbein,,Saskatchewan,CA,53.2275,-106.202,ardac,926.4,False
-SK363,Holdfast,,Saskatchewan,CA,50.9602,-105.418,ardac,1054.2,False
-SK364,Hoosier,,Saskatchewan,CA,51.6341,-109.737,ardac,966.2,False
-SK365,Horizon,,Saskatchewan,CA,49.5193,-105.229,ardac,1161.4,False
-SK366,Horseshoe Bay,,Saskatchewan,CA,53.6167,-108.6406,ardac,1025.9,False
-SK367,Hubbard,,Saskatchewan,CA,51.129,-103.369,ardac,939.9,False
-SK368,Hudson Bay,,Saskatchewan,CA,52.8556,-102.389,ardac,758.1,False
-SK369,Humboldt,,Saskatchewan,CA,52.2,-105.124,ardac,948.0,False
-SK370,Hume,,Saskatchewan,CA,49.6667,-103.617,ardac,1075.3,False
-SK371,Hyas,,Saskatchewan,CA,51.8943,-102.259,ardac,825.1,False
-SK372,Ibstone,,Saskatchewan,CA,52.5667,-108.3,ardac,1081.0,False
-SK373,Île-à-la-Crosse,,Saskatchewan,CA,55.4493,-107.904,ardac,873.0,False
-SK374,Illerbrun,,Saskatchewan,CA,49.9333,-108.35,ardac,1043.8,False
-SK375,Imperial,,Saskatchewan,CA,51.3466,-105.434,ardac,1025.8,False
-SK376,Indian Head,,Saskatchewan,CA,50.5333,-103.667,ardac,1003.1,False
-SK377,Indian Point - Golden Sands,,Saskatchewan,CA,53.5897,-108.599,ardac,1025.4,False
-SK378,Invermay,,Saskatchewan,CA,51.8067,-103.156,ardac,875.5,False
-SK379,Island View,,Saskatchewan,CA,50.9731,-105.161,ardac,1040.2,False
-SK380,Ituna,,Saskatchewan,CA,51.1698,-103.497,ardac,942.7,False
-SK381,James Smith,,Saskatchewan,CA,53.1025,-104.871,ardac,871.3,False
-SK382,Jameson,,Saskatchewan,CA,50.405,-104.287,ardac,1042.9,False
-SK383,Jans Bay,,Saskatchewan,CA,55.1506,-108.099,ardac,901.7,False
-SK384,Jansen,,Saskatchewan,CA,51.7865,-104.715,ardac,956.0,False
-SK385,Jasmin,,Saskatchewan,CA,51.2281,-103.646,ardac,945.2,False
-SK386,Kahkewistahaw,,Saskatchewan,CA,50.4928,-102.533,ardac,955.4,False
-SK387,Kamsack,,Saskatchewan,CA,51.5626,-101.898,ardac,835.5,False
-SK388,Kamsack Beach,,Saskatchewan,CA,51.6335,-101.651,ardac,818.3,False
-SK389,Kandahar,,Saskatchewan,CA,51.7589,-104.361,ardac,939.7,False
-SK390,Kannata Valley,,Saskatchewan,CA,50.7833,-104.9,ardac,1042.0,False
-SK391,Katepwa Beach,,Saskatchewan,CA,50.697,-103.627,ardac,987.6,False
-SK392,Katepwa South,,Saskatchewan,CA,50.6617,-103.64,ardac,991.2,False
-SK393,Kawacatoose,,Saskatchewan,CA,51.4775,-104.399,ardac,962.9,False
-SK394,Kayville,,Saskatchewan,CA,49.7264,-105.15,ardac,1140.3,False
-SK395,Keatley,,Saskatchewan,CA,52.8,-107.467,ardac,1021.5,False
-SK396,Kedleston Beach,,Saskatchewan,CA,50.8167,-105.067,ardac,1047.7,False
-SK397,Keeler,,Saskatchewan,CA,50.6833,-105.883,ardac,1099.2,False
-SK398,Kelliher,,Saskatchewan,CA,51.2666,-103.734,ardac,946.4,False
-SK399,Kelso,,Saskatchewan,CA,49.9659,-101.952,ardac,977.9,False
-SK400,Kelvington,,Saskatchewan,CA,52.1617,-103.525,ardac,867.0,False
-SK401,Kenaston,,Saskatchewan,CA,51.5019,-106.267,ardac,1058.3,False
-SK402,Kendal,,Saskatchewan,CA,50.255,-103.615,ardac,1024.3,False
-SK403,Kennedy,,Saskatchewan,CA,50.0134,-102.349,ardac,990.0,False
-SK404,Kenosee Lake,,Saskatchewan,CA,49.8334,-102.285,ardac,1003.6,False
-SK405,Kenosee Park,,Saskatchewan,CA,49.8339,-102.318,ardac,1004.9,False
-SK406,Kerrobert,,Saskatchewan,CA,51.9167,-109.133,ardac,1012.5,False
-SK407,Ketchen,,Saskatchewan,CA,51.9947,-102.821,ardac,844.4,False
-SK408,Key Lake,,Saskatchewan,CA,57.2226,-105.65,ardac,657.2,False
-SK409,Khedive,,Saskatchewan,CA,49.6167,-104.517,ardac,1120.1,False
-SK410,Killaly,,Saskatchewan,CA,50.7566,-102.837,ardac,946.2,False
-SK411,Kilwinning,,Saskatchewan,CA,53.0998,-106.661,ardac,958.8,False
-SK412,Kincaid,,Saskatchewan,CA,49.6716,-107.005,ardac,1139.3,False
-SK413,Kindersley,,Saskatchewan,CA,51.47,-109.157,ardac,1003.8,False
-SK414,Kinistin Saulteaux,,Saskatchewan,CA,52.6083,-104.225,ardac,871.8,False
-SK415,Kinistino,,Saskatchewan,CA,52.9522,-105.029,ardac,890.6,False
-SK416,Kinley,,Saskatchewan,CA,52.0678,-107.427,ardac,1075.2,False
-SK417,Kipling,,Saskatchewan,CA,50.1,-102.633,ardac,994.3,False
-SK418,Kisbey,,Saskatchewan,CA,49.65,-102.667,ardac,1036.0,False
-SK419,Kivimaa-Moonlight Bay,,Saskatchewan,CA,53.6036,-108.665,ardac,1028.0,False
-SK420,Kopp's Kove,,Saskatchewan,CA,53.5289,-108.692,ardac,1034.4,False
-SK421,Kronau,,Saskatchewan,CA,50.3047,-104.294,ardac,1051.6,False
-SK422,Krydor,,Saskatchewan,CA,52.7884,-107.075,ardac,1002.7,False
-SK423,Kuroki,,Saskatchewan,CA,51.8694,-103.485,ardac,887.0,False
-SK424,Kyle,,Saskatchewan,CA,50.8319,-108.038,ardac,1073.8,False
-SK425,Kylemore,,Saskatchewan,CA,51.9071,-103.641,ardac,892.0,False
-SK426,La Loche,,Saskatchewan,CA,56.4858,-109.434,ardac,901.2,False
-SK427,La Ronge,,Saskatchewan,CA,55.112,-105.3,ardac,752.7,False
-SK429,Lac Vert,,Saskatchewan,CA,52.5035,-104.493,ardac,893.3,False
-SK430,Lady Lake,,Saskatchewan,CA,52.0268,-102.626,ardac,832.3,False
-SK431,Lafleche,,Saskatchewan,CA,49.7052,-106.574,ardac,1170.9,False
-SK432,Laird,,Saskatchewan,CA,52.7147,-106.589,ardac,984.2,False
-SK433,Lajord,,Saskatchewan,CA,50.2394,-104.147,ardac,1050.2,False
-SK434,Lake Alma,,Saskatchewan,CA,49.1447,-104.197,ardac,1146.8,False
-SK435,Lake Lenore,,Saskatchewan,CA,52.3969,-104.983,ardac,926.9,False
-SK436,Lampman,,Saskatchewan,CA,49.3818,-102.756,ardac,1064.1,False
-SK437,Lancer,,Saskatchewan,CA,50.8,-108.883,ardac,1013.9,False
-SK438,Landis,,Saskatchewan,CA,52.2,-108.45,ardac,1064.3,False
-SK439,Lang,,Saskatchewan,CA,49.9194,-104.371,ardac,1087.6,False
-SK440,Langbank,,Saskatchewan,CA,50.0491,-102.295,ardac,984.5,False
-SK441,Langenburg,,Saskatchewan,CA,50.8429,-101.7,ardac,888.7,False
-SK442,Langham,,Saskatchewan,CA,52.3609,-106.965,ardac,1029.9,False
-SK443,Lanigan,,Saskatchewan,CA,51.85,-105.033,ardac,968.0,False
-SK444,Lanz Point,,Saskatchewan,CA,53.0294,-108.28,ardac,1046.7,False
-SK445,Laporte,,Saskatchewan,CA,51.2145,-109.512,ardac,975.9,False
-SK446,Lashburn,,Saskatchewan,CA,53.1269,-109.613,ardac,1012.6,False
-SK447,Laura,,Saskatchewan,CA,51.848,-107.281,ardac,1085.6,False
-SK448,Leacross,,Saskatchewan,CA,53.05,-104.05,ardac,832.9,False
-SK449,Leader,,Saskatchewan,CA,50.8888,-109.54,ardac,969.0,False
-SK450,Leask,,Saskatchewan,CA,53.0211,-106.741,ardac,968.6,False
-SK451,Lebret,,Saskatchewan,CA,50.7571,-103.704,ardac,986.3,False
-SK452,Lemberg,,Saskatchewan,CA,50.7281,-103.204,ardac,965.4,False
-SK453,Leoville,,Saskatchewan,CA,53.6333,-107.55,ardac,966.8,False
-SK454,Leross,,Saskatchewan,CA,51.2886,-103.87,ardac,951.3,False
-SK455,Leroy,,Saskatchewan,CA,52.0007,-104.738,ardac,941.6,False
-SK456,Leslie,,Saskatchewan,CA,51.6965,-103.713,ardac,911.7,False
-SK457,Leslie Beach,,Saskatchewan,CA,51.8159,-103.563,ardac,895.0,False
-SK458,Lestock,,Saskatchewan,CA,51.3124,-103.98,ardac,954.8,False
-SK459,Liberty,,Saskatchewan,CA,51.1419,-105.444,ardac,1041.7,False
-SK460,Limerick,,Saskatchewan,CA,49.6534,-106.267,ardac,1193.0,False
-SK461,Lintlaw,,Saskatchewan,CA,52.0645,-103.244,ardac,860.1,False
-SK462,Lipton,,Saskatchewan,CA,50.9012,-103.849,ardac,981.3,False
-SK463,Lisieux,,Saskatchewan,CA,49.2785,-105.975,ardac,1214.0,False
-SK464,Little Black Bear,,Saskatchewan,CA,51.0002,-103.348,ardac,949.4,False
-SK465,Little Fishing Lake,,Saskatchewan,CA,53.8591,-109.565,ardac,1043.3,False
-SK466,Little Pine Indian Reserve 116,,Saskatchewan,CA,51.3542,-110.6354,ardac,899.5,False
-SK467,Little Swan River,,Saskatchewan,CA,52.4013,-102.165,ardac,780.7,False
-SK468,Livelong,,Saskatchewan,CA,53.4485,-108.704,ardac,1040.4,False
-SK469,Lockwood,,Saskatchewan,CA,51.65,-105.017,ardac,981.7,False
-SK470,Lone Rock,,Saskatchewan,CA,53.049,-109.879,ardac,992.9,False
-SK471,Loon Lake,,Saskatchewan,CA,54.0265,-109.156,ardac,1027.9,False
-SK472,Loreburn,,Saskatchewan,CA,51.2309,-106.599,ardac,1095.4,False
-SK473,Love,,Saskatchewan,CA,53.487,-104.165,ardac,807.7,False
-SK474,Loverna,,Saskatchewan,CA,51.655,-109.99,ardac,949.1,False
-SK475,Lucky Lake,,Saskatchewan,CA,50.9833,-107.133,ardac,1139.3,False
-SK476,Lumsden,,Saskatchewan,CA,50.6466,-104.868,ardac,1051.3,False
-SK477,Lumsden Beach,,Saskatchewan,CA,50.7629,-104.902,ardac,1043.7,False
-SK478,Luseland,,Saskatchewan,CA,52.0813,-109.39,ardac,998.3,False
-SK479,Macdowall,,Saskatchewan,CA,53.0169,-106.015,ardac,933.0,False
-SK480,Macklin,,Saskatchewan,CA,52.3333,-109.937,ardac,967.6,False
-SK481,MacNutt,,Saskatchewan,CA,51.0839,-101.604,ardac,863.4,False
-SK482,Macoun,,Saskatchewan,CA,49.315,-103.263,ardac,1091.3,False
-SK483,Macrorie,,Saskatchewan,CA,51.3261,-107.085,ardac,1114.6,False
-SK484,Maidstone,,Saskatchewan,CA,53.0894,-109.288,ardac,1032.1,False
-SK485,Main Centre,,Saskatchewan,CA,50.5822,-107.344,ardac,1120.7,False
-SK486,Major,,Saskatchewan,CA,51.8724,-109.614,ardac,978.9,False
-SK487,Makwa,,Saskatchewan,CA,54.0059,-108.906,ardac,1015.5,False
-SK488,Makwa Sahgaiehcan,,Saskatchewan,CA,54.039,-109.161,ardac,1027.4,False
-SK489,Manitou Beach,,Saskatchewan,CA,51.7167,-105.433,ardac,998.6,False
-SK490,Mankota,,Saskatchewan,CA,49.4199,-107.071,ardac,1133.6,False
-SK491,Manor,,Saskatchewan,CA,49.6053,-102.085,ardac,1016.3,False
-SK492,Mantario,,Saskatchewan,CA,51.2602,-109.695,ardac,963.7,False
-SK493,Maple Creek,,Saskatchewan,CA,49.9064,-109.48,ardac,962.1,False
-SK494,Marcelin,,Saskatchewan,CA,52.926,-106.794,ardac,978.4,False
-SK495,Marchwell,,Saskatchewan,CA,50.8013,-101.576,ardac,887.1,False
-SK496,Marengo,,Saskatchewan,CA,51.4794,-109.783,ardac,960.5,False
-SK497,Margo,,Saskatchewan,CA,51.8251,-103.337,ardac,883.0,False
-SK498,Markinch,,Saskatchewan,CA,50.9396,-104.362,ardac,1003.1,False
-SK499,Marquis,,Saskatchewan,CA,50.6195,-105.719,ardac,1095.8,False
-SK500,Marsden,,Saskatchewan,CA,52.8393,-109.822,ardac,989.7,False
-SK501,Marshall,,Saskatchewan,CA,53.1935,-109.778,ardac,1004.4,False
-SK502,Martensville,,Saskatchewan,CA,52.2922,-106.658,ardac,1020.4,False
-SK503,Martinson's Beach,,Saskatchewan,CA,53.1,-108.433,ardac,1049.7,False
-SK504,Maryfield,,Saskatchewan,CA,49.8369,-101.526,ardac,972.8,False
-SK505,Marysburg,,Saskatchewan,CA,52.3182,-105.0935,ardac,938.3,False
-SK506,Mayfair,,Saskatchewan,CA,52.9833,-107.6,ardac,1014.9,False
-SK507,Maymont,,Saskatchewan,CA,52.5628,-107.707,ardac,1051.2,False
-SK508,Mazenod,,Saskatchewan,CA,49.8627,-106.217,ardac,1180.8,False
-SK509,McCord,,Saskatchewan,CA,49.428,-106.83,ardac,1151.3,False
-SK510,McGee,,Saskatchewan,CA,51.5029,-108.251,ardac,1067.1,False
-SK511,McKague,,Saskatchewan,CA,52.6151,-103.941,ardac,856.2,False
-SK512,McLean,,Saskatchewan,CA,50.5167,-104.067,ardac,1023.3,False
-SK513,McMahon,,Saskatchewan,CA,50.0757,-107.563,ardac,1102.0,False
-SK514,McTaggart,,Saskatchewan,CA,49.7303,-104.011,ardac,1087.3,False
-SK515,Meacham,,Saskatchewan,CA,52.1075,-105.76,ardac,988.7,False
-SK516,Meadow Lake,,Saskatchewan,CA,54.1266,-108.434,ardac,982.3,False
-SK517,Meath Park,,Saskatchewan,CA,53.4425,-105.369,ardac,869.1,False
-SK518,Medstead,,Saskatchewan,CA,53.299,-108.08,ardac,1017.5,False
-SK519,Mehan,,Saskatchewan,CA,51.2986,-102.455,ardac,883.1,False
-SK520,Melfort,,Saskatchewan,CA,52.8594,-104.61,ardac,875.9,False
-SK521,Melville,,Saskatchewan,CA,50.9332,-102.804,ardac,929.7,False
-SK522,Mendham,,Saskatchewan,CA,50.7727,-109.664,ardac,958.5,False
-SK523,Meota,,Saskatchewan,CA,53.0358,-108.454,ardac,1055.3,False
-SK524,Mervin,,Saskatchewan,CA,53.3341,-108.874,ardac,1057.0,False
-SK525,Meskanaw,,Saskatchewan,CA,52.7814,-105.08,ardac,906.6,False
-SK526,Metinota,,Saskatchewan,CA,53.0317,-108.399,ardac,1052.7,False
-SK527,Meyronne,,Saskatchewan,CA,49.6695,-106.838,ardac,1151.5,False
-SK528,Michel Village,,Saskatchewan,CA,56.0126,-109.113,ardac,906.7,False
-SK529,Midale,,Saskatchewan,CA,49.3971,-103.41,ardac,1090.2,False
-SK530,Middle Lake,,Saskatchewan,CA,52.4813,-105.305,ardac,938.7,False
-SK531,Mikado,,Saskatchewan,CA,51.6088,-102.27,ardac,848.8,False
-SK532,Milden,,Saskatchewan,CA,51.4873,-107.52,ardac,1117.8,False
-SK533,Mildred,,Saskatchewan,CA,53.35,-107.333,ardac,975.0,False
-SK534,Milestone,,Saskatchewan,CA,49.9931,-104.517,ardac,1088.1,False
-SK535,Ministik Beach,,Saskatchewan,CA,51.6378,-101.625,ardac,816.8,False
-SK536,Minowukaw Beach,,Saskatchewan,CA,53.779,-105.16,ardac,833.9,False
-SK537,Minton,,Saskatchewan,CA,49.165,-104.583,ardac,1162.2,False
-SK538,Missinipe,,Saskatchewan,CA,55.6,-104.767,ardac,695.9,False
-SK539,Mistatim,,Saskatchewan,CA,52.8719,-103.359,ardac,807.6,False
-SK540,Mistawasis,,Saskatchewan,CA,53.1833,-106.8,ardac,959.7,False
-SK541,Mistusinne,,Saskatchewan,CA,51.0635,-106.521,ardac,1103.5,False
-SK542,Mohr's Beach,,Saskatchewan,CA,50.8808,-105.088,ardac,1043.7,False
-SK543,Mont Nebo,,Saskatchewan,CA,53.2833,-106.85,ardac,955.0,False
-SK544,Montmartre,,Saskatchewan,CA,50.2197,-103.45,ardac,1019.8,False
-SK545,Montreal Lake,,Saskatchewan,CA,54.0456,-105.773,ardac,846.2,False
-SK546,Moose Bay,,Saskatchewan,CA,50.6132,-102.685,ardac,951.7,False
-SK547,Moose Jaw,,Saskatchewan,CA,50.4,-105.533,ardac,1103.8,False
-SK548,Moose Range,,Saskatchewan,CA,53.2333,-103.7,ardac,801.9,False
-SK550,Moosomin,,Saskatchewan,CA,50.1444,-101.667,ardac,950.1,False
-SK551,Morse,,Saskatchewan,CA,50.4159,-107.04,ardac,1141.3,False
-SK552,Mortlach,,Saskatchewan,CA,50.4547,-106.068,ardac,1126.3,False
-SK553,Mosquito-Grizzly Bear's Head-Lean Man,,Saskatchewan,CA,52.4905,-108.211,ardac,1082.1,False
-SK554,Mossbank,,Saskatchewan,CA,49.9392,-105.966,ardac,1162.2,False
-SK555,Mozart,,Saskatchewan,CA,51.7756,-103.994,ardac,919.8,False
-SK556,Muenster,,Saskatchewan,CA,52.191,-104.997,ardac,941.9,False
-SK557,Mullingar,,Saskatchewan,CA,53.0848,-107.663,ardac,1010.8,False
-SK558,Murray Point,,Saskatchewan,CA,53.607,-105.927,ardac,884.9,False
-SK559,Muscowpetung,,Saskatchewan,CA,50.7793,-104.285,ardac,1012.2,False
-SK560,Muskoday,,Saskatchewan,CA,53.0943,-105.484,ardac,901.2,False
-SK561,Muskowekwan,,Saskatchewan,CA,51.3225,-104.0,ardac,955.0,False
-SK562,Naicam,,Saskatchewan,CA,52.4176,-104.496,ardac,899.4,False
-SK563,Neilburg,,Saskatchewan,CA,52.8387,-109.624,ardac,1002.5,False
-SK564,Nekaneet,,Saskatchewan,CA,49.7657,-109.277,ardac,975.1,False
-SK565,Nesslin Lake,,Saskatchewan,CA,53.93,-106.786,ardac,906.7,False
-SK566,Netherhill,,Saskatchewan,CA,51.4701,-108.856,ardac,1024.7,False
-SK567,Neuanlage,,Saskatchewan,CA,52.4532,-106.463,ardac,998.3,False
-SK568,Neudorf,,Saskatchewan,CA,50.712,-103.015,ardac,958.1,False
-SK569,Neuhorst,,Saskatchewan,CA,52.4009,-106.577,ardac,1007.9,False
-SK570,Neville,,Saskatchewan,CA,49.9667,-107.633,ardac,1095.9,False
-SK571,Nipawin,,Saskatchewan,CA,53.3613,-104.014,ardac,810.6,False
-SK572,Nokomis,,Saskatchewan,CA,51.5086,-105.01,ardac,991.8,False
-SK573,Norquay,,Saskatchewan,CA,51.8833,-102.083,ardac,817.6,False
-SK574,North Battleford,,Saskatchewan,CA,52.7782,-108.292,ardac,1065.2,False
-SK575,North Colesdale Park,,Saskatchewan,CA,50.9579,-105.15,ardac,1040.8,False
-SK576,North Grove,,Saskatchewan,CA,50.6969,-105.563,ardac,1081.9,False
-SK577,North Portal,,Saskatchewan,CA,49.0046,-102.549,ardac,1090.3,False
-SK578,North Shore Fishing Lake,,Saskatchewan,CA,51.8487,-103.515,ardac,890.1,False
-SK579,North Weyburn,,Saskatchewan,CA,49.6922,-103.808,ardac,1081.5,False
-SK580,Northminster,,Saskatchewan,CA,53.3667,-109.933,ardac,1000.9,False
-SK581,Northside,,Saskatchewan,CA,53.5115,-105.766,ardac,883.7,False
-SK582,Nut Mountain,,Saskatchewan,CA,52.1271,-103.38,ardac,862.2,False
-SK583,Oakshela,,Saskatchewan,CA,50.3946,-102.762,ardac,974.0,False
-SK584,Ocean Man,,Saskatchewan,CA,49.851,-103.021,ardac,1033.1,False
-SK585,Ochapowace,,Saskatchewan,CA,50.475,-102.392,ardac,950.8,False
-SK586,Odessa,,Saskatchewan,CA,50.2833,-103.783,ardac,1029.6,False
-SK587,Ogema,,Saskatchewan,CA,49.5747,-104.915,ardac,1142.1,False
-SK588,Okanese,,Saskatchewan,CA,50.925,-103.384,ardac,957.3,False
-SK589,Okla,,Saskatchewan,CA,52.0117,-103.1183,ardac,857.8,False
-SK590,One Arrow 95,,Saskatchewan,CA,52.7348,-106.029,ardac,955.4,False
-SK591,Onion Lake,,Saskatchewan,CA,53.7082,-109.958,ardac,1012.9,False
-SK592,Orcadia,,Saskatchewan,CA,51.2764,-102.613,ardac,892.2,False
-SK593,Orkney,,Saskatchewan,CA,49.1438,-107.911,ardac,1071.4,False
-SK594,Ormiston,,Saskatchewan,CA,49.7385,-105.393,ardac,1150.8,False
-SK595,Osage,,Saskatchewan,CA,49.9568,-103.579,ardac,1048.3,False
-SK596,Osler,,Saskatchewan,CA,52.3679,-106.537,ardac,1008.6,False
-SK597,Otthon,,Saskatchewan,CA,51.0979,-102.598,ardac,906.4,False
-SK598,Ottman - Murray Beach,,Saskatchewan,CA,51.818,-103.472,ardac,890.3,False
-SK599,Oungre,,Saskatchewan,CA,49.1458,-103.799,ardac,1129.3,False
-SK600,Outlook,,Saskatchewan,CA,51.4891,-107.062,ardac,1101.9,False
-SK601,Outram,,Saskatchewan,CA,49.1449,-103.324,ardac,1109.2,False
-SK602,Oxbow,,Saskatchewan,CA,49.2305,-102.172,ardac,1054.5,False
-SK603,Paddockwood,,Saskatchewan,CA,53.5078,-105.561,ardac,873.8,False
-SK604,Pakwaw Lake,,Saskatchewan,CA,53.4773,-102.653,ardac,729.3,False
-SK605,Palmer,,Saskatchewan,CA,49.8599,-106.354,ardac,1187.6,False
-SK606,Palo,,Saskatchewan,CA,52.1667,-108.3,ardac,1073.8,False
-SK607,Pambrun,,Saskatchewan,CA,49.9333,-107.45,ardac,1108.8,False
-SK608,Pangman,,Saskatchewan,CA,49.6465,-104.662,ardac,1124.2,False
-SK609,Paradise Hill,,Saskatchewan,CA,53.5378,-109.458,ardac,1037.1,False
-SK610,Parkbeg,,Saskatchewan,CA,50.454,-106.269,ardac,1136.6,False
-SK611,Parkland Beach,,Saskatchewan,CA,53.5514,-108.694,ardac,1033.0,False
-SK612,Parkside,,Saskatchewan,CA,53.1656,-106.536,ardac,947.7,False
-SK613,Parkview,,Saskatchewan,CA,50.6172,-105.458,ardac,1082.9,False
-SK614,Parry,,Saskatchewan,CA,49.7887,-104.72,ardac,1114.8,False
-SK615,Pasqua Lake,,Saskatchewan,CA,50.7361,-103.98,ardac,1001.1,False
-SK617,Paswegin,,Saskatchewan,CA,51.9939,-103.965,ardac,902.0,False
-SK618,Pathlow,,Saskatchewan,CA,52.7157,-104.805,ardac,895.9,False
-SK619,Patuanak,,Saskatchewan,CA,55.8964,-107.705,ardac,836.3,False
-SK620,Paynton,,Saskatchewan,CA,53.0139,-108.936,ardac,1052.5,False
-SK621,Pebble Baye,,Saskatchewan,CA,53.1915,-107.009,ardac,969.7,False
-SK622,Peebles,,Saskatchewan,CA,50.1593,-102.949,ardac,1002.8,False
-SK623,Peepeekisis,,Saskatchewan,CA,50.8693,-103.329,ardac,959.3,False
-SK624,Peerless,,Saskatchewan,CA,54.3474,-109.23,ardac,1012.9,False
-SK625,Peesane,,Saskatchewan,CA,52.8682,-103.6,ardac,820.7,False
-SK626,Pelican Cove,,Saskatchewan,CA,53.1668,-107.054,ardac,973.8,False
-SK627,Pelican Lake 191C,,Saskatchewan,CA,53.7251,-107.739,ardac,970.7,False
-SK628,Pelican Narrows,,Saskatchewan,CA,55.1667,-102.933,ardac,624.6,False
-SK629,Pelican Point,,Saskatchewan,CA,53.0506,-108.318,ardac,1047.2,False
-SK630,Pelican Pointe,,Saskatchewan,CA,50.8038,-105.031,ardac,1046.9,False
-SK631,Pelly,,Saskatchewan,CA,51.8562,-101.929,ardac,812.6,False
-SK632,Pemmican Portage,,Saskatchewan,CA,53.9333,-102.283,ardac,680.5,False
-SK633,Pennant,,Saskatchewan,CA,50.5333,-108.233,ardac,1057.0,False
-SK634,Pense,,Saskatchewan,CA,50.4167,-104.983,ardac,1075.4,False
-SK635,Penzance,,Saskatchewan,CA,51.0591,-105.439,ardac,1047.7,False
-SK636,Percival,,Saskatchewan,CA,50.3636,-102.409,ardac,961.4,False
-SK637,Perdue,,Saskatchewan,CA,52.0544,-107.544,ardac,1082.0,False
-SK638,Périgord,,Saskatchewan,CA,52.3474,-103.566,ardac,855.5,False
-SK639,Peter Ballantyne,,Saskatchewan,CA,55.175,-102.906,ardac,622.6,False
-SK640,Peterson,,Saskatchewan,CA,52.188,-105.681,ardac,978.9,False
-SK641,Phillips Grove,,Saskatchewan,CA,53.8697,-106.935,ardac,918.6,False
-SK642,Piapot,,Saskatchewan,CA,49.989,-109.121,ardac,989.0,False
-SK643,Pierceland,,Saskatchewan,CA,54.3393,-109.782,ardac,1042.4,False
-SK644,Pike Lake,,Saskatchewan,CA,51.9116,-106.818,ardac,1058.4,False
-SK645,Pilger,,Saskatchewan,CA,52.4252,-105.268,ardac,940.5,False
-SK646,Pilot Butte,,Saskatchewan,CA,50.481,-104.42,ardac,1043.0,False
-SK647,Pinehouse,,Saskatchewan,CA,55.5194,-106.574,ardac,798.7,False
-SK648,Pleasantdale,,Saskatchewan,CA,52.5779,-104.506,ardac,888.9,False
-SK649,Plenty,,Saskatchewan,CA,51.7829,-108.646,ardac,1043.6,False
-SK650,Plunkett,,Saskatchewan,CA,51.9079,-105.445,ardac,985.6,False
-SK651,Ponteix,,Saskatchewan,CA,49.7458,-107.489,ardac,1104.5,False
-SK652,Pontrilas,,Saskatchewan,CA,53.2167,-104.033,ardac,821.3,False
-SK653,Porcupine Plain,,Saskatchewan,CA,52.5989,-103.255,ardac,821.3,False
-SK654,Poundmaker,,Saskatchewan,CA,52.8959,-108.974,ardac,1046.5,False
-SK655,Powm Beach,,Saskatchewan,CA,53.5734,-108.704,ardac,1032.1,False
-SK656,Prairie River,,Saskatchewan,CA,52.8618,-102.993,ardac,789.0,False
-SK657,Preeceville,,Saskatchewan,CA,51.9558,-102.666,ardac,839.8,False
-SK658,Prelate,,Saskatchewan,CA,50.8537,-109.404,ardac,978.0,False
-SK659,Primate,,Saskatchewan,CA,52.2632,-109.823,ardac,973.4,False
-SK660,Prince,,Saskatchewan,CA,52.9624,-108.367,ardac,1055.9,False
-SK661,Prince Albert,,Saskatchewan,CA,53.1988,-105.765,ardac,906.9,False
-SK662,Prongua,,Saskatchewan,CA,52.7437,-108.546,ardac,1070.4,False
-SK663,Prud'homme,,Saskatchewan,CA,52.3384,-105.89,ardac,980.2,False
-SK664,Punnichy,,Saskatchewan,CA,51.3714,-104.297,ardac,966.0,False
-SK665,Qu'Appelle,,Saskatchewan,CA,50.5434,-103.876,ardac,1012.1,False
-SK666,Quill Lake,,Saskatchewan,CA,52.0713,-104.253,ardac,911.2,False
-SK667,Quinton,,Saskatchewan,CA,51.384,-104.404,ardac,970.3,False
-SK668,Rabbit Lake,,Saskatchewan,CA,53.1449,-107.767,ardac,1011.9,False
-SK669,Radisson,,Saskatchewan,CA,52.4615,-107.392,ardac,1043.1,False
-SK670,Radville,,Saskatchewan,CA,49.4613,-104.3,ardac,1123.6,False
-SK671,Rama,,Saskatchewan,CA,51.7574,-103.002,ardac,871.8,False
-SK672,Ranger,,Saskatchewan,CA,53.6101,-107.6979,ardac,976.2,False
-SK673,Rapid View,,Saskatchewan,CA,54.15,-108.817,ardac,1001.8,False
-SK674,Raymore,,Saskatchewan,CA,51.4098,-104.527,ardac,974.6,False
-SK675,Red Deer Hill,,Saskatchewan,CA,53.0226,-105.805,ardac,922.3,False
-SK676,Red Earth,,Saskatchewan,CA,53.4861,-102.862,ardac,740.1,False
-SK677,Red Jacket,,Saskatchewan,CA,50.2101,-101.79,ardac,949.1,False
-SK678,Red Pheasant,,Saskatchewan,CA,52.4606,-108.17,ardac,1082.2,False
-SK679,Redvers,,Saskatchewan,CA,49.5733,-101.698,ardac,1004.0,False
-SK680,Regina,,Saskatchewan,CA,50.45,-104.617,ardac,1055.0,False
-SK681,Regina Beach,,Saskatchewan,CA,50.7905,-104.981,ardac,1045.5,False
-SK682,Renown,,Saskatchewan,CA,51.6333,-105.55,ardac,1010.8,False
-SK683,Reserve,,Saskatchewan,CA,52.4701,-102.644,ardac,799.3,False
-SK684,Rex,,Saskatchewan,CA,53.45,-109.933,ardac,1004.1,False
-SK685,Rhein,,Saskatchewan,CA,51.3528,-102.19,ardac,866.4,False
-SK686,Rheinfeld,,Saskatchewan,CA,50.1167,-107.567,ardac,1102.1,False
-SK687,Rheinland,,Saskatchewan,CA,52.4174,-106.505,ardac,1003.2,False
-SK688,Riceton,,Saskatchewan,CA,50.1112,-104.319,ardac,1069.0,False
-SK689,Richard,,Saskatchewan,CA,52.6929,-107.703,ardac,1041.4,False
-SK690,Richardson,,Saskatchewan,CA,50.3833,-104.45,ardac,1052.5,False
-SK691,Richmound,,Saskatchewan,CA,50.4547,-109.756,ardac,947.7,False
-SK692,Ridgedale,,Saskatchewan,CA,53.0563,-104.152,ardac,838.0,False
-SK693,Riverhurst,,Saskatchewan,CA,50.9025,-106.867,ardac,1133.6,False
-SK694,Riversedge,,Saskatchewan,CA,52.2222,-106.553,ardac,1020.9,False
-SK695,Riverside Estates,,Saskatchewan,CA,52.0473,-106.701,ardac,1041.9,False
-SK696,Robsart,,Saskatchewan,CA,49.3833,-109.283,ardac,971.4,False
-SK697,Rocanville,,Saskatchewan,CA,50.3833,-101.7,ardac,929.7,False
-SK698,Roche Percee,,Saskatchewan,CA,49.0667,-102.8,ardac,1094.7,False
-SK699,Rockglen,,Saskatchewan,CA,49.1833,-105.95,ardac,1216.0,False
-SK700,Rockhaven,,Saskatchewan,CA,52.6715,-108.87,ardac,1047.1,False
-SK701,Rokeby,,Saskatchewan,CA,51.1333,-102.333,ardac,891.4,False
-SK702,Rose Valley,,Saskatchewan,CA,52.2929,-103.811,ardac,872.1,False
-SK703,Rosenhof,,Saskatchewan,CA,50.2054,-107.571,ardac,1102.3,False
-SK704,Rosetown,,Saskatchewan,CA,51.5571,-107.984,ardac,1086.3,False
-SK705,Rosthern,,Saskatchewan,CA,52.6667,-106.333,ardac,975.4,False
-SK706,Rouleau,,Saskatchewan,CA,50.1898,-104.902,ardac,1090.0,False
-SK707,Ruby Beach,,Saskatchewan,CA,52.9665,-102.348,ardac,748.0,False
-SK708,Ruddell,,Saskatchewan,CA,52.6051,-107.858,ardac,1055.7,False
-SK709,Runnymede,,Saskatchewan,CA,51.4791,-101.701,ardac,833.6,False
-SK710,Rush Lake,,Saskatchewan,CA,50.4052,-107.399,ardac,1115.6,False
-SK711,Ruthilda,,Saskatchewan,CA,51.8921,-108.466,ardac,1057.7,False
-SK712,Sakimay,,Saskatchewan,CA,50.5273,-102.793,ardac,963.9,False
-SK713,Saltcoats,,Saskatchewan,CA,51.0431,-102.163,ardac,891.4,False
-SK714,Salvador,,Saskatchewan,CA,52.1681,-109.509,ardac,992.2,False
-SK715,Sand Point Beach,,Saskatchewan,CA,50.6944,-105.581,ardac,1083.0,False
-SK716,Sandy Bay,,Saskatchewan,CA,55.5227,-102.303,ardac,568.9,False
-SK717,Sandy Beach,,Saskatchewan,CA,50.7225,-103.655,ardac,986.8,False
-SK718,Sarnia Beach,,Saskatchewan,CA,50.9955,-105.225,ardac,1041.7,False
-SK719,Saskatchewan Beach,,Saskatchewan,CA,50.7955,-104.927,ardac,1042.4,False
-SK720,Saskatoon,,Saskatchewan,CA,52.1307,-106.659,ardac,1033.2,False
-SK721,Saulteaux 159,,Saskatchewan,CA,53.1227,-108.337,ardac,1043.1,False
-SK722,Sceptre,,Saskatchewan,CA,50.8622,-109.267,ardac,987.7,False
-SK723,Schoenfeld,,Saskatchewan,CA,50.0889,-107.699,ardac,1092.4,False
-SK724,Scott,,Saskatchewan,CA,52.3667,-108.833,ardac,1042.1,False
-SK725,Scout Lake,,Saskatchewan,CA,49.3646,-106.0,ardac,1211.0,False
-SK726,Sedley,,Saskatchewan,CA,50.1686,-104.014,ardac,1049.9,False
-SK727,Semans,,Saskatchewan,CA,51.4064,-104.729,ardac,985.1,False
-SK728,Senlac,,Saskatchewan,CA,52.4918,-109.707,ardac,987.0,False
-SK729,Shackleton,,Saskatchewan,CA,50.6849,-108.605,ardac,1032.1,False
-SK730,Shamrock,,Saskatchewan,CA,50.1607,-106.624,ardac,1170.3,False
-SK731,Shaunavon,,Saskatchewan,CA,49.65,-108.417,ardac,1036.4,False
-SK732,Sheho,,Saskatchewan,CA,51.5883,-103.214,ardac,895.5,False
-SK733,Shell Lake,,Saskatchewan,CA,53.3062,-107.063,ardac,964.2,False
-SK734,Shellbrook,,Saskatchewan,CA,53.2232,-106.385,ardac,935.9,False
-SK735,Shields,,Saskatchewan,CA,51.8214,-106.418,ardac,1044.0,False
-SK736,Shipman,,Saskatchewan,CA,53.4758,-104.982,ardac,847.7,False
-SK737,Silton,,Saskatchewan,CA,50.8075,-104.91,ardac,1040.6,False
-SK738,Silver Park,,Saskatchewan,CA,52.665,-104.523,ardac,884.0,False
-SK739,Simmie,,Saskatchewan,CA,49.944,-108.105,ardac,1061.6,False
-SK740,Simpson,,Saskatchewan,CA,51.4486,-105.444,ardac,1018.8,False
-SK741,Sintaluta,,Saskatchewan,CA,50.479,-103.449,ardac,997.6,False
-SK742,Sled Lake,,Saskatchewan,CA,54.428,-107.321,ardac,903.3,False
-SK743,Sleepy Hollow,,Saskatchewan,CA,53.0631,-108.321,ardac,1046.5,False
-SK744,Smeaton,,Saskatchewan,CA,53.4923,-104.806,ardac,837.9,False
-SK745,Smiley,,Saskatchewan,CA,51.6319,-109.47,ardac,984.5,False
-SK746,Smoky Burn,,Saskatchewan,CA,53.3667,-103.133,ardac,762.5,False
-SK747,Snowden,,Saskatchewan,CA,53.4916,-104.678,ardac,831.8,False
-SK748,Sonningdale,,Saskatchewan,CA,52.3833,-107.683,ardac,1063.5,False
-SK749,Sorenson's Beach,,Saskatchewan,CA,50.8364,-105.057,ardac,1045.6,False
-SK750,South Lake,,Saskatchewan,CA,50.6763,-105.563,ardac,1083.5,False
-SK751,Southend Reindeer,,Saskatchewan,CA,56.3266,-103.239,ardac,573.9,False
-SK752,Southey,,Saskatchewan,CA,50.9401,-104.499,ardac,1009.8,False
-SK753,Sovereign,,Saskatchewan,CA,51.5167,-107.717,ardac,1104.4,False
-SK754,Spalding,,Saskatchewan,CA,52.3288,-104.495,ardac,905.5,False
-SK755,Speers,,Saskatchewan,CA,52.7083,-107.558,ardac,1032.9,False
-SK756,Spiritwood,,Saskatchewan,CA,53.364,-107.519,ardac,983.7,False
-SK757,Spring Bay,,Saskatchewan,CA,50.9361,-105.136,ardac,1041.8,False
-SK758,Spring Valley,,Saskatchewan,CA,49.9432,-105.403,ardac,1134.4,False
-SK759,Springfeld,,Saskatchewan,CA,50.1419,-107.734,ardac,1090.3,False
-SK760,Springside,,Saskatchewan,CA,51.345,-102.742,ardac,892.6,False
-SK762,Springwater,,Saskatchewan,CA,51.9727,-108.378,ardac,1065.0,False
-SK763,Spruce Bay,,Saskatchewan,CA,53.2069,-107.692,ardac,1003.7,False
-SK764,Spruce Home,,Saskatchewan,CA,53.3941,-105.767,ardac,892.4,False
-SK765,Spruce Lake,,Saskatchewan,CA,53.5425,-109.088,ardac,1054.7,False
-SK766,Spy Hill,,Saskatchewan,CA,50.6022,-101.685,ardac,909.4,False
-SK767,St. Benedict,,Saskatchewan,CA,52.5683,-105.394,ardac,937.8,False
-SK768,St. Brieux,,Saskatchewan,CA,52.6356,-104.892,ardac,906.0,False
-SK769,St. Cyr Lake,,Saskatchewan,CA,54.2167,-108.067,ardac,956.8,False
-SK770,St. George's Hill,,Saskatchewan,CA,55.8769,-108.961,ardac,905.6,False
-SK771,St. Gregor,,Saskatchewan,CA,52.1776,-104.827,ardac,933.8,False
-SK772,St. Isidore-de-Bellevue,,Saskatchewan,CA,52.7843,-105.922,ardac,946.4,False
-SK773,St. Joseph's,,Saskatchewan,CA,50.4966,-104.18,ardac,1030.3,False
-SK774,St. Louis,,Saskatchewan,CA,52.9152,-105.812,ardac,930.9,False
-SK775,St. Walburg,,Saskatchewan,CA,53.6326,-109.198,ardac,1054.9,False
-SK776,Stalwart,,Saskatchewan,CA,51.2339,-105.442,ardac,1034.6,False
-SK777,Stanley Mission,,Saskatchewan,CA,55.4147,-104.566,ardac,695.3,False
-SK778,Star Blanket 83,,Saskatchewan,CA,50.9616,-103.5139,ardac,960.4,False
-SK779,Star City,,Saskatchewan,CA,52.8625,-104.332,ardac,860.5,False
-SK780,Starblanket,,Saskatchewan,CA,53.3683,-106.913,ardac,952.1,False
-SK781,Steen,,Saskatchewan,CA,52.6805,-103.526,ardac,829.7,False
-SK782,Stenen,,Saskatchewan,CA,51.9002,-102.38,ardac,830.4,False
-SK783,Stewart Valley,,Saskatchewan,CA,50.5978,-107.805,ardac,1088.0,False
-SK784,Stockholm,,Saskatchewan,CA,50.661,-102.302,ardac,930.6,False
-SK785,Stony Beach,,Saskatchewan,CA,50.4715,-105.163,ardac,1079.8,False
-SK786,Stony Rapids,,Saskatchewan,CA,59.254,-105.837,ardac,617.6,False
-SK787,Stornoway,,Saskatchewan,CA,51.2944,-102.034,ardac,864.2,False
-SK788,Storthoaks,,Saskatchewan,CA,49.3894,-101.601,ardac,1017.5,False
-SK789,Stoughton,,Saskatchewan,CA,49.6797,-103.027,ardac,1048.6,False
-SK790,Stranraer,,Saskatchewan,CA,51.7082,-108.485,ardac,1053.5,False
-SK791,Strasbourg,,Saskatchewan,CA,51.0708,-104.958,ardac,1022.4,False
-SK792,Strongfield,,Saskatchewan,CA,51.3338,-106.596,ardac,1087.9,False
-SK793,Sturgeon Lake,,Saskatchewan,CA,53.4101,-105.991,ardac,902.4,False
-SK794,Sturgeon Landing,,Saskatchewan,CA,54.2698,-101.827,ardac,635.2,False
-SK795,Sturgis,,Saskatchewan,CA,51.9371,-102.533,ardac,834.8,False
-SK796,Success,,Saskatchewan,CA,50.4596,-108.079,ardac,1067.3,False
-SK797,Summerberry,,Saskatchewan,CA,50.4167,-103.1,ardac,987.1,False
-SK798,Summerfield Beach,,Saskatchewan,CA,53.0401,-108.308,ardac,1047.4,False
-SK799,Sun Valley,,Saskatchewan,CA,50.6544,-105.53,ardac,1083.6,False
-SK800,Sunset Beach,,Saskatchewan,CA,50.6021,-102.666,ardac,951.8,False
-SK801,Sunset Cove,,Saskatchewan,CA,50.8111,-105.003,ardac,1044.9,False
-SK802,Sunset View Beach,,Saskatchewan,CA,53.5491,-108.623,ardac,1029.4,False
-SK803,Swan Plain,,Saskatchewan,CA,52.115,-102.054,ardac,797.7,False
-SK804,Swanson,,Saskatchewan,CA,51.7,-107.15,ardac,1091.2,False
-SK805,Sweetgrass,,Saskatchewan,CA,52.7626,-108.713,ardac,1059.9,False
-SK806,Swift Current,,Saskatchewan,CA,50.2844,-107.791,ardac,1086.9,False
-SK807,Sylvania,,Saskatchewan,CA,52.6941,-104.003,ardac,854.1,False
-SK808,Tadmore,,Saskatchewan,CA,51.8341,-102.479,ardac,840.4,False
-SK809,Tangleflags,,Saskatchewan,CA,53.4833,-109.633,ardac,1024.1,False
-SK810,Tantallon,,Saskatchewan,CA,50.5349,-101.841,ardac,922.0,False
-SK811,Taylor Beach,,Saskatchewan,CA,50.6907,-103.654,ardac,989.4,False
-SK812,Tessier,,Saskatchewan,CA,51.8078,-107.429,ardac,1095.9,False
-SK813,The Key 65,,Saskatchewan,CA,51.7829,-102.115,ardac,827.3,False
-SK814,Theodore,,Saskatchewan,CA,51.4257,-102.921,ardac,894.4,False
-SK815,Thode,,Saskatchewan,CA,51.7881,-106.442,ardac,1047.6,False
-SK816,Thunderchild,,Saskatchewan,CA,53.4576,-108.87,ardac,1048.6,False
-SK817,Timber Bay,,Saskatchewan,CA,54.1583,-105.678,ardac,833.6,False
-SK818,Tisdale,,Saskatchewan,CA,52.85,-104.05,ardac,846.1,False
-SK819,Tobin Lake,,Saskatchewan,CA,53.5167,-103.733,ardac,785.2,False
-SK820,Togo,,Saskatchewan,CA,51.4025,-101.582,ardac,834.8,False
-SK821,Tompkins,,Saskatchewan,CA,50.0626,-108.797,ardac,1013.2,False
-SK822,Torquay,,Saskatchewan,CA,49.1409,-103.491,ardac,1116.6,False
-SK823,Tramping Lake,,Saskatchewan,CA,52.1333,-108.95,ardac,1029.2,False
-SK824,Tregarva,,Saskatchewan,CA,50.6034,-104.709,ardac,1047.0,False
-SK825,Tribune,,Saskatchewan,CA,49.2484,-103.824,ardac,1121.3,False
-SK826,Trossachs,,Saskatchewan,CA,49.6371,-104.224,ardac,1105.0,False
-SK827,Truax,,Saskatchewan,CA,49.904,-104.946,ardac,1115.8,False
-SK828,Tuffnell,,Saskatchewan,CA,51.6421,-103.371,ardac,898.9,False
-SK829,Tugaske,,Saskatchewan,CA,50.8737,-106.287,ardac,1105.4,False
-SK830,Turnor Lake,,Saskatchewan,CA,56.4601,-108.72,ardac,862.6,False
-SK831,Turtle Lake South Bay,,Saskatchewan,CA,53.5122,-108.705,ardac,1036.2,False
-SK832,Turtleford,,Saskatchewan,CA,53.3887,-108.958,ardac,1057.9,False
-SK833,Tuxford,,Saskatchewan,CA,50.5761,-105.58,ardac,1092.2,False
-SK834,Tway,,Saskatchewan,CA,52.7376,-105.439,ardac,927.0,False
-SK835,Tyvan,,Saskatchewan,CA,50.0334,-103.718,ardac,1047.9,False
-SK836,Uhl's Bay,,Saskatchewan,CA,50.9843,-105.141,ardac,1038.3,False
-SK837,Unity,,Saskatchewan,CA,52.4398,-109.158,ardac,1022.1,False
-SK838,Uranium City,,Saskatchewan,CA,59.5667,-108.617,ardac,760.5,False
-SK839,Usherville,,Saskatchewan,CA,52.2314,-102.657,ardac,818.0,False
-SK840,Val Marie,,Saskatchewan,CA,49.2457,-107.728,ardac,1085.0,False
-SK841,Valparaiso,,Saskatchewan,CA,52.8513,-104.186,ardac,853.3,False
-SK842,Vanguard,,Saskatchewan,CA,49.9059,-107.299,ardac,1119.5,False
-SK843,Vanscoy,,Saskatchewan,CA,52.0019,-106.974,ardac,1058.6,False
-SK844,Vanstone,,Saskatchewan,CA,51.2111,-102.617,ardac,897.8,False
-SK845,Vantage,,Saskatchewan,CA,49.8424,-106.031,ardac,1173.2,False
-SK846,Vawn,,Saskatchewan,CA,53.106,-108.664,ardac,1061.4,False
-SK847,Venn,,Saskatchewan,CA,51.6167,-105.3,ardac,998.9,False
-SK848,Veregin,,Saskatchewan,CA,51.5833,-102.083,ardac,842.2,False
-SK849,Vibank,,Saskatchewan,CA,50.3354,-103.947,ardac,1032.8,False
-SK850,Viscount,,Saskatchewan,CA,51.9464,-105.648,ardac,993.8,False
-SK851,Vonda,,Saskatchewan,CA,52.3236,-106.096,ardac,991.1,False
-SK852,Wadena,,Saskatchewan,CA,51.9471,-103.796,ardac,896.8,False
-SK853,Wahpeton Dakota,,Saskatchewan,CA,53.2742,-105.903,ardac,908.1,False
-SK854,Wakaw,,Saskatchewan,CA,52.6489,-105.74,ardac,948.3,False
-SK855,Wakaw Lake,,Saskatchewan,CA,52.6364,-105.644,ardac,944.7,False
-SK856,Waldeck,,Saskatchewan,CA,50.359,-107.595,ardac,1101.3,False
-SK857,Waldheim,,Saskatchewan,CA,52.6188,-106.653,ardac,994.7,False
-SK858,Waldron,,Saskatchewan,CA,50.8519,-102.515,ardac,923.5,False
-SK859,Wapella,,Saskatchewan,CA,50.2615,-101.97,ardac,951.9,False
-SK860,Warman,,Saskatchewan,CA,52.3186,-106.578,ardac,1014.5,False
-SK861,Wartime,,Saskatchewan,CA,51.2136,-108.193,ardac,1068.3,False
-SK862,Waseca,,Saskatchewan,CA,53.1002,-109.471,ardac,1020.7,False
-SK863,Waskesiu Lake,,Saskatchewan,CA,53.92,-106.079,ardac,870.6,False
-SK864,Waterhen Lake,,Saskatchewan,CA,54.5167,-108.417,ardac,958.0,False
-SK865,Watrous,,Saskatchewan,CA,51.6768,-105.464,ardac,1003.1,False
-SK866,Watson,,Saskatchewan,CA,52.1264,-104.522,ardac,921.3,False
-SK867,Wauchope,,Saskatchewan,CA,49.5964,-101.904,ardac,1009.9,False
-SK868,Wawota,,Saskatchewan,CA,49.9057,-102.023,ardac,986.3,False
-SK869,Webb,,Saskatchewan,CA,50.1833,-108.2,ardac,1057.0,False
-SK870,Wee Too Beach,,Saskatchewan,CA,50.9354,-105.17,ardac,1043.6,False
-SK871,Weekes,,Saskatchewan,CA,52.5697,-102.871,ardac,803.5,False
-SK872,Weirdale,,Saskatchewan,CA,53.4475,-105.238,ardac,862.3,False
-SK873,Weldon,,Saskatchewan,CA,53.0088,-105.143,ardac,891.5,False
-SK874,Welwyn,,Saskatchewan,CA,50.325,-101.515,ardac,927.4,False
-SK875,West End,,Saskatchewan,CA,50.5492,-102.415,ardac,945.3,False
-SK876,Westview,,Saskatchewan,CA,50.9309,-102.858,ardac,932.4,False
-SK877,Weyakwin,,Saskatchewan,CA,54.4314,-105.803,ardac,821.9,False
-SK878,Weyburn,,Saskatchewan,CA,49.6667,-103.85,ardac,1085.6,False
-SK879,White Bear,,Saskatchewan,CA,50.8796,-108.219,ardac,1061.7,False
-SK880,White City,,Saskatchewan,CA,50.4409,-104.368,ardac,1043.8,False
-SK881,White Fox,,Saskatchewan,CA,53.45,-104.083,ardac,806.8,False
-SK882,Whitebeech,,Saskatchewan,CA,52.0558,-101.704,ardac,785.8,False
-SK883,Whitecap,,Saskatchewan,CA,51.8731,-106.701,ardac,1055.9,False
-SK884,Whitewood,,Saskatchewan,CA,50.3333,-102.267,ardac,958.0,False
-SK885,Wilcox,,Saskatchewan,CA,50.0982,-104.722,ardac,1089.0,False
-SK886,Wilkie,,Saskatchewan,CA,52.4082,-108.706,ardac,1051.5,False
-SK887,Willmar,,Saskatchewan,CA,49.4816,-102.476,ardac,1043.5,False
-SK888,Willow Bunch,,Saskatchewan,CA,49.3922,-105.633,ardac,1191.2,False
-SK889,Willowbrook,,Saskatchewan,CA,51.2047,-102.797,ardac,906.7,False
-SK890,Wimmer,,Saskatchewan,CA,52.095,-104.399,ardac,917.1,False
-SK891,Windthorst,,Saskatchewan,CA,50.1085,-102.836,ardac,1002.3,False
-SK892,Wiseton,,Saskatchewan,CA,51.3137,-107.649,ardac,1107.3,False
-SK893,Wishart,,Saskatchewan,CA,51.548,-103.983,ardac,936.6,False
-SK894,Witchekan Lake,,Saskatchewan,CA,53.5005,-107.596,ardac,978.3,False
-SK895,Wollaston Lake,,Saskatchewan,CA,58.1653,-103.7879,ardac,518.3,False
-SK896,Wolseley,,Saskatchewan,CA,50.4235,-103.272,ardac,994.3,False
-SK897,Wood Mountain,,Saskatchewan,CA,49.3709,-106.383,ardac,1184.0,False
-SK898,Wroxton,,Saskatchewan,CA,51.2267,-101.886,ardac,863.4,False
-SK899,Wymark,,Saskatchewan,CA,50.1101,-107.736,ardac,1089.9,False
-SK900,Wynyard,,Saskatchewan,CA,51.7667,-104.183,ardac,930.1,False
-SK901,Yarbo,,Saskatchewan,CA,50.7,-101.933,ardac,911.2,False
-SK902,Yellow Creek,,Saskatchewan,CA,52.75,-105.25,ardac,917.1,False
-SK903,Yellow Grass,,Saskatchewan,CA,49.8041,-104.161,ardac,1087.8,False
-SK904,Yorkton,,Saskatchewan,CA,51.2098,-102.449,ardac,890.2,False
-SK905,Young,,Saskatchewan,CA,51.7677,-105.743,ardac,1011.4,False
-SK906,Zealandia,,Saskatchewan,CA,51.6155,-107.743,ardac,1103.6,False
-SK907,Zelma,,Saskatchewan,CA,51.8424,-105.905,ardac,1014.8,False
-SK908,Zeneta,,Saskatchewan,CA,50.7333,-102.067,ardac,914.1,False
-SK909,Zenon Park,,Saskatchewan,CA,53.0659,-103.756,ardac,815.9,False
+id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal,ocean_lat1,ocean_lon1
+SK1,Abbey,,Saskatchewan,CA,50.7369,-108.76,ardac,1010.0,False,,
+SK2,Aberdeen,,Saskatchewan,CA,52.327,-106.288,ardac,980.7,False,,
+SK3,Aberfeldy,,Saskatchewan,CA,53.25,-109.883,ardac,987.4,False,,
+SK4,Abernethy,,Saskatchewan,CA,50.7474,-103.416,ardac,958.4,False,,
+SK5,Admiral,,Saskatchewan,CA,49.7134,-108.006,ardac,1055.7,False,,
+SK6,Air Ronge,,Saskatchewan,CA,55.0833,-105.317,ardac,739.0,False,,
+SK7,Alameda,,Saskatchewan,CA,49.2667,-102.283,ardac,1042.6,False,,
+SK8,Albertville,,Saskatchewan,CA,53.3963,-105.541,ardac,863.1,False,,
+SK9,Alice Beach,,Saskatchewan,CA,50.9257,-105.165,ardac,1027.2,False,,
+SK10,Alida,,Saskatchewan,CA,49.389,-101.874,ardac,1015.3,False,,
+SK11,Allan,,Saskatchewan,CA,51.8952,-106.053,ardac,1001.2,False,,
+SK12,Alta Vista,,Saskatchewan,CA,50.8035,-104.968,ardac,1027.2,False,,
+SK13,Alticane,,Saskatchewan,CA,52.9015,-107.481,ardac,994.6,False,,
+SK14,Alvena,,Saskatchewan,CA,52.5176,-106.02,ardac,953.1,False,,
+SK15,Amazon,,Saskatchewan,CA,51.55,-105.45,ardac,994.3,False,,
+SK16,Amsterdam,,Saskatchewan,CA,51.7488,-102.46,ardac,831.9,False,,
+SK17,Aneroid,,Saskatchewan,CA,49.7167,-107.3,ardac,1106.4,False,,
+SK18,Annaheim,,Saskatchewan,CA,52.32,-104.818,ardac,906.7,False,,
+SK19,Antler,,Saskatchewan,CA,49.5675,-101.458,ardac,982.7,False,,
+SK20,Aquadeo,,Saskatchewan,CA,53.1319,-108.42,ardac,1025.8,False,,
+SK21,Arborfield,,Saskatchewan,CA,53.1061,-103.661,ardac,792.8,False,,
+SK22,Archerwill,,Saskatchewan,CA,52.439,-103.859,ardac,848.5,False,,
+SK23,Arcola,,Saskatchewan,CA,49.6377,-102.492,ardac,1016.4,False,,
+SK24,Ardill,,Saskatchewan,CA,49.9377,-105.844,ardac,1139.5,False,,
+SK25,Arlington Beach,,Saskatchewan,CA,51.2479,-105.231,ardac,1005.7,False,,
+SK26,Armit,,Saskatchewan,CA,52.8333,-101.783,ardac,715.5,False,,
+SK27,Armley,,Saskatchewan,CA,53.1167,-104.033,ardac,812.0,False,,
+SK28,Arran,,Saskatchewan,CA,51.8833,-101.717,ardac,786.8,False,,
+SK29,Asquith,,Saskatchewan,CA,52.1336,-107.226,ardac,1040.1,False,,
+SK30,Assiniboia,,Saskatchewan,CA,49.6305,-105.987,ardac,1171.7,False,,
+SK31,Atwater,,Saskatchewan,CA,50.7768,-102.227,ardac,903.2,False,,
+SK32,Auburnton,,Saskatchewan,CA,49.4048,-102.077,ardac,1021.6,False,,
+SK33,Avonlea,,Saskatchewan,CA,50.0156,-105.056,ardac,1095.6,False,,
+SK34,Aylesbury,,Saskatchewan,CA,50.9395,-105.692,ardac,1052.4,False,,
+SK35,Aylsham,,Saskatchewan,CA,53.1937,-103.805,ardac,794.8,False,,
+SK36,B-Say-Tah,,Saskatchewan,CA,50.7868,-103.858,ardac,975.6,False,,
+SK37,Badgerville,,Saskatchewan,CA,51.6336,-101.912,ardac,816.2,False,,
+SK38,Balcarres,,Saskatchewan,CA,50.8035,-103.546,ardac,959.7,False,,
+SK39,Baldwinton,,Saskatchewan,CA,52.7888,-109.256,ardac,1012.2,False,,
+SK40,Balgonie,,Saskatchewan,CA,50.4893,-104.265,ardac,1019.2,False,,
+SK41,Balone Beach,,Saskatchewan,CA,52.6679,-105.602,ardac,921.8,False,,
+SK42,Bangor,,Saskatchewan,CA,50.8073,-102.342,ardac,905.5,False,,
+SK43,Bankend,,Saskatchewan,CA,51.5098,-103.848,ardac,917.1,False,,
+SK44,Bapaume,,Saskatchewan,CA,53.3833,-107.674,ardac,970.3,False,,
+SK45,Barrier Ford,,Saskatchewan,CA,52.5405,-103.706,ardac,833.5,False,,
+SK46,Battleford,,Saskatchewan,CA,52.7382,-108.308,ardac,1047.8,False,,
+SK47,Bayard,,Saskatchewan,CA,50.0204,-105.289,ardac,1106.2,False,,
+SK48,Beacon Hill,,Saskatchewan,CA,54.3546,-109.654,ardac,1012.2,False,,
+SK49,Beadle,,Saskatchewan,CA,51.4671,-109.004,ardac,1001.6,False,,
+SK50,Bear Creek,,Saskatchewan,CA,56.2975,-108.936,ardac,862.5,False,,
+SK51,Beardy's 97 and Okemasis' 96,,Saskatchewan,CA,52.8129,-106.3484,ardac,945.8,False,,
+SK52,Beatty,,Saskatchewan,CA,52.9001,-104.805,ardac,866.6,False,,
+SK53,Beaubier,,Saskatchewan,CA,49.1263,-104.078,ardac,1128.9,False,,
+SK54,Beauval,,Saskatchewan,CA,55.1472,-107.611,ardac,856.8,False,,
+SK55,Beaver Creek,,Saskatchewan,CA,51.9729,-106.669,ardac,1026.7,False,,
+SK56,Beaver Flat,,Saskatchewan,CA,50.6604,-107.656,ardac,1086.4,False,,
+SK57,Beechy,,Saskatchewan,CA,50.8833,-107.383,ardac,1107.6,False,,
+SK58,Belbutte,,Saskatchewan,CA,53.3667,-107.817,ardac,978.8,False,,
+SK59,Belle Plaine,,Saskatchewan,CA,50.3945,-105.156,ardac,1069.1,False,,
+SK60,Bellegarde,,Saskatchewan,CA,49.5308,-101.549,ardac,989.6,False,,
+SK61,Bengough,,Saskatchewan,CA,49.396,-105.127,ardac,1151.5,False,,
+SK62,Benson,,Saskatchewan,CA,49.4551,-103.004,ardac,1054.0,False,,
+SK63,Bertwell,,Saskatchewan,CA,52.5886,-102.545,ardac,771.2,False,,
+SK64,Bethune,,Saskatchewan,CA,50.7129,-105.207,ardac,1046.0,False,,
+SK65,Beverley,,Saskatchewan,CA,50.2685,-107.98,ardac,1060.8,False,,
+SK66,Bienfait,,Saskatchewan,CA,49.1423,-102.805,ardac,1074.8,False,,
+SK67,Big Beaver,,Saskatchewan,CA,49.1006,-105.171,ardac,1179.2,False,,
+SK68,Big Island Lake,,Saskatchewan,CA,54.4291,-109.66,ardac,1007.6,False,,
+SK69,Big River,,Saskatchewan,CA,53.8348,-107.034,ardac,907.0,False,,
+SK70,Big Shell,,Saskatchewan,CA,53.2004,-107.129,ardac,955.5,False,,
+SK71,Biggar,,Saskatchewan,CA,52.058,-107.985,ardac,1079.3,False,,
+SK72,Birch Hills,,Saskatchewan,CA,52.983,-105.435,ardac,889.3,False,,
+SK73,Birch Narrows,,Saskatchewan,CA,56.4703,-108.689,ardac,840.9,False,,
+SK74,Bird's Point,,Saskatchewan,CA,50.5465,-102.368,ardac,929.4,False,,
+SK75,Birmingham,,Saskatchewan,CA,50.9735,-102.938,ardac,917.7,False,,
+SK76,Birsay,,Saskatchewan,CA,51.0976,-106.981,ardac,1106.7,False,,
+SK77,Bjorkdale,,Saskatchewan,CA,52.7107,-103.646,ardac,818.5,False,,
+SK78,Black Lake,,Saskatchewan,CA,59.1333,-105.6,ardac,590.7,False,,
+SK79,Black Point,,Saskatchewan,CA,56.3667,-109.45,ardac,887.2,False,,
+SK80,Bladworth,,Saskatchewan,CA,51.3669,-106.137,ardac,1043.1,False,,
+SK81,Blaine Lake,,Saskatchewan,CA,52.8302,-106.881,ardac,970.3,False,,
+SK82,Blumenheim,,Saskatchewan,CA,52.3896,-106.417,ardac,981.8,False,,
+SK83,Blumenhof,,Saskatchewan,CA,50.0229,-107.7,ardac,1079.9,False,,
+SK84,Blumenthal,,Saskatchewan,CA,52.4818,-106.377,ardac,972.7,False,,
+SK85,Bodmin,,Saskatchewan,CA,53.7544,-106.986,ardac,909.9,False,,
+SK86,Boharm,,Saskatchewan,CA,50.4,-105.717,ardac,1095.9,False,,
+SK87,Borden,,Saskatchewan,CA,52.4056,-107.238,ardac,1019.7,False,,
+SK88,Brabant Lake,,Saskatchewan,CA,56.1167,-103.75,ardac,599.2,False,,
+SK89,Bracken,,Saskatchewan,CA,49.1782,-108.096,ardac,1046.9,False,,
+SK90,Bradwell,,Saskatchewan,CA,51.9477,-106.232,ardac,1007.1,False,,
+SK91,Brancepeth,,Saskatchewan,CA,53.002,-105.262,ardac,879.7,False,,
+SK92,Bredenbury,,Saskatchewan,CA,50.9435,-102.049,ardac,881.0,False,,
+SK93,Brewer,,Saskatchewan,CA,50.9872,-102.7273,ardac,907.1,False,,
+SK94,Briercrest,,Saskatchewan,CA,50.1667,-105.267,ardac,1093.1,False,,
+SK95,Broadview,,Saskatchewan,CA,50.3793,-102.58,ardac,953.2,False,,
+SK96,Brock,,Saskatchewan,CA,51.4421,-108.72,ardac,1020.8,False,,
+SK97,Broderick,,Saskatchewan,CA,51.4883,-106.919,ardac,1075.5,False,,
+SK98,Brownlee,,Saskatchewan,CA,50.7371,-106.018,ardac,1084.3,False,,
+SK99,Bruno,,Saskatchewan,CA,52.2632,-105.524,ardac,947.9,False,,
+SK100,Buchanan,,Saskatchewan,CA,51.7,-102.75,ardac,849.4,False,,
+SK101,Buena Vista,,Saskatchewan,CA,50.7821,-104.942,ardac,1027.6,False,,
+SK102,Buffalo Narrows,,Saskatchewan,CA,55.8661,-108.489,ardac,860.6,False,,
+SK103,Bulyea,,Saskatchewan,CA,50.9854,-104.863,ardac,1007.7,False,,
+SK104,Burgis Beach,,Saskatchewan,CA,51.5431,-102.622,ardac,856.1,False,,
+SK105,Burr,,Saskatchewan,CA,52.042,-105.135,ardac,942.6,False,,
+SK106,Burstall,,Saskatchewan,CA,50.6559,-109.908,ardac,928.9,False,,
+SK107,Bushell Park,,Saskatchewan,CA,50.3396,-105.552,ardac,1092.7,False,,
+SK108,Cabri,,Saskatchewan,CA,50.6194,-108.461,ardac,1029.6,False,,
+SK109,Cadillac,,Saskatchewan,CA,49.7259,-107.737,ardac,1075.1,False,,
+SK110,Calder,,Saskatchewan,CA,51.1579,-101.749,ardac,849.5,False,,
+SK111,Camp Dundurn,,Saskatchewan,CA,51.8522,-106.555,ardac,1030.8,False,,
+SK112,Camsell Portage,,Saskatchewan,CA,59.6093,-109.264,ardac,735.5,False,,
+SK113,Cana,,Saskatchewan,CA,50.8854,-102.643,ardac,912.0,False,,
+SK114,Candiac,,Saskatchewan,CA,50.2111,-103.259,ardac,997.3,False,,
+SK115,Candle Lake,,Saskatchewan,CA,53.7517,-105.252,ardac,823.1,False,,
+SK116,Cando,,Saskatchewan,CA,52.3731,-108.215,ardac,1069.9,False,,
+SK117,Cannington Lake,,Saskatchewan,CA,49.7838,-102.162,ardac,989.7,False,,
+SK118,Canoe Lake 165,,Saskatchewan,CA,54.1018,-108.085,ardac,944.8,False,,
+SK119,Canoe Narrows,,Saskatchewan,CA,55.1634,-108.157,ardac,883.8,False,,
+SK120,Canora,,Saskatchewan,CA,51.6333,-102.433,ardac,840.0,False,,
+SK121,Cantuar,,Saskatchewan,CA,50.383,-108.009,ardac,1059.4,False,,
+SK122,Canwood,,Saskatchewan,CA,53.3616,-106.604,ardac,917.8,False,,
+SK123,Carievale,,Saskatchewan,CA,49.1743,-101.624,ardac,1026.4,False,,
+SK124,Carlea,,Saskatchewan,CA,53.15,-103.9,ardac,802.7,False,,
+SK125,Carlyle,,Saskatchewan,CA,49.6333,-102.267,ardac,1007.8,False,,
+SK126,Carlyle Lake Resort,,Saskatchewan,CA,49.7418,-102.274,ardac,998.0,False,,
+SK127,Carmel,,Saskatchewan,CA,52.2248,-105.349,ardac,941.2,False,,
+SK128,Carmichael,,Saskatchewan,CA,50.0455,-108.648,ardac,1012.3,False,,
+SK129,Carnduff,,Saskatchewan,CA,49.1749,-101.794,ardac,1032.6,False,,
+SK130,Caron,,Saskatchewan,CA,50.4582,-105.874,ardac,1099.0,False,,
+SK131,Caronport,,Saskatchewan,CA,50.459,-105.815,ardac,1096.0,False,,
+SK132,Carrot River,,Saskatchewan,CA,53.2833,-103.583,ardac,777.2,False,,
+SK133,Carry The Kettle,,Saskatchewan,CA,50.3522,-103.468,ardac,994.3,False,,
+SK134,Casa Rio,,Saskatchewan,CA,52.0275,-106.646,ardac,1021.3,False,,
+SK135,Cedar Villa Estates,,Saskatchewan,CA,52.0965,-106.772,ardac,1021.6,False,,
+SK136,Cedoux,,Saskatchewan,CA,49.8833,-103.867,ardac,1052.7,False,,
+SK137,Central Butte,,Saskatchewan,CA,50.7976,-106.507,ardac,1104.5,False,,
+SK138,Ceylon,,Saskatchewan,CA,49.4587,-104.601,ardac,1122.3,False,,
+SK139,Chamberlain,,Saskatchewan,CA,50.85,-105.567,ardac,1053.1,False,,
+SK140,Chaplin,,Saskatchewan,CA,50.4616,-106.658,ardac,1137.9,False,,
+SK141,Chelan,,Saskatchewan,CA,52.6105,-103.393,ardac,812.5,False,,
+SK142,Chitek Lake,,Saskatchewan,CA,53.7538,-107.731,ardac,948.4,False,,
+SK143,Choiceland,,Saskatchewan,CA,53.4924,-104.484,ardac,805.5,False,,
+SK144,Chorney Beach,,Saskatchewan,CA,51.8064,-103.553,ardac,879.8,False,,
+SK145,Chortitz,,Saskatchewan,CA,50.1056,-107.645,ardac,1084.0,False,,
+SK146,Christopher Lake,,Saskatchewan,CA,53.5402,-105.791,ardac,864.8,False,,
+SK147,Churchbridge,,Saskatchewan,CA,50.8977,-101.891,ardac,878.2,False,,
+SK148,Clair,,Saskatchewan,CA,52.0222,-104.077,ardac,889.7,False,,
+SK149,Clavet,,Saskatchewan,CA,51.9957,-106.374,ardac,1011.2,False,,
+SK150,Claybank,,Saskatchewan,CA,50.0455,-105.233,ardac,1101.5,False,,
+SK151,Clearwater River,,Saskatchewan,CA,56.5296,-109.492,ardac,881.9,False,,
+SK153,Clemenceau,,Saskatchewan,CA,52.6652,-102.527,ardac,764.7,False,,
+SK154,Climax,,Saskatchewan,CA,49.2077,-108.388,ardac,1025.7,False,,
+SK155,Clouston,,Saskatchewan,CA,53.1,-105.85,ardac,900.1,False,,
+SK156,Cluff Lake,,Saskatchewan,CA,58.3653,-109.531,ardac,821.7,False,,
+SK157,Cochin,,Saskatchewan,CA,53.0823,-108.337,ardac,1025.0,False,,
+SK158,Coderre,,Saskatchewan,CA,50.1333,-106.383,ardac,1149.9,False,,
+SK159,Codette,,Saskatchewan,CA,53.2815,-104.028,ardac,801.0,False,,
+SK160,Cole Bay,,Saskatchewan,CA,55.0974,-108.322,ardac,896.4,False,,
+SK161,Colesdale Park,,Saskatchewan,CA,50.9523,-105.148,ardac,1024.3,False,,
+SK162,Coleville,,Saskatchewan,CA,51.7105,-109.246,ardac,988.6,False,,
+SK163,Colfax,,Saskatchewan,CA,49.9445,-103.982,ardac,1052.5,False,,
+SK164,Colgate,,Saskatchewan,CA,49.3993,-103.892,ardac,1096.5,False,,
+SK165,Colonsay,,Saskatchewan,CA,51.9775,-105.87,ardac,985.8,False,,
+SK166,Congress,,Saskatchewan,CA,49.7539,-106.021,ardac,1163.1,False,,
+SK167,Conquest,,Saskatchewan,CA,51.5306,-107.24,ardac,1089.0,False,,
+SK168,Consul,,Saskatchewan,CA,49.2946,-109.52,ardac,943.7,False,,
+SK169,Corning,,Saskatchewan,CA,49.9582,-102.971,ardac,1007.2,False,,
+SK170,Coronach,,Saskatchewan,CA,49.1114,-105.516,ardac,1193.9,False,,
+SK171,Coteau Beach,,Saskatchewan,CA,51.1663,-106.825,ardac,1093.5,False,,
+SK172,Cowessess 73,,Saskatchewan,CA,50.5106,-102.654,ardac,944.8,False,,
+SK173,Craik,,Saskatchewan,CA,51.05,-105.817,ardac,1050.3,False,,
+SK174,Crane Valley,,Saskatchewan,CA,49.757,-105.527,ardac,1139.4,False,,
+SK175,Craven,,Saskatchewan,CA,50.7084,-104.81,ardac,1027.1,False,,
+SK176,Cree Lake,,Saskatchewan,CA,57.3562,-106.834,ardac,701.5,False,,
+SK177,Creelman,,Saskatchewan,CA,49.818,-103.31,ardac,1034.1,False,,
+SK178,Creighton,,Saskatchewan,CA,54.75,-101.9,ardac,590.3,False,59.0202,-94.7884
+SK179,Crooked River,,Saskatchewan,CA,52.8551,-103.733,ardac,813.2,False,,
+SK180,Crutwell,,Saskatchewan,CA,53.2193,-106.069,ardac,901.8,False,,
+SK181,Crystal Bay-Sunset,,Saskatchewan,CA,53.5426,-108.867,ardac,1021.6,False,,
+SK182,Crystal Lake,,Saskatchewan,CA,51.85,-102.433,ardac,822.5,False,,
+SK183,Crystal Springs,,Saskatchewan,CA,52.8079,-105.364,ardac,899.7,False,,
+SK184,Cudsaskwa Beach,,Saskatchewan,CA,52.6491,-105.637,ardac,924.9,False,,
+SK185,Cudworth,,Saskatchewan,CA,52.4915,-105.733,ardac,941.8,False,,
+SK186,Cumberland House,,Saskatchewan,CA,53.9538,-102.269,ardac,665.1,False,58.7568,-94.3927
+SK187,Cupar,,Saskatchewan,CA,50.9465,-104.212,ardac,979.3,False,,
+SK188,Cut Knife,,Saskatchewan,CA,52.745,-109.018,ardac,1026.3,False,,
+SK189,D'Arcy,,Saskatchewan,CA,51.4667,-108.533,ardac,1033.9,False,,
+SK190,Dafoe,,Saskatchewan,CA,51.7544,-104.526,ardac,932.2,False,,
+SK191,Dalmeny,,Saskatchewan,CA,52.3423,-106.773,ardac,1002.3,False,,
+SK192,Dana,,Saskatchewan,CA,52.2884,-105.705,ardac,955.8,False,,
+SK193,Danbury,,Saskatchewan,CA,52.055,-102.265,ardac,798.3,False,,
+SK194,Darlings Beach,,Saskatchewan,CA,49.9791,-107.925,ardac,1063.6,False,,
+SK195,Davidson,,Saskatchewan,CA,51.2633,-105.989,ardac,1043.1,False,,
+SK196,Davin,,Saskatchewan,CA,50.3836,-104.109,ardac,1020.8,False,,
+SK197,Davis,,Saskatchewan,CA,53.1104,-105.672,ardac,890.8,False,,
+SK198,Day Star,,Saskatchewan,CA,51.5076,-104.223,ardac,935.7,False,,
+SK199,Day's Beach,,Saskatchewan,CA,53.0502,-108.335,ardac,1027.1,False,,
+SK200,Debden,,Saskatchewan,CA,53.5265,-106.881,ardac,920.1,False,,
+SK201,Deer Valley,,Saskatchewan,CA,50.5929,-104.885,ardac,1040.0,False,,
+SK202,Delisle,,Saskatchewan,CA,51.9267,-107.134,ardac,1052.1,False,,
+SK203,Delmas,,Saskatchewan,CA,52.9289,-108.603,ardac,1049.3,False,,
+SK204,Demaine,,Saskatchewan,CA,50.8905,-107.259,ardac,1116.3,False,,
+SK205,Denare Beach,,Saskatchewan,CA,54.6575,-102.081,ardac,605.6,False,58.9389,-94.6818
+SK206,Denholm,,Saskatchewan,CA,52.6572,-108.01,ardac,1038.8,False,,
+SK207,Denzil,,Saskatchewan,CA,52.2278,-109.649,ardac,971.9,False,,
+SK208,Deschambault Lake,,Saskatchewan,CA,54.9107,-103.374,ardac,649.8,False,,
+SK209,Descharme Lake,,Saskatchewan,CA,57.1043,-109.212,ardac,842.4,False,,
+SK210,Dilke,,Saskatchewan,CA,50.8667,-105.25,ardac,1036.0,False,,
+SK211,Dillon,,Saskatchewan,CA,55.9278,-108.931,ardac,880.9,False,,
+SK212,Dinsmore,,Saskatchewan,CA,51.3332,-107.444,ardac,1107.4,False,,
+SK213,Disley,,Saskatchewan,CA,50.6402,-105.051,ardac,1044.2,False,,
+SK214,Dodsland,,Saskatchewan,CA,51.7997,-108.836,ardac,1017.8,False,,
+SK215,Dollard,,Saskatchewan,CA,49.6167,-108.583,ardac,1013.5,False,,
+SK216,Domremy,,Saskatchewan,CA,52.7886,-105.729,ardac,918.2,False,,
+SK217,Donavon,,Saskatchewan,CA,51.8,-107.133,ardac,1062.2,False,,
+SK218,Dore Lake,,Saskatchewan,CA,54.6209,-107.409,ardac,877.5,False,,
+SK219,Dorintosh,,Saskatchewan,CA,54.3527,-108.625,ardac,958.6,False,,
+SK220,Drake,,Saskatchewan,CA,51.7468,-105.012,ardac,957.4,False,,
+SK221,Drinkwater,,Saskatchewan,CA,50.2967,-105.136,ardac,1076.2,False,,
+SK222,Dubuc,,Saskatchewan,CA,50.6838,-102.476,ardac,922.0,False,,
+SK223,Duck Lake,,Saskatchewan,CA,52.8117,-106.227,ardac,940.0,False,,
+SK224,Duff,,Saskatchewan,CA,50.8741,-103.091,ardac,933.0,False,,
+SK225,Dunblane,,Saskatchewan,CA,51.2023,-106.88,ardac,1093.8,False,,
+SK226,Dundurn,,Saskatchewan,CA,51.8093,-106.507,ardac,1031.2,False,,
+SK227,Dunfermline,,Saskatchewan,CA,52.1339,-107.039,ardac,1031.2,False,,
+SK228,Dunkirk,,Saskatchewan,CA,50.0333,-105.717,ardac,1125.6,False,,
+SK229,Duperow,,Saskatchewan,CA,51.97,-108.243,ardac,1060.5,False,,
+SK230,Duval,,Saskatchewan,CA,51.1572,-104.991,ardac,1000.6,False,,
+SK231,Dysart,,Saskatchewan,CA,50.9472,-104.036,ardac,970.8,False,,
+SK232,Eagle Ridge,,Saskatchewan,CA,52.1611,-106.492,ardac,1003.4,False,,
+SK233,Earl Grey,,Saskatchewan,CA,50.9342,-104.71,ardac,1004.3,False,,
+SK234,Eastend,,Saskatchewan,CA,49.5167,-108.817,ardac,996.0,False,,
+SK235,Eatonia,,Saskatchewan,CA,51.2234,-109.39,ardac,972.2,False,,
+SK236,Ebenezer,,Saskatchewan,CA,51.3696,-102.447,ardac,862.4,False,,
+SK237,Echo Bay,,Saskatchewan,CA,53.2167,-107.133,ardac,954.6,False,,
+SK238,Edam,,Saskatchewan,CA,53.1876,-108.769,ardac,1040.0,False,,
+SK239,Edenwold,,Saskatchewan,CA,50.6333,-104.25,ardac,1006.6,False,,
+SK240,Edgeley,,Saskatchewan,CA,50.6377,-103.995,ardac,994.3,False,,
+SK241,Elbow,,Saskatchewan,CA,51.1212,-106.596,ardac,1084.9,False,,
+SK242,Elbow Lake,,Saskatchewan,CA,52.4927,-101.716,ardac,738.1,False,,
+SK243,Eldersley,,Saskatchewan,CA,52.8602,-103.818,ardac,817.4,False,,
+SK244,Eldorado,,Saskatchewan,CA,59.5516,-108.514,ardac,737.7,False,,
+SK245,Elfros,,Saskatchewan,CA,51.7418,-103.864,ardac,900.0,False,,
+SK246,Elrose,,Saskatchewan,CA,51.2,-108.033,ardac,1065.8,False,,
+SK247,Elstow,,Saskatchewan,CA,51.9874,-106.058,ardac,995.1,False,,
+SK248,Emma Lake,,Saskatchewan,CA,53.562,-105.872,ardac,867.2,False,,
+SK249,Endeavour,,Saskatchewan,CA,52.1609,-102.657,ardac,808.9,False,,
+SK250,Englefeld,,Saskatchewan,CA,52.162,-104.655,ardac,909.2,False,,
+SK251,English River,,Saskatchewan,CA,55.9169,-107.723,ardac,817.2,False,,
+SK252,Ernfold,,Saskatchewan,CA,50.4462,-106.892,ardac,1138.7,False,,
+SK253,Erwood,,Saskatchewan,CA,52.8582,-102.187,ardac,733.7,False,,
+SK254,Esk,,Saskatchewan,CA,51.8167,-104.85,ardac,944.1,False,,
+SK255,Espeseth Cove,,Saskatchewan,CA,50.5508,-102.4,ardac,930.4,False,,
+SK256,Esterhazy,,Saskatchewan,CA,50.6551,-102.074,ardac,907.3,False,,
+SK257,Estevan,,Saskatchewan,CA,49.1333,-102.983,ardac,1082.7,False,,
+SK258,Estlin,,Saskatchewan,CA,50.2512,-104.526,ardac,1051.2,False,,
+SK259,Eston,,Saskatchewan,CA,51.15,-108.75,ardac,1015.8,False,,
+SK260,Ethelton,,Saskatchewan,CA,52.7866,-104.932,ardac,881.5,False,,
+SK261,Etomami,,Saskatchewan,CA,52.7312,-102.319,ardac,749.5,False,,
+SK262,Etters Beach,,Saskatchewan,CA,51.234,-105.289,ardac,1009.7,False,,
+SK263,Evergreen Acres,,Saskatchewan,CA,53.5162,-108.661,ardac,1012.5,False,,
+SK264,Evergreen Brightsand,,Saskatchewan,CA,53.6144,-108.835,ardac,1015.2,False,,
+SK265,Evesham,,Saskatchewan,CA,52.3911,-109.844,ardac,963.2,False,,
+SK266,Eyebrow,,Saskatchewan,CA,50.8,-106.15,ardac,1086.2,False,,
+SK267,Fairholme,,Saskatchewan,CA,53.4277,-108.54,ardac,1012.0,False,,
+SK268,Fairlight,,Saskatchewan,CA,49.8749,-101.68,ardac,962.3,False,,
+SK269,Fairy Glen,,Saskatchewan,CA,53.0348,-104.538,ardac,843.7,False,,
+SK270,Fenton,,Saskatchewan,CA,53.0161,-105.586,ardac,893.9,False,,
+SK271,Fenwood,,Saskatchewan,CA,51.0125,-103.047,ardac,919.4,False,,
+SK272,Ferland,,Saskatchewan,CA,49.4489,-106.951,ardac,1130.5,False,,
+SK273,Fielding,,Saskatchewan,CA,52.5184,-107.55,ardac,1026.3,False,,
+SK274,Fife Lake,,Saskatchewan,CA,49.1949,-105.729,ardac,1196.5,False,,
+SK275,Fillmore,,Saskatchewan,CA,49.8795,-103.434,ardac,1034.0,False,,
+SK276,Findlater,,Saskatchewan,CA,50.7885,-105.402,ardac,1049.7,False,,
+SK277,Fishing Lake,,Saskatchewan,CA,51.8625,-103.636,ardac,879.6,False,,
+SK278,Fiske,,Saskatchewan,CA,51.4833,-108.4,ardac,1043.1,False,,
+SK279,Flaxcombe,,Saskatchewan,CA,51.4785,-109.601,ardac,961.0,False,,
+SK280,Fleming,,Saskatchewan,CA,50.0735,-101.508,ardac,937.1,False,,
+SK281,Flying Dust,,Saskatchewan,CA,54.1402,-108.399,ardac,959.1,False,,
+SK282,Foam Lake,,Saskatchewan,CA,51.6429,-103.53,ardac,891.3,False,,
+SK283,Fond-du-Lac,,Saskatchewan,CA,59.3214,-107.189,ardac,677.6,False,,
+SK284,Forget,,Saskatchewan,CA,49.65,-102.867,ardac,1030.6,False,,
+SK285,Fort Qu'Appelle,,Saskatchewan,CA,50.7669,-103.79,ardac,974.0,False,,
+SK286,Fort San,,Saskatchewan,CA,50.7879,-103.804,ardac,973.0,False,,
+SK287,Fort Walsh,,Saskatchewan,CA,49.5667,-109.883,ardac,919.6,False,,
+SK288,Fosston,,Saskatchewan,CA,52.1902,-103.812,ardac,864.0,False,,
+SK289,Fox Valley,,Saskatchewan,CA,50.4656,-109.481,ardac,956.4,False,,
+SK290,Francis,,Saskatchewan,CA,50.1,-103.867,ardac,1033.9,False,,
+SK291,Frenchman Butte,,Saskatchewan,CA,53.5907,-109.633,ardac,1015.5,False,,
+SK292,Frobisher,,Saskatchewan,CA,49.2092,-102.426,ardac,1053.5,False,,
+SK293,Frontier,,Saskatchewan,CA,49.206,-108.563,ardac,1012.9,False,,
+SK294,Fulda,,Saskatchewan,CA,52.35,-105.217,ardac,925.7,False,,
+SK295,Furdale,,Saskatchewan,CA,52.0781,-106.688,ardac,1019.2,False,,
+SK296,Furness,,Saskatchewan,CA,53.1167,-109.967,ardac,977.5,False,,
+SK297,Gainsborough,,Saskatchewan,CA,49.1791,-101.449,ardac,1019.5,False,,
+SK298,Garrick,,Saskatchewan,CA,53.4917,-104.338,ardac,798.7,False,,
+SK299,Garson Lake,,Saskatchewan,CA,56.3127,-109.956,ardac,917.3,False,,
+SK300,Gerald,,Saskatchewan,CA,50.6662,-101.794,ardac,894.6,False,,
+SK301,Gibbs,,Saskatchewan,CA,50.9037,-104.866,ardac,1014.3,False,,
+SK302,Girvin,,Saskatchewan,CA,51.1585,-105.912,ardac,1046.9,False,,
+SK303,Gladmar,,Saskatchewan,CA,49.1641,-104.453,ardac,1141.8,False,,
+SK304,Glaslyn,,Saskatchewan,CA,53.3577,-108.353,ardac,1007.0,False,,
+SK305,Glen Ewen,,Saskatchewan,CA,49.2077,-102.013,ardac,1037.8,False,,
+SK306,Glen Harbour,,Saskatchewan,CA,50.8899,-105.093,ardac,1026.5,False,,
+SK307,Glenavon,,Saskatchewan,CA,50.1961,-103.139,ardac,993.4,False,,
+SK308,Glenbain,,Saskatchewan,CA,49.8443,-107.021,ardac,1127.2,False,,
+SK309,Glenside,,Saskatchewan,CA,51.4536,-106.807,ardac,1072.0,False,,
+SK310,Glentworth,,Saskatchewan,CA,49.4241,-106.683,ardac,1149.9,False,,
+SK311,Glidden,,Saskatchewan,CA,51.2398,-109.168,ardac,987.7,False,,
+SK312,Golden Prairie,,Saskatchewan,CA,50.2213,-109.631,ardac,943.5,False,,
+SK313,Good Spirit Acres,,Saskatchewan,CA,51.4833,-102.683,ardac,863.8,False,,
+SK314,Goodeve,,Saskatchewan,CA,51.0609,-103.182,ardac,921.6,False,,
+SK315,Goodsoil,,Saskatchewan,CA,54.3998,-109.231,ardac,987.6,False,,
+SK316,Goodwater,,Saskatchewan,CA,49.3959,-103.705,ardac,1088.7,False,,
+SK317,Gordon 86,,Saskatchewan,CA,51.2735,-104.303,ardac,957.7,False,,
+SK318,Gouldtown,,Saskatchewan,CA,50.6167,-107.217,ardac,1116.8,False,,
+SK319,Govan,,Saskatchewan,CA,51.3107,-104.993,ardac,989.0,False,,
+SK320,Grand Coulee,,Saskatchewan,CA,50.4333,-104.817,ardac,1049.8,False,,
+SK321,Grandora,,Saskatchewan,CA,52.1144,-106.98,ardac,1030.0,False,,
+SK322,Grandview Beach,,Saskatchewan,CA,50.8747,-105.104,ardac,1028.2,False,,
+SK323,Grasswood,,Saskatchewan,CA,52.0573,-106.647,ardac,1018.9,False,,
+SK324,Gravelbourg,,Saskatchewan,CA,49.8771,-106.552,ardac,1161.0,False,,
+SK325,Gray,,Saskatchewan,CA,50.1717,-104.445,ardac,1054.1,False,,
+SK326,Grayson,,Saskatchewan,CA,50.7202,-102.644,ardac,926.2,False,,
+SK327,Green Lake,,Saskatchewan,CA,54.2908,-107.792,ardac,917.6,False,,
+SK328,Greenfeld,,Saskatchewan,CA,52.4365,-106.639,ardac,988.6,False,,
+SK329,Greenstreet,,Saskatchewan,CA,53.4614,-109.815,ardac,999.4,False,,
+SK330,Greig Lake,,Saskatchewan,CA,54.4433,-108.693,ardac,957.0,False,,
+SK331,Grenfell,,Saskatchewan,CA,50.4114,-102.931,ardac,965.5,False,,
+SK332,Griffin,,Saskatchewan,CA,49.6667,-103.433,ardac,1052.9,False,,
+SK333,Gronlid,,Saskatchewan,CA,53.1016,-104.464,ardac,835.1,False,,
+SK334,Gruenthal,,Saskatchewan,CA,52.4634,-106.519,ardac,980.8,False,,
+SK335,Guernsey,,Saskatchewan,CA,51.8708,-105.186,ardac,957.5,False,,
+SK336,Gull Lake,,Saskatchewan,CA,50.0954,-108.485,ardac,1024.2,False,,
+SK337,Hafford,,Saskatchewan,CA,52.7258,-107.353,ardac,1001.2,False,,
+SK338,Hagen,,Saskatchewan,CA,52.9384,-105.557,ardac,898.5,False,,
+SK339,Hague,,Saskatchewan,CA,52.5111,-106.417,ardac,972.3,False,,
+SK340,Halbrite,,Saskatchewan,CA,49.4897,-103.557,ardac,1074.0,False,,
+SK341,Handel,,Saskatchewan,CA,52.0635,-108.694,ardac,1031.9,False,,
+SK342,Hanley,,Saskatchewan,CA,51.6297,-106.437,ardac,1040.0,False,,
+SK343,Harris,,Saskatchewan,CA,51.7348,-107.58,ardac,1088.4,False,,
+SK344,Hatchet Lake,,Saskatchewan,CA,58.119,-103.136,ardac,471.6,False,59.0478,-94.6769
+SK345,Hawarden,,Saskatchewan,CA,51.4149,-106.599,ardac,1063.8,False,,
+SK346,Hazel Dell,,Saskatchewan,CA,51.977,-102.977,ardac,838.5,False,,
+SK347,Hazenmore,,Saskatchewan,CA,49.6874,-107.137,ardac,1118.0,False,,
+SK348,Hazlet,,Saskatchewan,CA,50.4007,-108.595,ardac,1018.2,False,,
+SK349,Hendon,,Saskatchewan,CA,52.0885,-103.829,ardac,872.3,False,,
+SK350,Henribourg,,Saskatchewan,CA,53.3947,-105.627,ardac,867.4,False,,
+SK351,Hepburn,,Saskatchewan,CA,52.5229,-106.729,ardac,986.2,False,,
+SK352,Herbert,,Saskatchewan,CA,50.4277,-107.221,ardac,1115.3,False,,
+SK353,Herschel,,Saskatchewan,CA,51.6383,-108.356,ardac,1048.0,False,,
+SK354,Heward,,Saskatchewan,CA,49.7376,-103.15,ardac,1034.5,False,,
+SK355,High Tor,,Saskatchewan,CA,52.4667,-103.3,ardac,818.0,False,,
+SK356,Hillmond,,Saskatchewan,CA,53.4278,-109.697,ardac,1005.4,False,,
+SK357,Hirsch,,Saskatchewan,CA,49.1782,-102.593,ardac,1063.0,False,,
+SK358,Hitchcock,,Saskatchewan,CA,49.224,-103.124,ardac,1080.1,False,,
+SK359,Hitchcock Bay,,Saskatchewan,CA,51.0472,-106.867,ardac,1104.4,False,,
+SK360,Hodgeville,,Saskatchewan,CA,50.1134,-106.962,ardac,1132.7,False,,
+SK361,Hoey,,Saskatchewan,CA,52.8679,-105.796,ardac,915.2,False,,
+SK362,Holbein,,Saskatchewan,CA,53.2275,-106.202,ardac,907.7,False,,
+SK363,Holdfast,,Saskatchewan,CA,50.9602,-105.418,ardac,1037.1,False,,
+SK364,Hoosier,,Saskatchewan,CA,51.6341,-109.737,ardac,954.1,False,,
+SK365,Horizon,,Saskatchewan,CA,49.5193,-105.229,ardac,1145.6,False,,
+SK366,Horseshoe Bay,,Saskatchewan,CA,53.6167,-108.6406,ardac,1004.9,False,,
+SK367,Hubbard,,Saskatchewan,CA,51.129,-103.369,ardac,924.6,False,,
+SK368,Hudson Bay,,Saskatchewan,CA,52.8556,-102.389,ardac,744.0,False,,
+SK369,Humboldt,,Saskatchewan,CA,52.2,-105.124,ardac,931.0,False,,
+SK370,Hume,,Saskatchewan,CA,49.6667,-103.617,ardac,1060.8,False,,
+SK371,Hyas,,Saskatchewan,CA,51.8943,-102.259,ardac,810.8,False,,
+SK372,Ibstone,,Saskatchewan,CA,52.5667,-108.3,ardac,1059.9,False,,
+SK373,Île-à-la-Crosse,,Saskatchewan,CA,55.4493,-107.904,ardac,853.4,False,,
+SK374,Illerbrun,,Saskatchewan,CA,49.9333,-108.35,ardac,1033.1,False,,
+SK375,Imperial,,Saskatchewan,CA,51.3466,-105.434,ardac,1008.5,False,,
+SK376,Indian Head,,Saskatchewan,CA,50.5333,-103.667,ardac,987.9,False,,
+SK377,Indian Point - Golden Sands,,Saskatchewan,CA,53.5897,-108.599,ardac,1004.4,False,,
+SK378,Invermay,,Saskatchewan,CA,51.8067,-103.156,ardac,860.4,False,,
+SK379,Island View,,Saskatchewan,CA,50.9731,-105.161,ardac,1023.3,False,,
+SK380,Ituna,,Saskatchewan,CA,51.1698,-103.497,ardac,927.3,False,,
+SK381,James Smith,,Saskatchewan,CA,53.1025,-104.871,ardac,853.7,False,,
+SK382,Jameson,,Saskatchewan,CA,50.405,-104.287,ardac,1027.2,False,,
+SK383,Jans Bay,,Saskatchewan,CA,55.1506,-108.099,ardac,881.6,False,,
+SK384,Jansen,,Saskatchewan,CA,51.7865,-104.715,ardac,939.4,False,,
+SK385,Jasmin,,Saskatchewan,CA,51.2281,-103.646,ardac,929.7,False,,
+SK386,Kahkewistahaw,,Saskatchewan,CA,50.4928,-102.533,ardac,941.2,False,,
+SK387,Kamsack,,Saskatchewan,CA,51.5626,-101.898,ardac,821.5,False,,
+SK388,Kamsack Beach,,Saskatchewan,CA,51.6335,-101.651,ardac,804.6,False,,
+SK389,Kandahar,,Saskatchewan,CA,51.7589,-104.361,ardac,923.5,False,,
+SK390,Kannata Valley,,Saskatchewan,CA,50.7833,-104.9,ardac,1025.5,False,,
+SK391,Katepwa Beach,,Saskatchewan,CA,50.697,-103.627,ardac,972.3,False,,
+SK392,Katepwa South,,Saskatchewan,CA,50.6617,-103.64,ardac,975.9,False,,
+SK393,Kawacatoose,,Saskatchewan,CA,51.4775,-104.399,ardac,946.7,False,,
+SK394,Kayville,,Saskatchewan,CA,49.7264,-105.15,ardac,1124.3,False,,
+SK395,Keatley,,Saskatchewan,CA,52.8,-107.467,ardac,1001.3,False,,
+SK396,Kedleston Beach,,Saskatchewan,CA,50.8167,-105.067,ardac,1031.0,False,,
+SK397,Keeler,,Saskatchewan,CA,50.6833,-105.883,ardac,1081.8,False,,
+SK398,Kelliher,,Saskatchewan,CA,51.2666,-103.734,ardac,930.8,False,,
+SK399,Kelso,,Saskatchewan,CA,49.9659,-101.952,ardac,964.5,False,,
+SK400,Kelvington,,Saskatchewan,CA,52.1617,-103.525,ardac,851.6,False,,
+SK401,Kenaston,,Saskatchewan,CA,51.5019,-106.267,ardac,1040.1,False,,
+SK402,Kendal,,Saskatchewan,CA,50.255,-103.615,ardac,1009.3,False,,
+SK403,Kennedy,,Saskatchewan,CA,50.0134,-102.349,ardac,976.3,False,,
+SK404,Kenosee Lake,,Saskatchewan,CA,49.8334,-102.285,ardac,990.1,False,,
+SK405,Kenosee Park,,Saskatchewan,CA,49.8339,-102.318,ardac,991.4,False,,
+SK406,Kerrobert,,Saskatchewan,CA,51.9167,-109.133,ardac,999.8,False,,
+SK407,Ketchen,,Saskatchewan,CA,51.9947,-102.821,ardac,829.6,False,,
+SK408,Key Lake,,Saskatchewan,CA,57.2226,-105.65,ardac,642.1,False,,
+SK409,Khedive,,Saskatchewan,CA,49.6167,-104.517,ardac,1104.8,False,,
+SK410,Killaly,,Saskatchewan,CA,50.7566,-102.837,ardac,931.6,False,,
+SK411,Kilwinning,,Saskatchewan,CA,53.0998,-106.661,ardac,939.6,False,,
+SK412,Kincaid,,Saskatchewan,CA,49.6716,-107.005,ardac,1127.4,False,,
+SK413,Kindersley,,Saskatchewan,CA,51.47,-109.157,ardac,991.2,False,,
+SK414,Kinistin Saulteaux,,Saskatchewan,CA,52.6083,-104.225,ardac,855.8,False,,
+SK415,Kinistino,,Saskatchewan,CA,52.9522,-105.029,ardac,872.8,False,,
+SK416,Kinley,,Saskatchewan,CA,52.0678,-107.427,ardac,1054.9,False,,
+SK417,Kipling,,Saskatchewan,CA,50.1,-102.633,ardac,980.3,False,,
+SK418,Kisbey,,Saskatchewan,CA,49.65,-102.667,ardac,1022.4,False,,
+SK419,Kivimaa-Moonlight Bay,,Saskatchewan,CA,53.6036,-108.665,ardac,1007.0,False,,
+SK420,Kopp's Kove,,Saskatchewan,CA,53.5289,-108.692,ardac,1013.3,False,,
+SK421,Kronau,,Saskatchewan,CA,50.3047,-104.294,ardac,1035.9,False,,
+SK422,Krydor,,Saskatchewan,CA,52.7884,-107.075,ardac,982.9,False,,
+SK423,Kuroki,,Saskatchewan,CA,51.8694,-103.485,ardac,871.6,False,,
+SK424,Kyle,,Saskatchewan,CA,50.8319,-108.038,ardac,1061.4,False,,
+SK425,Kylemore,,Saskatchewan,CA,51.9071,-103.641,ardac,876.4,False,,
+SK426,La Loche,,Saskatchewan,CA,56.4858,-109.434,ardac,880.8,False,,
+SK427,La Ronge,,Saskatchewan,CA,55.112,-105.3,ardac,736.5,False,,
+SK429,Lac Vert,,Saskatchewan,CA,52.5035,-104.493,ardac,877.0,False,,
+SK430,Lady Lake,,Saskatchewan,CA,52.0268,-102.626,ardac,817.7,False,,
+SK431,Lafleche,,Saskatchewan,CA,49.7052,-106.574,ardac,1158.5,False,,
+SK432,Laird,,Saskatchewan,CA,52.7147,-106.589,ardac,964.8,False,,
+SK433,Lajord,,Saskatchewan,CA,50.2394,-104.147,ardac,1034.7,False,,
+SK434,Lake Alma,,Saskatchewan,CA,49.1447,-104.197,ardac,1132.4,False,,
+SK435,Lake Lenore,,Saskatchewan,CA,52.3969,-104.983,ardac,910.1,False,,
+SK436,Lampman,,Saskatchewan,CA,49.3818,-102.756,ardac,1050.6,False,,
+SK437,Lancer,,Saskatchewan,CA,50.8,-108.883,ardac,1002.3,False,,
+SK438,Landis,,Saskatchewan,CA,52.2,-108.45,ardac,1050.8,False,,
+SK439,Lang,,Saskatchewan,CA,49.9194,-104.371,ardac,1072.1,False,,
+SK440,Langbank,,Saskatchewan,CA,50.0491,-102.295,ardac,970.8,False,,
+SK441,Langenburg,,Saskatchewan,CA,50.8429,-101.7,ardac,875.0,False,,
+SK442,Langham,,Saskatchewan,CA,52.3609,-106.965,ardac,1010.0,False,,
+SK443,Lanigan,,Saskatchewan,CA,51.85,-105.033,ardac,951.0,False,,
+SK444,Lanz Point,,Saskatchewan,CA,53.0294,-108.28,ardac,1025.8,False,,
+SK445,Laporte,,Saskatchewan,CA,51.2145,-109.512,ardac,963.7,False,,
+SK446,Lashburn,,Saskatchewan,CA,53.1269,-109.613,ardac,1000.0,False,,
+SK447,Laura,,Saskatchewan,CA,51.848,-107.281,ardac,1065.3,False,,
+SK448,Leacross,,Saskatchewan,CA,53.05,-104.05,ardac,817.2,False,,
+SK449,Leader,,Saskatchewan,CA,50.8888,-109.54,ardac,958.0,False,,
+SK450,Leask,,Saskatchewan,CA,53.0211,-106.741,ardac,949.3,False,,
+SK451,Lebret,,Saskatchewan,CA,50.7571,-103.704,ardac,970.9,False,,
+SK452,Lemberg,,Saskatchewan,CA,50.7281,-103.204,ardac,950.4,False,,
+SK453,Leoville,,Saskatchewan,CA,53.6333,-107.55,ardac,947.0,False,,
+SK454,Leross,,Saskatchewan,CA,51.2886,-103.87,ardac,935.5,False,,
+SK455,Leroy,,Saskatchewan,CA,52.0007,-104.738,ardac,925.0,False,,
+SK456,Leslie,,Saskatchewan,CA,51.6965,-103.713,ardac,896.0,False,,
+SK457,Leslie Beach,,Saskatchewan,CA,51.8159,-103.563,ardac,879.5,False,,
+SK458,Lestock,,Saskatchewan,CA,51.3124,-103.98,ardac,939.0,False,,
+SK459,Liberty,,Saskatchewan,CA,51.1419,-105.444,ardac,1024.5,False,,
+SK460,Limerick,,Saskatchewan,CA,49.6534,-106.267,ardac,1180.4,False,,
+SK461,Lintlaw,,Saskatchewan,CA,52.0645,-103.244,ardac,844.9,False,,
+SK462,Lipton,,Saskatchewan,CA,50.9012,-103.849,ardac,965.7,False,,
+SK463,Lisieux,,Saskatchewan,CA,49.2785,-105.975,ardac,1200.8,False,,
+SK464,Little Black Bear,,Saskatchewan,CA,51.0002,-103.348,ardac,934.3,False,,
+SK465,Little Fishing Lake,,Saskatchewan,CA,53.8591,-109.565,ardac,1030.3,False,,
+SK466,Little Pine Indian Reserve 116,,Saskatchewan,CA,51.3542,-110.6354,ardac,888.4,False,,
+SK467,Little Swan River,,Saskatchewan,CA,52.4013,-102.165,ardac,766.6,False,,
+SK468,Livelong,,Saskatchewan,CA,53.4485,-108.704,ardac,1019.2,False,,
+SK469,Lockwood,,Saskatchewan,CA,51.65,-105.017,ardac,964.8,False,,
+SK470,Lone Rock,,Saskatchewan,CA,53.049,-109.879,ardac,980.7,False,,
+SK471,Loon Lake,,Saskatchewan,CA,54.0265,-109.156,ardac,1006.6,False,,
+SK472,Loreburn,,Saskatchewan,CA,51.2309,-106.599,ardac,1077.0,False,,
+SK473,Love,,Saskatchewan,CA,53.487,-104.165,ardac,791.1,False,,
+SK474,Loverna,,Saskatchewan,CA,51.655,-109.99,ardac,937.3,False,,
+SK475,Lucky Lake,,Saskatchewan,CA,50.9833,-107.133,ardac,1123.0,False,,
+SK476,Lumsden,,Saskatchewan,CA,50.6466,-104.868,ardac,1034.9,False,,
+SK477,Lumsden Beach,,Saskatchewan,CA,50.7629,-104.902,ardac,1027.2,False,,
+SK478,Luseland,,Saskatchewan,CA,52.0813,-109.39,ardac,985.8,False,,
+SK479,Macdowall,,Saskatchewan,CA,53.0169,-106.015,ardac,914.3,False,,
+SK480,Macklin,,Saskatchewan,CA,52.3333,-109.937,ardac,955.6,False,,
+SK481,MacNutt,,Saskatchewan,CA,51.0839,-101.604,ardac,849.7,False,,
+SK482,Macoun,,Saskatchewan,CA,49.315,-103.263,ardac,1077.5,False,,
+SK483,Macrorie,,Saskatchewan,CA,51.3261,-107.085,ardac,1095.7,False,,
+SK484,Maidstone,,Saskatchewan,CA,53.0894,-109.288,ardac,1019.3,False,,
+SK485,Main Centre,,Saskatchewan,CA,50.5822,-107.344,ardac,1107.6,False,,
+SK486,Major,,Saskatchewan,CA,51.8724,-109.614,ardac,966.7,False,,
+SK487,Makwa,,Saskatchewan,CA,54.0059,-108.906,ardac,994.4,False,,
+SK488,Makwa Sahgaiehcan,,Saskatchewan,CA,54.039,-109.161,ardac,1006.1,False,,
+SK489,Manitou Beach,,Saskatchewan,CA,51.7167,-105.433,ardac,981.3,False,,
+SK490,Mankota,,Saskatchewan,CA,49.4199,-107.071,ardac,1121.8,False,,
+SK491,Manor,,Saskatchewan,CA,49.6053,-102.085,ardac,1003.2,False,,
+SK492,Mantario,,Saskatchewan,CA,51.2602,-109.695,ardac,951.6,False,,
+SK493,Maple Creek,,Saskatchewan,CA,49.9064,-109.48,ardac,952.2,False,,
+SK494,Marcelin,,Saskatchewan,CA,52.926,-106.794,ardac,958.9,False,,
+SK495,Marchwell,,Saskatchewan,CA,50.8013,-101.576,ardac,873.6,False,,
+SK496,Marengo,,Saskatchewan,CA,51.4794,-109.783,ardac,948.5,False,,
+SK497,Margo,,Saskatchewan,CA,51.8251,-103.337,ardac,867.8,False,,
+SK498,Markinch,,Saskatchewan,CA,50.9396,-104.362,ardac,987.0,False,,
+SK499,Marquis,,Saskatchewan,CA,50.6195,-105.719,ardac,1078.6,False,,
+SK500,Marsden,,Saskatchewan,CA,52.8393,-109.822,ardac,977.5,False,,
+SK501,Marshall,,Saskatchewan,CA,53.1935,-109.778,ardac,992.0,False,,
+SK502,Martensville,,Saskatchewan,CA,52.2922,-106.658,ardac,1000.8,False,,
+SK503,Martinson's Beach,,Saskatchewan,CA,53.1,-108.433,ardac,1028.7,False,,
+SK504,Maryfield,,Saskatchewan,CA,49.8369,-101.526,ardac,959.9,False,,
+SK505,Marysburg,,Saskatchewan,CA,52.3182,-105.0935,ardac,921.3,False,,
+SK506,Mayfair,,Saskatchewan,CA,52.9833,-107.6,ardac,994.6,False,,
+SK507,Maymont,,Saskatchewan,CA,52.5628,-107.707,ardac,1030.7,False,,
+SK508,Mazenod,,Saskatchewan,CA,49.8627,-106.217,ardac,1163.7,False,,
+SK509,McCord,,Saskatchewan,CA,49.428,-106.83,ardac,1139.2,False,,
+SK510,McGee,,Saskatchewan,CA,51.5029,-108.251,ardac,1053.6,False,,
+SK511,McKague,,Saskatchewan,CA,52.6151,-103.941,ardac,840.5,False,,
+SK512,McLean,,Saskatchewan,CA,50.5167,-104.067,ardac,1007.7,False,,
+SK513,McMahon,,Saskatchewan,CA,50.0757,-107.563,ardac,1089.8,False,,
+SK514,McTaggart,,Saskatchewan,CA,49.7303,-104.011,ardac,1072.4,False,,
+SK515,Meacham,,Saskatchewan,CA,52.1075,-105.76,ardac,971.0,False,,
+SK516,Meadow Lake,,Saskatchewan,CA,54.1266,-108.434,ardac,961.8,False,,
+SK517,Meath Park,,Saskatchewan,CA,53.4425,-105.369,ardac,851.4,False,,
+SK518,Medstead,,Saskatchewan,CA,53.299,-108.08,ardac,996.9,False,,
+SK519,Mehan,,Saskatchewan,CA,51.2986,-102.455,ardac,868.6,False,,
+SK520,Melfort,,Saskatchewan,CA,52.8594,-104.61,ardac,859.5,False,,
+SK521,Melville,,Saskatchewan,CA,50.9332,-102.804,ardac,915.1,False,,
+SK522,Mendham,,Saskatchewan,CA,50.7727,-109.664,ardac,947.6,False,,
+SK523,Meota,,Saskatchewan,CA,53.0358,-108.454,ardac,1034.2,False,,
+SK524,Mervin,,Saskatchewan,CA,53.3341,-108.874,ardac,1035.6,False,,
+SK525,Meskanaw,,Saskatchewan,CA,52.7814,-105.08,ardac,888.7,False,,
+SK526,Metinota,,Saskatchewan,CA,53.0317,-108.399,ardac,1031.7,False,,
+SK527,Meyronne,,Saskatchewan,CA,49.6695,-106.838,ardac,1139.4,False,,
+SK528,Michel Village,,Saskatchewan,CA,56.0126,-109.113,ardac,886.3,False,,
+SK529,Midale,,Saskatchewan,CA,49.3971,-103.41,ardac,1076.2,False,,
+SK530,Middle Lake,,Saskatchewan,CA,52.4813,-105.305,ardac,921.6,False,,
+SK531,Mikado,,Saskatchewan,CA,51.6088,-102.27,ardac,834.5,False,,
+SK532,Milden,,Saskatchewan,CA,51.4873,-107.52,ardac,1103.5,False,,
+SK533,Mildred,,Saskatchewan,CA,53.35,-107.333,ardac,955.3,False,,
+SK534,Milestone,,Saskatchewan,CA,49.9931,-104.517,ardac,1072.5,False,,
+SK535,Ministik Beach,,Saskatchewan,CA,51.6378,-101.625,ardac,803.1,False,,
+SK536,Minowukaw Beach,,Saskatchewan,CA,53.779,-105.16,ardac,816.6,False,,
+SK537,Minton,,Saskatchewan,CA,49.165,-104.583,ardac,1147.4,False,,
+SK538,Missinipe,,Saskatchewan,CA,55.6,-104.767,ardac,680.7,False,,
+SK539,Mistatim,,Saskatchewan,CA,52.8719,-103.359,ardac,792.5,False,,
+SK540,Mistawasis,,Saskatchewan,CA,53.1833,-106.8,ardac,940.3,False,,
+SK541,Mistusinne,,Saskatchewan,CA,51.0635,-106.521,ardac,1085.3,False,,
+SK542,Mohr's Beach,,Saskatchewan,CA,50.8808,-105.088,ardac,1027.0,False,,
+SK543,Mont Nebo,,Saskatchewan,CA,53.2833,-106.85,ardac,935.7,False,,
+SK544,Montmartre,,Saskatchewan,CA,50.2197,-103.45,ardac,1005.0,False,,
+SK545,Montreal Lake,,Saskatchewan,CA,54.0456,-105.773,ardac,828.5,False,,
+SK546,Moose Bay,,Saskatchewan,CA,50.6132,-102.685,ardac,937.2,False,,
+SK547,Moose Jaw,,Saskatchewan,CA,50.4,-105.533,ardac,1086.9,False,,
+SK548,Moose Range,,Saskatchewan,CA,53.2333,-103.7,ardac,786.7,False,,
+SK550,Moosomin,,Saskatchewan,CA,50.1444,-101.667,ardac,936.8,False,,
+SK551,Morse,,Saskatchewan,CA,50.4159,-107.04,ardac,1128.1,False,,
+SK552,Mortlach,,Saskatchewan,CA,50.4547,-106.068,ardac,1108.9,False,,
+SK553,Mosquito-Grizzly Bear's Head-Lean Man,,Saskatchewan,CA,52.4905,-108.211,ardac,1061.0,False,,
+SK554,Mossbank,,Saskatchewan,CA,49.9392,-105.966,ardac,1145.3,False,,
+SK555,Mozart,,Saskatchewan,CA,51.7756,-103.994,ardac,903.9,False,,
+SK556,Muenster,,Saskatchewan,CA,52.191,-104.997,ardac,925.0,False,,
+SK557,Mullingar,,Saskatchewan,CA,53.0848,-107.663,ardac,990.6,False,,
+SK558,Murray Point,,Saskatchewan,CA,53.607,-105.927,ardac,866.7,False,,
+SK559,Muscowpetung,,Saskatchewan,CA,50.7793,-104.285,ardac,996.3,False,,
+SK560,Muskoday,,Saskatchewan,CA,53.0943,-105.484,ardac,883.1,False,,
+SK561,Muskowekwan,,Saskatchewan,CA,51.3225,-104.0,ardac,939.1,False,,
+SK562,Naicam,,Saskatchewan,CA,52.4176,-104.496,ardac,883.1,False,,
+SK563,Neilburg,,Saskatchewan,CA,52.8387,-109.624,ardac,990.1,False,,
+SK564,Nekaneet,,Saskatchewan,CA,49.7657,-109.277,ardac,965.1,False,,
+SK565,Nesslin Lake,,Saskatchewan,CA,53.93,-106.786,ardac,887.9,False,,
+SK566,Netherhill,,Saskatchewan,CA,51.4701,-108.856,ardac,1011.8,False,,
+SK567,Neuanlage,,Saskatchewan,CA,52.4532,-106.463,ardac,979.0,False,,
+SK568,Neudorf,,Saskatchewan,CA,50.712,-103.015,ardac,943.3,False,,
+SK569,Neuhorst,,Saskatchewan,CA,52.4009,-106.577,ardac,988.4,False,,
+SK570,Neville,,Saskatchewan,CA,49.9667,-107.633,ardac,1084.5,False,,
+SK571,Nipawin,,Saskatchewan,CA,53.3613,-104.014,ardac,794.0,False,,
+SK572,Nokomis,,Saskatchewan,CA,51.5086,-105.01,ardac,974.9,False,,
+SK573,Norquay,,Saskatchewan,CA,51.8833,-102.083,ardac,803.6,False,,
+SK574,North Battleford,,Saskatchewan,CA,52.7782,-108.292,ardac,1044.2,False,,
+SK575,North Colesdale Park,,Saskatchewan,CA,50.9579,-105.15,ardac,1024.0,False,,
+SK576,North Grove,,Saskatchewan,CA,50.6969,-105.563,ardac,1064.8,False,,
+SK577,North Portal,,Saskatchewan,CA,49.0046,-102.549,ardac,1077.6,False,,
+SK578,North Shore Fishing Lake,,Saskatchewan,CA,51.8487,-103.515,ardac,874.7,False,,
+SK579,North Weyburn,,Saskatchewan,CA,49.6922,-103.808,ardac,1066.8,False,,
+SK580,Northminster,,Saskatchewan,CA,53.3667,-109.933,ardac,988.6,False,,
+SK581,Northside,,Saskatchewan,CA,53.5115,-105.766,ardac,865.6,False,,
+SK582,Nut Mountain,,Saskatchewan,CA,52.1271,-103.38,ardac,846.9,False,,
+SK583,Oakshela,,Saskatchewan,CA,50.3946,-102.762,ardac,959.7,False,,
+SK584,Ocean Man,,Saskatchewan,CA,49.851,-103.021,ardac,1018.9,False,,
+SK585,Ochapowace,,Saskatchewan,CA,50.475,-102.392,ardac,936.7,False,,
+SK586,Odessa,,Saskatchewan,CA,50.2833,-103.783,ardac,1014.4,False,,
+SK587,Ogema,,Saskatchewan,CA,49.5747,-104.915,ardac,1126.5,False,,
+SK588,Okanese,,Saskatchewan,CA,50.925,-103.384,ardac,942.1,False,,
+SK589,Okla,,Saskatchewan,CA,52.0117,-103.1183,ardac,842.8,False,,
+SK590,One Arrow 95,,Saskatchewan,CA,52.7348,-106.029,ardac,936.5,False,,
+SK591,Onion Lake,,Saskatchewan,CA,53.7082,-109.958,ardac,1000.5,False,,
+SK592,Orcadia,,Saskatchewan,CA,51.2764,-102.613,ardac,877.7,False,,
+SK593,Orkney,,Saskatchewan,CA,49.1438,-107.911,ardac,1060.4,False,,
+SK594,Ormiston,,Saskatchewan,CA,49.7385,-105.393,ardac,1134.6,False,,
+SK595,Osage,,Saskatchewan,CA,49.9568,-103.579,ardac,1033.6,False,,
+SK596,Osler,,Saskatchewan,CA,52.3679,-106.537,ardac,989.1,False,,
+SK597,Otthon,,Saskatchewan,CA,51.0979,-102.598,ardac,891.9,False,,
+SK598,Ottman - Murray Beach,,Saskatchewan,CA,51.818,-103.472,ardac,874.9,False,,
+SK599,Oungre,,Saskatchewan,CA,49.1458,-103.799,ardac,1115.3,False,,
+SK600,Outlook,,Saskatchewan,CA,51.4891,-107.062,ardac,1083.0,False,,
+SK601,Outram,,Saskatchewan,CA,49.1449,-103.324,ardac,1095.6,False,,
+SK602,Oxbow,,Saskatchewan,CA,49.2305,-102.172,ardac,1041.7,False,,
+SK603,Paddockwood,,Saskatchewan,CA,53.5078,-105.561,ardac,855.9,False,,
+SK604,Pakwaw Lake,,Saskatchewan,CA,53.4773,-102.653,ardac,715.3,False,,
+SK605,Palmer,,Saskatchewan,CA,49.8599,-106.354,ardac,1170.5,False,,
+SK606,Palo,,Saskatchewan,CA,52.1667,-108.3,ardac,1060.2,False,,
+SK607,Pambrun,,Saskatchewan,CA,49.9333,-107.45,ardac,1097.2,False,,
+SK608,Pangman,,Saskatchewan,CA,49.6465,-104.662,ardac,1108.8,False,,
+SK609,Paradise Hill,,Saskatchewan,CA,53.5378,-109.458,ardac,1024.2,False,,
+SK610,Parkbeg,,Saskatchewan,CA,50.454,-106.269,ardac,1118.9,False,,
+SK611,Parkland Beach,,Saskatchewan,CA,53.5514,-108.694,ardac,1011.9,False,,
+SK612,Parkside,,Saskatchewan,CA,53.1656,-106.536,ardac,928.6,False,,
+SK613,Parkview,,Saskatchewan,CA,50.6172,-105.458,ardac,1065.9,False,,
+SK614,Parry,,Saskatchewan,CA,49.7887,-104.72,ardac,1099.2,False,,
+SK615,Pasqua Lake,,Saskatchewan,CA,50.7361,-103.98,ardac,985.4,False,,
+SK617,Paswegin,,Saskatchewan,CA,51.9939,-103.965,ardac,886.1,False,,
+SK618,Pathlow,,Saskatchewan,CA,52.7157,-104.805,ardac,879.3,False,,
+SK619,Patuanak,,Saskatchewan,CA,55.8964,-107.705,ardac,817.4,False,,
+SK620,Paynton,,Saskatchewan,CA,53.0139,-108.936,ardac,1039.3,False,,
+SK621,Pebble Baye,,Saskatchewan,CA,53.1915,-107.009,ardac,950.2,False,,
+SK622,Peebles,,Saskatchewan,CA,50.1593,-102.949,ardac,988.4,False,,
+SK623,Peepeekisis,,Saskatchewan,CA,50.8693,-103.329,ardac,944.3,False,,
+SK624,Peerless,,Saskatchewan,CA,54.3474,-109.23,ardac,991.0,False,,
+SK625,Peesane,,Saskatchewan,CA,52.8682,-103.6,ardac,805.4,False,,
+SK626,Pelican Cove,,Saskatchewan,CA,53.1668,-107.054,ardac,954.2,False,,
+SK627,Pelican Lake 191C,,Saskatchewan,CA,53.7251,-107.739,ardac,950.7,False,,
+SK628,Pelican Narrows,,Saskatchewan,CA,55.1667,-102.933,ardac,610.9,False,58.9949,-94.8544
+SK629,Pelican Point,,Saskatchewan,CA,53.0506,-108.318,ardac,1026.2,False,,
+SK630,Pelican Pointe,,Saskatchewan,CA,50.8038,-105.031,ardac,1030.2,False,,
+SK631,Pelly,,Saskatchewan,CA,51.8562,-101.929,ardac,798.7,False,,
+SK632,Pemmican Portage,,Saskatchewan,CA,53.9333,-102.283,ardac,667.1,False,58.7373,-94.4135
+SK633,Pennant,,Saskatchewan,CA,50.5333,-108.233,ardac,1044.8,False,,
+SK634,Pense,,Saskatchewan,CA,50.4167,-104.983,ardac,1059.0,False,,
+SK635,Penzance,,Saskatchewan,CA,51.0591,-105.439,ardac,1030.5,False,,
+SK636,Percival,,Saskatchewan,CA,50.3636,-102.409,ardac,947.3,False,,
+SK637,Perdue,,Saskatchewan,CA,52.0544,-107.544,ardac,1061.5,False,,
+SK638,Périgord,,Saskatchewan,CA,52.3474,-103.566,ardac,840.1,False,,
+SK639,Peter Ballantyne,,Saskatchewan,CA,55.175,-102.906,ardac,609.0,False,59.0013,-94.8224
+SK640,Peterson,,Saskatchewan,CA,52.188,-105.681,ardac,961.3,False,,
+SK641,Phillips Grove,,Saskatchewan,CA,53.8697,-106.935,ardac,899.5,False,,
+SK642,Piapot,,Saskatchewan,CA,49.989,-109.121,ardac,978.3,False,,
+SK643,Pierceland,,Saskatchewan,CA,54.3393,-109.782,ardac,1019.7,False,,
+SK644,Pike Lake,,Saskatchewan,CA,51.9116,-106.818,ardac,1038.6,False,,
+SK645,Pilger,,Saskatchewan,CA,52.4252,-105.268,ardac,923.3,False,,
+SK646,Pilot Butte,,Saskatchewan,CA,50.481,-104.42,ardac,1027.1,False,,
+SK647,Pinehouse,,Saskatchewan,CA,55.5194,-106.574,ardac,780.7,False,,
+SK648,Pleasantdale,,Saskatchewan,CA,52.5779,-104.506,ardac,872.6,False,,
+SK649,Plenty,,Saskatchewan,CA,51.7829,-108.646,ardac,1030.4,False,,
+SK650,Plunkett,,Saskatchewan,CA,51.9079,-105.445,ardac,968.3,False,,
+SK651,Ponteix,,Saskatchewan,CA,49.7458,-107.489,ardac,1093.0,False,,
+SK652,Pontrilas,,Saskatchewan,CA,53.2167,-104.033,ardac,805.7,False,,
+SK653,Porcupine Plain,,Saskatchewan,CA,52.5989,-103.255,ardac,806.2,False,,
+SK654,Poundmaker,,Saskatchewan,CA,52.8959,-108.974,ardac,1033.4,False,,
+SK655,Powm Beach,,Saskatchewan,CA,53.5734,-108.704,ardac,1011.0,False,,
+SK656,Prairie River,,Saskatchewan,CA,52.8618,-102.993,ardac,774.3,False,,
+SK657,Preeceville,,Saskatchewan,CA,51.9558,-102.666,ardac,825.2,False,,
+SK658,Prelate,,Saskatchewan,CA,50.8537,-109.404,ardac,966.9,False,,
+SK659,Primate,,Saskatchewan,CA,52.2632,-109.823,ardac,961.3,False,,
+SK660,Prince,,Saskatchewan,CA,52.9624,-108.367,ardac,1034.9,False,,
+SK661,Prince Albert,,Saskatchewan,CA,53.1988,-105.765,ardac,888.6,False,,
+SK662,Prongua,,Saskatchewan,CA,52.7437,-108.546,ardac,1056.8,False,,
+SK663,Prud'homme,,Saskatchewan,CA,52.3384,-105.89,ardac,961.3,False,,
+SK664,Punnichy,,Saskatchewan,CA,51.3714,-104.297,ardac,949.8,False,,
+SK665,Qu'Appelle,,Saskatchewan,CA,50.5434,-103.876,ardac,996.6,False,,
+SK666,Quill Lake,,Saskatchewan,CA,52.0713,-104.253,ardac,895.0,False,,
+SK667,Quinton,,Saskatchewan,CA,51.384,-104.404,ardac,954.1,False,,
+SK668,Rabbit Lake,,Saskatchewan,CA,53.1449,-107.767,ardac,991.6,False,,
+SK669,Radisson,,Saskatchewan,CA,52.4615,-107.392,ardac,1022.9,False,,
+SK670,Radville,,Saskatchewan,CA,49.4613,-104.3,ardac,1108.8,False,,
+SK671,Rama,,Saskatchewan,CA,51.7574,-103.002,ardac,856.9,False,,
+SK672,Ranger,,Saskatchewan,CA,53.6101,-107.6979,ardac,956.2,False,,
+SK673,Rapid View,,Saskatchewan,CA,54.15,-108.817,ardac,980.9,False,,
+SK674,Raymore,,Saskatchewan,CA,51.4098,-104.527,ardac,958.2,False,,
+SK675,Red Deer Hill,,Saskatchewan,CA,53.0226,-105.805,ardac,903.8,False,,
+SK676,Red Earth,,Saskatchewan,CA,53.4861,-102.862,ardac,725.8,False,,
+SK677,Red Jacket,,Saskatchewan,CA,50.2101,-101.79,ardac,935.7,False,,
+SK678,Red Pheasant,,Saskatchewan,CA,52.4606,-108.17,ardac,1061.2,False,,
+SK679,Redvers,,Saskatchewan,CA,49.5733,-101.698,ardac,991.2,False,,
+SK680,Regina,,Saskatchewan,CA,50.45,-104.617,ardac,1038.9,False,,
+SK681,Regina Beach,,Saskatchewan,CA,50.7905,-104.981,ardac,1028.9,False,,
+SK682,Renown,,Saskatchewan,CA,51.6333,-105.55,ardac,993.4,False,,
+SK683,Reserve,,Saskatchewan,CA,52.4701,-102.644,ardac,784.9,False,,
+SK684,Rex,,Saskatchewan,CA,53.45,-109.933,ardac,991.8,False,,
+SK685,Rhein,,Saskatchewan,CA,51.3528,-102.19,ardac,852.2,False,,
+SK686,Rheinfeld,,Saskatchewan,CA,50.1167,-107.567,ardac,1089.6,False,,
+SK687,Rheinland,,Saskatchewan,CA,52.4174,-106.505,ardac,983.7,False,,
+SK688,Riceton,,Saskatchewan,CA,50.1112,-104.319,ardac,1053.4,False,,
+SK689,Richard,,Saskatchewan,CA,52.6929,-107.703,ardac,1020.9,False,,
+SK690,Richardson,,Saskatchewan,CA,50.3833,-104.45,ardac,1036.6,False,,
+SK691,Richmound,,Saskatchewan,CA,50.4547,-109.756,ardac,937.0,False,,
+SK692,Ridgedale,,Saskatchewan,CA,53.0563,-104.152,ardac,822.2,False,,
+SK693,Riverhurst,,Saskatchewan,CA,50.9025,-106.867,ardac,1115.1,False,,
+SK694,Riversedge,,Saskatchewan,CA,52.2222,-106.553,ardac,1001.4,False,,
+SK695,Riverside Estates,,Saskatchewan,CA,52.0473,-106.701,ardac,1022.2,False,,
+SK696,Robsart,,Saskatchewan,CA,49.3833,-109.283,ardac,961.4,False,,
+SK697,Rocanville,,Saskatchewan,CA,50.3833,-101.7,ardac,916.3,False,,
+SK698,Roche Percee,,Saskatchewan,CA,49.0667,-102.8,ardac,1081.6,False,,
+SK699,Rockglen,,Saskatchewan,CA,49.1833,-105.95,ardac,1203.2,False,,
+SK700,Rockhaven,,Saskatchewan,CA,52.6715,-108.87,ardac,1033.9,False,,
+SK701,Rokeby,,Saskatchewan,CA,51.1333,-102.333,ardac,877.1,False,,
+SK702,Rose Valley,,Saskatchewan,CA,52.2929,-103.811,ardac,856.5,False,,
+SK703,Rosenhof,,Saskatchewan,CA,50.2054,-107.571,ardac,1089.6,False,,
+SK704,Rosetown,,Saskatchewan,CA,51.5571,-107.984,ardac,1072.4,False,,
+SK705,Rosthern,,Saskatchewan,CA,52.6667,-106.333,ardac,956.2,False,,
+SK706,Rouleau,,Saskatchewan,CA,50.1898,-104.902,ardac,1073.9,False,,
+SK707,Ruby Beach,,Saskatchewan,CA,52.9665,-102.348,ardac,734.0,False,,
+SK708,Ruddell,,Saskatchewan,CA,52.6051,-107.858,ardac,1035.0,False,,
+SK709,Runnymede,,Saskatchewan,CA,51.4791,-101.701,ardac,819.8,False,,
+SK710,Rush Lake,,Saskatchewan,CA,50.4052,-107.399,ardac,1102.7,False,,
+SK711,Ruthilda,,Saskatchewan,CA,51.8921,-108.466,ardac,1044.3,False,,
+SK712,Sakimay,,Saskatchewan,CA,50.5273,-102.793,ardac,949.4,False,,
+SK713,Saltcoats,,Saskatchewan,CA,51.0431,-102.163,ardac,877.3,False,,
+SK714,Salvador,,Saskatchewan,CA,52.1681,-109.509,ardac,979.8,False,,
+SK715,Sand Point Beach,,Saskatchewan,CA,50.6944,-105.581,ardac,1065.9,False,,
+SK716,Sandy Bay,,Saskatchewan,CA,55.5227,-102.303,ardac,556.3,False,58.966,-94.7378
+SK717,Sandy Beach,,Saskatchewan,CA,50.7225,-103.655,ardac,971.5,False,,
+SK718,Sarnia Beach,,Saskatchewan,CA,50.9955,-105.225,ardac,1024.8,False,,
+SK719,Saskatchewan Beach,,Saskatchewan,CA,50.7955,-104.927,ardac,1025.8,False,,
+SK720,Saskatoon,,Saskatchewan,CA,52.1307,-106.659,ardac,1013.6,False,,
+SK721,Saulteaux 159,,Saskatchewan,CA,53.1227,-108.337,ardac,1022.2,False,,
+SK722,Sceptre,,Saskatchewan,CA,50.8622,-109.267,ardac,976.5,False,,
+SK723,Schoenfeld,,Saskatchewan,CA,50.0889,-107.699,ardac,1080.1,False,,
+SK724,Scott,,Saskatchewan,CA,52.3667,-108.833,ardac,1029.0,False,,
+SK725,Scout Lake,,Saskatchewan,CA,49.3646,-106.0,ardac,1194.7,False,,
+SK726,Sedley,,Saskatchewan,CA,50.1686,-104.014,ardac,1034.6,False,,
+SK727,Semans,,Saskatchewan,CA,51.4064,-104.729,ardac,968.5,False,,
+SK728,Senlac,,Saskatchewan,CA,52.4918,-109.707,ardac,974.8,False,,
+SK729,Shackleton,,Saskatchewan,CA,50.6849,-108.605,ardac,1020.2,False,,
+SK730,Shamrock,,Saskatchewan,CA,50.1607,-106.624,ardac,1156.8,False,,
+SK731,Shaunavon,,Saskatchewan,CA,49.65,-108.417,ardac,1025.7,False,,
+SK732,Sheho,,Saskatchewan,CA,51.5883,-103.214,ardac,880.3,False,,
+SK733,Shell Lake,,Saskatchewan,CA,53.3062,-107.063,ardac,944.7,False,,
+SK734,Shellbrook,,Saskatchewan,CA,53.2232,-106.385,ardac,917.0,False,,
+SK735,Shields,,Saskatchewan,CA,51.8214,-106.418,ardac,1025.6,False,,
+SK736,Shipman,,Saskatchewan,CA,53.4758,-104.982,ardac,830.3,False,,
+SK737,Silton,,Saskatchewan,CA,50.8075,-104.91,ardac,1024.1,False,,
+SK738,Silver Park,,Saskatchewan,CA,52.665,-104.523,ardac,867.7,False,,
+SK739,Simmie,,Saskatchewan,CA,49.944,-108.105,ardac,1050.6,False,,
+SK740,Simpson,,Saskatchewan,CA,51.4486,-105.444,ardac,1001.5,False,,
+SK741,Sintaluta,,Saskatchewan,CA,50.479,-103.449,ardac,982.6,False,,
+SK742,Sled Lake,,Saskatchewan,CA,54.428,-107.321,ardac,884.3,False,,
+SK743,Sleepy Hollow,,Saskatchewan,CA,53.0631,-108.321,ardac,1025.5,False,,
+SK744,Smeaton,,Saskatchewan,CA,53.4923,-104.806,ardac,820.7,False,,
+SK745,Smiley,,Saskatchewan,CA,51.6319,-109.47,ardac,972.2,False,,
+SK746,Smoky Burn,,Saskatchewan,CA,53.3667,-103.133,ardac,747.9,False,,
+SK747,Snowden,,Saskatchewan,CA,53.4916,-104.678,ardac,814.7,False,,
+SK748,Sonningdale,,Saskatchewan,CA,52.3833,-107.683,ardac,1043.0,False,,
+SK749,Sorenson's Beach,,Saskatchewan,CA,50.8364,-105.057,ardac,1028.9,False,,
+SK750,South Lake,,Saskatchewan,CA,50.6763,-105.563,ardac,1066.4,False,,
+SK751,Southend Reindeer,,Saskatchewan,CA,56.3266,-103.239,ardac,561.2,False,58.9787,-94.571
+SK752,Southey,,Saskatchewan,CA,50.9401,-104.499,ardac,993.6,False,,
+SK753,Sovereign,,Saskatchewan,CA,51.5167,-107.717,ardac,1090.3,False,,
+SK754,Spalding,,Saskatchewan,CA,52.3288,-104.495,ardac,889.2,False,,
+SK755,Speers,,Saskatchewan,CA,52.7083,-107.558,ardac,1012.6,False,,
+SK756,Spiritwood,,Saskatchewan,CA,53.364,-107.519,ardac,963.7,False,,
+SK757,Spring Bay,,Saskatchewan,CA,50.9361,-105.136,ardac,1025.0,False,,
+SK758,Spring Valley,,Saskatchewan,CA,49.9432,-105.403,ardac,1118.0,False,,
+SK759,Springfeld,,Saskatchewan,CA,50.1419,-107.734,ardac,1077.8,False,,
+SK760,Springside,,Saskatchewan,CA,51.345,-102.742,ardac,877.9,False,,
+SK762,Springwater,,Saskatchewan,CA,51.9727,-108.378,ardac,1051.5,False,,
+SK763,Spruce Bay,,Saskatchewan,CA,53.2069,-107.692,ardac,983.4,False,,
+SK764,Spruce Home,,Saskatchewan,CA,53.3941,-105.767,ardac,874.2,False,,
+SK765,Spruce Lake,,Saskatchewan,CA,53.5425,-109.088,ardac,1033.2,False,,
+SK766,Spy Hill,,Saskatchewan,CA,50.6022,-101.685,ardac,895.9,False,,
+SK767,St. Benedict,,Saskatchewan,CA,52.5683,-105.394,ardac,920.1,False,,
+SK768,St. Brieux,,Saskatchewan,CA,52.6356,-104.892,ardac,889.3,False,,
+SK769,St. Cyr Lake,,Saskatchewan,CA,54.2167,-108.067,ardac,936.8,False,,
+SK770,St. George's Hill,,Saskatchewan,CA,55.8769,-108.961,ardac,885.2,False,,
+SK771,St. Gregor,,Saskatchewan,CA,52.1776,-104.827,ardac,917.1,False,,
+SK772,St. Isidore-de-Bellevue,,Saskatchewan,CA,52.7843,-105.922,ardac,927.6,False,,
+SK773,St. Joseph's,,Saskatchewan,CA,50.4966,-104.18,ardac,1014.6,False,,
+SK774,St. Louis,,Saskatchewan,CA,52.9152,-105.812,ardac,912.3,False,,
+SK775,St. Walburg,,Saskatchewan,CA,53.6326,-109.198,ardac,1033.3,False,,
+SK776,Stalwart,,Saskatchewan,CA,51.2339,-105.442,ardac,1017.4,False,,
+SK777,Stanley Mission,,Saskatchewan,CA,55.4147,-104.566,ardac,680.2,False,,
+SK778,Star Blanket 83,,Saskatchewan,CA,50.9616,-103.5139,ardac,945.1,False,,
+SK779,Star City,,Saskatchewan,CA,52.8625,-104.332,ardac,844.4,False,,
+SK780,Starblanket,,Saskatchewan,CA,53.3683,-106.913,ardac,932.8,False,,
+SK781,Steen,,Saskatchewan,CA,52.6805,-103.526,ardac,814.4,False,,
+SK782,Stenen,,Saskatchewan,CA,51.9002,-102.38,ardac,816.0,False,,
+SK783,Stewart Valley,,Saskatchewan,CA,50.5978,-107.805,ardac,1075.4,False,,
+SK784,Stockholm,,Saskatchewan,CA,50.661,-102.302,ardac,916.5,False,,
+SK785,Stony Beach,,Saskatchewan,CA,50.4715,-105.163,ardac,1063.2,False,,
+SK786,Stony Rapids,,Saskatchewan,CA,59.254,-105.837,ardac,603.1,False,,
+SK787,Stornoway,,Saskatchewan,CA,51.2944,-102.034,ardac,850.2,False,,
+SK788,Storthoaks,,Saskatchewan,CA,49.3894,-101.601,ardac,1005.0,False,,
+SK789,Stoughton,,Saskatchewan,CA,49.6797,-103.027,ardac,1034.6,False,,
+SK790,Stranraer,,Saskatchewan,CA,51.7082,-108.485,ardac,1040.2,False,,
+SK791,Strasbourg,,Saskatchewan,CA,51.0708,-104.958,ardac,1005.7,False,,
+SK792,Strongfield,,Saskatchewan,CA,51.3338,-106.596,ardac,1069.4,False,,
+SK793,Sturgeon Lake,,Saskatchewan,CA,53.4101,-105.991,ardac,884.0,False,,
+SK794,Sturgeon Landing,,Saskatchewan,CA,54.2698,-101.827,ardac,622.6,False,58.8746,-94.4783
+SK795,Sturgis,,Saskatchewan,CA,51.9371,-102.533,ardac,820.3,False,,
+SK796,Success,,Saskatchewan,CA,50.4596,-108.079,ardac,1055.0,False,,
+SK797,Summerberry,,Saskatchewan,CA,50.4167,-103.1,ardac,972.5,False,,
+SK798,Summerfield Beach,,Saskatchewan,CA,53.0401,-108.308,ardac,1026.5,False,,
+SK799,Sun Valley,,Saskatchewan,CA,50.6544,-105.53,ardac,1066.5,False,,
+SK800,Sunset Beach,,Saskatchewan,CA,50.6021,-102.666,ardac,937.4,False,,
+SK801,Sunset Cove,,Saskatchewan,CA,50.8111,-105.003,ardac,1028.3,False,,
+SK802,Sunset View Beach,,Saskatchewan,CA,53.5491,-108.623,ardac,1008.3,False,,
+SK803,Swan Plain,,Saskatchewan,CA,52.115,-102.054,ardac,783.6,False,,
+SK804,Swanson,,Saskatchewan,CA,51.7,-107.15,ardac,1071.1,False,,
+SK805,Sweetgrass,,Saskatchewan,CA,52.7626,-108.713,ardac,1046.5,False,,
+SK806,Swift Current,,Saskatchewan,CA,50.2844,-107.791,ardac,1074.3,False,,
+SK807,Sylvania,,Saskatchewan,CA,52.6941,-104.003,ardac,838.3,False,,
+SK808,Tadmore,,Saskatchewan,CA,51.8341,-102.479,ardac,826.0,False,,
+SK809,Tangleflags,,Saskatchewan,CA,53.4833,-109.633,ardac,1011.5,False,,
+SK810,Tantallon,,Saskatchewan,CA,50.5349,-101.841,ardac,908.3,False,,
+SK811,Taylor Beach,,Saskatchewan,CA,50.6907,-103.654,ardac,974.1,False,,
+SK812,Tessier,,Saskatchewan,CA,51.8078,-107.429,ardac,1075.5,False,,
+SK813,The Key 65,,Saskatchewan,CA,51.7829,-102.115,ardac,813.2,False,,
+SK814,Theodore,,Saskatchewan,CA,51.4257,-102.921,ardac,879.6,False,,
+SK815,Thode,,Saskatchewan,CA,51.7881,-106.442,ardac,1029.2,False,,
+SK816,Thunderchild,,Saskatchewan,CA,53.4576,-108.87,ardac,1027.3,False,,
+SK817,Timber Bay,,Saskatchewan,CA,54.1583,-105.678,ardac,816.0,False,,
+SK818,Tisdale,,Saskatchewan,CA,52.85,-104.05,ardac,830.3,False,,
+SK819,Tobin Lake,,Saskatchewan,CA,53.5167,-103.733,ardac,769.0,False,,
+SK820,Togo,,Saskatchewan,CA,51.4025,-101.582,ardac,821.2,False,,
+SK821,Tompkins,,Saskatchewan,CA,50.0626,-108.797,ardac,1001.8,False,,
+SK822,Torquay,,Saskatchewan,CA,49.1409,-103.491,ardac,1102.8,False,,
+SK823,Tramping Lake,,Saskatchewan,CA,52.1333,-108.95,ardac,1016.2,False,,
+SK824,Tregarva,,Saskatchewan,CA,50.6034,-104.709,ardac,1030.8,False,,
+SK825,Tribune,,Saskatchewan,CA,49.2484,-103.824,ardac,1107.1,False,,
+SK826,Trossachs,,Saskatchewan,CA,49.6371,-104.224,ardac,1090.0,False,,
+SK827,Truax,,Saskatchewan,CA,49.904,-104.946,ardac,1099.8,False,,
+SK828,Tuffnell,,Saskatchewan,CA,51.6421,-103.371,ardac,883.6,False,,
+SK829,Tugaske,,Saskatchewan,CA,50.8737,-106.287,ardac,1087.5,False,,
+SK830,Turnor Lake,,Saskatchewan,CA,56.4601,-108.72,ardac,843.0,False,,
+SK831,Turtle Lake South Bay,,Saskatchewan,CA,53.5122,-108.705,ardac,1015.0,False,,
+SK832,Turtleford,,Saskatchewan,CA,53.3887,-108.958,ardac,1036.4,False,,
+SK833,Tuxford,,Saskatchewan,CA,50.5761,-105.58,ardac,1075.2,False,,
+SK834,Tway,,Saskatchewan,CA,52.7376,-105.439,ardac,908.7,False,,
+SK835,Tyvan,,Saskatchewan,CA,50.0334,-103.718,ardac,1033.0,False,,
+SK836,Uhl's Bay,,Saskatchewan,CA,50.9843,-105.141,ardac,1021.5,False,,
+SK837,Unity,,Saskatchewan,CA,52.4398,-109.158,ardac,1009.3,False,,
+SK838,Uranium City,,Saskatchewan,CA,59.5667,-108.617,ardac,736.5,False,,
+SK839,Usherville,,Saskatchewan,CA,52.2314,-102.657,ardac,803.5,False,,
+SK840,Val Marie,,Saskatchewan,CA,49.2457,-107.728,ardac,1073.8,False,,
+SK841,Valparaiso,,Saskatchewan,CA,52.8513,-104.186,ardac,837.4,False,,
+SK842,Vanguard,,Saskatchewan,CA,49.9059,-107.299,ardac,1107.8,False,,
+SK843,Vanscoy,,Saskatchewan,CA,52.0019,-106.974,ardac,1038.6,False,,
+SK844,Vanstone,,Saskatchewan,CA,51.2111,-102.617,ardac,883.3,False,,
+SK845,Vantage,,Saskatchewan,CA,49.8424,-106.031,ardac,1156.3,False,,
+SK846,Vawn,,Saskatchewan,CA,53.106,-108.664,ardac,1040.2,False,,
+SK847,Venn,,Saskatchewan,CA,51.6167,-105.3,ardac,981.7,False,,
+SK848,Veregin,,Saskatchewan,CA,51.5833,-102.083,ardac,828.1,False,,
+SK849,Vibank,,Saskatchewan,CA,50.3354,-103.947,ardac,1017.4,False,,
+SK850,Viscount,,Saskatchewan,CA,51.9464,-105.648,ardac,976.2,False,,
+SK851,Vonda,,Saskatchewan,CA,52.3236,-106.096,ardac,972.0,False,,
+SK852,Wadena,,Saskatchewan,CA,51.9471,-103.796,ardac,881.1,False,,
+SK853,Wahpeton Dakota,,Saskatchewan,CA,53.2742,-105.903,ardac,889.7,False,,
+SK854,Wakaw,,Saskatchewan,CA,52.6489,-105.74,ardac,929.7,False,,
+SK855,Wakaw Lake,,Saskatchewan,CA,52.6364,-105.644,ardac,926.2,False,,
+SK856,Waldeck,,Saskatchewan,CA,50.359,-107.595,ardac,1088.6,False,,
+SK857,Waldheim,,Saskatchewan,CA,52.6188,-106.653,ardac,975.2,False,,
+SK858,Waldron,,Saskatchewan,CA,50.8519,-102.515,ardac,909.2,False,,
+SK859,Wapella,,Saskatchewan,CA,50.2615,-101.97,ardac,938.3,False,,
+SK860,Warman,,Saskatchewan,CA,52.3186,-106.578,ardac,994.9,False,,
+SK861,Wartime,,Saskatchewan,CA,51.2136,-108.193,ardac,1054.8,False,,
+SK862,Waseca,,Saskatchewan,CA,53.1002,-109.471,ardac,1008.1,False,,
+SK863,Waskesiu Lake,,Saskatchewan,CA,53.92,-106.079,ardac,852.5,False,,
+SK864,Waterhen Lake,,Saskatchewan,CA,54.5167,-108.417,ardac,937.8,False,,
+SK865,Watrous,,Saskatchewan,CA,51.6768,-105.464,ardac,985.8,False,,
+SK866,Watson,,Saskatchewan,CA,52.1264,-104.522,ardac,904.9,False,,
+SK867,Wauchope,,Saskatchewan,CA,49.5964,-101.904,ardac,997.0,False,,
+SK868,Wawota,,Saskatchewan,CA,49.9057,-102.023,ardac,972.9,False,,
+SK869,Webb,,Saskatchewan,CA,50.1833,-108.2,ardac,1044.8,False,,
+SK870,Wee Too Beach,,Saskatchewan,CA,50.9354,-105.17,ardac,1026.7,False,,
+SK871,Weekes,,Saskatchewan,CA,52.5697,-102.871,ardac,788.9,False,,
+SK872,Weirdale,,Saskatchewan,CA,53.4475,-105.238,ardac,844.7,False,,
+SK873,Weldon,,Saskatchewan,CA,53.0088,-105.143,ardac,873.7,False,,
+SK874,Welwyn,,Saskatchewan,CA,50.325,-101.515,ardac,914.2,False,,
+SK875,West End,,Saskatchewan,CA,50.5492,-102.415,ardac,931.2,False,,
+SK876,Westview,,Saskatchewan,CA,50.9309,-102.858,ardac,917.7,False,,
+SK877,Weyakwin,,Saskatchewan,CA,54.4314,-105.803,ardac,804.5,False,,
+SK878,Weyburn,,Saskatchewan,CA,49.6667,-103.85,ardac,1070.9,False,,
+SK879,White Bear,,Saskatchewan,CA,50.8796,-108.219,ardac,1049.4,False,,
+SK880,White City,,Saskatchewan,CA,50.4409,-104.368,ardac,1028.0,False,,
+SK881,White Fox,,Saskatchewan,CA,53.45,-104.083,ardac,790.2,False,,
+SK882,Whitebeech,,Saskatchewan,CA,52.0558,-101.704,ardac,772.1,False,,
+SK883,Whitecap,,Saskatchewan,CA,51.8731,-106.701,ardac,1036.3,False,,
+SK884,Whitewood,,Saskatchewan,CA,50.3333,-102.267,ardac,944.1,False,,
+SK885,Wilcox,,Saskatchewan,CA,50.0982,-104.722,ardac,1073.1,False,,
+SK886,Wilkie,,Saskatchewan,CA,52.4082,-108.706,ardac,1038.3,False,,
+SK887,Willmar,,Saskatchewan,CA,49.4816,-102.476,ardac,1030.1,False,,
+SK888,Willow Bunch,,Saskatchewan,CA,49.3922,-105.633,ardac,1175.2,False,,
+SK889,Willowbrook,,Saskatchewan,CA,51.2047,-102.797,ardac,892.0,False,,
+SK890,Wimmer,,Saskatchewan,CA,52.095,-104.399,ardac,900.8,False,,
+SK891,Windthorst,,Saskatchewan,CA,50.1085,-102.836,ardac,988.1,False,,
+SK892,Wiseton,,Saskatchewan,CA,51.3137,-107.649,ardac,1093.2,False,,
+SK893,Wishart,,Saskatchewan,CA,51.548,-103.983,ardac,920.7,False,,
+SK894,Witchekan Lake,,Saskatchewan,CA,53.5005,-107.596,ardac,958.3,False,,
+SK895,Wollaston Lake,,Saskatchewan,CA,58.1653,-103.7879,ardac,506.3,False,58.9688,-94.6673
+SK896,Wolseley,,Saskatchewan,CA,50.4235,-103.272,ardac,979.5,False,,
+SK897,Wood Mountain,,Saskatchewan,CA,49.3709,-106.383,ardac,1171.6,False,,
+SK898,Wroxton,,Saskatchewan,CA,51.2267,-101.886,ardac,849.5,False,,
+SK899,Wymark,,Saskatchewan,CA,50.1101,-107.736,ardac,1077.5,False,,
+SK900,Wynyard,,Saskatchewan,CA,51.7667,-104.183,ardac,914.0,False,,
+SK901,Yarbo,,Saskatchewan,CA,50.7,-101.933,ardac,897.4,False,,
+SK902,Yellow Creek,,Saskatchewan,CA,52.75,-105.25,ardac,899.0,False,,
+SK903,Yellow Grass,,Saskatchewan,CA,49.8041,-104.161,ardac,1072.6,False,,
+SK904,Yorkton,,Saskatchewan,CA,51.2098,-102.449,ardac,875.8,False,,
+SK905,Young,,Saskatchewan,CA,51.7677,-105.743,ardac,993.8,False,,
+SK906,Zealandia,,Saskatchewan,CA,51.6155,-107.743,ardac,1089.6,False,,
+SK907,Zelma,,Saskatchewan,CA,51.8424,-105.905,ardac,997.0,False,,
+SK908,Zeneta,,Saskatchewan,CA,50.7333,-102.067,ardac,900.2,False,,
+SK909,Zenon Park,,Saskatchewan,CA,53.0659,-103.756,ardac,800.5,False,,

@@ -1,0 +1,21 @@
+# Projected CRS suggestions
+crs_lookup = {
+    "alaska": 3338,
+    "british_columbia": 3005,
+    "yukon": 3578,
+    "northwest_territories": 3581,
+    "alberta": 3978,
+    "saskatchewan": 3978,
+    "manitoba": 3978,
+    "ontario": 3978,
+    "quebec": 3978,
+    "newfoundland_and_labrador": 3978,
+    "norway": 3035,
+    "iceland": 5325,
+    "greenland": 6053,
+    "finland": 3035,
+    "sweden": 3035,
+    "faroe": 5316,
+    "russia": 3576,
+    "nunavut": 2961,
+}

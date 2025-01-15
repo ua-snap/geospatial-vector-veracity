@@ -1,1028 +1,1028 @@
-id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal
-BC1,Panorama Mountain Resort,,British Columbia,CA,50.4583,-116.237,ardac,492.0,False
-BC2,Cranberry Junction,,British Columbia,CA,55.5999,-128.5395,ardac,60.6,True
-BC3,Deep Creek,,British Columbia,CA,50.6094,-119.213,ardac,292.9,False
-BC4,Donald,,British Columbia,CA,51.4958,-117.174,ardac,465.1,False
-BC5,Dome Creek,,British Columbia,CA,53.7425,-121.026,ardac,405.5,False
-BC6,Eagle Bay,,British Columbia,CA,50.9333,-119.217,ardac,309.1,False
-BC7,Old Massett,G̱aw,British Columbia,CA,54.0418,-132.184,ardac,0.3,True
-BC8,Progress,,British Columbia,CA,55.7817,-120.716,ardac,522.9,False
-BC9,Topley Landing,,British Columbia,CA,54.8084,-126.1387,ardac,181.7,False
-BC10,Kobes,,British Columbia,CA,56.6389,-121.65,ardac,503.4,False
-BC11,Shelter Bay Ferry Terminal,,British Columbia,CA,50.6358,-117.929,ardac,379.5,False
-BC12,Sunnyside,,British Columbia,CA,54.6538,-124.732,ardac,249.9,False
-BC13,McDonalds Landing,,British Columbia,CA,54.0,-126.033,ardac,141.8,False
-BC14,West Moberly,,British Columbia,CA,55.8272,-121.852,ardac,471.0,False
-BC15,Summit Lake Provincial Park,,British Columbia,CA,50.1523,-117.661,ardac,385.4,False
-BC16,Kelly Lake,,British Columbia,CA,51.0124,-121.7658,ardac,174.0,False
-BC17,Kingfisher,,British Columbia,CA,50.6167,-118.733,ardac,324.8,False
-BC18,Cooper Creek,,British Columbia,CA,50.2023,-116.963,ardac,435.9,False
-BC19,Wilson Creek,,British Columbia,CA,49.4409,-123.713,ardac,5.7,True
-BC20,Mica Creek,,British Columbia,CA,52.0059,-118.562,ardac,413.8,False
-BC21,Hall,,British Columbia,CA,49.374,-117.243,ardac,394.1,False
-BC22,Hyde Creek,,British Columbia,CA,50.5805,-127.0,ardac,1.0,True
-BC23,Bear Creek,,British Columbia,CA,49.529,-121.761,ardac,80.7,True
-BC24,Pine Valley,,British Columbia,CA,52.1753,-122.09,ardac,234.8,False
-BC25,Niagara,,British Columbia,CA,49.1071,-118.466,ardac,300.4,False
-BC26,Birch Island,,British Columbia,CA,51.5971,-119.91,ardac,312.4,False
-BC27,Hills,,British Columbia,CA,50.1089,-117.493,ardac,396.5,False
-BC28,Meadows,,British Columbia,CA,49.1859,-117.396,ardac,379.8,False
-BC29,93 Mile,,British Columbia,CA,51.5748,-121.341,ardac,235.7,False
-BC30,Pineview,,British Columbia,CA,53.8367,-122.658,ardac,308.8,False
-BC31,Old Fort St. John,,British Columbia,CA,56.2022,-120.823,ardac,546.7,False
-BC32,Eagle Creek,,British Columbia,CA,51.8597,-120.866,ardac,281.3,False
-BC33,Roe Lake,,British Columbia,CA,51.5208,-120.831,ardac,260.0,False
-BC34,Coal Harbour,,British Columbia,CA,50.6,-127.583,ardac,0.8,True
-BC35,Apex Mountain Resort,,British Columbia,CA,49.3942,-119.907,ardac,204.6,False
-BC36,Wiley,,British Columbia,CA,54.515,-126.334,ardac,157.2,False
-BC37,Gilpin,,British Columbia,CA,49.0063,-118.329,ardac,308.2,False
-BC39,Balmoral,,British Columbia,CA,50.8531,-119.355,ardac,296.2,False
-BC40,Stillwater,,British Columbia,CA,49.7667,-124.3,ardac,1.6,True
-BC41,Gateway,,British Columbia,CA,51.6808,-121.211,ardac,250.2,False
-BC42,Chinook Cove,,British Columbia,CA,51.2333,-120.167,ardac,273.1,False
-BC43,Oliver's Landing,,British Columbia,CA,49.5833,-123.221,ardac,0.4,True
-BC45,Rock Bay,,British Columbia,CA,50.3323,-125.486,ardac,1.0,True
-BC46,Stump Lake,,British Columbia,CA,50.3883,-120.328,ardac,210.6,False
-BC47,Cultus Lake,,British Columbia,CA,49.0714,-121.966,ardac,53.1,True
-BC49,Cheslatta,,British Columbia,CA,53.8167,-125.8,ardac,133.7,False
-BC50,White Lake,,British Columbia,CA,50.8798,-119.302,ardac,301.0,False
-BC51,Mud Bay,,British Columbia,CA,49.4667,-124.8,ardac,0.8,True
-BC52,Lee Creek,,British Columbia,CA,50.9078,-119.534,ardac,288.5,False
-BC53,Six Mile Point,,British Columbia,CA,50.773,-120.7419,ardac,210.5,False
-BC54,Lower Kootenay,,British Columbia,CA,49.0663,-116.512,ardac,439.5,False
-BC55,Westview,,British Columbia,CA,49.8364,-124.525,ardac,0.3,True
-BC56,Beecher Bay,,British Columbia,CA,48.3367,-123.609,ardac,1.1,True
-BC57,Malibu,,British Columbia,CA,50.1671,-123.851,ardac,1.9,True
-BC58,Liard River Suspension Bridge,,British Columbia,CA,59.4127,-126.0959,"ardac,ncr",442.2,False
-BC59,Bridge River,,British Columbia,CA,50.7808,-121.975,ardac,146.5,False
-BC60,Kettle Valley,,British Columbia,CA,49.0536,-118.945,ardac,264.6,False
-BC61,Davis Bay,,British Columbia,CA,49.4453,-123.726,ardac,4.6,True
-BC62,Arbutus Ridge,,British Columbia,CA,48.6933,-123.54,ardac,1.1,True
-BC63,Wet'suwet'en Village,,British Columbia,CA,54.3359,-125.89,ardac,173.9,False
-BC64,Upper Nicola,,British Columbia,CA,50.137,-120.278,ardac,202.3,False
-BC65,Dog Creek,,British Columbia,CA,52.0944,-122.114,ardac,228.5,False
-BC66,Nootka,,British Columbia,CA,49.6248,-126.627,ardac,0.9,True
-BC67,Kwakiutl,,British Columbia,CA,50.6931,-127.411,ardac,1.7,True
-BC68,Aberdeen,,British Columbia,CA,49.0503,-122.411,ardac,25.7,True
-BC69,Fernwood,,British Columbia,CA,48.9089,-123.528,ardac,2.6,True
-BC70,Adams Lake,,British Columbia,CA,50.7366,-119.321,ardac,292.2,False
-BC71,Bonaparte,,British Columbia,CA,50.8383,-121.378,ardac,179.5,False
-BC72,Saik'uz,,British Columbia,CA,53.945,-124.109,ardac,227.4,False
-BC73,Lighthouse Point,,British Columbia,CA,48.8687,-123.284,ardac,2.5,True
-BC74,Lemoray,,British Columbia,CA,55.5389,-122.483,ardac,420.1,False
-BC75,Squamish,,British Columbia,CA,49.3221,-123.13,ardac,1.6,True
-BC76,Bull River,,British Columbia,CA,49.4701,-115.448,ardac,525.7,False
-BC77,Cowichan Station,,British Columbia,CA,48.7294,-123.666,ardac,2.8,True
-BC78,Fort Babine,,British Columbia,CA,55.3223,-126.626,ardac,181.1,False
-BC79,Prophet River,,British Columbia,CA,58.0943,-122.71,ardac,501.5,False
-BC80,Cowichan,,British Columbia,CA,48.7688,-123.68,ardac,2.4,True
-BC81,Scotch Creek,,British Columbia,CA,50.9014,-119.451,ardac,293.1,False
-BC82,Tsartlip,,British Columbia,CA,48.5856,-123.456,ardac,1.7,True
-BC83,Nimpkish,,British Columbia,CA,50.3333,-126.917,ardac,22.0,True
-BC84,Farrell Creek,,British Columbia,CA,56.1228,-121.738,ardac,489.7,False
-BC85,Jersey,,British Columbia,CA,49.1,-117.233,ardac,388.7,False
-BC86,Baker Creek,,British Columbia,CA,52.9274,-123.017,ardac,253.9,False
-BC87,Klahoose,,British Columbia,CA,50.1281,-124.925,ardac,0.1,True
-BC88,Glenmerry,,British Columbia,CA,49.1,-117.667,ardac,357.9,False
-BC89,Franklin Camp,,British Columbia,CA,48.9722,-124.742,ardac,9.4,True
-BC90,Simpcw,,British Columbia,CA,51.2654,-120.151,ardac,276.1,False
-BC91,Pink Mountain,,British Columbia,CA,57.0357,-122.507,ardac,464.5,False
-BC92,Xeni Gwet'in,,British Columbia,CA,51.4243,-124.089,ardac,75.0,True
-BC93,Huscroft,,British Columbia,CA,49.0167,-116.467,ardac,441.6,False
-BC94,Louis Creek,,British Columbia,CA,51.1401,-120.122,ardac,269.6,False
-BC95,Commodore Heights,,British Columbia,CA,52.1667,-122.133,ardac,231.9,False
-BC96,Porcher Island,,British Columbia,CA,54.0867,-130.392,ardac,1.0,True
-BC97,Slesse Park,,British Columbia,CA,49.0805,-121.821,ardac,62.2,True
-BC98,Matsqui,,British Columbia,CA,49.006,-122.476,ardac,19.6,True
-BC100,Garibaldi,,British Columbia,CA,49.9667,-123.15,ardac,28.8,True
-BC101,Doig River,,British Columbia,CA,56.5711,-120.494,ardac,571.9,False
-BC102,Malahat,,British Columbia,CA,48.6128,-123.523,ardac,0.5,True
-BC103,Coal River,,British Columbia,CA,59.65,-126.933,"ardac,ncr",409.2,False
-BC104,Pemberton Meadows,,British Columbia,CA,50.4417,-122.917,ardac,71.0,True
-BC105,Meachen,,British Columbia,CA,49.6207,-116.267,ardac,469.2,False
-BC106,Spallumcheen,,British Columbia,CA,50.5314,-119.147,ardac,293.9,False
-BC107,Tatla Lake,,British Columbia,CA,51.9,-124.6,ardac,108.3,False
-BC108,Lheidli T'enneh,,British Columbia,CA,54.0101,-122.616,ardac,318.3,False
-BC109,Qualicum,,British Columbia,CA,49.4,-124.617,ardac,1.8,True
-BC110,St. Mary's,,British Columbia,CA,49.6203,-115.696,ardac,510.3,False
-BC111,Uchucklesaht,,British Columbia,CA,49.0274,-125.045,ardac,3.8,True
-BC112,Blueberry Creek,,British Columbia,CA,49.246,-117.659,ardac,361.6,False
-BC113,Criss Creek,,British Columbia,CA,51.05,-120.733,ardac,229.3,False
-BC114,Tl'etinqox,,British Columbia,CA,52.0119,-123.1719,ardac,166.0,False
-BC116,Toquaht,,British Columbia,CA,48.9959,-125.379,ardac,1.3,True
-BC117,Burrard,,British Columbia,CA,49.3099,-122.978,ardac,3.2,True
-BC118,Eagle Heights,,British Columbia,CA,48.7563,-123.703,ardac,3.9,True
-BC120,Mount Robson,,British Columbia,CA,53.0309,-119.228,ardac,450.3,False
-BC121,Seton Lake,,British Columbia,CA,50.7047,-122.281,ardac,124.8,False
-BC122,Huu-ay-aht,,British Columbia,CA,48.8012,-125.122,ardac,3.2,True
-BC123,Quatsino,,British Columbia,CA,50.6151,-127.574,ardac,2.5,True
-BC124,Cahilty,,British Columbia,CA,50.95,-120.017,ardac,263.2,False
-BC125,Wabi Hill,,British Columbia,CA,55.6707,-121.532,ardac,474.8,False
-BC126,Buckinghorse River,,British Columbia,CA,57.3901,-122.842,ardac,460.4,False
-BC127,Blueberry River,,British Columbia,CA,56.7035,-121.114,ardac,537.0,False
-BC128,Hesquiat,,British Columbia,CA,49.3959,-126.471,ardac,0.5,True
-BC129,Oregon Jack Creek,,British Columbia,CA,50.6667,-121.267,ardac,173.2,False
-BC130,Sproat Lake,,British Columbia,CA,49.2766,-124.924,ardac,8.7,True
-BC131,T'it'q'et,,British Columbia,CA,50.5833,-121.85,ardac,135.8,False
-BC132,Hupacasath,,British Columbia,CA,49.2657,-124.826,ardac,2.5,True
-BC133,Fintry,,British Columbia,CA,50.1316,-119.506,ardac,255.1,False
-BC134,Cape Mudge,,British Columbia,CA,50.0214,-125.293,ardac,3.8,True
-BC135,Lac la Hache,,British Columbia,CA,51.8145,-121.465,ardac,247.8,False
-BC136,Kootenay Crossing,,British Columbia,CA,50.8833,-116.05,ardac,515.3,False
-BC137,Sanca,,British Columbia,CA,49.3917,-116.735,ardac,431.1,False
-BC138,Gambier Harbour,,British Columbia,CA,49.3728,-123.414,ardac,0.9,True
-BC139,Tatton,,British Columbia,CA,51.7057,-121.385,ardac,243.2,False
-BC140,Muncho Lake,,British Columbia,CA,58.9333,-125.767,"ardac,ncr",419.0,False
-BC141,Nazko,,British Columbia,CA,52.9435,-123.581,ardac,223.3,False
-BC142,Deka Lake,,British Columbia,CA,51.6083,-120.85,ardac,264.8,False
-BC143,Squeah,,British Columbia,CA,49.5042,-121.42,ardac,105.3,False
-BC144,Telachick,,British Columbia,CA,53.8621,-123.182,ardac,277.6,False
-BC145,Kitselas,,British Columbia,CA,54.6167,-128.417,ardac,66.3,True
-BC146,Hardwicke Island,,British Columbia,CA,50.4167,-125.917,ardac,0.7,True
-BC147,Miocene,,British Columbia,CA,52.2503,-121.771,ardac,257.6,False
-BC148,Sarita,,British Columbia,CA,48.8833,-125.033,ardac,0.1,True
-BC149,Chezacut,,British Columbia,CA,52.3993,-124.028,ardac,171.8,False
-BC150,Quesnel Forks,,British Columbia,CA,52.6564,-121.663,ardac,290.4,False
-BC151,Port Alice,,British Columbia,CA,50.3833,-127.45,ardac,0.7,True
-BC152,Tatalrose,,British Columbia,CA,53.9833,-125.983,ardac,141.8,False
-BC153,Coquitlam,,British Columbia,CA,49.2539,-122.849,ardac,7.3,True
-BC154,Hanceville,,British Columbia,CA,51.9417,-123.099,ardac,164.2,False
-BC155,Sullivan Bay,,British Columbia,CA,50.8833,-126.817,ardac,3.4,True
-BC156,Big Bar Creek,,British Columbia,CA,51.1829,-122.117,ardac,166.3,False
-BC157,Lumberton,,British Columbia,CA,49.4238,-115.877,ardac,493.9,False
-BC158,Kwaw-kwaw-Apilt,,British Columbia,CA,49.1641,-121.98,ardac,59.6,True
-BC159,Mahatta River,,British Columbia,CA,50.4586,-127.798,ardac,1.5,True
-BC160,Osborn,,British Columbia,CA,56.6042,-120.378,ardac,579.5,False
-BC161,Englishman River North,,British Columbia,CA,49.3233,-124.281,ardac,3.1,True
-BC162,Scowlitz,,British Columbia,CA,49.2425,-122.002,ardac,61.9,True
-BC163,Mount Currie,,British Columbia,CA,50.3249,-122.656,ardac,77.8,True
-BC164,Galena Bay,,British Columbia,CA,50.6667,-117.85,ardac,385.9,False
-BC165,Firvale,,British Columbia,CA,52.4385,-126.292,ardac,31.1,True
-BC166,Thompson Sound,,British Columbia,CA,50.8037,-126.008,ardac,2.1,True
-BC167,Nimpo Lake,,British Columbia,CA,52.3364,-125.14,ardac,109.1,False
-BC168,T'Sou-Ke,,British Columbia,CA,48.3861,-123.698,ardac,4.7,True
-BC169,Rosswood,,British Columbia,CA,54.8,-128.767,ardac,59.8,True
-BC170,Abbotsford,,British Columbia,CA,49.0477,-122.27,ardac,35.5,True
-BC171,Federal Ranch,,British Columbia,CA,56.4,-122.383,ardac,454.2,False
-BC172,Mahood Falls,,British Columbia,CA,51.8426,-120.639,ardac,292.2,False
-BC173,Powell River,,British Columbia,CA,49.872,-124.546,ardac,2.9,True
-BC174,Snuneymuxw,,British Columbia,CA,49.1499,-123.929,ardac,0.7,True
-BC175,Sewell Inlet,,British Columbia,CA,52.8749,-131.987,ardac,0.4,True
-BC176,Chasm,,British Columbia,CA,51.2167,-121.483,ardac,203.3,False
-BC177,Hagensborg,,British Columbia,CA,52.3864,-126.557,ardac,12.2,True
-BC178,Nooaitch,,British Columbia,CA,50.1545,-121.041,ardac,153.3,False
-BC179,North Saanich,,British Columbia,CA,48.6217,-123.421,ardac,2.2,True
-BC180,Rhone,,British Columbia,CA,49.219,-119.018,ardac,262.9,False
-BC181,Mayook,,British Columbia,CA,49.4869,-115.577,ardac,516.6,False
-BC182,Solsqua,,British Columbia,CA,50.8707,-118.94,ardac,323.0,False
-BC183,South Surrey,,British Columbia,CA,49.0543,-122.833,ardac,3.0,True
-BC184,Songhees,,British Columbia,CA,48.4461,-123.422,ardac,1.2,True
-BC185,Argenta,,British Columbia,CA,50.1667,-116.917,ardac,437.8,False
-BC186,Tatlayoko Lake,,British Columbia,CA,51.7167,-124.433,ardac,91.2,True
-BC187,Highlands,,British Columbia,CA,48.5144,-123.516,ardac,3.2,True
-BC188,Black Pines,,British Columbia,CA,50.9339,-120.258,ardac,248.8,False
-BC189,Summit Lake,,British Columbia,CA,54.25,-122.633,ardac,328.4,False
-BC190,Central Saanich,,British Columbia,CA,48.5669,-123.397,ardac,3.2,True
-BC191,Tipella,,British Columbia,CA,49.7446,-122.154,ardac,60.9,True
-BC192,Grasmere,,British Columbia,CA,49.1,-115.083,ardac,543.8,False
-BC193,Saturna,,British Columbia,CA,48.7945,-123.195,ardac,0.6,True
-BC194,Lister,,British Columbia,CA,49.0474,-116.463,ardac,442.6,False
-BC195,Kildala Arm,,British Columbia,CA,53.8333,-128.483,ardac,0.5,True
-BC196,Canim Lake,,British Columbia,CA,51.7726,-120.986,ardac,268.7,False
-BC197,Phillips Arm,,British Columbia,CA,50.5459,-125.356,ardac,0.3,True
-BC198,Saanich,,British Columbia,CA,48.4878,-123.388,ardac,4.4,True
-BC199,Bridge Lake,,British Columbia,CA,51.4786,-120.726,ardac,262.2,False
-BC200,Halalt,,British Columbia,CA,48.8769,-123.692,ardac,5.3,True
-BC201,Surge Narrows,,British Columbia,CA,50.2306,-125.109,ardac,2.0,True
-BC203,Toad River,,British Columbia,CA,58.85,-125.233,"ardac,ncr",432.1,False
-BC204,Punchaw,,British Columbia,CA,53.4306,-123.182,ardac,262.8,False
-BC205,Little Shuswap Lake,,British Columbia,CA,50.8758,-119.612,ardac,281.9,False
-BC206,Salmon Valley,,British Columbia,CA,54.0833,-122.7,ardac,316.4,False
-BC207,Read Island,,British Columbia,CA,50.1812,-125.086,ardac,2.0,True
-BC208,Loon Lake,,British Columbia,CA,51.0833,-121.3,ardac,202.7,False
-BC209,Myrtle Point,,British Columbia,CA,49.8012,-124.481,ardac,1.2,True
-BC210,Barlow Creek,,British Columbia,CA,53.023,-122.445,ardac,283.9,False
-BC211,Charlie Lake,,British Columbia,CA,56.2974,-120.985,ardac,538.1,False
-BC212,Reid Lake,,British Columbia,CA,53.9667,-123.1,ardac,287.2,False
-BC213,Silver Star,,British Columbia,CA,50.3572,-119.059,ardac,293.1,False
-BC214,Popkum,,British Columbia,CA,49.2002,-121.736,ardac,75.2,True
-BC215,Port Moody,,British Columbia,CA,49.2786,-122.868,ardac,4.6,True
-BC216,Mission,,British Columbia,CA,49.1376,-122.304,ardac,36.8,True
-BC217,Boothroyd,,British Columbia,CA,49.9638,-121.485,ardac,115.0,False
-BC218,Xaxli'p,,British Columbia,CA,50.7372,-121.862,ardac,147.7,False
-BC219,Tulsequah,,British Columbia,CA,58.6577,-133.544,"ardac,ncr",19.9,True
-BC220,Seabird Island,,British Columbia,CA,49.2542,-121.731,ardac,79.5,True
-BC221,Ootsa Lake,,British Columbia,CA,53.8068,-126.042,ardac,123.2,False
-BC222,East Sooke,,British Columbia,CA,48.3645,-123.686,ardac,3.2,True
-BC223,Saanichton,,British Columbia,CA,48.6,-123.417,ardac,3.0,True
-BC224,Yreka,,British Columbia,CA,50.4638,-127.558,ardac,0.4,True
-BC225,Roosville,,British Columbia,CA,49.0236,-115.047,ardac,545.1,False
-BC226,Pacheedaht,,British Columbia,CA,48.581,-124.405,ardac,1.8,True
-BC227,Mud River,,British Columbia,CA,53.7612,-123.012,ardac,284.0,False
-BC228,Big Lake Ranch,,British Columbia,CA,52.4049,-121.876,ardac,261.7,False
-BC229,Ruby Creek,,British Columbia,CA,49.3468,-121.597,ardac,92.9,True
-BC230,Cherry Point,,British Columbia,CA,48.7277,-123.584,ardac,2.2,True
-BC231,Neskonlith,,British Columbia,CA,50.7739,-119.716,ardac,269.7,False
-BC232,Kimsquit,,British Columbia,CA,52.8296,-126.964,ardac,0.4,True
-BC233,Whisky Creek,,British Columbia,CA,49.3082,-124.508,ardac,7.6,True
-BC234,Lindell Beach,,British Columbia,CA,49.0333,-122.017,ardac,47.6,True
-BC235,Nelway,,British Columbia,CA,49.0147,-117.273,ardac,383.4,False
-BC236,Tchesinkut Lake,,British Columbia,CA,54.0823,-125.738,ardac,159.8,False
-BC237,Surrey,,British Columbia,CA,49.1745,-122.828,ardac,10.5,True
-BC238,Nulki,,British Columbia,CA,53.9185,-124.197,ardac,221.0,False
-BC239,Brouse,,British Columbia,CA,50.2167,-117.75,ardac,380.4,False
-BC240,Monte Lake,,British Columbia,CA,50.5254,-119.832,ardac,249.1,False
-BC241,Miworth,,British Columbia,CA,53.9399,-122.949,ardac,295.1,False
-BC242,Hornby Island,,British Columbia,CA,49.5227,-124.642,ardac,0.7,True
-BC244,Powder King,,British Columbia,CA,55.3505,-122.615,ardac,399.6,False
-BC245,Clearwater,,British Columbia,CA,51.65,-120.033,ardac,309.8,False
-BC246,Bouchie Lake,,British Columbia,CA,53.0262,-122.597,ardac,278.3,False
-BC247,Cayoose Creek,,British Columbia,CA,50.6721,-121.932,ardac,139.0,False
-BC248,Marilla,,British Columbia,CA,53.7,-125.85,ardac,121.7,False
-BC249,Pinchi Lake,,British Columbia,CA,54.6272,-124.404,ardac,261.6,False
-BC250,Stewardson Inlet,,British Columbia,CA,49.4217,-126.316,ardac,4.0,True
-BC251,East Pine,,British Columbia,CA,55.7167,-121.217,ardac,493.5,False
-BC252,Sinkut River,,British Columbia,CA,53.9538,-123.857,ardac,242.2,False
-BC253,Woodcock,,British Columbia,CA,55.0667,-128.233,ardac,89.3,True
-BC254,Rose Prairie,,British Columbia,CA,56.5087,-120.783,ardac,553.4,False
-BC255,Qualicum Bay,,British Columbia,CA,49.4045,-124.633,ardac,0.8,True
-BC256,Notch Hill,,British Columbia,CA,50.8528,-119.435,ardac,291.3,False
-BC257,Chilliwack,,British Columbia,CA,49.175,-121.942,ardac,62.3,True
-BC258,Braeloch,,British Columbia,CA,49.7833,-119.517,ardac,246.5,False
-BC259,Prince George,,British Columbia,CA,53.9116,-122.776,ardac,304.4,False
-BC260,Ehatisaht,,British Columbia,CA,49.8833,-126.85,ardac,0.3,True
-BC261,Nukko Lake,,British Columbia,CA,54.0833,-122.983,ardac,299.7,False
-BC262,Premier Lake,,British Columbia,CA,49.9517,-115.659,ardac,519.4,False
-BC263,Westwold,,British Columbia,CA,50.4679,-119.747,ardac,251.7,False
-BC264,Brookswood,,British Columbia,CA,49.0718,-122.666,ardac,10.4,True
-BC265,Birken,,British Columbia,CA,50.4833,-122.617,ardac,92.0,True
-BC266,Silver Creek,,British Columbia,CA,50.5961,-119.365,ardac,282.5,False
-BC267,Sun Peaks,,British Columbia,CA,50.878,-119.908,ardac,264.6,False
-BC268,Ditidaht,,British Columbia,CA,48.8091,-124.67,ardac,20.9,True
-BC269,Smithers Landing,,British Columbia,CA,55.054,-126.526,ardac,176.0,False
-BC270,Rivers Inlet,,British Columbia,CA,51.6842,-127.259,ardac,0.2,True
-BC271,Grassy Plains,,British Columbia,CA,53.967,-125.888,ardac,143.6,False
-BC272,Englishman River South,,British Columbia,CA,49.2779,-124.275,ardac,5.9,True
-BC273,Yaku,,British Columbia,CA,54.1923,-133.003,ardac,0.3,True
-BC274,Tower Lake,,British Columbia,CA,56.0155,-120.561,ardac,546.3,False
-BC275,Albert Head,,British Columbia,CA,48.3911,-123.503,ardac,1.0,True
-BC276,Tlell,,British Columbia,CA,53.5667,-131.933,ardac,0.8,True
-BC277,North Delta,,British Columbia,CA,49.1547,-122.911,ardac,7.3,True
-BC278,Boat Basin,,British Columbia,CA,49.4792,-126.425,ardac,0.9,True
-BC279,Kluskus,,British Columbia,CA,53.0904,-124.493,ardac,168.8,False
-BC280,Richmond,,British Columbia,CA,49.1539,-123.158,ardac,3.2,True
-BC281,Tsawwassen,,British Columbia,CA,49.0357,-123.094,ardac,1.1,True
-BC282,Tahsis,,British Columbia,CA,49.9303,-126.655,ardac,3.6,True
-BC283,Sunset Prairie,,British Columbia,CA,55.8397,-120.764,ardac,524.3,False
-BC284,Vancouver,,British Columbia,CA,49.2448,-123.115,ardac,4.4,True
-BC285,Port Neville,,British Columbia,CA,50.4993,-126.081,ardac,0.6,True
-BC286,Penelakut,,British Columbia,CA,48.9749,-123.641,ardac,4.2,True
-BC287,Moberly Lake,,British Columbia,CA,55.8333,-121.758,ardac,475.8,False
-BC288,Holmwood,,British Columbia,CA,50.6189,-119.954,ardac,246.4,False
-BC289,Peachland,,British Columbia,CA,49.7786,-119.736,ardac,230.7,False
-BC291,Halfmoon Bay,,British Columbia,CA,49.5146,-123.909,ardac,1.1,True
-BC292,Garibaldi Highlands,,British Columbia,CA,49.7417,-123.135,ardac,4.8,True
-BC293,Williams Beach,,British Columbia,CA,49.834,-125.061,ardac,13.2,True
-BC294,Crowsnest,,British Columbia,CA,49.6368,-114.695,ardac,582.7,False
-BC295,Fosthall,,British Columbia,CA,50.3488,-117.935,ardac,370.4,False
-BC296,Nemaiah Valley,,British Columbia,CA,51.4776,-123.887,ardac,89.2,True
-BC297,Barrett Lake,,British Columbia,CA,54.45,-126.75,ardac,129.3,False
-BC298,Wistaria,,British Columbia,CA,53.8474,-126.28,ardac,119.2,False
-BC299,Blue River,,British Columbia,CA,52.1061,-119.306,ardac,381.1,False
-BC300,Aldergrove,,British Columbia,CA,49.0576,-122.471,ardac,21.9,True
-BC301,Penticton,,British Columbia,CA,49.4822,-119.585,ardac,230.0,False
-BC302,Upper Fraser,,British Columbia,CA,54.1082,-121.931,ardac,364.1,False
-BC303,Foreman,,British Columbia,CA,53.95,-122.683,ardac,311.7,False
-BC304,Kersley,,British Columbia,CA,52.8358,-122.418,ardac,268.5,False
-BC305,Upper Halfway,,British Columbia,CA,56.5176,-122.226,ardac,466.1,False
-BC306,Shackan,,British Columbia,CA,50.284,-121.178,ardac,152.8,False
-BC307,Health Bay,,British Columbia,CA,50.6939,-126.597,ardac,1.0,True
-BC308,Denman Island,,British Columbia,CA,49.5358,-124.813,ardac,1.0,True
-BC309,Port Coquitlam,,British Columbia,CA,49.2567,-122.762,ardac,12.7,True
-BC310,Elkford,,British Columbia,CA,50.0123,-114.93,ardac,572.4,False
-BC311,Valleyview,,British Columbia,CA,50.6738,-120.25,ardac,231.8,False
-BC312,McLure,,British Columbia,CA,51.0539,-120.225,ardac,258.2,False
-BC313,Riske Creek,,British Columbia,CA,51.9596,-122.518,ardac,197.0,False
-BC314,Cedar,,British Columbia,CA,49.1043,-123.854,ardac,2.7,True
-BC315,Rogers Pass,,British Columbia,CA,51.3009,-117.521,ardac,433.8,False
-BC316,Shawl Bay,,British Columbia,CA,50.8433,-126.56,ardac,0.3,True
-BC317,Cloverdale,,British Columbia,CA,49.1117,-122.725,ardac,11.1,True
-BC318,Dugan Lake,,British Columbia,CA,52.1667,-121.925,ardac,243.7,False
-BC319,Cobble Hill,,British Columbia,CA,48.6915,-123.585,ardac,2.9,True
-BC321,Saseenos,,British Columbia,CA,48.3908,-123.669,ardac,6.4,True
-BC322,Pritchard,,British Columbia,CA,50.6851,-119.812,ardac,258.8,False
-BC323,Oweekeno,,British Columbia,CA,51.6853,-127.207,ardac,3.6,True
-BC324,Old Fort,,British Columbia,CA,55.0376,-126.318,ardac,185.4,False
-BC325,Gang Ranch,,British Columbia,CA,51.5538,-122.351,ardac,182.8,False
-BC326,Williams Lake,,British Columbia,CA,52.1415,-122.143,ardac,229.7,False
-BC327,View Royal,,British Columbia,CA,48.4583,-123.45,ardac,1.8,True
-BC328,Hot Springs Cove,,British Columbia,CA,49.352,-126.26,ardac,1.8,True
-BC329,Shalalth,,British Columbia,CA,50.7294,-122.215,ardac,130.3,False
-BC330,Winfield,,British Columbia,CA,50.0333,-119.402,ardac,259.6,False
-BC331,Tatogga,,British Columbia,CA,57.7163,-129.987,"ardac,ncr",174.5,False
-BC332,Ucluelet,,British Columbia,CA,48.9399,-125.528,ardac,0.8,True
-BC333,Fanny Bay,,British Columbia,CA,49.4901,-124.813,ardac,1.2,True
-BC334,South Wellington,,British Columbia,CA,49.0941,-123.887,ardac,4.5,True
-BC335,Yahk,,British Columbia,CA,49.085,-116.082,ardac,471.0,False
-BC336,Musqueam,,British Columbia,CA,49.2298,-123.2,ardac,1.1,True
-BC337,Oona River,,British Columbia,CA,53.9469,-130.256,ardac,1.4,True
-BC338,Walnut Grove,,British Columbia,CA,49.1806,-122.648,ardac,19.6,True
-BC339,Okanagan Mission,,British Columbia,CA,49.8167,-119.483,ardac,249.5,False
-BC340,Bob Quinn Lake,,British Columbia,CA,56.9722,-130.247,ardac,106.7,False
-BC341,Fort Rupert,,British Columbia,CA,50.6889,-127.42,ardac,2.4,True
-BC342,Boswell,,British Columbia,CA,49.4503,-116.764,ardac,430.1,False
-BC343,Lakelse Lake,,British Columbia,CA,54.3804,-128.546,ardac,39.0,True
-BC344,Blowhole,,British Columbia,CA,49.8292,-126.676,ardac,0.5,True
-BC345,Burnaby,,British Columbia,CA,49.2521,-122.962,ardac,3.3,True
-BC346,Mackenzie,,British Columbia,CA,55.3353,-123.096,ardac,376.5,False
-BC347,Ogden,,British Columbia,CA,50.7819,-122.822,ardac,99.6,True
-BC348,Parksville,,British Columbia,CA,49.3227,-124.327,ardac,1.5,True
-BC349,Port Renfrew,,British Columbia,CA,48.5574,-124.405,ardac,0.6,True
-BC350,Chetwynd,,British Columbia,CA,55.6949,-121.619,ardac,472.3,False
-BC351,Wasa,,British Columbia,CA,49.7833,-115.733,ardac,510.6,False
-BC352,Alice Arm,,British Columbia,CA,55.4728,-129.478,ardac,0.5,True
-BC353,New Westminster,,British Columbia,CA,49.2167,-122.917,ardac,7.9,True
-BC354,Blaeberry,,British Columbia,CA,51.4333,-117.067,ardac,468.8,False
-BC355,Shutty Bench,,British Columbia,CA,49.9629,-116.907,ardac,431.9,False
-BC356,Pope Landing,,British Columbia,CA,49.6145,-124.048,ardac,1.0,True
-BC358,Fair Harbour,,British Columbia,CA,50.0565,-127.101,ardac,4.3,True
-BC359,Butedale,,British Columbia,CA,53.15,-128.7,ardac,2.3,True
-BC360,Lang Bay,,British Columbia,CA,49.7792,-124.346,ardac,0.8,True
-BC361,Yarksis,,British Columbia,CA,49.1654,-125.971,ardac,1.1,True
-BC362,Gray Creek,,British Columbia,CA,49.6333,-116.783,ardac,432.4,False
-BC363,Vedder Crossing,,British Columbia,CA,49.1062,-121.971,ardac,55.4,True
-BC364,Vidette,,British Columbia,CA,51.1667,-120.9,ardac,229.0,False
-BC365,Takysie Lake,,British Columbia,CA,53.8833,-125.867,ardac,136.8,False
-BC366,Kedleston,,British Columbia,CA,50.3167,-119.183,ardac,283.2,False
-BC367,Buckley Bay,,British Columbia,CA,49.5333,-124.857,ardac,2.2,True
-BC368,Isle Pierre,,British Columbia,CA,53.95,-123.25,ardac,277.5,False
-BC369,Seton Portage,,British Columbia,CA,50.7069,-122.289,ardac,124.5,False
-BC370,Aleza Lake,,British Columbia,CA,54.1143,-122.034,ardac,358.0,False
-BC371,Blind Bay,,British Columbia,CA,50.8833,-119.383,ardac,296.2,False
-BC372,Cherry Creek,,British Columbia,CA,49.2827,-124.787,ardac,4.3,True
-BC373,Pauquachin,,British Columbia,CA,48.6204,-123.453,ardac,1.6,True
-BC374,Donald Landing,,British Columbia,CA,54.4833,-125.65,ardac,195.9,False
-BC375,Headquarters,,British Columbia,CA,49.7646,-125.115,ardac,13.4,True
-BC376,Belcarra,,British Columbia,CA,49.3182,-122.928,ardac,1.1,True
-BC377,Ceepeecee,,British Columbia,CA,49.8732,-126.711,ardac,0.6,True
-BC378,Seymour Arm,,British Columbia,CA,51.2484,-118.94,ardac,344.1,False
-BC379,Cheam,,British Columbia,CA,49.1942,-121.776,ardac,72.6,True
-BC380,Sandspit,,British Columbia,CA,53.2479,-131.814,ardac,0.6,True
-BC381,Kelowna,,British Columbia,CA,49.8833,-119.483,ardac,250.6,False
-BC382,Valemount,,British Columbia,CA,52.8305,-119.265,ardac,434.5,False
-BC383,Secret Cove,,British Columbia,CA,49.5363,-123.952,ardac,1.8,True
-BC384,Winlaw,,British Columbia,CA,49.6144,-117.55,ardac,377.1,False
-BC385,Fort Ware,,British Columbia,CA,57.4252,-125.633,"ardac,ncr",313.2,False
-BC386,Dashwood,,British Columbia,CA,49.3621,-124.506,ardac,3.3,True
-BC387,Estevan Point,,British Columbia,CA,49.3782,-126.534,ardac,0.5,True
-BC388,Grand Forks,,British Columbia,CA,49.029,-118.453,ardac,300.2,False
-BC389,Williamsons Landing,,British Columbia,CA,49.4497,-123.469,ardac,1.4,True
-BC390,Cinnabar Valley,,British Columbia,CA,49.1033,-123.926,ardac,3.5,True
-BC391,Bull Harbour,,British Columbia,CA,50.9177,-127.931,ardac,1.0,True
-BC392,Naramata,,British Columbia,CA,49.5942,-119.587,ardac,234.2,False
-BC393,Brem River,,British Columbia,CA,50.4392,-124.671,ardac,0.9,True
-BC394,Granite Bay,,British Columbia,CA,50.2333,-125.3,ardac,3.7,True
-BC395,Princeton,,British Columbia,CA,49.4524,-120.514,ardac,166.0,False
-BC396,Yankee Flats,,British Columbia,CA,50.5164,-119.375,ardac,278.2,False
-BC397,Gravelle Ferry,,British Columbia,CA,52.85,-122.233,ardac,277.8,False
-BC398,Colwood,,British Columbia,CA,48.4321,-123.497,ardac,3.3,True
-BC399,Glenrosa,,British Columbia,CA,49.8472,-119.667,ardac,236.8,False
-BC400,Westside,,British Columbia,CA,49.8822,-119.535,ardac,246.9,False
-BC401,Alkali Lake,,British Columbia,CA,51.788,-122.227,ardac,204.7,False
-BC402,Mansons Landing,,British Columbia,CA,50.0581,-124.98,ardac,1.6,True
-BC403,Moha,,British Columbia,CA,50.8641,-122.17,ardac,141.2,False
-BC404,Owen Bay,,British Columbia,CA,50.3169,-125.214,ardac,0.2,True
-BC405,Springhouse,,British Columbia,CA,51.9667,-122.133,ardac,219.9,False
-BC406,McKearney Ranch,,British Columbia,CA,56.6333,-122.467,ardac,454.4,False
-BC407,Kanaka Bar,,British Columbia,CA,50.1127,-121.561,ardac,119.4,False
-BC408,Midway,,British Columbia,CA,49.0071,-118.773,ardac,276.4,False
-BC409,108 Mile Ranch,,British Columbia,CA,51.7281,-121.351,ardac,246.6,False
-BC410,Bloedel,,British Columbia,CA,50.1167,-125.383,ardac,2.5,True
-BC411,Round Lake,,British Columbia,CA,54.6648,-126.923,ardac,129.9,False
-BC412,Langford,,British Columbia,CA,48.4566,-123.497,ardac,4.1,True
-BC413,Beaverley,,British Columbia,CA,53.8172,-122.881,ardac,294.3,False
-BC414,Arras,,British Columbia,CA,55.7535,-120.526,ardac,530.8,False
-BC415,Sion,,British Columbia,CA,49.0207,-118.484,ardac,297.8,False
-BC416,Trail,,British Columbia,CA,49.1,-117.7,ardac,355.6,False
-BC417,Shuswap Falls,,British Columbia,CA,50.294,-118.805,ardac,308.5,False
-BC418,Cedarside,,British Columbia,CA,52.7823,-119.25,ardac,431.8,False
-BC419,Port Alberni,,British Columbia,CA,49.2417,-124.8,ardac,0.8,True
-BC420,Brew Bay,,British Columbia,CA,49.7758,-124.371,ardac,1.2,True
-BC421,Port Hardy,,British Columbia,CA,50.7189,-127.507,ardac,1.2,True
-BC422,Goose Bay,,British Columbia,CA,51.38,-127.657,ardac,2.1,True
-BC423,Mooyah Bay,,British Columbia,CA,49.6295,-126.458,ardac,0.8,True
-BC424,Iskut,,British Columbia,CA,57.8466,-129.983,"ardac,ncr",183.2,False
-BC425,Kootenay Bay,,British Columbia,CA,49.6849,-116.866,ardac,427.5,False
-BC426,Fireside,,British Columbia,CA,59.6705,-127.136,"ardac,ncr",399.8,False
-BC427,Christian Valley,,British Columbia,CA,49.5513,-118.802,ardac,286.9,False
-BC428,Vermilion Crossing,,British Columbia,CA,51.0333,-115.983,ardac,524.3,False
-BC429,Deer Park,,British Columbia,CA,49.4167,-118.05,ardac,336.9,False
-BC430,Chilanko Forks,,British Columbia,CA,52.1199,-124.061,ardac,142.0,False
-BC431,Heydon Bay,,British Columbia,CA,50.5781,-125.576,ardac,0.7,True
-BC432,North Vancouver,,British Columbia,CA,49.3142,-123.067,ardac,2.2,True
-BC433,Crescent Spur,,British Columbia,CA,53.5717,-120.695,ardac,406.9,False
-BC434,Minstrel Island,,British Columbia,CA,50.6154,-126.308,ardac,1.7,True
-BC435,Eddontenajon,,British Columbia,CA,57.8221,-129.958,"ardac,ncr",182.7,False
-BC436,Pinchi,,British Columbia,CA,54.5706,-124.493,ardac,253.1,False
-BC437,Attachie,,British Columbia,CA,56.2205,-121.423,ardac,510.2,False
-BC438,Black Point,,British Columbia,CA,49.774,-124.394,ardac,1.0,True
-BC439,Salmon Arm,,British Columbia,CA,50.7,-119.267,ardac,293.7,False
-BC440,Anglemont,,British Columbia,CA,50.9667,-119.167,ardac,314.0,False
-BC441,Decker Lake,,British Columbia,CA,54.3,-125.833,ardac,175.0,False
-BC442,New Aiyansh,,British Columbia,CA,55.2003,-129.072,ardac,38.9,True
-BC443,Atlin,,British Columbia,CA,59.5679,-133.697,"ardac,ncr",93.1,True
-BC444,Fort Fraser,,British Columbia,CA,54.06,-124.55,ardac,211.3,False
-BC445,Nak'azdli,,British Columbia,CA,54.4309,-124.248,ardac,253.2,False
-BC446,Balfour,,British Columbia,CA,49.6283,-116.972,ardac,418.7,False
-BC447,Kitseguecla,,British Columbia,CA,55.0857,-127.818,ardac,113.4,False
-BC448,Sandon,,British Columbia,CA,49.9833,-117.233,ardac,409.9,False
-BC449,Hope,,British Columbia,CA,49.3802,-121.43,ardac,104.7,False
-BC450,Ferguson,,British Columbia,CA,50.6833,-117.483,ardac,411.3,False
-BC451,Holberg,,British Columbia,CA,50.6623,-128.011,ardac,10.1,True
-BC452,Sechelt,,British Columbia,CA,49.4794,-123.762,ardac,2.1,True
-BC453,Skidegate,,British Columbia,CA,53.2715,-131.988,ardac,1.2,True
-BC454,Lake Errock,,British Columbia,CA,49.2291,-122.012,ardac,60.6,True
-BC455,Namgis,,British Columbia,CA,50.5919,-126.944,ardac,2.4,True
-BC456,Barriere,,British Columbia,CA,51.1819,-120.133,ardac,271.6,False
-BC457,Tumbler Ridge,,British Columbia,CA,55.1333,-121.0,ardac,468.1,False
-BC458,Cranbrook,,British Columbia,CA,49.5155,-115.759,ardac,503.9,False
-BC459,Hudson's Hope,,British Columbia,CA,56.0319,-121.907,ardac,478.4,False
-BC460,Horseshoe Bay,,British Columbia,CA,49.3674,-123.273,ardac,0.9,True
-BC461,Saltair,,British Columbia,CA,48.9571,-123.774,ardac,1.3,True
-BC462,Shulus,,British Columbia,CA,50.1373,-120.853,ardac,164.3,False
-BC463,Boring Ranch,,British Columbia,CA,56.95,-122.7,ardac,450.4,False
-BC464,Gillies Bay,,British Columbia,CA,49.6833,-124.483,ardac,1.2,True
-BC465,Renata,,British Columbia,CA,49.4268,-118.107,ardac,333.0,False
-BC466,Colleymount,,British Columbia,CA,54.0333,-126.15,ardac,141.1,False
-BC467,Dawsons Landing,,British Columbia,CA,51.5805,-127.586,ardac,0.5,True
-BC468,Hilliers,,British Columbia,CA,49.3068,-124.483,ardac,6.7,True
-BC469,Clairmont,,British Columbia,CA,56.2559,-120.9,ardac,542.8,False
-BC470,Summerland,,British Columbia,CA,49.6054,-119.673,ardac,228.9,False
-BC471,Tintagel,,British Columbia,CA,54.2029,-125.593,ardac,176.2,False
-BC472,Heriot Bay,,British Columbia,CA,50.1002,-125.213,ardac,0.3,True
-BC473,Mitchell Bay,,British Columbia,CA,50.6333,-126.85,ardac,0.6,True
-BC474,Smithers,,British Columbia,CA,54.7825,-127.166,ardac,125.2,False
-BC475,Genelle,,British Columbia,CA,49.2139,-117.691,ardac,358.7,False
-BC476,Twidwell Bend,,British Columbia,CA,55.6155,-121.571,ardac,469.0,False
-BC477,Oak Bay,,British Columbia,CA,48.4301,-123.309,ardac,1.8,True
-BC478,Middle River,,British Columbia,CA,54.8761,-125.13,ardac,244.0,False
-BC479,Lone Butte,,British Columbia,CA,51.5579,-121.216,ardac,241.2,False
-BC480,Yekooche,,British Columbia,CA,54.5992,-125.072,ardac,231.7,False
-BC481,Prince Rupert,,British Columbia,CA,54.315,-130.315,ardac,1.4,True
-BC482,Baldy Hughes,,British Columbia,CA,53.6246,-122.933,ardac,284.3,False
-BC483,Nanoose Bay,,British Columbia,CA,49.2667,-124.2,ardac,1.7,True
-BC484,Quathiaski Cove,,British Columbia,CA,50.0454,-125.21,ardac,0.9,True
-BC485,Whistler,,British Columbia,CA,50.1215,-122.962,ardac,48.3,True
-BC486,Bulkley House,,British Columbia,CA,55.703,-126.228,ardac,206.1,False
-BC487,Madeira Park,,British Columbia,CA,49.6157,-124.02,ardac,1.2,True
-BC488,Campbell River,,British Columbia,CA,50.0167,-125.242,ardac,1.4,True
-BC489,Woss,,British Columbia,CA,50.2167,-126.6,ardac,29.1,True
-BC490,Invermere,,British Columbia,CA,50.5007,-116.038,ardac,506.9,False
-BC491,Darfield,,British Columbia,CA,51.3,-120.183,ardac,276.7,False
-BC492,Deroche,,British Columbia,CA,49.1914,-122.081,ardac,54.2,True
-BC493,Fort St. John,,British Columbia,CA,56.2461,-120.845,ardac,546.1,False
-BC494,Cecil Lake,,British Columbia,CA,56.306,-120.577,ardac,563.3,False
-BC495,Quesnel,,British Columbia,CA,52.9806,-122.504,ardac,277.7,False
-BC496,Osland,,British Columbia,CA,54.1333,-130.167,ardac,1.2,True
-BC497,Manson Creek,,British Columbia,CA,55.6667,-124.483,ardac,315.3,False
-BC498,Pemberton,,British Columbia,CA,50.3167,-122.8,ardac,72.6,True
-BC499,Penny,,British Columbia,CA,53.8474,-121.284,ardac,396.0,False
-BC500,Canal Flats,,British Columbia,CA,50.1576,-115.817,ardac,513.5,False
-BC501,Carmi,,British Columbia,CA,49.5009,-119.122,ardac,262.9,False
-BC502,Kemano,,British Columbia,CA,53.5573,-127.933,ardac,14.1,True
-BC503,Erie,,British Columbia,CA,49.1912,-117.337,ardac,384.1,False
-BC504,Cowichan Bay,,British Columbia,CA,48.7371,-123.62,ardac,1.0,True
-BC505,Broman Lake,,British Columbia,CA,54.4203,-126.135,ardac,166.0,False
-BC506,Murrayville,,British Columbia,CA,49.0904,-122.616,ardac,14.5,True
-BC507,Coldwater,,British Columbia,CA,50.0358,-120.859,ardac,159.3,False
-BC508,Terrace,,British Columbia,CA,54.5234,-128.598,ardac,54.7,True
-BC509,Mill Bay,,British Columbia,CA,48.6449,-123.556,ardac,1.2,True
-BC510,Whaletown,,British Columbia,CA,50.1012,-125.047,ardac,0.6,True
-BC511,Taylor,,British Columbia,CA,56.1544,-120.68,ardac,550.1,False
-BC512,Weewanie,,British Columbia,CA,53.6917,-128.79,ardac,1.8,True
-BC513,Castlegar,,British Columbia,CA,49.3218,-117.66,ardac,362.9,False
-BC514,Kleena Kleene,,British Columbia,CA,51.9504,-124.847,ardac,108.7,False
-BC515,Woodsdale,,British Columbia,CA,50.0495,-119.39,ardac,260.9,False
-BC516,Manning Park,,British Columbia,CA,49.0668,-120.782,ardac,132.3,False
-BC517,Fern Ridge,,British Columbia,CA,49.0483,-122.656,ardac,9.2,True
-BC518,Kamloops,,British Columbia,CA,50.6783,-120.348,ardac,226.4,False
-BC519,Wilson Landing,,British Columbia,CA,49.9821,-119.497,ardac,251.7,False
-BC520,Caycuse,,British Columbia,CA,48.8943,-124.366,ardac,36.1,True
-BC521,McLeese Lake,,British Columbia,CA,52.4137,-122.296,ardac,240.2,False
-BC522,Grantham,,British Columbia,CA,49.7628,-125.021,ardac,9.3,True
-BC523,Beatton Ranch,,British Columbia,CA,56.7333,-122.583,ardac,450.3,False
-BC524,Fauquier,,British Columbia,CA,49.8667,-118.067,ardac,348.4,False
-BC525,Oyster River,,British Columbia,CA,49.8738,-125.129,ardac,6.7,True
-BC526,Kuskonook,,British Columbia,CA,49.3,-116.65,ardac,435.9,False
-BC527,Nicholson,,British Columbia,CA,51.2481,-116.901,ardac,471.2,False
-BC528,Sunningdale,,British Columbia,CA,49.1167,-117.717,ardac,354.9,False
-BC529,Nelson,,British Columbia,CA,49.4975,-117.282,ardac,393.8,False
-BC530,Chamiss Bay,,British Columbia,CA,50.0694,-127.287,ardac,0.8,True
-BC531,Ladner,,British Columbia,CA,49.0917,-123.078,ardac,1.5,True
-BC532,Tseshaht,,British Columbia,CA,49.268,-124.858,ardac,4.2,True
-BC533,Metchosin,,British Columbia,CA,48.3756,-123.529,ardac,1.1,True
-BC534,Saratoga Beach,,British Columbia,CA,49.8595,-125.116,ardac,8.5,True
-BC535,Boston Bar,,British Columbia,CA,49.8624,-121.443,ardac,112.9,False
-BC536,Skuppah,,British Columbia,CA,50.1885,-121.578,ardac,123.7,False
-BC537,Bamfield,,British Columbia,CA,48.8312,-125.133,ardac,2.1,True
-BC538,Anmore,,British Columbia,CA,49.3115,-122.849,ardac,4.0,True
-BC539,Snug Cove,,British Columbia,CA,49.3829,-123.336,ardac,0.5,True
-BC540,Wadhams,,British Columbia,CA,51.5171,-127.519,ardac,0.2,True
-BC541,Brisco,,British Columbia,CA,50.8333,-116.267,ardac,499.0,False
-BC542,Buick,,British Columbia,CA,56.7625,-121.27,ardac,529.0,False
-BC543,Hartley Bay,,British Columbia,CA,53.4203,-129.256,ardac,1.2,True
-BC544,Ranchero,,British Columbia,CA,50.657,-119.198,ardac,296.1,False
-BC545,Coldstream,,British Columbia,CA,50.2292,-119.227,ardac,277.3,False
-BC546,Clo-oose,,British Columbia,CA,48.6629,-124.822,ardac,1.8,True
-BC547,Loos,,British Columbia,CA,53.6021,-120.719,ardac,408.1,False
-BC548,Swartz Bay,,British Columbia,CA,48.6827,-123.413,ardac,0.7,True
-BC549,Cedarvale,,British Columbia,CA,55.0194,-128.329,ardac,82.9,True
-BC550,Homalco,,British Columbia,CA,49.9526,-125.243,ardac,3.3,True
-BC551,Brentwood Bay,,British Columbia,CA,48.5683,-123.456,ardac,1.4,True
-BC552,Tzeachten,,British Columbia,CA,49.115,-121.939,ardac,57.8,True
-BC553,Victoria,,British Columbia,CA,48.4334,-123.362,ardac,3.6,True
-BC554,Moresby Camp,,British Columbia,CA,53.0475,-132.029,ardac,2.5,True
-BC555,Roberts Creek,,British Columbia,CA,49.426,-123.646,ardac,7.8,True
-BC556,Lantzville,,British Columbia,CA,49.2532,-124.082,ardac,0.5,True
-BC557,Greenwood,,British Columbia,CA,49.0949,-118.676,ardac,284.9,False
-BC558,Stewart,,British Columbia,CA,55.9418,-129.984,"ardac,ncr",0.8,True
-BC559,Takla Landing,,British Columbia,CA,55.483,-125.974,ardac,221.2,False
-BC560,70 Mile House,,British Columbia,CA,51.3084,-121.396,ardac,214.3,False
-BC561,Windermere,,British Columbia,CA,50.4667,-115.983,ardac,510.1,False
-BC562,Perow,,British Columbia,CA,54.5202,-126.44,ardac,150.9,False
-BC563,Yuquot,,British Columbia,CA,49.5957,-126.624,ardac,1.1,True
-BC564,Sinclair Mills,,British Columbia,CA,54.0167,-121.683,ardac,376.0,False
-BC565,Retallack,,British Columbia,CA,50.0414,-117.14,ardac,418.2,False
-BC566,Cumberland,,British Columbia,CA,49.622,-125.026,ardac,6.2,True
-BC567,Dolphin Beach,,British Columbia,CA,49.2884,-124.147,ardac,2.1,True
-BC568,Creston,,British Columbia,CA,49.1006,-116.507,ardac,440.7,False
-BC569,Baynes Lake,,British Columbia,CA,49.2333,-115.217,ardac,536.7,False
-BC570,Lower Post,,British Columbia,CA,59.9249,-128.486,"ardac,ncr",338.9,False
-BC571,Skookumchuck,,British Columbia,CA,49.943,-122.408,ardac,60.8,True
-BC572,Harrison Mills,,British Columbia,CA,49.2559,-121.949,ardac,66.0,True
-BC573,Langley,,British Columbia,CA,49.1038,-122.659,ardac,13.1,True
-BC574,Gold Bridge,,British Columbia,CA,50.85,-122.833,ardac,104.4,False
-BC575,Monte Creek,,British Columbia,CA,50.6487,-119.958,ardac,247.8,False
-BC576,Marktosis,,British Columbia,CA,49.2786,-126.058,ardac,0.4,True
-BC577,Masset,,British Columbia,CA,54.0174,-132.147,ardac,0.2,True
-BC578,Sturdies Bay,,British Columbia,CA,48.8792,-123.319,ardac,0.5,True
-BC579,Telegraph Creek,,British Columbia,CA,57.9018,-131.166,"ardac,ncr",115.9,False
-BC580,Shelter Point,,British Columbia,CA,49.9403,-125.191,ardac,0.4,True
-BC581,Westmount,,British Columbia,CA,49.3439,-123.209,ardac,0.3,True
-BC582,McLeod Lake,,British Columbia,CA,54.985,-123.047,ardac,352.1,False
-BC583,Nass Camp,,British Columbia,CA,55.2884,-129.006,ardac,35.6,True
-BC584,Alert Bay,,British Columbia,CA,50.5789,-126.92,ardac,3.8,True
-BC585,Ganges,,British Columbia,CA,48.8599,-123.507,ardac,0.7,True
-BC586,Hullcar,,British Columbia,CA,50.503,-119.27,ardac,284.5,False
-BC587,Van Anda,,British Columbia,CA,49.7583,-124.55,ardac,1.0,True
-BC588,Sumas,,British Columbia,CA,49.0531,-122.193,ardac,40.0,True
-BC589,McDame,,British Columbia,CA,59.1856,-129.225,"ardac,ncr",270.6,False
-BC590,West Popkum,,British Columbia,CA,49.1822,-121.773,ardac,71.9,True
-BC591,Simpson Ranch,,British Columbia,CA,56.6,-122.433,ardac,455.6,False
-BC592,Shelley,,British Columbia,CA,54.0,-122.617,ardac,317.8,False
-BC593,River Jordan,,British Columbia,CA,48.4221,-124.05,ardac,6.2,True
-BC594,D'Arcy,,British Columbia,CA,50.55,-122.483,ardac,103.9,False
-BC595,Lax Kw'alaams,,British Columbia,CA,54.55,-130.433,ardac,0.5,True
-BC596,Fernie,,British Columbia,CA,49.5068,-115.069,ardac,553.8,False
-BC597,Sayward,,British Columbia,CA,50.377,-125.952,ardac,1.9,True
-BC598,Harrop,,British Columbia,CA,49.6016,-117.053,ardac,412.4,False
-BC599,Field,,British Columbia,CA,51.3945,-116.482,ardac,504.5,False
-BC600,Tuwanek,,British Columbia,CA,49.5442,-123.757,ardac,0.5,True
-BC601,Blackwater,,British Columbia,CA,53.2875,-123.151,ardac,261.3,False
-BC602,Lower Nicola,,British Columbia,CA,50.1597,-120.878,ardac,163.9,False
-BC603,Big Bay,,British Columbia,CA,50.3972,-125.135,ardac,2.7,True
-BC604,Elk Bay,,British Columbia,CA,50.2856,-125.436,ardac,0.3,True
-BC605,Lac Le Jeune,,British Columbia,CA,50.4817,-120.493,ardac,205.6,False
-BC606,Fairmont Hot Springs,,British Columbia,CA,50.3349,-115.856,ardac,516.1,False
-BC607,Douglas,,British Columbia,CA,49.0028,-122.736,ardac,1.7,True
-BC608,Zeballos,,British Columbia,CA,49.987,-126.847,ardac,1.5,True
-BC609,Juskatla,,British Columbia,CA,53.6102,-132.311,ardac,1.0,True
-BC610,Little River,,British Columbia,CA,49.7377,-124.914,ardac,2.7,True
-BC611,Port McNeill,,British Columbia,CA,50.586,-127.079,ardac,1.0,True
-BC612,Fort St. James,,British Columbia,CA,54.4487,-124.256,ardac,254.2,False
-BC613,McBride,,British Columbia,CA,53.3,-120.167,ardac,413.8,False
-BC614,Bennett,,British Columbia,CA,59.8451,-134.987,"ardac,ncr",46.5,True
-BC615,Mirror Lake,,British Columbia,CA,49.8829,-116.902,ardac,429.9,False
-BC616,Enderby,,British Columbia,CA,50.5549,-119.141,ardac,295.2,False
-BC617,Pitt Meadows,,British Columbia,CA,49.2172,-122.686,ardac,19.6,True
-BC618,Farmington,,British Columbia,CA,55.9,-120.5,ardac,541.6,False
-BC619,Sliammon,,British Columbia,CA,49.8962,-124.601,ardac,0.5,True
-BC620,Klemtu,,British Columbia,CA,52.5904,-128.527,ardac,0.8,True
-BC621,Chemainus,,British Columbia,CA,48.9266,-123.721,ardac,0.6,True
-BC622,Earls Cove,,British Columbia,CA,49.75,-124.0,ardac,0.9,True
-BC623,Granisle,,British Columbia,CA,54.8844,-126.213,ardac,181.6,False
-BC624,Delkatla,,British Columbia,CA,54.0086,-132.129,ardac,0.3,True
-BC625,Edgewood,,British Columbia,CA,49.7833,-118.15,ardac,339.8,False
-BC626,Kaslo,,British Columbia,CA,49.9086,-116.911,ardac,430.0,False
-BC627,Metlakatla,,British Columbia,CA,54.3375,-130.443,ardac,0.7,True
-BC628,Allison Lake,,British Columbia,CA,49.6889,-120.601,ardac,167.0,False
-BC629,Port Washington,,British Columbia,CA,48.8166,-123.321,ardac,0.4,True
-BC630,Black Creek,,British Columbia,CA,49.8369,-125.132,ardac,10.3,True
-BC631,Usk,,British Columbia,CA,54.6333,-128.417,ardac,68.1,True
-BC632,Duck Range,,British Columbia,CA,50.6192,-119.83,ardac,254.1,False
-BC633,Namu,,British Columbia,CA,51.8613,-127.86,ardac,1.3,True
-BC634,Hasler Flat,,British Columbia,CA,55.6111,-121.967,ardac,449.5,False
-BC635,Cranberry,,British Columbia,CA,49.8702,-124.523,ardac,2.9,True
-BC636,Snake River,,British Columbia,CA,59.0364,-122.439,ardac,567.9,False
-BC637,Cherryville,,British Columbia,CA,50.2407,-118.621,ardac,319.7,False
-BC638,Remo,,British Columbia,CA,54.5007,-128.719,ardac,52.5,True
-BC639,Kingcome,,British Columbia,CA,50.9742,-126.175,ardac,2.3,True
-BC640,Giscome,,British Columbia,CA,54.0667,-122.367,ardac,335.8,False
-BC641,Two Mile,,British Columbia,CA,55.2687,-127.627,ardac,119.2,False
-BC642,Hunts Inlet,,British Columbia,CA,54.0668,-130.443,ardac,1.1,True
-BC643,Robson,,British Columbia,CA,49.3375,-117.691,ardac,361.0,False
-BC644,Willow River,,British Columbia,CA,54.0787,-122.474,ardac,329.8,False
-BC645,Blind Channel,,British Columbia,CA,50.4167,-125.5,ardac,0.4,True
-BC646,Sparwood,,British Columbia,CA,49.7326,-114.892,ardac,570.1,False
-BC647,Toosey,,British Columbia,CA,51.9323,-122.506,ardac,196.0,False
-BC648,Paterson,,British Columbia,CA,49.0067,-117.831,ardac,343.4,False
-BC649,Duncan,,British Columbia,CA,48.7789,-123.702,ardac,4.3,True
-BC650,Hixon,,British Columbia,CA,53.4204,-122.586,ardac,301.2,False
-BC651,Wardner,,British Columbia,CA,49.417,-115.429,ardac,525.9,False
-BC652,Pinantan Lake,,British Columbia,CA,50.7264,-120.036,ardac,247.7,False
-BC653,Garden Bay,,British Columbia,CA,49.6366,-124.034,ardac,2.1,True
-BC654,Musgrave Landing,,British Columbia,CA,48.7511,-123.546,ardac,0.6,True
-BC655,Rumble Beach,,British Columbia,CA,50.4265,-127.482,ardac,1.0,True
-BC656,Elko,,British Columbia,CA,49.3012,-115.111,ardac,545.8,False
-BC657,Canyon Hot Springs,,British Columbia,CA,51.1369,-117.852,ardac,405.0,False
-BC658,Deep Cove,,British Columbia,CA,49.3232,-122.948,ardac,0.8,True
-BC659,North Bend,,British Columbia,CA,49.8833,-121.45,ardac,113.3,False
-BC660,Armstrong,,British Columbia,CA,50.4461,-119.199,ardac,286.9,False
-BC661,Esquimalt,,British Columbia,CA,48.4289,-123.408,ardac,2.8,True
-BC662,Endako,,British Columbia,CA,54.0875,-125.017,ardac,190.6,False
-BC663,Radium Hot Springs,,British Columbia,CA,50.623,-116.08,ardac,506.5,False
-BC664,100 Mile House,,British Columbia,CA,51.6391,-121.294,ardac,242.8,False
-BC665,Mapes,,British Columbia,CA,53.8833,-123.867,ardac,237.8,False
-BC666,Pleasantside,,British Columbia,CA,49.2934,-122.847,ardac,5.6,True
-BC667,Procter,,British Columbia,CA,49.6156,-116.956,ardac,419.6,False
-BC668,Seaford,,British Columbia,CA,50.0833,-124.9,ardac,0.5,True
-BC669,Malakwa,,British Columbia,CA,50.94,-118.789,ardac,336.0,False
-BC670,Alexis Creek,,British Columbia,CA,52.0833,-123.283,ardac,166.7,False
-BC671,Canyon,,British Columbia,CA,49.0813,-116.443,ardac,444.8,False
-BC672,Fort Steele,,British Columbia,CA,49.6169,-115.626,ardac,515.2,False
-BC673,Gwa'Sala- Nakwaxda'xw,,British Columbia,CA,50.7333,-127.5,ardac,0.5,True
-BC674,Saltery Bay,,British Columbia,CA,49.7833,-124.183,ardac,0.9,True
-BC675,Dunster,,British Columbia,CA,53.127,-119.839,ardac,420.6,False
-BC676,Bridesville,,British Columbia,CA,49.0358,-119.142,ardac,249.9,False
-BC677,40 Mile Flats,,British Columbia,CA,57.9363,-130.05,"ardac,ncr",181.6,False
-BC678,Hedley,,British Columbia,CA,49.3604,-120.072,ardac,191.9,False
-BC679,Ootischenia,,British Columbia,CA,49.2833,-117.633,ardac,364.1,False
-BC680,Hagwilget,,British Columbia,CA,55.2546,-127.596,ardac,121.4,False
-BC681,Gibsons,,British Columbia,CA,49.4018,-123.514,ardac,1.1,True
-BC682,Welcome Beach,,British Columbia,CA,49.48,-123.894,ardac,0.7,True
-BC683,Soowahlie,,British Columbia,CA,49.0814,-121.963,ardac,54.0,True
-BC684,Vavenby,,British Columbia,CA,51.5858,-119.726,ardac,321.4,False
-BC685,Bold Point,,British Columbia,CA,50.1732,-125.156,ardac,1.3,True
-BC686,Likely,,British Columbia,CA,52.6187,-121.565,ardac,293.0,False
-BC687,Dundarave,,British Columbia,CA,49.338,-123.181,ardac,2.3,True
-BC688,Kitkatla,,British Columbia,CA,53.7922,-130.433,ardac,1.2,True
-BC689,South Hazelton,,British Columbia,CA,55.2375,-127.659,ardac,117.9,False
-BC690,Fort Langley,,British Columbia,CA,49.1667,-122.583,ardac,22.0,True
-BC691,Dry Gulch,,British Columbia,CA,50.5842,-116.041,ardac,508.4,False
-BC692,Departure Bay,,British Columbia,CA,49.2054,-123.975,ardac,0.8,True
-BC693,Lillooet,,British Columbia,CA,50.6941,-121.939,ardac,140.6,False
-BC694,Mesachie Lake,,British Columbia,CA,48.8124,-124.125,ardac,29.8,True
-BC695,Jaffray,,British Columbia,CA,49.3744,-115.3,ardac,534.0,False
-BC696,Kitsault,,British Columbia,CA,55.4558,-129.471,ardac,0.9,True
-BC697,Golden,,British Columbia,CA,51.2949,-116.964,ardac,469.1,False
-BC698,Vanderhoof,,British Columbia,CA,54.0175,-124.002,ardac,237.7,False
-BC699,Red Bluff,,British Columbia,CA,52.9654,-122.461,ardac,278.1,False
-BC700,Port Edward,,British Columbia,CA,54.2224,-130.288,ardac,1.0,True
-BC701,Ocean Falls,,British Columbia,CA,52.3472,-127.689,ardac,2.1,True
-BC702,Promontory,,British Columbia,CA,49.1006,-121.937,ardac,56.9,True
-BC703,Yarrow,,British Columbia,CA,49.0833,-122.05,ardac,49.5,True
-BC704,Sardis,,British Columbia,CA,49.1367,-121.959,ardac,58.4,True
-BC705,Lardeau,,British Columbia,CA,50.143,-116.956,ardac,434.3,False
-BC706,Vernon,,British Columbia,CA,50.2642,-119.269,ardac,275.6,False
-BC707,Campbell Creek,,British Columbia,CA,50.654,-120.085,ardac,240.4,False
-BC708,Beaton,,British Columbia,CA,50.7333,-117.733,ardac,396.1,False
-BC709,Logan Lake,,British Columbia,CA,50.4913,-120.813,ardac,187.4,False
-BC710,Okanagan Falls,,British Columbia,CA,49.3428,-119.571,ardac,226.4,False
-BC711,Moricetown,,British Columbia,CA,55.0183,-127.331,ardac,137.2,False
-BC712,Revelstoke,,British Columbia,CA,51.0012,-118.196,ardac,376.6,False
-BC713,Siska,,British Columbia,CA,50.1386,-121.571,ardac,120.6,False
-BC714,Kitimat,,British Columbia,CA,54.051,-128.651,ardac,2.8,True
-BC715,Haig,,British Columbia,CA,49.3967,-121.453,ardac,102.9,False
-BC716,Whistler Creek,,British Columbia,CA,50.0935,-122.993,ardac,44.7,True
-BC717,Pavilion,,British Columbia,CA,50.8833,-121.833,ardac,161.6,False
-BC718,Warfield,,British Columbia,CA,49.0945,-117.749,ardac,352.0,False
-BC719,Fruitvale,,British Columbia,CA,49.1139,-117.548,ardac,366.8,False
-BC720,Mara,,British Columbia,CA,50.6853,-119.067,ardac,305.9,False
-BC721,Taghum,,British Columbia,CA,49.4934,-117.399,ardac,385.3,False
-BC722,Lawnhill,,British Columbia,CA,53.4036,-131.922,ardac,1.6,True
-BC723,Gold River,,British Columbia,CA,49.7807,-126.052,ardac,11.5,True
-BC724,Lax̱g̱altsʼap,,British Columbia,CA,55.0306,-129.575,ardac,4.0,True
-BC725,Ardmore,,British Columbia,CA,48.6389,-123.467,ardac,0.9,True
-BC726,Kakawis,,British Columbia,CA,49.189,-125.911,ardac,1.3,True
-BC727,Hazelton,,British Columbia,CA,55.2546,-127.676,ardac,116.4,False
-BC728,Cawston,,British Columbia,CA,49.1802,-119.764,ardac,208.2,False
-BC729,Chase,,British Columbia,CA,50.8221,-119.688,ardac,274.2,False
-BC730,Bear Flat,,British Columbia,CA,56.274,-121.231,ardac,522.7,False
-BC731,Echo Bay,,British Columbia,CA,50.7485,-126.494,ardac,1.4,True
-BC732,Ladysmith,,British Columbia,CA,48.9926,-123.82,ardac,1.4,True
-BC733,Kitsumkalum,,British Columbia,CA,54.5245,-128.672,ardac,54.8,True
-BC734,Kitchener,,British Columbia,CA,49.1567,-116.339,ardac,454.1,False
-BC735,Parson,,British Columbia,CA,51.0708,-116.632,ardac,482.0,False
-BC736,Sunshine Valley,,British Columbia,CA,49.2727,-121.239,ardac,109.8,False
-BC737,Skidegate Landing,,British Columbia,CA,53.2472,-132.008,ardac,0.7,True
-BC738,Southbank,,British Columbia,CA,54.0212,-125.771,ardac,152.9,False
-BC739,Burns Lake,,British Columbia,CA,54.2314,-125.76,ardac,173.0,False
-BC740,Dunsmuir,,British Columbia,CA,49.3881,-124.609,ardac,1.0,True
-BC741,Delbrook,,British Columbia,CA,49.343,-123.085,ardac,5.3,True
-BC742,Dallas,,British Columbia,CA,50.6667,-120.167,ardac,236.3,False
-BC743,Lake Cowichan,,British Columbia,CA,48.8261,-124.052,ardac,24.9,True
-BC744,Houston,,British Columbia,CA,54.397,-126.652,ardac,133.5,False
-BC745,Savona,,British Columbia,CA,50.7511,-120.841,ardac,203.3,False
-BC746,Bella Coola,,British Columbia,CA,52.3706,-126.752,ardac,1.2,True
-BC747,Bowser,,British Columbia,CA,49.4387,-124.685,ardac,1.3,True
-BC748,Kispiox,,British Columbia,CA,55.3503,-127.691,ardac,113.7,False
-BC749,Esperanza,,British Columbia,CA,49.8713,-126.738,ardac,1.5,True
-BC750,Shady Valley,,British Columbia,CA,53.9793,-122.727,ardac,310.2,False
-BC751,Blackpool,,British Columbia,CA,51.5969,-120.12,ardac,301.4,False
-BC752,Westbank,,British Columbia,CA,49.8286,-119.631,ardac,239.0,False
-BC753,Wilmer,,British Columbia,CA,50.5426,-116.063,ardac,506.0,False
-BC754,Laidlaw,,British Columbia,CA,49.3223,-121.618,ardac,90.7,True
-BC755,Tseycum,,British Columbia,CA,48.6645,-123.448,ardac,1.0,True
-BC756,Youbou,,British Columbia,CA,48.8726,-124.199,ardac,30.4,True
-BC757,Pendleton Bay,,British Columbia,CA,54.5167,-125.717,ardac,194.3,False
-BC758,Ashton Creek,,British Columbia,CA,50.556,-119.013,ardac,303.7,False
-BC759,Fraser Lake,,British Columbia,CA,54.0583,-124.847,ardac,196.4,False
-BC760,Danskin,,British Columbia,CA,53.9889,-125.792,ardac,149.2,False
-BC761,Willow Valley,,British Columbia,CA,55.8563,-120.872,ardac,520.1,False
-BC762,Meadow Creek,,British Columbia,CA,50.2392,-116.973,ardac,435.9,False
-BC763,Seymour Heights,,British Columbia,CA,49.3192,-123.002,ardac,1.9,True
-BC764,Sikanni Chief,,British Columbia,CA,57.2346,-122.695,ardac,461.6,False
-BC765,Caesars,,British Columbia,CA,50.0667,-119.5,ardac,253.6,False
-BC766,Crofton,,British Columbia,CA,48.8632,-123.643,ardac,4.7,True
-BC767,Good Hope Lake,,British Columbia,CA,59.2936,-129.289,"ardac,ncr",271.3,False
-BC768,Whyac,,British Columbia,CA,48.6691,-124.846,ardac,3.3,True
-BC769,Refuge Cove,,British Columbia,CA,50.1238,-124.836,ardac,0.5,True
-BC770,Marysville,,British Columbia,CA,49.6373,-115.956,ardac,491.9,False
-BC771,Tofino,,British Columbia,CA,49.1505,-125.906,ardac,2.0,True
-BC772,Maple Ridge,,British Columbia,CA,49.2174,-122.598,ardac,25.0,True
-BC773,Traders Cove,,British Columbia,CA,49.9361,-119.504,ardac,250.2,False
-BC774,Tsay Keh Dene,,British Columbia,CA,56.8918,-124.963,"ardac,ncr",320.9,False
-BC775,Clinton,,British Columbia,CA,51.0942,-121.587,ardac,189.5,False
-BC776,Port Clements,,British Columbia,CA,53.6852,-132.179,ardac,0.8,True
-BC777,Osoyoos,,British Columbia,CA,49.0311,-119.465,ardac,226.3,False
-BC778,Bliss Landing,,British Columbia,CA,50.0366,-124.816,ardac,0.6,True
-BC779,Kyuquot,,British Columbia,CA,50.0281,-127.377,ardac,0.9,True
-BC780,Beaverdell,,British Columbia,CA,49.4368,-119.089,ardac,263.2,False
-BC781,New Denver,,British Columbia,CA,49.9917,-117.374,ardac,400.4,False
-BC782,150 Mile House,,British Columbia,CA,52.1147,-121.935,ardac,240.1,False
-BC783,Sicamous,,British Columbia,CA,50.835,-118.98,ardac,318.7,False
-BC784,Telegraph Cove,,British Columbia,CA,50.5457,-126.828,ardac,0.3,True
-BC785,Towdystan,,British Columbia,CA,52.2634,-125.087,ardac,111.6,False
-BC786,Cinema,,British Columbia,CA,53.2333,-122.45,ardac,302.8,False
-BC787,Nakusp,,British Columbia,CA,50.2418,-117.799,ardac,377.5,False
-BC788,Kingcome Inlet,,British Columbia,CA,50.95,-126.2,ardac,0.6,True
-BC789,Sooke,,British Columbia,CA,48.3823,-123.728,ardac,3.5,True
-BC790,Courtenay,,British Columbia,CA,49.6889,-124.999,ardac,1.6,True
-BC791,Boston Flats,,British Columbia,CA,50.7699,-121.304,ardac,178.4,False
-BC792,Jade City,,British Columbia,CA,59.2469,-129.655,"ardac,ncr",249.9,False
-BC793,Spillimacheen,,British Columbia,CA,50.9072,-116.364,ardac,494.6,False
-BC794,Ashcroft,,British Columbia,CA,50.721,-121.28,ardac,176.2,False
-BC795,Hollyburn,,British Columbia,CA,49.3324,-123.163,ardac,2.7,True
-BC796,Honeymoon Bay,,British Columbia,CA,48.815,-124.173,ardac,32.3,True
-BC797,Ocean Grove,,British Columbia,CA,49.9524,-125.202,ardac,1.9,True
-BC798,Tranquille,,British Columbia,CA,50.72,-120.521,ardac,219.4,False
-BC799,Huntingdon,,British Columbia,CA,49.0051,-122.266,ardac,32.5,True
-BC800,Brookmere,,British Columbia,CA,49.8181,-120.875,ardac,150.3,False
-BC801,Opitsat,,British Columbia,CA,49.1751,-125.912,ardac,0.3,True
-BC802,Dogwood Valley,,British Columbia,CA,49.4845,-121.425,ardac,104.9,False
-BC803,Anzac,,British Columbia,CA,54.7667,-122.5,ardac,365.1,False
-BC804,Salmo,,British Columbia,CA,49.1916,-117.277,ardac,388.4,False
-BC805,Walhachin,,British Columbia,CA,50.7515,-120.991,ardac,194.6,False
-BC806,Kimberley,,British Columbia,CA,49.6871,-115.983,ardac,490.8,False
-BC807,Oyama,,British Columbia,CA,50.1111,-119.368,ardac,264.1,False
-BC808,Nanaimo,,British Columbia,CA,49.1659,-123.939,ardac,2.2,True
-BC809,Oliver,,British Columbia,CA,49.1826,-119.553,ardac,223.5,False
-BC810,Caulfeild,,British Columbia,CA,49.3416,-123.26,ardac,1.0,True
-BC811,Wycliffe,,British Columbia,CA,49.6013,-115.861,ardac,498.0,False
-BC812,White Rock,,British Columbia,CA,49.0252,-122.796,ardac,1.4,True
-BC813,Sorrento,,British Columbia,CA,50.8782,-119.467,ardac,290.8,False
-BC814,Alpine Meadows,,British Columbia,CA,50.15,-122.967,ardac,51.2,True
-BC815,Eastgate,,British Columbia,CA,49.1375,-120.612,ardac,146.5,False
-BC816,Britannia Beach,,British Columbia,CA,49.628,-123.204,ardac,0.7,True
-BC817,Celista,,British Columbia,CA,50.9444,-119.349,ardac,301.7,False
-BC818,Ta Ta Creek,,British Columbia,CA,49.7833,-115.783,ardac,507.0,False
-BC819,Redstone,,British Columbia,CA,52.1333,-123.7,ardac,154.4,False
-BC820,Spuzzum,,British Columbia,CA,49.6886,-121.417,ardac,108.6,False
-BC821,Stellako,,British Columbia,CA,54.0622,-124.903,ardac,194.0,False
-BC822,Glenemma,,British Columbia,CA,50.4694,-119.352,ardac,277.7,False
-BC823,Lavington,,British Columbia,CA,50.2313,-119.107,ardac,285.7,False
-BC824,Mayne,,British Columbia,CA,48.8501,-123.297,ardac,2.6,True
-BC825,Kaleden,,British Columbia,CA,49.3928,-119.596,ardac,226.2,False
-BC826,Trout Lake,,British Columbia,CA,50.6472,-117.539,ardac,406.4,False
-BC827,Gitwinksihlkw,,British Columbia,CA,55.1937,-129.219,ardac,33.1,True
-BC828,Crawford Bay,,British Columbia,CA,49.6766,-116.822,ardac,430.5,False
-BC829,Coalmont,,British Columbia,CA,49.5089,-120.695,ardac,157.4,False
-BC830,Semiahmoo,,British Columbia,CA,49.0126,-122.766,ardac,1.3,True
-BC831,Soda Creek,,British Columbia,CA,52.3275,-122.275,ardac,235.0,False
-BC832,Rolla,,British Columbia,CA,55.8986,-120.143,ardac,559.7,False
-BC833,Kingsgate,,British Columbia,CA,49.0024,-116.178,ardac,462.2,False
-BC834,Ellison,,British Columbia,CA,49.9363,-119.358,ardac,260.5,False
-BC835,Dorreen,,British Columbia,CA,54.8389,-128.346,ardac,84.2,True
-BC836,Westbridge,,British Columbia,CA,49.1715,-118.975,ardac,264.8,False
-BC837,Prespatou,,British Columbia,CA,56.9223,-121.063,ardac,545.2,False
-BC838,Cokato,,British Columbia,CA,49.4667,-115.067,ardac,553.0,False
-BC839,Lasqueti,,British Columbia,CA,49.4918,-124.347,ardac,0.7,True
-BC840,Langdale,,British Columbia,CA,49.4341,-123.477,ardac,0.3,True
-BC841,Glen Vowell,,British Columbia,CA,55.3135,-127.677,ardac,115.2,False
-BC842,Christina Lake,,British Columbia,CA,49.0392,-118.216,ardac,317.3,False
-BC843,Fort Nelson,,British Columbia,CA,58.8056,-122.697,ardac,541.3,False
-BC844,Rosedale,,British Columbia,CA,49.182,-121.804,ardac,70.1,True
-BC845,Magna Bay,,British Columbia,CA,50.9618,-119.284,ardac,306.7,False
-BC846,Howser,,British Columbia,CA,50.3,-116.95,ardac,438.6,False
-BC847,Ainsworth Hot Springs,,British Columbia,CA,49.7343,-116.913,ardac,425.3,False
-BC848,Germansen Landing,,British Columbia,CA,55.7833,-124.7,ardac,302.4,False
-BC849,Rutland,,British Columbia,CA,49.8883,-119.391,ardac,257.3,False
-BC850,Tappen,,British Columbia,CA,50.784,-119.331,ardac,294.0,False
-BC851,Sewall,,British Columbia,CA,53.7625,-132.298,ardac,2.1,True
-BC852,Hosmer,,British Columbia,CA,49.5897,-114.964,ardac,562.6,False
-BC853,Grindrod,,British Columbia,CA,50.6276,-119.123,ardac,299.6,False
-BC854,Bonnet Hill,,British Columbia,CA,53.9,-122.617,ardac,313.8,False
-BC855,Dease Lake,,British Columbia,CA,58.4394,-129.996,"ardac,ncr",194.8,False
-BC856,Rayleigh,,British Columbia,CA,50.7974,-120.32,ardac,235.9,False
-BC857,New Hazelton,,British Columbia,CA,55.2466,-127.586,ardac,122.2,False
-BC858,Rock Creek,,British Columbia,CA,49.0596,-118.999,ardac,260.7,False
-BC859,Annis,,British Columbia,CA,50.7907,-119.082,ardac,310.0,False
-BC860,Rose Harbour,,British Columbia,CA,52.1477,-131.085,ardac,0.7,True
-BC861,Bella Bella,,British Columbia,CA,52.1639,-128.144,ardac,2.0,True
-BC862,Buckhorn,,British Columbia,CA,53.7942,-122.655,ardac,307.5,False
-BC863,Heffley Creek,,British Columbia,CA,50.8583,-120.271,ardac,242.8,False
-BC864,Shearwater,,British Columbia,CA,52.1466,-128.092,ardac,1.0,True
-BC865,Forest Grove,,British Columbia,CA,51.7667,-121.1,ardac,262.3,False
-BC866,Cache Creek,,British Columbia,CA,50.8119,-121.323,ardac,180.4,False
-BC867,Wildwood,,British Columbia,CA,49.891,-124.557,ardac,2.1,True
-BC868,Keremeos,,British Columbia,CA,49.2064,-119.826,ardac,204.4,False
-BC869,Albreda,,British Columbia,CA,52.6375,-119.162,ardac,426.3,False
-BC870,Yale,,British Columbia,CA,49.5632,-121.43,ardac,105.2,False
-BC871,Durieu,,British Columbia,CA,49.2175,-122.235,ardac,45.4,True
-BC872,Lund,,British Columbia,CA,49.9818,-124.757,ardac,0.7,True
-BC873,Avola,,British Columbia,CA,51.7812,-119.323,ardac,356.8,False
-BC874,Kitamaat Village,,British Columbia,CA,53.9737,-128.647,ardac,0.8,True
-BC875,Stoner,,British Columbia,CA,53.6291,-122.662,ardac,301.7,False
-BC876,Tachie,,British Columbia,CA,54.6548,-124.758,ardac,248.9,False
-BC877,Qualicum Beach,,British Columbia,CA,49.3475,-124.442,ardac,1.7,True
-BC878,Lynn Valley,,British Columbia,CA,49.3416,-123.033,ardac,3.9,True
-BC879,Chehalis,,British Columbia,CA,49.2918,-121.911,ardac,70.3,True
-BC880,Harrison Hot Springs,,British Columbia,CA,49.3,-121.783,ardac,79.1,True
-BC881,Dodge Cove,,British Columbia,CA,54.2878,-130.387,ardac,1.9,True
-BC882,Dawson Creek,,British Columbia,CA,55.7595,-120.235,ardac,546.2,False
-BC883,Krestova,,British Columbia,CA,49.4447,-117.582,ardac,371.2,False
-BC884,Silver River,,British Columbia,CA,49.5756,-121.818,ardac,77.3,True
-BC885,French Creek,,British Columbia,CA,49.3471,-124.36,ardac,1.0,True
-BC886,Montrose,,British Columbia,CA,49.0788,-117.591,ardac,362.6,False
-BC887,Slocan,,British Columbia,CA,49.7667,-117.467,ardac,387.0,False
-BC888,Sidney,,British Columbia,CA,48.65,-123.4,ardac,0.8,True
-BC889,Raspberry,,British Columbia,CA,49.3358,-117.657,ardac,363.4,False
-BC890,Rossland,,British Columbia,CA,49.0775,-117.801,ardac,347.7,False
-BC891,McCulloch,,British Columbia,CA,49.7948,-119.19,ardac,269.5,False
-BC892,Bell II,,British Columbia,CA,56.7444,-129.794,ardac,91.0,True
-BC893,Glade,,British Columbia,CA,49.3964,-117.535,ardac,373.5,False
-BC894,Wonowon,,British Columbia,CA,56.7288,-121.814,ardac,495.7,False
-BC895,Comox,,British Columbia,CA,49.6739,-124.928,ardac,2.7,True
-BC896,Burton,,British Columbia,CA,49.9856,-117.88,ardac,365.5,False
-BC897,Maple Bay,,British Columbia,CA,48.8158,-123.613,ardac,1.3,True
-BC898,Tsawout,,British Columbia,CA,48.588,-123.387,ardac,3.6,True
-BC899,Coombs,,British Columbia,CA,49.3044,-124.418,ardac,6.6,True
-BC900,South Shalalth,,British Columbia,CA,50.7288,-122.244,ardac,128.5,False
-BC901,Lazo,,British Columbia,CA,49.7139,-124.909,ardac,2.3,True
-BC902,Bonnington Falls,,British Columbia,CA,49.4667,-117.483,ardac,378.7,False
-BC903,Bell Acres,,British Columbia,CA,49.078,-121.866,ardac,59.4,True
-BC904,Zamora,,British Columbia,CA,49.15,-118.983,ardac,263.7,False
-BC905,Brilliant,,British Columbia,CA,49.3217,-117.643,ardac,364.2,False
-BC906,Cascade,,British Columbia,CA,49.0187,-118.207,ardac,317.2,False
-BC907,Donnely Landing,,British Columbia,CA,49.625,-124.043,ardac,0.8,True
-BC908,Steamboat,,British Columbia,CA,58.6756,-123.712,ardac,484.9,False
-BC909,Merritt,,British Columbia,CA,50.1114,-120.79,ardac,167.2,False
-BC910,Gingolx,,British Columbia,CA,54.9944,-129.954,ardac,1.7,True
-BC911,Canoe,,British Columbia,CA,50.7515,-119.227,ardac,298.8,False
-BC912,Groundbirch,,British Columbia,CA,55.78,-120.923,ardac,512.4,False
-BC913,Moyie,,British Columbia,CA,49.2888,-115.832,ardac,493.8,False
-BC914,Lytton,,British Columbia,CA,50.2316,-121.583,ardac,126.5,False
-BC915,Royston,,British Columbia,CA,49.6454,-124.945,ardac,0.3,True
-BC916,Westsyde,,British Columbia,CA,50.7637,-120.348,ardac,232.0,False
-BC917,Ksan,,British Columbia,CA,55.2497,-127.678,ardac,116.4,False
-BC918,Tulameen,,British Columbia,CA,49.5458,-120.758,ardac,153.9,False
-BC919,Deep Bay,,British Columbia,CA,49.4642,-124.725,ardac,0.1,True
-BC920,Barnhartvale,,British Columbia,CA,50.6505,-120.17,ardac,235.1,False
-BC921,Fulford Harbour,,British Columbia,CA,48.7706,-123.45,ardac,0.7,True
-BC922,Ymir,,British Columbia,CA,49.2833,-117.217,ardac,394.3,False
-BC923,Rosebery,,British Columbia,CA,50.0333,-117.411,ardac,399.3,False
-BC924,Altona,,British Columbia,CA,56.8775,-120.954,ardac,550.5,False
-BC925,Meziadin Junction,,British Columbia,CA,56.0997,-129.305,ardac,45.5,True
-BC926,Nahun,,British Columbia,CA,50.0833,-119.5,ardac,254.1,False
-BC927,Edgewater,,British Columbia,CA,50.7,-116.133,ardac,504.7,False
-BC928,Shirley,,British Columbia,CA,48.3898,-123.904,ardac,2.7,True
-BC929,Sunnybrae,,British Columbia,CA,50.7732,-119.27,ardac,297.2,False
-BC930,Lumby,,British Columbia,CA,50.25,-118.967,ardac,296.0,False
-BC931,Merville,,British Columbia,CA,49.7848,-125.057,ardac,12.6,True
-BC932,Wells,,British Columbia,CA,53.1041,-121.571,ardac,328.8,False
-BC933,Telkwa,,British Columbia,CA,54.6972,-127.05,ardac,125.1,False
-BC934,Topley,,British Columbia,CA,54.5068,-126.301,ardac,158.9,False
-BC935,Anahim Lake,,British Columbia,CA,52.4614,-125.303,ardac,98.3,True
-BC936,Thornhill,,British Columbia,CA,54.5125,-128.54,ardac,53.7,True
-BC937,Hatzic Island,,British Columbia,CA,49.1624,-122.236,ardac,42.5,True
-BC938,Rich Bar,,British Columbia,CA,52.9149,-122.456,ardac,273.8,False
-BC939,Yaculta,,British Columbia,CA,50.0217,-125.195,ardac,1.0,True
-BC940,Old Town,,British Columbia,CA,49.55,-115.967,ardac,489.5,False
-BC941,Shoreacres,,British Columbia,CA,49.4307,-117.527,ardac,374.8,False
-BC942,Bear Lake,,British Columbia,CA,54.4959,-122.679,ardac,339.1,False
-BC943,Clayhurst,,British Columbia,CA,56.1868,-120.03,ardac,584.1,False
-BC944,Fraser,,British Columbia,CA,59.7159,-135.049,"ardac,ncr",32.2,True
-BC945,Hydraulic,,British Columbia,CA,52.6148,-121.707,ardac,285.2,False
-BC946,Union Bay,,British Columbia,CA,49.5802,-124.885,ardac,3.3,True
-BC947,Weneez,,British Columbia,CA,53.9677,-123.98,ardac,236.0,False
-BC948,Riondel,,British Columbia,CA,49.7618,-116.856,ardac,430.0,False
-BC949,Marshall School Junction,,British Columbia,CA,49.7111,-124.509,ardac,2.9,True
-BC950,Shawnigan Lake,,British Columbia,CA,48.6535,-123.622,ardac,6.0,True
-BC951,Kilkerran,,British Columbia,CA,55.8395,-120.272,ardac,549.3,False
-BC952,Seven Mile Corner,,British Columbia,CA,55.8976,-120.324,ardac,550.4,False
-BC953,Red Rock,,British Columbia,CA,53.6886,-122.671,ardac,302.9,False
-BC954,Errington,,British Columbia,CA,49.2889,-124.37,ardac,6.3,True
-BC955,Egmont,,British Columbia,CA,49.75,-123.933,ardac,0.8,True
-BC956,Kinnaird,,British Columbia,CA,49.2834,-117.651,ardac,362.8,False
-BC957,Olalla,,British Columbia,CA,49.2634,-119.829,ardac,205.8,False
-BC958,Little Fort,,British Columbia,CA,51.4249,-120.207,ardac,284.2,False
-BC959,Lions Bay,,British Columbia,CA,49.4591,-123.236,ardac,2.0,True
-BC960,Cassidy,,British Columbia,CA,49.05,-123.883,ardac,6.0,True
-BC961,Kitwanga,,British Columbia,CA,55.1,-128.067,ardac,98.2,True
-BC962,Silverton,,British Columbia,CA,49.9528,-117.358,ardac,400.3,False
-BC963,Pleasant Camp,,British Columbia,CA,59.4546,-136.365,"ardac,ncr",48.1,True
-BC964,Westholme,,British Columbia,CA,48.8667,-123.7,ardac,6.2,True
-BC965,Montney,,British Columbia,CA,56.4503,-120.926,ardac,543.7,False
-BC966,Wynndel,,British Columbia,CA,49.18,-116.552,ardac,439.5,False
-BC967,Extension,,British Columbia,CA,49.1005,-123.958,ardac,4.8,True
-BC968,Cottonwood,,British Columbia,CA,53.0522,-122.156,ardac,298.3,False
-BC969,Spences Bridge,,British Columbia,CA,50.4234,-121.344,ardac,153.5,False
-BC970,Bessborough,,British Columbia,CA,55.8109,-120.506,ardac,535.5,False
-BC971,Hemlock Valley,,British Columbia,CA,49.3769,-121.935,ardac,67.9,True
-BC972,Falkland,,British Columbia,CA,50.5009,-119.557,ardac,265.6,False
-BC973,Agassiz,,British Columbia,CA,49.2333,-121.767,ardac,76.0,True
-BC974,Clearbrook,,British Columbia,CA,49.05,-122.333,ardac,31.1,True
-BC975,Winter Harbour,,British Columbia,CA,50.5167,-128.033,ardac,2.6,True
-BC976,Sointula,,British Columbia,CA,50.6333,-127.017,ardac,1.2,True
-BC977,Horsefly,,British Columbia,CA,52.3333,-121.417,ardac,283.0,False
-BC978,Noralee,,British Columbia,CA,53.9833,-126.433,ardac,122.5,False
-BC979,Esler,,British Columbia,CA,52.1042,-122.184,ardac,225.1,False
-BC980,Goodlow,,British Columbia,CA,56.3336,-120.136,ardac,588.9,False
-BC981,Brackendale,,British Columbia,CA,49.7667,-123.15,ardac,6.9,True
-BC982,103 Mile,,British Columbia,CA,51.689,-121.314,ardac,245.5,False
-BC983,105 Mile House,,British Columbia,CA,51.7069,-121.331,ardac,246.0,False
-BC984,122 Mile House,,British Columbia,CA,51.8483,-121.599,ardac,244.2,False
-BC985,141 Mile House,,British Columbia,CA,51.994,-121.846,ardac,238.7,False
-BC986,Ahousat,,British Columbia,CA,49.2842,-126.074,ardac,0.7,True
-BC987,Akisqnuk,,British Columbia,CA,50.4512,-115.96,ardac,511.4,False
-BC988,Baker Trails,,British Columbia,CA,49.0854,-121.927,ardac,56.3,True
-BC989,Bankeir,,British Columbia,CA,49.7107,-120.225,ardac,194.4,False
-BC990,Barney's Bar,,British Columbia,CA,49.7845,-124.444,ardac,1.7,True
-BC991,Bear Camp,,British Columbia,CA,59.9167,-136.8,"ardac,ncr",95.5,True
-BC992,Big White,,British Columbia,CA,49.7214,-118.94,ardac,283.3,False
-BC993,Birchdale,,British Columbia,CA,50.0344,-116.874,ardac,436.4,False
-BC994,Blue Springs,,British Columbia,CA,50.25,-118.85,ardac,304.1,False
-BC995,Brady Ranch,,British Columbia,CA,56.8333,-122.633,ardac,450.4,False
-BC996,Carrolls Landing,,British Columbia,CA,50.0333,-117.9,ardac,366.0,False
-BC997,Cheslatta Carrier,,British Columbia,CA,54.0014,-125.708,ardac,153.6,False
-BC998,Clemretta,,British Columbia,CA,54.0038,-126.285,ardac,131.8,False
-BC999,Cook's Ferry,,British Columbia,CA,50.4223,-121.32,ardac,154.7,False
-BC1000,Deerholme,,British Columbia,CA,48.7528,-123.758,ardac,8.0,True
-BC1001,Dokie Siding,,British Columbia,CA,55.6625,-121.734,ardac,464.4,False
-BC1002,Duncanby Landing,,British Columbia,CA,51.4065,-127.644,ardac,1.7,True
-BC1003,East Wellington,,British Columbia,CA,49.1838,-124.018,ardac,4.4,True
-BC1004,François Lake,,British Columbia,CA,54.0517,-125.7419,ardac,156.8,False
-BC1005,Georgetown Mills,,British Columbia,CA,54.4716,-130.398,ardac,1.7,True
-BC1006,Gitanyow,,British Columbia,CA,55.2676,-128.072,ardac,91.6,True
-BC1007,Grand Haven,,British Columbia,CA,56.2402,-120.899,ardac,542.7,False
-BC1008,Harrogate,,British Columbia,CA,50.9833,-116.45,ardac,491.2,False
-BC1009,Imperial Ranchettes,,British Columbia,CA,51.613,-121.183,ardac,246.8,False
-BC1010,Johnsons Landing,,British Columbia,CA,50.0833,-116.883,ardac,437.3,False
-BC1011,Kendrick Camp,,British Columbia,CA,49.7244,-126.651,ardac,2.0,True
-BC1012,Killiney Beach,,British Columbia,CA,50.1899,-119.506,ardac,256.9,False
-BC1013,Martin Prairie,,British Columbia,CA,50.6624,-119.812,ardac,257.6,False
-BC1014,Matilpi,,British Columbia,CA,50.5494,-126.184,ardac,0.1,True
-BC1015,Mile 62 1/2,,British Columbia,CA,56.4084,-121.157,ardac,529.0,False
-BC1016,Mount Baldy,,British Columbia,CA,49.1522,-119.237,ardac,245.5,False
-BC1017,Nadleh Whuten,,British Columbia,CA,54.0885,-124.598,ardac,210.9,False
-BC1018,Nee-Tahi-Buhn,,British Columbia,CA,54.0074,-125.956,ardac,145.0,False
-BC1019,New Brighton,,British Columbia,CA,49.45,-123.433,ardac,0.4,True
-BC1020,Nuchatlaht,,British Columbia,CA,49.9901,-126.94,ardac,2.4,True
-BC1021,Park Siding,,British Columbia,CA,49.1725,-117.493,ardac,372.5,False
-BC1022,Peejay,,British Columbia,CA,56.8833,-120.617,ardac,570.7,False
-BC1023,Queens Cove,,British Columbia,CA,49.8833,-126.983,ardac,3.5,True
-BC1024,Samahquam,,British Columbia,CA,50.0513,-122.539,ardac,59.6,True
-BC1025,Saulteau,,British Columbia,CA,55.835,-121.656,ardac,480.7,False
-BC1026,Selma Park,,British Columbia,CA,49.4585,-123.733,ardac,3.6,True
-BC1027,Shoreholme,,British Columbia,CA,50.3,-117.85,ardac,375.2,False
-BC1028,Six Mile,,British Columbia,CA,49.5785,-117.225,ardac,399.5,False
-BC1029,Skin Tyee,,British Columbia,CA,53.9486,-125.652,ardac,151.2,False
-BC1030,South Bentinck,,British Columbia,CA,52.0444,-126.667,ardac,0.5,True
-BC1031,South Lakeside,,British Columbia,CA,52.1083,-122.097,ardac,230.3,False
-BC1032,South Taylor,,British Columbia,CA,56.1068,-120.634,ardac,549.0,False
-BC1033,St. Joseph Mission,,British Columbia,CA,52.0667,-121.95,ardac,236.4,False
-BC1034,Sugarcane,,British Columbia,CA,52.1088,-121.995,ardac,236.2,False
-BC1035,Tête Jaune Cache,,British Columbia,CA,52.9667,-119.429,ardac,435.1,False
-BC1036,University Hill,,British Columbia,CA,49.2669,-123.242,ardac,0.9,True
-BC1037,Village of Queen Charlotte,,British Columbia,CA,53.2565,-132.094,ardac,0.2,True
-BC1038,Whispering Pines/Clinton,,British Columbia,CA,50.9848,-120.245,ardac,252.8,False
+id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal,ocean_lat1,ocean_lon1
+BC1,Panorama Mountain Resort,,British Columbia,CA,50.4583,-116.237,ardac,488.1,False,48.1849,-123.6428
+BC2,Cranberry Junction,,British Columbia,CA,55.5999,-128.5395,ardac,60.4,True,54.5448,-130.1622
+BC3,Deep Creek,,British Columbia,CA,50.6094,-119.213,ardac,291.3,False,48.454,-123.9901
+BC4,Donald,,British Columbia,CA,51.4958,-117.174,ardac,463.1,False,48.4809,-123.9644
+BC5,Dome Creek,,British Columbia,CA,53.7425,-121.026,ardac,406.0,False,50.8466,-126.3103
+BC6,Eagle Bay,,British Columbia,CA,50.9333,-119.217,ardac,308.0,False,48.6117,-124.0339
+BC7,Old Massett,G̱aw,British Columbia,CA,54.0418,-132.184,ardac,0.3,True,54.0259,-132.1516
+BC8,Progress,,British Columbia,CA,55.7817,-120.716,ardac,522.5,False,52.3797,-128.1742
+BC9,Topley Landing,,British Columbia,CA,54.8084,-126.1387,ardac,181.4,False,53.4324,-128.8908
+BC10,Kobes,,British Columbia,CA,56.6389,-121.65,ardac,503.0,False,53.5155,-128.9247
+BC11,Shelter Bay Ferry Terminal,,British Columbia,CA,50.6358,-117.929,ardac,376.9,False,48.5665,-124.0169
+BC12,Sunnyside,,British Columbia,CA,54.6538,-124.732,ardac,250.1,False,53.449,-128.9194
+BC13,McDonalds Landing,,British Columbia,CA,54.0,-126.033,ardac,142.1,False,53.4466,-129.0689
+BC14,West Moberly,,British Columbia,CA,55.8272,-121.852,ardac,471.0,False,53.5232,-129.0318
+BC15,Summit Lake Provincial Park,,British Columbia,CA,50.1523,-117.661,ardac,382.3,False,48.6022,-123.925
+BC16,Kelly Lake,,British Columbia,CA,51.0124,-121.7658,ardac,173.5,False,50.9085,-126.2175
+BC17,Kingfisher,,British Columbia,CA,50.6167,-118.733,ardac,322.8,False,48.4924,-124.0321
+BC18,Cooper Creek,,British Columbia,CA,50.2023,-116.963,ardac,432.3,False,48.2047,-123.783
+BC19,Wilson Creek,,British Columbia,CA,49.4409,-123.713,ardac,5.6,True,48.597,-123.9775
+BC20,Mica Creek,,British Columbia,CA,52.0059,-118.562,ardac,413.0,False,50.9027,-126.0881
+BC21,Hall,,British Columbia,CA,49.374,-117.243,ardac,390.6,False,48.1875,-123.6496
+BC22,Hyde Creek,,British Columbia,CA,50.5805,-127.0,ardac,1.0,True,50.5632,-126.972
+BC23,Bear Creek,,British Columbia,CA,49.529,-121.761,ardac,80.0,True,48.5744,-123.8205
+BC24,Pine Valley,,British Columbia,CA,52.1753,-122.09,ardac,234.3,False,50.8981,-126.1167
+BC25,Niagara,,British Columbia,CA,49.1071,-118.466,ardac,297.6,False,48.1659,-123.8021
+BC26,Birch Island,,British Columbia,CA,51.5971,-119.91,ardac,312.1,False,48.57,-124.0279
+BC27,Hills,,British Columbia,CA,50.1089,-117.493,ardac,393.3,False,48.2358,-123.7731
+BC28,Meadows,,British Columbia,CA,49.1859,-117.396,ardac,376.2,False,48.1572,-123.7652
+BC29,93 Mile,,British Columbia,CA,51.5748,-121.341,ardac,235.5,False,50.8236,-126.1158
+BC30,Pineview,,British Columbia,CA,53.8367,-122.658,ardac,307.7,False,52.3556,-128.1771
+BC31,Old Fort St. John,,British Columbia,CA,56.2022,-120.823,ardac,546.4,False,53.441,-128.9392
+BC32,Eagle Creek,,British Columbia,CA,51.8597,-120.866,ardac,281.1,False,50.9624,-126.2077
+BC33,Roe Lake,,British Columbia,CA,51.5208,-120.831,ardac,259.5,False,50.9575,-126.1343
+BC34,Coal Harbour,,British Columbia,CA,50.6,-127.583,ardac,0.8,True,50.5789,-127.8155
+BC35,Apex Mountain Resort,,British Columbia,CA,49.3942,-119.907,ardac,203.1,False,48.1938,-123.7579
+BC36,Wiley,,British Columbia,CA,54.515,-126.334,ardac,156.7,False,53.4654,-129.0846
+BC37,Gilpin,,British Columbia,CA,49.0063,-118.329,ardac,305.8,False,48.2384,-123.6487
+BC39,Balmoral,,British Columbia,CA,50.8531,-119.355,ardac,295.1,False,48.5208,-123.9073
+BC40,Stillwater,,British Columbia,CA,49.7667,-124.3,ardac,1.6,True,48.9274,-125.0589
+BC41,Gateway,,British Columbia,CA,51.6808,-121.211,ardac,250.1,False,50.9346,-126.2625
+BC42,Chinook Cove,,British Columbia,CA,51.2333,-120.167,ardac,272.6,False,48.5243,-123.9746
+BC43,Oliver's Landing,,British Columbia,CA,49.5833,-123.221,ardac,0.4,True,48.5851,-124.0033
+BC45,Rock Bay,,British Columbia,CA,50.3323,-125.486,ardac,1.0,True,50.4816,-126.2376
+BC46,Stump Lake,,British Columbia,CA,50.3883,-120.328,ardac,209.7,False,48.5039,-124.025
+BC47,Cultus Lake,,British Columbia,CA,49.0714,-121.966,ardac,53.1,True,48.6114,-123.9804
+BC49,Cheslatta,,British Columbia,CA,53.8167,-125.8,ardac,133.8,False,53.4277,-129.1154
+BC50,White Lake,,British Columbia,CA,50.8798,-119.302,ardac,299.8,False,48.5497,-123.8596
+BC51,Mud Bay,,British Columbia,CA,49.4667,-124.8,ardac,0.8,True,48.9548,-125.2901
+BC52,Lee Creek,,British Columbia,CA,50.9078,-119.534,ardac,287.6,False,48.5635,-123.8327
+BC53,Six Mile Point,,British Columbia,CA,50.773,-120.7419,ardac,209.8,False,48.5343,-123.964
+BC54,Lower Kootenay,,British Columbia,CA,49.0663,-116.512,ardac,435.6,False,48.2759,-123.6202
+BC55,Westview,,British Columbia,CA,49.8364,-124.525,ardac,0.3,True,48.8294,-125.2835
+BC56,Beecher Bay,,British Columbia,CA,48.3367,-123.609,ardac,1.1,True,48.3239,-123.8319
+BC57,Malibu,,British Columbia,CA,50.1671,-123.851,ardac,1.9,True,50.5022,-126.1515
+BC58,Liard River Suspension Bridge,,British Columbia,CA,59.4127,-126.0959,"ardac,ncr",443.3,False,58.0015,-133.8875
+BC59,Bridge River,,British Columbia,CA,50.7808,-121.975,ardac,146.9,False,48.4894,-123.891
+BC60,Kettle Valley,,British Columbia,CA,49.0536,-118.945,ardac,262.1,False,48.2458,-123.7622
+BC61,Davis Bay,,British Columbia,CA,49.4453,-123.726,ardac,4.6,True,48.6014,-123.9903
+BC62,Arbutus Ridge,,British Columbia,CA,48.6933,-123.54,ardac,1.1,True,48.5193,-124.0218
+BC63,Wet'suwet'en Village,,British Columbia,CA,54.3359,-125.89,ardac,173.6,False,53.4552,-128.9291
+BC64,Upper Nicola,,British Columbia,CA,50.137,-120.278,ardac,201.0,False,48.5866,-123.9431
+BC65,Dog Creek,,British Columbia,CA,52.0944,-122.114,ardac,227.9,False,50.8164,-126.1327
+BC66,Nootka,,British Columbia,CA,49.6248,-126.627,ardac,0.9,True,49.6074,-126.5997
+BC67,Kwakiutl,,British Columbia,CA,50.6931,-127.411,ardac,1.7,True,50.6759,-127.3828
+BC68,Aberdeen,,British Columbia,CA,49.0503,-122.411,ardac,25.5,True,48.5734,-123.9205
+BC69,Fernwood,,British Columbia,CA,48.9089,-123.528,ardac,2.6,True,48.5687,-124.019
+BC70,Adams Lake,,British Columbia,CA,50.7366,-119.321,ardac,290.8,False,48.5719,-123.8562
+BC71,Bonaparte,,British Columbia,CA,50.8383,-121.378,ardac,179.5,False,48.5688,-123.8246
+BC72,Saik'uz,,British Columbia,CA,53.945,-124.109,ardac,227.0,False,52.4314,-128.2281
+BC73,Lighthouse Point,,British Columbia,CA,48.8687,-123.284,ardac,2.4,True,48.5346,-124.0258
+BC74,Lemoray,,British Columbia,CA,55.5389,-122.483,ardac,420.1,False,53.5467,-129.0465
+BC75,Squamish,,British Columbia,CA,49.3221,-123.13,ardac,1.6,True,48.4905,-123.9025
+BC76,Bull River,,British Columbia,CA,49.4701,-115.448,ardac,520.9,False,,
+BC77,Cowichan Station,,British Columbia,CA,48.7294,-123.666,ardac,2.9,True,48.5502,-123.8981
+BC78,Fort Babine,,British Columbia,CA,55.3223,-126.626,ardac,180.8,False,54.5689,-130.3083
+BC79,Prophet River,,British Columbia,CA,58.0943,-122.71,ardac,501.7,False,54.5723,-130.1236
+BC80,Cowichan,,British Columbia,CA,48.7688,-123.68,ardac,2.4,True,48.5896,-123.9123
+BC81,Scotch Creek,,British Columbia,CA,50.9014,-119.451,ardac,292.1,False,48.5653,-124.003
+BC82,Tsartlip,,British Columbia,CA,48.5856,-123.456,ardac,1.7,True,48.5782,-123.9297
+BC83,Nimpkish,,British Columbia,CA,50.3333,-126.917,ardac,22.1,True,50.4819,-126.8924
+BC84,Farrell Creek,,British Columbia,CA,56.1228,-121.738,ardac,489.1,False,53.4931,-128.952
+BC85,Jersey,,British Columbia,CA,49.1,-117.233,ardac,385.4,False,48.2529,-123.8343
+BC86,Baker Creek,,British Columbia,CA,52.9274,-123.017,ardac,254.8,False,50.9595,-126.2786
+BC87,Klahoose,,British Columbia,CA,50.1281,-124.925,ardac,0.1,True,50.6134,-126.1911
+BC88,Glenmerry,,British Columbia,CA,49.1,-117.667,ardac,355.1,False,48.2169,-123.763
+BC89,Franklin Camp,,British Columbia,CA,48.9722,-124.742,ardac,9.4,True,48.7907,-124.9712
+BC90,Simpcw,,British Columbia,CA,51.2654,-120.151,ardac,275.7,False,48.557,-123.9622
+BC91,Pink Mountain,,British Columbia,CA,57.0357,-122.507,ardac,464.3,False,54.6787,-130.1451
+BC92,Xeni Gwet'in,,British Columbia,CA,51.4243,-124.089,ardac,75.0,True,50.9254,-126.1857
+BC93,Huscroft,,British Columbia,CA,49.0167,-116.467,ardac,437.6,False,,
+BC94,Louis Creek,,British Columbia,CA,51.1401,-120.122,ardac,268.9,False,48.5987,-123.9174
+BC95,Commodore Heights,,British Columbia,CA,52.1667,-122.133,ardac,231.4,False,50.888,-126.1576
+BC96,Porcher Island,,British Columbia,CA,54.0867,-130.392,ardac,1.0,True,54.0703,-130.3602
+BC97,Slesse Park,,British Columbia,CA,49.0805,-121.821,ardac,62.0,True,48.457,-123.8448
+BC98,Matsqui,,British Columbia,CA,49.006,-122.476,ardac,19.4,True,48.5282,-123.9834
+BC100,Garibaldi,,British Columbia,CA,49.9667,-123.15,ardac,29.1,True,48.4708,-123.962
+BC101,Doig River,,British Columbia,CA,56.5711,-120.494,ardac,571.4,False,52.3508,-128.0696
+BC102,Malahat,,British Columbia,CA,48.6128,-123.523,ardac,0.5,True,48.6052,-123.997
+BC103,Coal River,,British Columbia,CA,59.65,-126.933,"ardac,ncr",410.1,False,57.9186,-133.7318
+BC104,Pemberton Meadows,,British Columbia,CA,50.4417,-122.917,ardac,70.7,True,48.4548,-124.0175
+BC105,Meachen,,British Columbia,CA,49.6207,-116.267,ardac,465.1,False,,
+BC106,Spallumcheen,,British Columbia,CA,50.5314,-119.147,ardac,292.1,False,48.5451,-123.9121
+BC107,Tatla Lake,,British Columbia,CA,51.9,-124.6,ardac,109.1,False,50.8964,-126.18
+BC108,Lheidli T'enneh,,British Columbia,CA,54.0101,-122.616,ardac,317.3,False,52.365,-128.1507
+BC109,Qualicum,,British Columbia,CA,49.4,-124.617,ardac,1.8,True,48.8889,-125.1084
+BC110,St. Mary's,,British Columbia,CA,49.6203,-115.696,ardac,505.8,False,,
+BC111,Uchucklesaht,,British Columbia,CA,49.0274,-125.045,ardac,3.8,True,48.8453,-125.2733
+BC112,Blueberry Creek,,British Columbia,CA,49.246,-117.659,ardac,358.3,False,48.1967,-123.7818
+BC113,Criss Creek,,British Columbia,CA,51.05,-120.733,ardac,229.0,False,48.4796,-123.9889
+BC114,Tl'etinqox,,British Columbia,CA,52.0119,-123.1719,ardac,166.1,False,50.8689,-126.1051
+BC116,Toquaht,,British Columbia,CA,48.9959,-125.379,ardac,1.3,True,48.9794,-125.6044
+BC117,Burrard,,British Columbia,CA,49.3099,-122.978,ardac,3.1,True,48.4844,-124.0021
+BC118,Eagle Heights,,British Columbia,CA,48.7563,-123.703,ardac,3.9,True,48.577,-123.9351
+BC120,Mount Robson,,British Columbia,CA,53.0309,-119.228,ardac,449.0,False,50.8885,-126.1015
+BC121,Seton Lake,,British Columbia,CA,50.7047,-122.281,ardac,124.4,False,48.5696,-123.9229
+BC122,Huu-ay-aht,,British Columbia,CA,48.8012,-125.122,ardac,3.2,True,48.7834,-125.0958
+BC123,Quatsino,,British Columbia,CA,50.6151,-127.574,ardac,2.5,True,50.594,-127.8066
+BC124,Cahilty,,British Columbia,CA,50.95,-120.017,ardac,262.7,False,48.583,-124.0449
+BC125,Wabi Hill,,British Columbia,CA,55.6707,-121.532,ardac,474.6,False,53.5443,-128.9939
+BC126,Buckinghorse River,,British Columbia,CA,57.3901,-122.842,ardac,460.3,False,54.6912,-130.2022
+BC127,Blueberry River,,British Columbia,CA,56.7035,-121.114,ardac,536.6,False,53.432,-128.9894
+BC128,Hesquiat,,British Columbia,CA,49.3959,-126.471,ardac,0.5,True,49.3784,-126.4439
+BC129,Oregon Jack Creek,,British Columbia,CA,50.6667,-121.267,ardac,172.9,False,48.5706,-123.9516
+BC130,Sproat Lake,,British Columbia,CA,49.2766,-124.924,ardac,8.7,True,48.9286,-125.157
+BC131,T'it'q'et,,British Columbia,CA,50.5833,-121.85,ardac,135.8,False,48.4648,-124.0052
+BC132,Hupacasath,,British Columbia,CA,49.2657,-124.826,ardac,2.5,True,48.9179,-125.0597
+BC133,Fintry,,British Columbia,CA,50.1316,-119.506,ardac,253.1,False,48.4578,-123.9535
+BC134,Cape Mudge,,British Columbia,CA,50.0214,-125.293,ardac,3.8,True,50.5035,-126.2995
+BC135,Lac la Hache,,British Columbia,CA,51.8145,-121.465,ardac,248.0,False,50.8919,-126.2621
+BC136,Kootenay Crossing,,British Columbia,CA,50.8833,-116.05,ardac,511.7,False,,
+BC137,Sanca,,British Columbia,CA,49.3917,-116.735,ardac,427.3,False,48.2475,-123.6542
+BC138,Gambier Harbour,,British Columbia,CA,49.3728,-123.414,ardac,1.0,True,48.5347,-123.9329
+BC139,Tatton,,British Columbia,CA,51.7057,-121.385,ardac,243.1,False,50.9524,-126.1729
+BC140,Muncho Lake,,British Columbia,CA,58.9333,-125.767,"ardac,ncr",418.9,False,57.0671,-133.075
+BC141,Nazko,,British Columbia,CA,52.9435,-123.581,ardac,222.2,False,51.1274,-126.5572
+BC142,Deka Lake,,British Columbia,CA,51.6083,-120.85,ardac,264.3,False,50.8781,-126.1628
+BC143,Squeah,,British Columbia,CA,49.5042,-121.42,ardac,104.4,False,48.5667,-123.9846
+BC144,Telachick,,British Columbia,CA,53.8621,-123.182,ardac,276.7,False,52.3682,-128.1418
+BC145,Kitselas,,British Columbia,CA,54.6167,-128.417,ardac,66.5,True,54.5543,-130.1018
+BC146,Hardwicke Island,,British Columbia,CA,50.4167,-125.917,ardac,0.7,True,50.565,-126.1499
+BC147,Miocene,,British Columbia,CA,52.2503,-121.771,ardac,257.0,False,50.8185,-126.077
+BC148,Sarita,,British Columbia,CA,48.8833,-125.033,ardac,0.1,True,48.8675,-125.258
+BC149,Chezacut,,British Columbia,CA,52.3993,-124.028,ardac,172.7,False,51.0722,-126.4329
+BC150,Quesnel Forks,,British Columbia,CA,52.6564,-121.663,ardac,290.2,False,50.8965,-126.2748
+BC151,Port Alice,,British Columbia,CA,50.3833,-127.45,ardac,0.7,True,50.3624,-127.6815
+BC152,Tatalrose,,British Columbia,CA,53.9833,-125.983,ardac,142.2,False,53.4312,-129.0184
+BC153,Coquitlam,,British Columbia,CA,49.2539,-122.849,ardac,7.3,True,48.5958,-123.8667
+BC154,Hanceville,,British Columbia,CA,51.9417,-123.099,ardac,164.2,False,50.8002,-126.2917
+BC155,Sullivan Bay,,British Columbia,CA,50.8833,-126.817,ardac,3.5,True,50.8659,-126.7889
+BC156,Big Bar Creek,,British Columbia,CA,51.1829,-122.117,ardac,166.2,False,50.9,-126.3193
+BC157,Lumberton,,British Columbia,CA,49.4238,-115.877,ardac,489.4,False,,
+BC158,Kwaw-kwaw-Apilt,,British Columbia,CA,49.1641,-121.98,ardac,59.4,True,48.5376,-124.0052
+BC159,Mahatta River,,British Columbia,CA,50.4586,-127.798,ardac,1.5,True,50.4415,-127.7698
+BC160,Osborn,,British Columbia,CA,56.6042,-120.378,ardac,579.0,False,52.3856,-128.243
+BC161,Englishman River North,,British Columbia,CA,49.3233,-124.281,ardac,3.1,True,48.8182,-125.2773
+BC162,Scowlitz,,British Columbia,CA,49.2425,-122.002,ardac,61.5,True,48.6157,-124.0303
+BC163,Mount Currie,,British Columbia,CA,50.3249,-122.656,ardac,78.2,True,48.5115,-124.0062
+BC164,Galena Bay,,British Columbia,CA,50.6667,-117.85,ardac,383.3,False,48.6017,-123.9456
+BC165,Firvale,,British Columbia,CA,52.4385,-126.292,ardac,30.9,True,52.0748,-127.8801
+BC166,Thompson Sound,,British Columbia,CA,50.8037,-126.008,ardac,2.1,True,50.7859,-126.2423
+BC167,Nimpo Lake,,British Columbia,CA,52.3364,-125.14,ardac,108.4,False,50.9956,-126.4545
+BC168,T'Sou-Ke,,British Columbia,CA,48.3861,-123.698,ardac,4.7,True,48.3731,-123.9211
+BC169,Rosswood,,British Columbia,CA,54.8,-128.767,ardac,59.7,True,54.5777,-130.155
+BC170,Abbotsford,,British Columbia,CA,49.0477,-122.27,ardac,35.2,True,48.5777,-124.0305
+BC171,Federal Ranch,,British Columbia,CA,56.4,-122.383,ardac,453.7,False,54.5401,-130.2449
+BC172,Mahood Falls,,British Columbia,CA,51.8426,-120.639,ardac,291.8,False,50.9557,-126.2469
+BC173,Powell River,,British Columbia,CA,49.872,-124.546,ardac,2.9,True,49.1994,-125.8059
+BC174,Snuneymuxw,,British Columbia,CA,49.1499,-123.929,ardac,0.7,True,48.4669,-123.9325
+BC175,Sewell Inlet,,British Columbia,CA,52.8749,-131.987,ardac,0.4,True,52.8447,-132.2293
+BC176,Chasm,,British Columbia,CA,51.2167,-121.483,ardac,202.9,False,50.9576,-126.2196
+BC177,Hagensborg,,British Columbia,CA,52.3864,-126.557,ardac,12.1,True,52.0238,-127.8716
+BC178,Nooaitch,,British Columbia,CA,50.1545,-121.041,ardac,152.6,False,48.5668,-123.9321
+BC179,North Saanich,,British Columbia,CA,48.6217,-123.421,ardac,2.2,True,48.6145,-123.8951
+BC180,Rhone,,British Columbia,CA,49.219,-119.018,ardac,260.6,False,48.236,-123.6103
+BC181,Mayook,,British Columbia,CA,49.4869,-115.577,ardac,511.9,False,,
+BC182,Solsqua,,British Columbia,CA,50.8707,-118.94,ardac,321.5,False,48.5659,-124.0144
+BC183,South Surrey,,British Columbia,CA,49.0543,-122.833,ardac,2.9,True,48.5625,-123.839
+BC184,Songhees,,British Columbia,CA,48.4461,-123.422,ardac,1.1,True,48.2673,-123.6537
+BC185,Argenta,,British Columbia,CA,50.1667,-116.917,ardac,434.7,False,48.172,-123.7341
+BC186,Tatlayoko Lake,,British Columbia,CA,51.7167,-124.433,ardac,91.8,True,50.8808,-126.2729
+BC187,Highlands,,British Columbia,CA,48.5144,-123.516,ardac,3.2,True,48.5068,-123.989
+BC188,Black Pines,,British Columbia,CA,50.9339,-120.258,ardac,248.1,False,48.5538,-124.0224
+BC189,Summit Lake,,British Columbia,CA,54.25,-122.633,ardac,327.6,False,52.2726,-128.1811
+BC190,Central Saanich,,British Columbia,CA,48.5669,-123.397,ardac,3.2,True,48.5598,-123.8705
+BC191,Tipella,,British Columbia,CA,49.7446,-122.154,ardac,60.7,True,48.612,-123.9713
+BC192,Grasmere,,British Columbia,CA,49.1,-115.083,ardac,538.8,False,,
+BC193,Saturna,,British Columbia,CA,48.7945,-123.195,ardac,0.6,True,48.4609,-123.9363
+BC194,Lister,,British Columbia,CA,49.0474,-116.463,ardac,438.6,False,,
+BC195,Kildala Arm,,British Columbia,CA,53.8333,-128.483,ardac,0.5,True,53.473,-128.9902
+BC196,Canim Lake,,British Columbia,CA,51.7726,-120.986,ardac,268.5,False,50.8699,-126.3146
+BC197,Phillips Arm,,British Columbia,CA,50.5459,-125.356,ardac,0.3,True,50.5301,-126.1103
+BC198,Saanich,,British Columbia,CA,48.4878,-123.388,ardac,4.4,True,48.4808,-123.8608
+BC199,Bridge Lake,,British Columbia,CA,51.4786,-120.726,ardac,262.5,False,50.9199,-126.2887
+BC200,Halalt,,British Columbia,CA,48.8769,-123.692,ardac,5.3,True,48.5314,-123.9321
+BC201,Surge Narrows,,British Columbia,CA,50.2306,-125.109,ardac,1.9,True,50.5484,-126.1178
+BC203,Toad River,,British Columbia,CA,58.85,-125.233,"ardac,ncr",432.0,False,57.162,-132.8862
+BC204,Punchaw,,British Columbia,CA,53.4306,-123.182,ardac,261.6,False,52.1075,-127.8307
+BC205,Little Shuswap Lake,,British Columbia,CA,50.8758,-119.612,ardac,281.0,False,48.5285,-123.9038
+BC206,Salmon Valley,,British Columbia,CA,54.0833,-122.7,ardac,315.5,False,52.2687,-128.232
+BC207,Read Island,,British Columbia,CA,50.1812,-125.086,ardac,2.0,True,50.4992,-126.0936
+BC208,Loon Lake,,British Columbia,CA,51.0833,-121.3,ardac,203.0,False,48.4885,-124.0281
+BC209,Myrtle Point,,British Columbia,CA,49.8012,-124.481,ardac,1.2,True,48.9607,-125.2372
+BC210,Barlow Creek,,British Columbia,CA,53.023,-122.445,ardac,284.5,False,50.9053,-126.2659
+BC211,Charlie Lake,,British Columbia,CA,56.2974,-120.985,ardac,537.4,False,53.5253,-129.1079
+BC212,Reid Lake,,British Columbia,CA,53.9667,-123.1,ardac,286.3,False,52.3105,-128.0669
+BC213,Silver Star,,British Columbia,CA,50.3572,-119.059,ardac,291.1,False,48.5457,-124.0522
+BC214,Popkum,,British Columbia,CA,49.2002,-121.736,ardac,75.1,True,48.5833,-124.0158
+BC215,Port Moody,,British Columbia,CA,49.2786,-122.868,ardac,4.6,True,48.6204,-123.886
+BC216,Mission,,British Columbia,CA,49.1376,-122.304,ardac,36.6,True,48.496,-123.8251
+BC217,Boothroyd,,British Columbia,CA,49.9638,-121.485,ardac,114.5,False,48.5216,-123.8445
+BC218,Xaxli'p,,British Columbia,CA,50.7372,-121.862,ardac,148.0,False,48.4525,-124.0307
+BC219,Tulsequah,,British Columbia,CA,58.6577,-133.544,"ardac,ncr",19.9,True,58.2762,-134.0663
+BC220,Seabird Island,,British Columbia,CA,49.2542,-121.731,ardac,79.4,True,48.4711,-124.0205
+BC221,Ootsa Lake,,British Columbia,CA,53.8068,-126.042,ardac,123.4,False,53.4186,-129.0759
+BC222,East Sooke,,British Columbia,CA,48.3645,-123.686,ardac,3.3,True,48.3515,-123.909
+BC223,Saanichton,,British Columbia,CA,48.6,-123.417,ardac,3.0,True,48.5928,-123.8909
+BC224,Yreka,,British Columbia,CA,50.4638,-127.558,ardac,0.4,True,50.4427,-127.7898
+BC225,Roosville,,British Columbia,CA,49.0236,-115.047,ardac,540.0,False,,
+BC226,Pacheedaht,,British Columbia,CA,48.581,-124.405,ardac,1.8,True,48.5665,-124.6288
+BC227,Mud River,,British Columbia,CA,53.7612,-123.012,ardac,283.0,False,50.9651,-126.3298
+BC228,Big Lake Ranch,,British Columbia,CA,52.4049,-121.876,ardac,261.3,False,50.8033,-126.1926
+BC229,Ruby Creek,,British Columbia,CA,49.3468,-121.597,ardac,92.0,True,48.5666,-123.8933
+BC230,Cherry Point,,British Columbia,CA,48.7277,-123.584,ardac,2.2,True,48.5487,-123.8165
+BC231,Neskonlith,,British Columbia,CA,50.7739,-119.716,ardac,268.8,False,48.5887,-123.9861
+BC232,Kimsquit,,British Columbia,CA,52.8296,-126.964,ardac,0.4,True,52.3019,-128.0087
+BC233,Whisky Creek,,British Columbia,CA,49.3082,-124.508,ardac,7.6,True,48.9658,-125.2479
+BC234,Lindell Beach,,British Columbia,CA,49.0333,-122.017,ardac,47.5,True,48.5724,-124.0292
+BC235,Nelway,,British Columbia,CA,49.0147,-117.273,ardac,380.1,False,48.1601,-123.6141
+BC236,Tchesinkut Lake,,British Columbia,CA,54.0823,-125.738,ardac,160.1,False,53.5294,-129.063
+BC237,Surrey,,British Columbia,CA,49.1745,-122.828,ardac,10.5,True,48.5165,-123.8443
+BC238,Nulki,,British Columbia,CA,53.9185,-124.197,ardac,220.5,False,52.407,-128.0386
+BC239,Brouse,,British Columbia,CA,50.2167,-117.75,ardac,377.3,False,48.4951,-124.0262
+BC240,Monte Lake,,British Columbia,CA,50.5254,-119.832,ardac,247.9,False,48.1589,-123.5858
+BC241,Miworth,,British Columbia,CA,53.9399,-122.949,ardac,294.1,False,52.2852,-128.19
+BC242,Hornby Island,,British Columbia,CA,49.5227,-124.642,ardac,0.7,True,48.8453,-125.1375
+BC244,Powder King,,British Columbia,CA,55.3505,-122.615,ardac,399.6,False,53.5245,-128.8759
+BC245,Clearwater,,British Columbia,CA,51.65,-120.033,ardac,309.8,False,50.9595,-126.1552
+BC246,Bouchie Lake,,British Columbia,CA,53.0262,-122.597,ardac,279.0,False,50.9042,-126.148
+BC247,Cayoose Creek,,British Columbia,CA,50.6721,-121.932,ardac,139.3,False,48.5474,-123.8381
+BC248,Marilla,,British Columbia,CA,53.7,-125.85,ardac,121.8,False,53.4821,-128.8895
+BC249,Pinchi Lake,,British Columbia,CA,54.6272,-124.404,ardac,261.7,False,53.4272,-128.8769
+BC250,Stewardson Inlet,,British Columbia,CA,49.4217,-126.316,ardac,4.0,True,49.4042,-126.2889
+BC251,East Pine,,British Columbia,CA,55.7167,-121.217,ardac,493.2,False,53.4368,-128.9723
+BC252,Sinkut River,,British Columbia,CA,53.9538,-123.857,ardac,241.6,False,52.2833,-127.9786
+BC253,Woodcock,,British Columbia,CA,55.0667,-128.233,ardac,89.0,True,54.6669,-130.1915
+BC254,Rose Prairie,,British Columbia,CA,56.5087,-120.783,ardac,552.8,False,53.4174,-128.9383
+BC255,Qualicum Bay,,British Columbia,CA,49.4045,-124.633,ardac,0.8,True,48.8933,-125.1243
+BC256,Notch Hill,,British Columbia,CA,50.8528,-119.435,ardac,290.2,False,48.5173,-123.9831
+BC257,Chilliwack,,British Columbia,CA,49.175,-121.942,ardac,62.4,True,48.5492,-123.9682
+BC258,Braeloch,,British Columbia,CA,49.7833,-119.517,ardac,244.3,False,48.6079,-123.9096
+BC259,Prince George,,British Columbia,CA,53.9116,-122.776,ardac,303.4,False,52.4299,-128.0284
+BC260,Ehatisaht,,British Columbia,CA,49.8833,-126.85,ardac,0.3,True,49.8637,-127.0792
+BC261,Nukko Lake,,British Columbia,CA,54.0833,-122.983,ardac,298.8,False,52.4268,-128.24
+BC262,Premier Lake,,British Columbia,CA,49.9517,-115.659,ardac,515.1,False,,
+BC263,Westwold,,British Columbia,CA,50.4679,-119.747,ardac,250.4,False,48.6138,-123.9738
+BC264,Brookswood,,British Columbia,CA,49.0718,-122.666,ardac,10.4,True,48.5867,-123.9238
+BC265,Birken,,British Columbia,CA,50.4833,-122.617,ardac,91.5,True,48.5045,-123.9804
+BC266,Silver Creek,,British Columbia,CA,50.5961,-119.365,ardac,281.0,False,48.5957,-123.8772
+BC267,Sun Peaks,,British Columbia,CA,50.878,-119.908,ardac,264.0,False,48.5148,-123.9353
+BC268,Ditidaht,,British Columbia,CA,48.8091,-124.67,ardac,21.0,True,48.794,-124.8948
+BC269,Smithers Landing,,British Columbia,CA,55.054,-126.526,ardac,175.9,False,53.5112,-128.9895
+BC270,Rivers Inlet,,British Columbia,CA,51.6842,-127.259,ardac,0.2,True,51.6599,-127.7647
+BC271,Grassy Plains,,British Columbia,CA,53.967,-125.888,ardac,143.9,False,53.4173,-128.9236
+BC272,Englishman River South,,British Columbia,CA,49.2779,-124.275,ardac,5.9,True,48.7708,-125.0196
+BC273,Yaku,,British Columbia,CA,54.1923,-133.003,ardac,0.3,True,54.1766,-132.9701
+BC274,Tower Lake,,British Columbia,CA,56.0155,-120.561,ardac,546.0,False,52.2905,-128.057
+BC275,Albert Head,,British Columbia,CA,48.3911,-123.503,ardac,1.0,True,48.2121,-123.7341
+BC276,Tlell,,British Columbia,CA,53.5667,-131.933,ardac,0.8,True,53.5507,-131.901
+BC277,North Delta,,British Columbia,CA,49.1547,-122.911,ardac,7.4,True,48.4959,-123.9257
+BC278,Boat Basin,,British Columbia,CA,49.4792,-126.425,ardac,0.9,True,49.4617,-126.3979
+BC279,Kluskus,,British Columbia,CA,53.0904,-124.493,ardac,167.9,False,52.076,-127.7379
+BC280,Richmond,,British Columbia,CA,49.1539,-123.158,ardac,3.1,True,48.4882,-123.92
+BC281,Tsawwassen,,British Columbia,CA,49.0357,-123.094,ardac,1.1,True,48.5367,-123.8474
+BC282,Tahsis,,British Columbia,CA,49.9303,-126.655,ardac,3.6,True,49.7451,-126.8813
+BC283,Sunset Prairie,,British Columbia,CA,55.8397,-120.764,ardac,524.0,False,52.2691,-128.2196
+BC284,Vancouver,,British Columbia,CA,49.2448,-123.115,ardac,4.4,True,48.5795,-123.8791
+BC285,Port Neville,,British Columbia,CA,50.4993,-126.081,ardac,0.6,True,50.4817,-126.0534
+BC286,Penelakut,,British Columbia,CA,48.9749,-123.641,ardac,4.2,True,48.4633,-123.8894
+BC287,Moberly Lake,,British Columbia,CA,55.8333,-121.758,ardac,475.8,False,53.5346,-128.9444
+BC288,Holmwood,,British Columbia,CA,50.6189,-119.954,ardac,245.4,False,48.5862,-123.9425
+BC289,Peachland,,British Columbia,CA,49.7786,-119.736,ardac,228.6,False,48.5897,-123.8726
+BC291,Halfmoon Bay,,British Columbia,CA,49.5146,-123.909,ardac,1.1,True,48.4994,-123.9276
+BC292,Garibaldi Highlands,,British Columbia,CA,49.7417,-123.135,ardac,4.8,True,48.5781,-123.9291
+BC293,Williams Beach,,British Columbia,CA,49.834,-125.061,ardac,13.2,True,49.3221,-126.0596
+BC294,Crowsnest,,British Columbia,CA,49.6368,-114.695,ardac,577.5,False,,
+BC295,Fosthall,,British Columbia,CA,50.3488,-117.935,ardac,367.6,False,48.6121,-123.9715
+BC296,Nemaiah Valley,,British Columbia,CA,51.4776,-123.887,ardac,89.1,True,50.8163,-126.2509
+BC297,Barrett Lake,,British Columbia,CA,54.45,-126.75,ardac,129.0,False,53.5714,-128.9411
+BC298,Wistaria,,British Columbia,CA,53.8474,-126.28,ardac,119.5,False,53.4606,-129.036
+BC299,Blue River,,British Columbia,CA,52.1061,-119.306,ardac,381.0,False,50.9565,-126.3
+BC300,Aldergrove,,British Columbia,CA,49.0576,-122.471,ardac,21.7,True,48.5799,-123.9801
+BC301,Penticton,,British Columbia,CA,49.4822,-119.585,ardac,228.4,False,48.1326,-123.7078
+BC302,Upper Fraser,,British Columbia,CA,54.1082,-121.931,ardac,362.9,False,52.3205,-128.0431
+BC303,Foreman,,British Columbia,CA,53.95,-122.683,ardac,310.7,False,52.302,-128.2072
+BC304,Kersley,,British Columbia,CA,52.8358,-122.418,ardac,269.0,False,50.8847,-126.2251
+BC305,Upper Halfway,,British Columbia,CA,56.5176,-122.226,ardac,465.7,False,54.6666,-130.1186
+BC306,Shackan,,British Columbia,CA,50.284,-121.178,ardac,152.4,False,48.5218,-123.8297
+BC307,Health Bay,,British Columbia,CA,50.6939,-126.597,ardac,1.0,True,50.6765,-126.5691
+BC308,Denman Island,,British Columbia,CA,49.5358,-124.813,ardac,1.0,True,48.8557,-125.0549
+BC309,Port Coquitlam,,British Columbia,CA,49.2567,-122.762,ardac,12.6,True,48.6044,-124.0308
+BC310,Elkford,,British Columbia,CA,50.0123,-114.93,ardac,567.7,False,,
+BC311,Valleyview,,British Columbia,CA,50.6738,-120.25,ardac,231.2,False,48.4598,-123.9871
+BC312,McLure,,British Columbia,CA,51.0539,-120.225,ardac,257.5,False,48.5089,-124.0078
+BC313,Riske Creek,,British Columbia,CA,51.9596,-122.518,ardac,196.5,False,50.8343,-126.252
+BC314,Cedar,,British Columbia,CA,49.1043,-123.854,ardac,2.7,True,48.5875,-123.8511
+BC315,Rogers Pass,,British Columbia,CA,51.3009,-117.521,ardac,431.8,False,48.5936,-123.9977
+BC316,Shawl Bay,,British Columbia,CA,50.8433,-126.56,ardac,0.3,True,50.8259,-126.532
+BC317,Cloverdale,,British Columbia,CA,49.1117,-122.725,ardac,11.0,True,48.4597,-123.9904
+BC318,Dugan Lake,,British Columbia,CA,52.1667,-121.925,ardac,243.1,False,50.8951,-126.2186
+BC319,Cobble Hill,,British Columbia,CA,48.6915,-123.585,ardac,2.9,True,48.5124,-123.8173
+BC321,Saseenos,,British Columbia,CA,48.3908,-123.669,ardac,6.4,True,48.3778,-123.8921
+BC322,Pritchard,,British Columbia,CA,50.6851,-119.812,ardac,257.8,False,48.4913,-123.8202
+BC323,Oweekeno,,British Columbia,CA,51.6853,-127.207,ardac,3.6,True,51.6613,-127.7127
+BC324,Old Fort,,British Columbia,CA,55.0376,-126.318,ardac,185.2,False,53.4922,-129.067
+BC325,Gang Ranch,,British Columbia,CA,51.5538,-122.351,ardac,182.6,False,50.9312,-126.3193
+BC326,Williams Lake,,British Columbia,CA,52.1415,-122.143,ardac,229.2,False,50.8625,-126.165
+BC327,View Royal,,British Columbia,CA,48.4583,-123.45,ardac,1.8,True,48.2795,-123.6816
+BC328,Hot Springs Cove,,British Columbia,CA,49.352,-126.26,ardac,1.8,True,49.3345,-126.233
+BC329,Shalalth,,British Columbia,CA,50.7294,-122.215,ardac,129.8,False,48.5953,-123.8607
+BC330,Winfield,,British Columbia,CA,50.0333,-119.402,ardac,257.5,False,48.53,-123.8366
+BC331,Tatogga,,British Columbia,CA,57.7163,-129.987,"ardac,ncr",174.5,False,57.077,-132.9471
+BC332,Ucluelet,,British Columbia,CA,48.9399,-125.528,ardac,0.9,True,48.9222,-125.5015
+BC333,Fanny Bay,,British Columbia,CA,49.4901,-124.813,ardac,1.2,True,48.81,-125.0547
+BC334,South Wellington,,British Columbia,CA,49.0941,-123.887,ardac,4.6,True,48.5773,-123.8837
+BC335,Yahk,,British Columbia,CA,49.085,-116.082,ardac,466.7,False,,
+BC336,Musqueam,,British Columbia,CA,49.2298,-123.2,ardac,1.1,True,48.5639,-123.9626
+BC337,Oona River,,British Columbia,CA,53.9469,-130.256,ardac,1.4,True,53.9305,-130.2244
+BC338,Walnut Grove,,British Columbia,CA,49.1806,-122.648,ardac,19.5,True,48.5295,-123.9163
+BC339,Okanagan Mission,,British Columbia,CA,49.8167,-119.483,ardac,247.3,False,48.4764,-123.8871
+BC340,Bob Quinn Lake,,British Columbia,CA,56.9722,-130.247,ardac,106.7,False,55.8946,-131.8795
+BC341,Fort Rupert,,British Columbia,CA,50.6889,-127.42,ardac,2.4,True,50.6717,-127.3918
+BC342,Boswell,,British Columbia,CA,49.4503,-116.764,ardac,426.3,False,48.1377,-123.699
+BC343,Lakelse Lake,,British Columbia,CA,54.3804,-128.546,ardac,39.2,True,53.524,-129.0231
+BC344,Blowhole,,British Columbia,CA,49.8292,-126.676,ardac,0.5,True,49.6439,-126.9018
+BC345,Burnaby,,British Columbia,CA,49.2521,-122.962,ardac,3.3,True,48.593,-123.9781
+BC346,Mackenzie,,British Columbia,CA,55.3353,-123.096,ardac,376.6,False,53.4927,-129.0532
+BC347,Ogden,,British Columbia,CA,50.7819,-122.822,ardac,99.6,True,50.8093,-126.2019
+BC348,Parksville,,British Columbia,CA,49.3227,-124.327,ardac,1.5,True,48.8153,-125.0717
+BC349,Port Renfrew,,British Columbia,CA,48.5574,-124.405,ardac,0.6,True,48.5429,-124.6287
+BC350,Chetwynd,,British Columbia,CA,55.6949,-121.619,ardac,472.1,False,53.5633,-129.0803
+BC351,Wasa,,British Columbia,CA,49.7833,-115.733,ardac,506.2,False,,
+BC352,Alice Arm,,British Columbia,CA,55.4728,-129.478,ardac,0.5,True,54.9123,-130.8452
+BC353,New Westminster,,British Columbia,CA,49.2167,-122.917,ardac,7.9,True,48.5579,-123.9329
+BC354,Blaeberry,,British Columbia,CA,51.4333,-117.067,ardac,466.6,False,48.5911,-123.8481
+BC355,Shutty Bench,,British Columbia,CA,49.9629,-116.907,ardac,428.6,False,48.1355,-123.6874
+BC356,Pope Landing,,British Columbia,CA,49.6145,-124.048,ardac,1.0,True,48.9455,-125.0564
+BC358,Fair Harbour,,British Columbia,CA,50.0565,-127.101,ardac,4.4,True,50.0364,-127.331
+BC359,Butedale,,British Columbia,CA,53.15,-128.7,ardac,2.3,True,53.1194,-129.2222
+BC360,Lang Bay,,British Columbia,CA,49.7792,-124.346,ardac,0.8,True,48.9396,-125.1043
+BC361,Yarksis,,British Columbia,CA,49.1654,-125.971,ardac,1.1,True,49.1478,-125.9442
+BC362,Gray Creek,,British Columbia,CA,49.6333,-116.783,ardac,428.6,False,48.1526,-123.752
+BC363,Vedder Crossing,,British Columbia,CA,49.1062,-121.971,ardac,55.4,True,48.4799,-123.9939
+BC364,Vidette,,British Columbia,CA,51.1667,-120.9,ardac,229.0,False,48.5872,-123.905
+BC365,Takysie Lake,,British Columbia,CA,53.8833,-125.867,ardac,137.0,False,53.4995,-128.9082
+BC366,Kedleston,,British Columbia,CA,50.3167,-119.183,ardac,281.3,False,48.495,-123.9176
+BC367,Buckley Bay,,British Columbia,CA,49.5333,-124.857,ardac,2.2,True,48.8531,-125.0982
+BC368,Isle Pierre,,British Columbia,CA,53.95,-123.25,ardac,276.6,False,52.2877,-128.2089
+BC369,Seton Portage,,British Columbia,CA,50.7069,-122.289,ardac,124.0,False,48.5717,-123.9306
+BC370,Aleza Lake,,British Columbia,CA,54.1143,-122.034,ardac,356.8,False,52.3214,-128.1423
+BC371,Blind Bay,,British Columbia,CA,50.8833,-119.383,ardac,295.1,False,48.5499,-123.9367
+BC372,Cherry Creek,,British Columbia,CA,49.2827,-124.787,ardac,4.3,True,48.937,-125.2727
+BC373,Pauquachin,,British Columbia,CA,48.6204,-123.453,ardac,1.6,True,48.6131,-123.9271
+BC374,Donald Landing,,British Columbia,CA,54.4833,-125.65,ardac,195.6,False,53.4365,-128.9728
+BC375,Headquarters,,British Columbia,CA,49.7646,-125.115,ardac,13.4,True,49.2521,-125.8581
+BC376,Belcarra,,British Columbia,CA,49.3182,-122.928,ardac,1.1,True,48.4931,-123.9532
+BC377,Ceepeecee,,British Columbia,CA,49.8732,-126.711,ardac,0.6,True,49.6878,-126.9368
+BC378,Seymour Arm,,British Columbia,CA,51.2484,-118.94,ardac,343.2,False,48.6065,-123.8193
+BC379,Cheam,,British Columbia,CA,49.1942,-121.776,ardac,72.5,True,48.5765,-124.055
+BC380,Sandspit,,British Columbia,CA,53.2479,-131.814,ardac,0.6,True,53.3968,-131.805
+BC381,Kelowna,,British Columbia,CA,49.8833,-119.483,ardac,248.5,False,48.543,-123.8934
+BC382,Valemount,,British Columbia,CA,52.8305,-119.265,ardac,434.3,False,50.8523,-126.1062
+BC383,Secret Cove,,British Columbia,CA,49.5363,-123.952,ardac,1.8,True,48.5211,-123.9696
+BC384,Winlaw,,British Columbia,CA,49.6144,-117.55,ardac,374.0,False,48.2378,-123.7394
+BC385,Fort Ware,,British Columbia,CA,57.4252,-125.633,"ardac,ncr",313.2,False,55.7979,-131.5251
+BC386,Dashwood,,British Columbia,CA,49.3621,-124.506,ardac,3.3,True,48.8535,-125.2494
+BC387,Estevan Point,,British Columbia,CA,49.3782,-126.534,ardac,0.5,True,49.3607,-126.5069
+BC388,Grand Forks,,British Columbia,CA,49.029,-118.453,ardac,297.3,False,48.2549,-123.7729
+BC389,Williamsons Landing,,British Columbia,CA,49.4497,-123.469,ardac,1.4,True,48.6114,-123.9877
+BC390,Cinnabar Valley,,British Columbia,CA,49.1033,-123.926,ardac,3.6,True,48.5865,-123.9223
+BC391,Bull Harbour,,British Columbia,CA,50.9177,-127.931,ardac,1.0,True,50.9006,-127.9024
+BC392,Naramata,,British Columbia,CA,49.5942,-119.587,ardac,232.7,False,48.2446,-123.7194
+BC393,Brem River,,British Columbia,CA,50.4392,-124.671,ardac,0.9,True,50.5953,-126.2045
+BC394,Granite Bay,,British Columbia,CA,50.2333,-125.3,ardac,3.6,True,50.5493,-126.3102
+BC395,Princeton,,British Columbia,CA,49.4524,-120.514,ardac,165.1,False,48.5542,-123.8425
+BC396,Yankee Flats,,British Columbia,CA,50.5164,-119.375,ardac,276.6,False,48.5156,-123.8791
+BC397,Gravelle Ferry,,British Columbia,CA,52.85,-122.233,ardac,278.2,False,50.9045,-126.3124
+BC398,Colwood,,British Columbia,CA,48.4321,-123.497,ardac,3.2,True,48.2532,-123.7283
+BC399,Glenrosa,,British Columbia,CA,49.8472,-119.667,ardac,234.7,False,48.1565,-123.587
+BC400,Westside,,British Columbia,CA,49.8822,-119.535,ardac,244.8,False,48.5398,-123.9437
+BC401,Alkali Lake,,British Columbia,CA,51.788,-122.227,ardac,203.9,False,50.8379,-126.2165
+BC402,Mansons Landing,,British Columbia,CA,50.0581,-124.98,ardac,1.6,True,50.5428,-126.2447
+BC403,Moha,,British Columbia,CA,50.8641,-122.17,ardac,140.8,False,50.9119,-126.0819
+BC404,Owen Bay,,British Columbia,CA,50.3169,-125.214,ardac,0.2,True,50.6337,-126.2255
+BC405,Springhouse,,British Columbia,CA,51.9667,-122.133,ardac,219.2,False,50.8539,-126.1402
+BC406,McKearney Ranch,,British Columbia,CA,56.6333,-122.467,ardac,454.0,False,54.6017,-130.3519
+BC407,Kanaka Bar,,British Columbia,CA,50.1127,-121.561,ardac,119.1,False,48.5028,-123.9329
+BC408,Midway,,British Columbia,CA,49.0071,-118.773,ardac,273.8,False,48.207,-123.5888
+BC409,108 Mile Ranch,,British Columbia,CA,51.7281,-121.351,ardac,246.6,False,50.8104,-126.1415
+BC410,Bloedel,,British Columbia,CA,50.1167,-125.383,ardac,2.5,True,50.5986,-126.1317
+BC411,Round Lake,,British Columbia,CA,54.6648,-126.923,ardac,129.7,False,53.4524,-129.0971
+BC412,Langford,,British Columbia,CA,48.4566,-123.497,ardac,4.1,True,48.2777,-123.7285
+BC413,Beaverley,,British Columbia,CA,53.8172,-122.881,ardac,293.2,False,52.3312,-128.118
+BC414,Arras,,British Columbia,CA,55.7535,-120.526,ardac,530.3,False,52.3628,-127.9952
+BC415,Sion,,British Columbia,CA,49.0207,-118.484,ardac,294.9,False,48.2451,-123.8024
+BC416,Trail,,British Columbia,CA,49.1,-117.7,ardac,352.8,False,48.215,-123.7953
+BC417,Shuswap Falls,,British Columbia,CA,50.294,-118.805,ardac,306.2,False,48.4989,-124.051
+BC418,Cedarside,,British Columbia,CA,52.7823,-119.25,ardac,431.6,False,50.8052,-126.0846
+BC419,Port Alberni,,British Columbia,CA,49.2417,-124.8,ardac,0.8,True,48.8959,-125.2852
+BC420,Brew Bay,,British Columbia,CA,49.7758,-124.371,ardac,1.2,True,48.936,-125.1288
+BC421,Port Hardy,,British Columbia,CA,50.7189,-127.507,ardac,1.2,True,50.7017,-127.4787
+BC422,Goose Bay,,British Columbia,CA,51.38,-127.657,ardac,2.1,True,51.3587,-127.8936
+BC423,Mooyah Bay,,British Columbia,CA,49.6295,-126.458,ardac,0.9,True,49.6107,-126.6861
+BC424,Iskut,,British Columbia,CA,57.8466,-129.983,"ardac,ncr",183.2,False,57.2072,-132.9532
+BC425,Kootenay Bay,,British Columbia,CA,49.6849,-116.866,ardac,423.9,False,48.1987,-123.8396
+BC426,Fireside,,British Columbia,CA,59.6705,-127.136,"ardac,ncr",400.9,False,57.9472,-133.6182
+BC427,Christian Valley,,British Columbia,CA,49.5513,-118.802,ardac,284.6,False,48.2505,-123.6975
+BC428,Vermilion Crossing,,British Columbia,CA,51.0333,-115.983,ardac,520.9,False,,
+BC429,Deer Park,,British Columbia,CA,49.4167,-118.05,ardac,333.9,False,48.1688,-123.6959
+BC430,Chilanko Forks,,British Columbia,CA,52.1199,-124.061,ardac,142.8,False,50.9585,-126.1884
+BC431,Heydon Bay,,British Columbia,CA,50.5781,-125.576,ardac,0.7,True,50.5613,-126.07
+BC432,North Vancouver,,British Columbia,CA,49.3142,-123.067,ardac,2.3,True,48.483,-123.8405
+BC433,Crescent Spur,,British Columbia,CA,53.5717,-120.695,ardac,407.0,False,50.8561,-126.2437
+BC434,Minstrel Island,,British Columbia,CA,50.6154,-126.308,ardac,1.7,True,50.5979,-126.2802
+BC435,Eddontenajon,,British Columbia,CA,57.8221,-129.958,"ardac,ncr",182.8,False,57.1833,-132.9268
+BC436,Pinchi,,British Columbia,CA,54.5706,-124.493,ardac,253.2,False,53.5328,-128.9689
+BC437,Attachie,,British Columbia,CA,56.2205,-121.423,ardac,509.6,False,53.4363,-128.9429
+BC438,Black Point,,British Columbia,CA,49.774,-124.394,ardac,1.0,True,48.934,-125.1513
+BC439,Salmon Arm,,British Columbia,CA,50.7,-119.267,ardac,292.3,False,48.5423,-124.0507
+BC440,Anglemont,,British Columbia,CA,50.9667,-119.167,ardac,312.9,False,48.4809,-123.997
+BC441,Decker Lake,,British Columbia,CA,54.3,-125.833,ardac,174.7,False,53.4207,-128.8708
+BC442,New Aiyansh,,British Columbia,CA,55.2003,-129.072,ardac,39.0,True,54.6543,-130.1494
+BC443,Atlin,,British Columbia,CA,59.5679,-133.697,"ardac,ncr",93.6,True,58.6515,-134.7518
+BC444,Fort Fraser,,British Columbia,CA,54.06,-124.55,ardac,211.1,False,53.517,-129.0057
+BC445,Nak'azdli,,British Columbia,CA,54.4309,-124.248,ardac,253.2,False,53.5609,-129.0054
+BC446,Balfour,,British Columbia,CA,49.6283,-116.972,ardac,415.1,False,48.1304,-123.6862
+BC447,Kitseguecla,,British Columbia,CA,55.0857,-127.818,ardac,113.2,False,54.6735,-130.3548
+BC448,Sandon,,British Columbia,CA,49.9833,-117.233,ardac,406.9,False,48.1308,-123.7549
+BC449,Hope,,British Columbia,CA,49.3802,-121.43,ardac,103.8,False,48.6087,-123.9805
+BC450,Ferguson,,British Columbia,CA,50.6833,-117.483,ardac,408.5,False,48.4775,-123.8557
+BC451,Holberg,,British Columbia,CA,50.6623,-128.011,ardac,10.1,True,50.6452,-127.9825
+BC452,Sechelt,,British Columbia,CA,49.4794,-123.762,ardac,2.1,True,48.4691,-124.0328
+BC453,Skidegate,,British Columbia,CA,53.2715,-131.988,ardac,1.2,True,53.4204,-131.9796
+BC454,Lake Errock,,British Columbia,CA,49.2291,-122.012,ardac,60.2,True,48.6021,-124.0396
+BC455,Namgis,,British Columbia,CA,50.5919,-126.944,ardac,2.3,True,50.5746,-126.916
+BC456,Barriere,,British Columbia,CA,51.1819,-120.133,ardac,271.0,False,48.4739,-123.9385
+BC457,Tumbler Ridge,,British Columbia,CA,55.1333,-121.0,ardac,467.4,False,53.5248,-128.9831
+BC458,Cranbrook,,British Columbia,CA,49.5155,-115.759,ardac,499.4,False,,
+BC459,Hudson's Hope,,British Columbia,CA,56.0319,-121.907,ardac,477.8,False,53.5585,-129.1063
+BC460,Horseshoe Bay,,British Columbia,CA,49.3674,-123.273,ardac,0.9,True,48.5348,-124.0437
+BC461,Saltair,,British Columbia,CA,48.9571,-123.774,ardac,1.3,True,48.6114,-124.0139
+BC462,Shulus,,British Columbia,CA,50.1373,-120.853,ardac,163.5,False,48.5595,-123.9991
+BC463,Boring Ranch,,British Columbia,CA,56.95,-122.7,ardac,450.2,False,54.5823,-130.3099
+BC464,Gillies Bay,,British Columbia,CA,49.6833,-124.483,ardac,1.2,True,48.8426,-125.2372
+BC465,Renata,,British Columbia,CA,49.4268,-118.107,ardac,330.1,False,48.1759,-123.7524
+BC466,Colleymount,,British Columbia,CA,54.0333,-126.15,ardac,140.8,False,53.4841,-128.9081
+BC467,Dawsons Landing,,British Columbia,CA,51.5805,-127.586,ardac,0.5,True,51.5594,-127.8237
+BC468,Hilliers,,British Columbia,CA,49.3068,-124.483,ardac,6.8,True,48.9646,-125.223
+BC469,Clairmont,,British Columbia,CA,56.2559,-120.9,ardac,542.2,False,53.4895,-129.021
+BC470,Summerland,,British Columbia,CA,49.6054,-119.673,ardac,227.4,False,48.2525,-123.8038
+BC471,Tintagel,,British Columbia,CA,54.2029,-125.593,ardac,176.5,False,53.4886,-128.9181
+BC472,Heriot Bay,,British Columbia,CA,50.1002,-125.213,ardac,0.3,True,50.583,-126.2204
+BC473,Mitchell Bay,,British Columbia,CA,50.6333,-126.85,ardac,0.6,True,50.6159,-126.822
+BC474,Smithers,,British Columbia,CA,54.7825,-127.166,ardac,125.1,False,53.5733,-129.0599
+BC475,Genelle,,British Columbia,CA,49.2139,-117.691,ardac,355.4,False,48.1628,-123.8088
+BC476,Twidwell Bend,,British Columbia,CA,55.6155,-121.571,ardac,468.8,False,53.4871,-129.0209
+BC477,Oak Bay,,British Columbia,CA,48.4301,-123.309,ardac,1.8,True,48.2571,-123.789
+BC478,Middle River,,British Columbia,CA,54.8761,-125.13,ardac,243.4,False,53.4995,-129.0356
+BC479,Lone Butte,,British Columbia,CA,51.5579,-121.216,ardac,240.9,False,50.8117,-126.2535
+BC480,Yekooche,,British Columbia,CA,54.5992,-125.072,ardac,232.1,False,53.5555,-128.9773
+BC481,Prince Rupert,,British Columbia,CA,54.315,-130.315,ardac,1.4,True,54.2882,-130.5669
+BC482,Baldy Hughes,,British Columbia,CA,53.6246,-122.933,ardac,283.1,False,51.9758,-127.8676
+BC483,Nanoose Bay,,British Columbia,CA,49.2667,-124.2,ardac,1.7,True,48.7601,-124.9452
+BC484,Quathiaski Cove,,British Columbia,CA,50.0454,-125.21,ardac,0.9,True,50.5283,-126.2162
+BC485,Whistler,,British Columbia,CA,50.1215,-122.962,ardac,48.7,True,48.466,-124.0395
+BC486,Bulkley House,,British Columbia,CA,55.703,-126.228,ardac,205.7,False,54.621,-130.207
+BC487,Madeira Park,,British Columbia,CA,49.6157,-124.02,ardac,1.2,True,48.6007,-124.0362
+BC488,Campbell River,,British Columbia,CA,50.0167,-125.242,ardac,1.4,True,50.4993,-126.2479
+BC489,Woss,,British Columbia,CA,50.2167,-126.6,ardac,29.3,True,50.5311,-126.5766
+BC490,Invermere,,British Columbia,CA,50.5007,-116.038,ardac,502.9,False,,
+BC491,Darfield,,British Columbia,CA,51.3,-120.183,ardac,276.3,False,48.5906,-123.9951
+BC492,Deroche,,British Columbia,CA,49.1914,-122.081,ardac,53.8,True,48.5583,-123.8565
+BC493,Fort St. John,,British Columbia,CA,56.2461,-120.845,ardac,545.5,False,53.4833,-128.9681
+BC494,Cecil Lake,,British Columbia,CA,56.306,-120.577,ardac,562.6,False,52.4131,-128.114
+BC495,Quesnel,,British Columbia,CA,52.9806,-122.504,ardac,278.4,False,50.8609,-126.3184
+BC496,Osland,,British Columbia,CA,54.1333,-130.167,ardac,1.2,True,54.1168,-130.1353
+BC497,Manson Creek,,British Columbia,CA,55.6667,-124.483,ardac,314.7,False,53.4701,-128.9943
+BC498,Pemberton,,British Columbia,CA,50.3167,-122.8,ardac,72.3,True,48.4969,-123.8951
+BC499,Penny,,British Columbia,CA,53.8474,-121.284,ardac,394.3,False,50.9411,-126.3003
+BC500,Canal Flats,,British Columbia,CA,50.1576,-115.817,ardac,509.6,False,,
+BC501,Carmi,,British Columbia,CA,49.5009,-119.122,ardac,260.8,False,48.1807,-123.7552
+BC502,Kemano,,British Columbia,CA,53.5573,-127.933,ardac,14.1,True,53.5172,-129.0186
+BC503,Erie,,British Columbia,CA,49.1912,-117.337,ardac,380.6,False,48.1659,-123.7084
+BC504,Cowichan Bay,,British Columbia,CA,48.7371,-123.62,ardac,1.0,True,48.558,-123.8524
+BC505,Broman Lake,,British Columbia,CA,54.4203,-126.135,ardac,165.6,False,53.5405,-128.8959
+BC506,Murrayville,,British Columbia,CA,49.0904,-122.616,ardac,14.4,True,48.6059,-123.8749
+BC507,Coldwater,,British Columbia,CA,50.0358,-120.859,ardac,158.3,False,48.4577,-123.9981
+BC508,Terrace,,British Columbia,CA,54.5234,-128.598,ardac,54.9,True,54.6237,-130.296
+BC509,Mill Bay,,British Columbia,CA,48.6449,-123.556,ardac,1.2,True,48.4708,-124.0372
+BC510,Whaletown,,British Columbia,CA,50.1012,-125.047,ardac,0.6,True,50.5851,-126.3136
+BC511,Taylor,,British Columbia,CA,56.1544,-120.68,ardac,549.9,False,52.4217,-128.1892
+BC512,Weewanie,,British Columbia,CA,53.6917,-128.79,ardac,1.8,True,53.5028,-129.0271
+BC513,Castlegar,,British Columbia,CA,49.3218,-117.66,ardac,359.7,False,48.2723,-123.7925
+BC514,Kleena Kleene,,British Columbia,CA,51.9504,-124.847,ardac,109.1,False,51.1093,-126.4247
+BC515,Woodsdale,,British Columbia,CA,50.0495,-119.39,ardac,258.8,False,48.5467,-123.8265
+BC516,Manning Park,,British Columbia,CA,49.0668,-120.782,ardac,131.2,False,48.1554,-123.8306
+BC517,Fern Ridge,,British Columbia,CA,49.0483,-122.656,ardac,9.2,True,48.5633,-123.9133
+BC518,Kamloops,,British Columbia,CA,50.6783,-120.348,ardac,225.8,False,48.4562,-123.8317
+BC519,Wilson Landing,,British Columbia,CA,49.9821,-119.497,ardac,249.6,False,48.4749,-123.9235
+BC520,Caycuse,,British Columbia,CA,48.8943,-124.366,ardac,36.4,True,48.7166,-124.8467
+BC521,McLeese Lake,,British Columbia,CA,52.4137,-122.296,ardac,240.2,False,50.9639,-126.0737
+BC522,Grantham,,British Columbia,CA,49.7628,-125.021,ardac,9.3,True,49.2512,-126.0185
+BC523,Beatton Ranch,,British Columbia,CA,56.7333,-122.583,ardac,449.9,False,54.5389,-130.1771
+BC524,Fauquier,,British Columbia,CA,49.8667,-118.067,ardac,345.9,False,48.1183,-123.7898
+BC525,Oyster River,,British Columbia,CA,49.8738,-125.129,ardac,6.7,True,49.3613,-126.1277
+BC526,Kuskonook,,British Columbia,CA,49.3,-116.65,ardac,431.8,False,48.1669,-123.8058
+BC527,Nicholson,,British Columbia,CA,51.2481,-116.901,ardac,468.6,False,48.5875,-123.9076
+BC528,Sunningdale,,British Columbia,CA,49.1167,-117.717,ardac,352.0,False,48.2307,-123.814
+BC529,Nelson,,British Columbia,CA,49.4975,-117.282,ardac,390.3,False,48.1421,-123.7122
+BC530,Chamiss Bay,,British Columbia,CA,50.0694,-127.287,ardac,0.8,True,50.0521,-127.2592
+BC531,Ladner,,British Columbia,CA,49.0917,-123.078,ardac,1.6,True,48.5928,-123.8325
+BC532,Tseshaht,,British Columbia,CA,49.268,-124.858,ardac,4.2,True,48.9201,-125.0915
+BC533,Metchosin,,British Columbia,CA,48.3756,-123.529,ardac,1.1,True,48.1966,-123.7599
+BC534,Saratoga Beach,,British Columbia,CA,49.8595,-125.116,ardac,8.6,True,49.3471,-126.1145
+BC535,Boston Bar,,British Columbia,CA,49.8624,-121.443,ardac,112.2,False,48.5921,-124.0407
+BC536,Skuppah,,British Columbia,CA,50.1885,-121.578,ardac,123.5,False,48.5784,-123.9531
+BC537,Bamfield,,British Columbia,CA,48.8312,-125.133,ardac,2.1,True,48.8134,-125.1067
+BC538,Anmore,,British Columbia,CA,49.3115,-122.849,ardac,4.0,True,48.4872,-123.8754
+BC539,Snug Cove,,British Columbia,CA,49.3829,-123.336,ardac,0.4,True,48.5452,-123.8564
+BC540,Wadhams,,British Columbia,CA,51.5171,-127.519,ardac,0.2,True,51.4961,-127.7564
+BC541,Brisco,,British Columbia,CA,50.8333,-116.267,ardac,495.5,False,48.2244,-123.746
+BC542,Buick,,British Columbia,CA,56.7625,-121.27,ardac,528.6,False,53.4811,-129.1434
+BC543,Hartley Bay,,British Columbia,CA,53.4203,-129.256,ardac,1.2,True,53.4036,-129.2252
+BC544,Ranchero,,British Columbia,CA,50.657,-119.198,ardac,294.6,False,48.5022,-123.9807
+BC545,Coldstream,,British Columbia,CA,50.2292,-119.227,ardac,275.3,False,48.5719,-123.9438
+BC546,Clo-oose,,British Columbia,CA,48.6629,-124.822,ardac,1.8,True,48.6475,-125.046
+BC547,Loos,,British Columbia,CA,53.6021,-120.719,ardac,408.3,False,50.8853,-126.27
+BC548,Swartz Bay,,British Columbia,CA,48.6827,-123.413,ardac,0.7,True,48.5093,-123.8951
+BC549,Cedarvale,,British Columbia,CA,55.0194,-128.329,ardac,82.7,True,54.6181,-130.2843
+BC550,Homalco,,British Columbia,CA,49.9526,-125.243,ardac,3.3,True,49.4391,-126.2421
+BC551,Brentwood Bay,,British Columbia,CA,48.5683,-123.456,ardac,1.4,True,48.5609,-123.9295
+BC552,Tzeachten,,British Columbia,CA,49.115,-121.939,ardac,57.8,True,48.4893,-123.9627
+BC553,Victoria,,British Columbia,CA,48.4334,-123.362,ardac,3.7,True,48.2548,-123.5938
+BC554,Moresby Camp,,British Columbia,CA,53.0475,-132.029,ardac,2.5,True,52.8523,-132.2479
+BC555,Roberts Creek,,British Columbia,CA,49.426,-123.646,ardac,7.8,True,48.5822,-123.9116
+BC556,Lantzville,,British Columbia,CA,49.2532,-124.082,ardac,0.5,True,48.7475,-124.8283
+BC557,Greenwood,,British Columbia,CA,49.0949,-118.676,ardac,282.3,False,48.1383,-123.7586
+BC558,Stewart,,British Columbia,CA,55.9418,-129.984,"ardac,ncr",0.8,True,55.7056,-131.4046
+BC559,Takla Landing,,British Columbia,CA,55.483,-125.974,ardac,220.8,False,54.565,-130.2404
+BC560,70 Mile House,,British Columbia,CA,51.3084,-121.396,ardac,213.9,False,50.887,-126.1425
+BC561,Windermere,,British Columbia,CA,50.4667,-115.983,ardac,506.0,False,,
+BC562,Perow,,British Columbia,CA,54.5202,-126.44,ardac,150.5,False,53.4753,-128.9097
+BC563,Yuquot,,British Columbia,CA,49.5957,-126.624,ardac,1.1,True,49.5783,-126.5967
+BC564,Sinclair Mills,,British Columbia,CA,54.0167,-121.683,ardac,374.6,False,51.095,-126.4274
+BC565,Retallack,,British Columbia,CA,50.0414,-117.14,ardac,415.2,False,48.1943,-123.6739
+BC566,Cumberland,,British Columbia,CA,49.622,-125.026,ardac,6.2,True,48.9415,-125.2652
+BC567,Dolphin Beach,,British Columbia,CA,49.2884,-124.147,ardac,2.1,True,48.7822,-124.8931
+BC568,Creston,,British Columbia,CA,49.1006,-116.507,ardac,436.8,False,48.1441,-123.6287
+BC569,Baynes Lake,,British Columbia,CA,49.2333,-115.217,ardac,531.9,False,,
+BC570,Lower Post,,British Columbia,CA,59.9249,-128.486,"ardac,ncr",339.9,False,58.1971,-134.0085
+BC571,Skookumchuck,,British Columbia,CA,49.943,-122.408,ardac,60.5,True,48.4694,-123.9901
+BC572,Harrison Mills,,British Columbia,CA,49.2559,-121.949,ardac,65.6,True,48.4638,-123.9857
+BC573,Langley,,British Columbia,CA,49.1038,-122.659,ardac,13.2,True,48.6188,-123.9178
+BC574,Gold Bridge,,British Columbia,CA,50.85,-122.833,ardac,104.4,False,50.877,-126.218
+BC575,Monte Creek,,British Columbia,CA,50.6487,-119.958,ardac,246.9,False,48.6159,-123.9489
+BC576,Marktosis,,British Columbia,CA,49.2786,-126.058,ardac,0.4,True,49.261,-126.0311
+BC577,Masset,,British Columbia,CA,54.0174,-132.147,ardac,0.2,True,54.0015,-132.1146
+BC578,Sturdies Bay,,British Columbia,CA,48.8792,-123.319,ardac,0.5,True,48.54,-123.8113
+BC579,Telegraph Creek,,British Columbia,CA,57.9018,-131.166,"ardac,ncr",116.2,False,57.1414,-132.8704
+BC580,Shelter Point,,British Columbia,CA,49.9403,-125.191,ardac,0.4,True,49.4273,-126.1905
+BC581,Westmount,,British Columbia,CA,49.3439,-123.209,ardac,0.3,True,48.5118,-123.9805
+BC582,McLeod Lake,,British Columbia,CA,54.985,-123.047,ardac,351.9,False,53.4765,-128.9805
+BC583,Nass Camp,,British Columbia,CA,55.2884,-129.006,ardac,35.6,True,54.568,-130.3559
+BC584,Alert Bay,,British Columbia,CA,50.5789,-126.92,ardac,3.8,True,50.5615,-126.892
+BC585,Ganges,,British Columbia,CA,48.8599,-123.507,ardac,0.7,True,48.5198,-123.9977
+BC586,Hullcar,,British Columbia,CA,50.503,-119.27,ardac,282.9,False,48.5114,-124.0267
+BC587,Van Anda,,British Columbia,CA,49.7583,-124.55,ardac,1.0,True,48.9153,-125.0527
+BC588,Sumas,,British Columbia,CA,49.0531,-122.193,ardac,40.1,True,48.5844,-123.9545
+BC589,McDame,,British Columbia,CA,59.1856,-129.225,"ardac,ncr",271.0,False,57.9838,-133.7884
+BC590,West Popkum,,British Columbia,CA,49.1822,-121.773,ardac,71.8,True,48.5645,-124.0514
+BC591,Simpson Ranch,,British Columbia,CA,56.6,-122.433,ardac,455.2,False,54.5707,-130.3133
+BC592,Shelley,,British Columbia,CA,54.0,-122.617,ardac,316.8,False,52.3549,-128.1503
+BC593,River Jordan,,British Columbia,CA,48.4221,-124.05,ardac,6.2,True,48.404,-124.0244
+BC594,D'Arcy,,British Columbia,CA,50.55,-122.483,ardac,103.4,False,48.5731,-123.854
+BC595,Lax Kw'alaams,,British Columbia,CA,54.55,-130.433,ardac,0.5,True,54.5336,-130.4009
+BC596,Fernie,,British Columbia,CA,49.5068,-115.069,ardac,548.7,False,,
+BC597,Sayward,,British Columbia,CA,50.377,-125.952,ardac,1.9,True,50.5252,-126.1848
+BC598,Harrop,,British Columbia,CA,49.6016,-117.053,ardac,408.8,False,48.2651,-123.7527
+BC599,Field,,British Columbia,CA,51.3945,-116.482,ardac,501.8,False,48.6039,-124.0443
+BC600,Tuwanek,,British Columbia,CA,49.5442,-123.757,ardac,0.5,True,48.534,-124.0283
+BC601,Blackwater,,British Columbia,CA,53.2875,-123.151,ardac,260.0,False,50.9845,-126.4298
+BC602,Lower Nicola,,British Columbia,CA,50.1597,-120.878,ardac,163.1,False,48.5813,-124.0247
+BC603,Big Bay,,British Columbia,CA,50.3972,-125.135,ardac,2.7,True,50.5488,-126.1472
+BC604,Elk Bay,,British Columbia,CA,50.2856,-125.436,ardac,0.3,True,50.6011,-126.1873
+BC605,Lac Le Jeune,,British Columbia,CA,50.4817,-120.493,ardac,204.9,False,48.5874,-123.9408
+BC606,Fairmont Hot Springs,,British Columbia,CA,50.3349,-115.856,ardac,512.5,False,,
+BC607,Douglas,,British Columbia,CA,49.0028,-122.736,ardac,1.7,True,48.5169,-123.9913
+BC608,Zeballos,,British Columbia,CA,49.987,-126.847,ardac,1.5,True,49.8014,-127.0728
+BC609,Juskatla,,British Columbia,CA,53.6102,-132.311,ardac,1.0,True,53.4145,-132.5315
+BC610,Little River,,British Columbia,CA,49.7377,-124.914,ardac,2.7,True,49.2271,-125.9122
+BC611,Port McNeill,,British Columbia,CA,50.586,-127.079,ardac,1.0,True,50.5687,-127.0509
+BC612,Fort St. James,,British Columbia,CA,54.4487,-124.256,ardac,254.2,False,53.5784,-129.0152
+BC613,McBride,,British Columbia,CA,53.3,-120.167,ardac,413.3,False,50.941,-126.2393
+BC614,Bennett,,British Columbia,CA,59.8451,-134.987,"ardac,ncr",46.4,True,58.6565,-134.9829
+BC615,Mirror Lake,,British Columbia,CA,49.8829,-116.902,ardac,426.5,False,48.2224,-123.663
+BC616,Enderby,,British Columbia,CA,50.5549,-119.141,ardac,293.5,False,48.5688,-123.9087
+BC617,Pitt Meadows,,British Columbia,CA,49.2172,-122.686,ardac,19.5,True,48.5657,-123.9548
+BC618,Farmington,,British Columbia,CA,55.9,-120.5,ardac,541.2,False,52.3447,-127.9892
+BC619,Sliammon,,British Columbia,CA,49.8962,-124.601,ardac,0.5,True,49.223,-125.8607
+BC620,Klemtu,,British Columbia,CA,52.5904,-128.527,ardac,0.9,True,52.5735,-128.4971
+BC621,Chemainus,,British Columbia,CA,48.9266,-123.721,ardac,0.6,True,48.581,-123.9611
+BC622,Earls Cove,,British Columbia,CA,49.75,-124.0,ardac,0.9,True,48.9174,-125.2671
+BC623,Granisle,,British Columbia,CA,54.8844,-126.213,ardac,181.3,False,53.5067,-128.9676
+BC624,Delkatla,,British Columbia,CA,54.0086,-132.129,ardac,0.3,True,53.9926,-132.0966
+BC625,Edgewood,,British Columbia,CA,49.7833,-118.15,ardac,337.3,False,48.1917,-123.6043
+BC626,Kaslo,,British Columbia,CA,49.9086,-116.911,ardac,426.7,False,48.2475,-123.6753
+BC627,Metlakatla,,British Columbia,CA,54.3375,-130.443,ardac,0.7,True,54.3211,-130.411
+BC628,Allison Lake,,British Columbia,CA,49.6889,-120.601,ardac,165.5,False,48.4555,-123.9589
+BC629,Port Washington,,British Columbia,CA,48.8166,-123.321,ardac,0.4,True,48.4773,-123.8126
+BC630,Black Creek,,British Columbia,CA,49.8369,-125.132,ardac,10.3,True,49.3244,-126.1299
+BC631,Usk,,British Columbia,CA,54.6333,-128.417,ardac,68.3,True,54.5709,-130.1025
+BC632,Duck Range,,British Columbia,CA,50.6192,-119.83,ardac,253.0,False,48.591,-123.8241
+BC633,Namu,,British Columbia,CA,51.8613,-127.86,ardac,1.3,True,51.8396,-128.0991
+BC634,Hasler Flat,,British Columbia,CA,55.6111,-121.967,ardac,449.5,False,53.4669,-129.1154
+BC635,Cranberry,,British Columbia,CA,49.8702,-124.523,ardac,2.9,True,48.8632,-125.2821
+BC636,Snake River,,British Columbia,CA,59.0364,-122.439,ardac,568.2,False,54.6866,-130.2564
+BC637,Cherryville,,British Columbia,CA,50.2407,-118.621,ardac,317.3,False,48.4543,-123.8686
+BC638,Remo,,British Columbia,CA,54.5007,-128.719,ardac,52.7,True,54.6093,-130.1303
+BC639,Kingcome,,British Columbia,CA,50.9742,-126.175,ardac,2.3,True,50.9567,-126.1471
+BC640,Giscome,,British Columbia,CA,54.0667,-122.367,ardac,334.7,False,52.4281,-128.1911
+BC641,Two Mile,,British Columbia,CA,55.2687,-127.627,ardac,118.9,False,54.6951,-130.1603
+BC642,Hunts Inlet,,British Columbia,CA,54.0668,-130.443,ardac,1.1,True,54.0504,-130.4112
+BC643,Robson,,British Columbia,CA,49.3375,-117.691,ardac,357.8,False,48.1198,-123.8323
+BC644,Willow River,,British Columbia,CA,54.0787,-122.474,ardac,328.8,False,52.2744,-128.0156
+BC645,Blind Channel,,British Columbia,CA,50.4167,-125.5,ardac,0.4,True,50.5659,-126.2531
+BC646,Sparwood,,British Columbia,CA,49.7326,-114.892,ardac,565.1,False,,
+BC647,Toosey,,British Columbia,CA,51.9323,-122.506,ardac,195.5,False,50.8074,-126.238
+BC648,Paterson,,British Columbia,CA,49.0067,-117.831,ardac,340.5,False,48.2757,-123.656
+BC649,Duncan,,British Columbia,CA,48.7789,-123.702,ardac,4.3,True,48.5996,-123.9343
+BC650,Hixon,,British Columbia,CA,53.4204,-122.586,ardac,299.8,False,50.9666,-126.431
+BC651,Wardner,,British Columbia,CA,49.417,-115.429,ardac,521.5,False,,
+BC652,Pinantan Lake,,British Columbia,CA,50.7264,-120.036,ardac,246.9,False,48.5246,-124.0369
+BC653,Garden Bay,,British Columbia,CA,49.6366,-124.034,ardac,2.1,True,48.6167,-123.8
+BC654,Musgrave Landing,,British Columbia,CA,48.7511,-123.546,ardac,0.6,True,48.5771,-124.0284
+BC655,Rumble Beach,,British Columbia,CA,50.4265,-127.482,ardac,1.0,True,50.4056,-127.7137
+BC656,Elko,,British Columbia,CA,49.3012,-115.111,ardac,541.0,False,,
+BC657,Canyon Hot Springs,,British Columbia,CA,51.1369,-117.852,ardac,403.0,False,48.5727,-124.0302
+BC658,Deep Cove,,British Columbia,CA,49.3232,-122.948,ardac,0.8,True,48.498,-123.973
+BC659,North Bend,,British Columbia,CA,49.8833,-121.45,ardac,112.6,False,48.6129,-124.0486
+BC660,Armstrong,,British Columbia,CA,50.4461,-119.199,ardac,285.1,False,48.4575,-123.9532
+BC661,Esquimalt,,British Columbia,CA,48.4289,-123.408,ardac,2.8,True,48.2502,-123.6397
+BC662,Endako,,British Columbia,CA,54.0875,-125.017,ardac,190.7,False,53.5421,-128.9107
+BC663,Radium Hot Springs,,British Columbia,CA,50.623,-116.08,ardac,502.7,False,,
+BC664,100 Mile House,,British Columbia,CA,51.6391,-121.294,ardac,242.7,False,50.8897,-126.0765
+BC665,Mapes,,British Columbia,CA,53.8833,-123.867,ardac,237.2,False,52.378,-127.9891
+BC666,Pleasantside,,British Columbia,CA,49.2934,-122.847,ardac,5.5,True,48.4691,-123.8731
+BC667,Procter,,British Columbia,CA,49.6156,-116.956,ardac,416.0,False,48.1187,-123.669
+BC668,Seaford,,British Columbia,CA,50.0833,-124.9,ardac,0.5,True,50.5689,-126.1645
+BC669,Malakwa,,British Columbia,CA,50.94,-118.789,ardac,334.5,False,48.4758,-123.8861
+BC670,Alexis Creek,,British Columbia,CA,52.0833,-123.283,ardac,166.9,False,50.9375,-126.218
+BC671,Canyon,,British Columbia,CA,49.0813,-116.443,ardac,440.9,False,,
+BC672,Fort Steele,,British Columbia,CA,49.6169,-115.626,ardac,510.7,False,,
+BC673,Gwa'Sala- Nakwaxda'xw,,British Columbia,CA,50.7333,-127.5,ardac,0.4,True,50.7161,-127.4717
+BC674,Saltery Bay,,British Columbia,CA,49.7833,-124.183,ardac,0.9,True,48.947,-125.196
+BC675,Dunster,,British Columbia,CA,53.127,-119.839,ardac,419.7,False,50.9508,-126.1689
+BC676,Bridesville,,British Columbia,CA,49.0358,-119.142,ardac,247.6,False,48.2141,-123.7059
+BC677,40 Mile Flats,,British Columbia,CA,57.9363,-130.05,"ardac,ncr",181.9,False,57.1306,-132.9958
+BC678,Hedley,,British Columbia,CA,49.3604,-120.072,ardac,190.5,False,48.1489,-123.6683
+BC679,Ootischenia,,British Columbia,CA,49.2833,-117.633,ardac,360.8,False,48.2354,-123.7612
+BC680,Hagwilget,,British Columbia,CA,55.2546,-127.596,ardac,121.2,False,54.6817,-130.1289
+BC681,Gibsons,,British Columbia,CA,49.4018,-123.514,ardac,1.0,True,48.5632,-124.0314
+BC682,Welcome Beach,,British Columbia,CA,49.48,-123.894,ardac,0.7,True,48.4648,-123.9129
+BC683,Soowahlie,,British Columbia,CA,49.0814,-121.963,ardac,54.0,True,48.6215,-123.9778
+BC684,Vavenby,,British Columbia,CA,51.5858,-119.726,ardac,321.0,False,48.5654,-123.855
+BC685,Bold Point,,British Columbia,CA,50.1732,-125.156,ardac,1.3,True,50.4906,-126.1639
+BC686,Likely,,British Columbia,CA,52.6187,-121.565,ardac,292.6,False,50.8627,-126.1769
+BC687,Dundarave,,British Columbia,CA,49.338,-123.181,ardac,2.3,True,48.5061,-123.9529
+BC688,Kitkatla,,British Columbia,CA,53.7922,-130.433,ardac,1.2,True,53.7758,-130.4014
+BC689,South Hazelton,,British Columbia,CA,55.2375,-127.659,ardac,117.7,False,54.6633,-130.1899
+BC690,Fort Langley,,British Columbia,CA,49.1667,-122.583,ardac,22.1,True,48.5164,-123.8518
+BC691,Dry Gulch,,British Columbia,CA,50.5842,-116.041,ardac,504.5,False,,
+BC692,Departure Bay,,British Columbia,CA,49.2054,-123.975,ardac,0.8,True,48.5224,-123.9779
+BC693,Lillooet,,British Columbia,CA,50.6941,-121.939,ardac,140.8,False,48.5694,-123.8456
+BC694,Mesachie Lake,,British Columbia,CA,48.8124,-124.125,ardac,29.8,True,48.457,-123.8635
+BC695,Jaffray,,British Columbia,CA,49.3744,-115.3,ardac,529.5,False,,
+BC696,Kitsault,,British Columbia,CA,55.4558,-129.471,ardac,0.9,True,54.8954,-130.8377
+BC697,Golden,,British Columbia,CA,51.2949,-116.964,ardac,466.6,False,48.464,-123.9809
+BC698,Vanderhoof,,British Columbia,CA,54.0175,-124.002,ardac,237.2,False,52.342,-128.1238
+BC699,Red Bluff,,British Columbia,CA,52.9654,-122.461,ardac,278.7,False,50.8471,-126.2762
+BC700,Port Edward,,British Columbia,CA,54.2224,-130.288,ardac,1.0,True,54.206,-130.2562
+BC701,Ocean Falls,,British Columbia,CA,52.3472,-127.689,ardac,2.1,True,52.321,-128.2021
+BC702,Promontory,,British Columbia,CA,49.1006,-121.937,ardac,56.8,True,48.4749,-123.9601
+BC703,Yarrow,,British Columbia,CA,49.0833,-122.05,ardac,49.6,True,48.6169,-123.8141
+BC704,Sardis,,British Columbia,CA,49.1367,-121.959,ardac,58.4,True,48.5106,-123.9834
+BC705,Lardeau,,British Columbia,CA,50.143,-116.956,ardac,431.3,False,48.1459,-123.7679
+BC706,Vernon,,British Columbia,CA,50.2642,-119.269,ardac,273.6,False,48.6051,-123.9877
+BC707,Campbell Creek,,British Columbia,CA,50.654,-120.085,ardac,239.6,False,48.6118,-123.8208
+BC708,Beaton,,British Columbia,CA,50.7333,-117.733,ardac,393.5,False,48.5084,-123.8504
+BC709,Logan Lake,,British Columbia,CA,50.4913,-120.813,ardac,187.0,False,48.5826,-123.9985
+BC710,Okanagan Falls,,British Columbia,CA,49.3428,-119.571,ardac,224.5,False,48.1601,-123.674
+BC711,Moricetown,,British Columbia,CA,55.0183,-127.331,ardac,137.3,False,54.6067,-130.1549
+BC712,Revelstoke,,British Columbia,CA,51.0012,-118.196,ardac,374.7,False,48.5755,-123.8312
+BC713,Siska,,British Columbia,CA,50.1386,-121.571,ardac,120.3,False,48.5285,-123.9439
+BC714,Kitimat,,British Columbia,CA,54.051,-128.651,ardac,2.8,True,53.5317,-128.868
+BC715,Haig,,British Columbia,CA,49.3967,-121.453,ardac,102.0,False,48.4583,-124.0111
+BC716,Whistler Creek,,British Columbia,CA,50.0935,-122.993,ardac,45.0,True,48.5991,-123.8121
+BC717,Pavilion,,British Columbia,CA,50.8833,-121.833,ardac,161.7,False,48.5996,-124.0099
+BC718,Warfield,,British Columbia,CA,49.0945,-117.749,ardac,349.2,False,48.2014,-123.5948
+BC719,Fruitvale,,British Columbia,CA,49.1139,-117.548,ardac,363.8,False,48.2375,-123.6484
+BC720,Mara,,British Columbia,CA,50.6853,-119.067,ardac,304.3,False,48.5362,-123.8588
+BC721,Taghum,,British Columbia,CA,49.4934,-117.399,ardac,381.9,False,48.131,-123.8248
+BC722,Lawnhill,,British Columbia,CA,53.4036,-131.922,ardac,1.7,True,53.3876,-131.8902
+BC723,Gold River,,British Columbia,CA,49.7807,-126.052,ardac,11.5,True,49.4306,-126.279
+BC724,Lax̱g̱altsʼap,,British Columbia,CA,55.0306,-129.575,ardac,4.0,True,54.6658,-130.0873
+BC725,Ardmore,,British Columbia,CA,48.6389,-123.467,ardac,0.9,True,48.4652,-123.9485
+BC726,Kakawis,,British Columbia,CA,49.189,-125.911,ardac,1.3,True,49.1714,-125.8842
+BC727,Hazelton,,British Columbia,CA,55.2546,-127.676,ardac,116.2,False,54.68,-130.2078
+BC728,Cawston,,British Columbia,CA,49.1802,-119.764,ardac,206.4,False,48.1512,-123.593
+BC729,Chase,,British Columbia,CA,50.8221,-119.688,ardac,273.3,False,48.4718,-123.971
+BC730,Bear Flat,,British Columbia,CA,56.274,-121.231,ardac,522.0,False,53.494,-129.0529
+BC731,Echo Bay,,British Columbia,CA,50.7485,-126.494,ardac,1.4,True,50.731,-126.4661
+BC732,Ladysmith,,British Columbia,CA,48.9926,-123.82,ardac,1.4,True,48.4757,-123.8174
+BC733,Kitsumkalum,,British Columbia,CA,54.5245,-128.672,ardac,55.1,True,54.6336,-130.084
+BC734,Kitchener,,British Columbia,CA,49.1567,-116.339,ardac,450.2,False,,
+BC735,Parson,,British Columbia,CA,51.0708,-116.632,ardac,479.0,False,48.5987,-123.87
+BC736,Sunshine Valley,,British Columbia,CA,49.2727,-121.239,ardac,109.3,False,48.5105,-124.0363
+BC737,Skidegate Landing,,British Columbia,CA,53.2472,-132.008,ardac,0.7,True,53.3961,-131.9997
+BC738,Southbank,,British Columbia,CA,54.0212,-125.771,ardac,153.2,False,53.4675,-129.0906
+BC739,Burns Lake,,British Columbia,CA,54.2314,-125.76,ardac,173.4,False,53.5125,-129.0843
+BC740,Dunsmuir,,British Columbia,CA,49.3881,-124.609,ardac,1.0,True,48.877,-125.1003
+BC741,Delbrook,,British Columbia,CA,49.343,-123.085,ardac,5.3,True,48.5117,-123.8587
+BC742,Dallas,,British Columbia,CA,50.6667,-120.167,ardac,235.6,False,48.4555,-123.9075
+BC743,Lake Cowichan,,British Columbia,CA,48.8261,-124.052,ardac,24.8,True,48.4754,-124.04
+BC744,Houston,,British Columbia,CA,54.397,-126.652,ardac,133.1,False,53.5132,-129.1213
+BC745,Savona,,British Columbia,CA,50.7511,-120.841,ardac,202.7,False,48.5095,-124.0568
+BC746,Bella Coola,,British Columbia,CA,52.3706,-126.752,ardac,1.2,True,52.0103,-127.7951
+BC747,Bowser,,British Columbia,CA,49.4387,-124.685,ardac,1.3,True,48.9273,-125.176
+BC748,Kispiox,,British Columbia,CA,55.3503,-127.691,ardac,113.5,False,54.6103,-130.2114
+BC749,Esperanza,,British Columbia,CA,49.8713,-126.738,ardac,1.5,True,49.6859,-126.9637
+BC750,Shady Valley,,British Columbia,CA,53.9793,-122.727,ardac,309.2,False,52.3341,-127.9819
+BC751,Blackpool,,British Columbia,CA,51.5969,-120.12,ardac,301.3,False,50.9019,-126.2333
+BC752,Westbank,,British Columbia,CA,49.8286,-119.631,ardac,237.0,False,48.4823,-124.0318
+BC753,Wilmer,,British Columbia,CA,50.5426,-116.063,ardac,502.0,False,,
+BC754,Laidlaw,,British Columbia,CA,49.3223,-121.618,ardac,90.6,True,48.5417,-123.9127
+BC755,Tseycum,,British Columbia,CA,48.6645,-123.448,ardac,1.0,True,48.4909,-123.9298
+BC756,Youbou,,British Columbia,CA,48.8726,-124.199,ardac,30.2,True,48.5174,-123.9366
+BC757,Pendleton Bay,,British Columbia,CA,54.5167,-125.717,ardac,194.1,False,53.4681,-129.0407
+BC758,Ashton Creek,,British Columbia,CA,50.556,-119.013,ardac,301.9,False,48.5803,-124.0362
+BC759,Fraser Lake,,British Columbia,CA,54.0583,-124.847,ardac,196.4,False,53.5117,-129.0193
+BC760,Danskin,,British Columbia,CA,53.9889,-125.792,ardac,149.5,False,53.4346,-129.1088
+BC761,Willow Valley,,British Columbia,CA,55.8563,-120.872,ardac,519.8,False,53.4249,-128.9416
+BC762,Meadow Creek,,British Columbia,CA,50.2392,-116.973,ardac,432.3,False,48.2409,-123.7979
+BC763,Seymour Heights,,British Columbia,CA,49.3192,-123.002,ardac,1.9,True,48.4934,-124.0259
+BC764,Sikanni Chief,,British Columbia,CA,57.2346,-122.695,ardac,461.5,False,54.5351,-130.3233
+BC765,Caesars,,British Columbia,CA,50.0667,-119.5,ardac,251.6,False,48.5594,-123.9344
+BC766,Crofton,,British Columbia,CA,48.8632,-123.643,ardac,4.6,True,48.5178,-123.8834
+BC767,Good Hope Lake,,British Columbia,CA,59.2936,-129.289,"ardac,ncr",272.2,False,57.9246,-133.8288
+BC768,Whyac,,British Columbia,CA,48.6691,-124.846,ardac,3.3,True,48.6512,-124.8199
+BC769,Refuge Cove,,British Columbia,CA,50.1238,-124.836,ardac,0.5,True,50.6101,-126.101
+BC770,Marysville,,British Columbia,CA,49.6373,-115.956,ardac,487.6,False,,
+BC771,Tofino,,British Columbia,CA,49.1505,-125.906,ardac,2.0,True,49.1329,-125.8793
+BC772,Maple Ridge,,British Columbia,CA,49.2174,-122.598,ardac,24.9,True,48.567,-123.868
+BC773,Traders Cove,,British Columbia,CA,49.9361,-119.504,ardac,248.1,False,48.5949,-123.9187
+BC774,Tsay Keh Dene,,British Columbia,CA,56.8918,-124.963,"ardac,ncr",320.8,False,54.6573,-130.1558
+BC775,Clinton,,British Columbia,CA,51.0942,-121.587,ardac,189.0,False,50.831,-126.3098
+BC776,Port Clements,,British Columbia,CA,53.6852,-132.179,ardac,0.8,True,53.5184,-131.8446
+BC777,Osoyoos,,British Columbia,CA,49.0311,-119.465,ardac,224.2,False,48.1907,-123.7745
+BC778,Bliss Landing,,British Columbia,CA,50.0366,-124.816,ardac,0.6,True,50.5232,-126.0783
+BC779,Kyuquot,,British Columbia,CA,50.0281,-127.377,ardac,0.9,True,50.0109,-127.3492
+BC780,Beaverdell,,British Columbia,CA,49.4368,-119.089,ardac,261.1,False,48.118,-123.7169
+BC781,New Denver,,British Columbia,CA,49.9917,-117.374,ardac,397.5,False,48.1255,-123.6437
+BC782,150 Mile House,,British Columbia,CA,52.1147,-121.935,ardac,239.4,False,50.8427,-126.2233
+BC783,Sicamous,,British Columbia,CA,50.835,-118.98,ardac,317.2,False,48.5284,-124.0484
+BC784,Telegraph Cove,,British Columbia,CA,50.5457,-126.828,ardac,0.3,True,50.5283,-126.8001
+BC785,Towdystan,,British Columbia,CA,52.2634,-125.087,ardac,110.9,False,51.0889,-126.4024
+BC786,Cinema,,British Columbia,CA,53.2333,-122.45,ardac,303.7,False,50.9497,-126.2877
+BC787,Nakusp,,British Columbia,CA,50.2418,-117.799,ardac,374.4,False,48.5126,-123.8273
+BC788,Kingcome Inlet,,British Columbia,CA,50.95,-126.2,ardac,0.6,True,50.9325,-126.1721
+BC789,Sooke,,British Columbia,CA,48.3823,-123.728,ardac,3.5,True,48.3692,-123.951
+BC790,Courtenay,,British Columbia,CA,49.6889,-124.999,ardac,1.6,True,49.1775,-125.9952
+BC791,Boston Flats,,British Columbia,CA,50.7699,-121.304,ardac,178.2,False,48.5068,-123.9999
+BC792,Jade City,,British Columbia,CA,59.2469,-129.655,"ardac,ncr",250.7,False,57.8849,-133.8656
+BC793,Spillimacheen,,British Columbia,CA,50.9072,-116.364,ardac,491.2,False,48.458,-123.8412
+BC794,Ashcroft,,British Columbia,CA,50.721,-121.28,ardac,176.0,False,48.4584,-123.9743
+BC795,Hollyburn,,British Columbia,CA,49.3324,-123.163,ardac,2.7,True,48.5006,-123.9351
+BC796,Honeymoon Bay,,British Columbia,CA,48.815,-124.173,ardac,32.2,True,48.4597,-123.9111
+BC797,Ocean Grove,,British Columbia,CA,49.9524,-125.202,ardac,1.9,True,49.4393,-126.2016
+BC798,Tranquille,,British Columbia,CA,50.72,-120.521,ardac,219.0,False,48.4926,-123.9994
+BC799,Huntingdon,,British Columbia,CA,49.0051,-122.266,ardac,32.6,True,48.5351,-124.025
+BC800,Brookmere,,British Columbia,CA,49.8181,-120.875,ardac,149.1,False,48.5719,-123.985
+BC801,Opitsat,,British Columbia,CA,49.1751,-125.912,ardac,0.3,True,49.1575,-125.8852
+BC802,Dogwood Valley,,British Columbia,CA,49.4845,-121.425,ardac,103.9,False,48.5468,-123.9884
+BC803,Anzac,,British Columbia,CA,54.7667,-122.5,ardac,364.6,False,53.4379,-128.9905
+BC804,Salmo,,British Columbia,CA,49.1916,-117.277,ardac,384.9,False,48.1699,-123.65
+BC805,Walhachin,,British Columbia,CA,50.7515,-120.991,ardac,194.1,False,48.5011,-123.9503
+BC806,Kimberley,,British Columbia,CA,49.6871,-115.983,ardac,486.5,False,,
+BC807,Oyama,,British Columbia,CA,50.1111,-119.368,ardac,262.0,False,48.614,-124.0609
+BC808,Nanaimo,,British Columbia,CA,49.1659,-123.939,ardac,2.3,True,48.4829,-123.9424
+BC809,Oliver,,British Columbia,CA,49.1826,-119.553,ardac,221.5,False,48.1669,-123.6345
+BC810,Caulfeild,,British Columbia,CA,49.3416,-123.26,ardac,1.0,True,48.5091,-124.0305
+BC811,Wycliffe,,British Columbia,CA,49.6013,-115.861,ardac,493.7,False,,
+BC812,White Rock,,British Columbia,CA,49.0252,-122.796,ardac,1.4,True,48.5386,-124.0512
+BC813,Sorrento,,British Columbia,CA,50.8782,-119.467,ardac,289.8,False,48.5414,-124.0159
+BC814,Alpine Meadows,,British Columbia,CA,50.15,-122.967,ardac,51.6,True,48.4945,-124.045
+BC815,Eastgate,,British Columbia,CA,49.1375,-120.612,ardac,145.3,False,48.231,-123.6686
+BC816,Britannia Beach,,British Columbia,CA,49.628,-123.204,ardac,0.7,True,48.4637,-123.9945
+BC817,Celista,,British Columbia,CA,50.9444,-119.349,ardac,300.7,False,48.6125,-123.9104
+BC818,Ta Ta Creek,,British Columbia,CA,49.7833,-115.783,ardac,502.6,False,,
+BC819,Redstone,,British Columbia,CA,52.1333,-123.7,ardac,155.0,False,50.8128,-126.1004
+BC820,Spuzzum,,British Columbia,CA,49.6886,-121.417,ardac,107.7,False,48.585,-123.9988
+BC821,Stellako,,British Columbia,CA,54.0622,-124.903,ardac,194.0,False,53.5137,-129.0749
+BC822,Glenemma,,British Columbia,CA,50.4694,-119.352,ardac,276.0,False,48.4695,-123.8526
+BC823,Lavington,,British Columbia,CA,50.2313,-119.107,ardac,283.6,False,48.5791,-123.8285
+BC824,Mayne,,British Columbia,CA,48.8501,-123.297,ardac,2.6,True,48.5159,-124.0384
+BC825,Kaleden,,British Columbia,CA,49.3928,-119.596,ardac,224.4,False,48.2091,-123.7027
+BC826,Trout Lake,,British Columbia,CA,50.6472,-117.539,ardac,403.6,False,48.6045,-123.8966
+BC827,Gitwinksihlkw,,British Columbia,CA,55.1937,-129.219,ardac,33.0,True,54.6465,-130.2943
+BC828,Crawford Bay,,British Columbia,CA,49.6766,-116.822,ardac,426.8,False,48.1933,-123.796
+BC829,Coalmont,,British Columbia,CA,49.5089,-120.695,ardac,156.7,False,48.6052,-124.0238
+BC830,Semiahmoo,,British Columbia,CA,49.0126,-122.766,ardac,1.3,True,48.5263,-124.0212
+BC831,Soda Creek,,British Columbia,CA,52.3275,-122.275,ardac,234.8,False,50.878,-126.3087
+BC832,Rolla,,British Columbia,CA,55.8986,-120.143,ardac,559.2,False,52.3554,-128.2061
+BC833,Kingsgate,,British Columbia,CA,49.0024,-116.178,ardac,458.0,False,,
+BC834,Ellison,,British Columbia,CA,49.9363,-119.358,ardac,258.4,False,48.606,-124.0269
+BC835,Dorreen,,British Columbia,CA,54.8389,-128.346,ardac,84.0,True,54.6025,-130.3099
+BC836,Westbridge,,British Columbia,CA,49.1715,-118.975,ardac,262.5,False,48.1958,-123.8113
+BC837,Prespatou,,British Columbia,CA,56.9223,-121.063,ardac,544.9,False,53.4872,-128.972
+BC838,Cokato,,British Columbia,CA,49.4667,-115.067,ardac,548.3,False,,
+BC839,Lasqueti,,British Columbia,CA,49.4918,-124.347,ardac,0.7,True,48.8181,-125.0974
+BC840,Langdale,,British Columbia,CA,49.4341,-123.477,ardac,0.3,True,48.5958,-123.9954
+BC841,Glen Vowell,,British Columbia,CA,55.3135,-127.677,ardac,114.9,False,54.5738,-130.1954
+BC842,Christina Lake,,British Columbia,CA,49.0392,-118.216,ardac,314.7,False,48.2823,-123.7896
+BC843,Fort Nelson,,British Columbia,CA,58.8056,-122.697,ardac,541.5,False,54.6184,-130.1738
+BC844,Rosedale,,British Columbia,CA,49.182,-121.804,ardac,70.1,True,48.5589,-123.8324
+BC845,Magna Bay,,British Columbia,CA,50.9618,-119.284,ardac,305.6,False,48.4663,-123.858
+BC846,Howser,,British Columbia,CA,50.3,-116.95,ardac,435.1,False,48.4743,-124.026
+BC847,Ainsworth Hot Springs,,British Columbia,CA,49.7343,-116.913,ardac,421.8,False,48.2398,-123.6443
+BC848,Germansen Landing,,British Columbia,CA,55.7833,-124.7,ardac,301.9,False,54.5443,-130.1473
+BC849,Rutland,,British Columbia,CA,49.8883,-119.391,ardac,255.1,False,48.5566,-124.0542
+BC850,Tappen,,British Columbia,CA,50.784,-119.331,ardac,292.7,False,48.4526,-123.8778
+BC851,Sewall,,British Columbia,CA,53.7625,-132.298,ardac,2.1,True,54.0762,-132.3157
+BC852,Hosmer,,British Columbia,CA,49.5897,-114.964,ardac,557.5,False,,
+BC853,Grindrod,,British Columbia,CA,50.6276,-119.123,ardac,298.0,False,48.476,-123.9063
+BC854,Bonnet Hill,,British Columbia,CA,53.9,-122.617,ardac,312.7,False,52.4206,-128.1458
+BC855,Dease Lake,,British Columbia,CA,58.4394,-129.996,"ardac,ncr",195.2,False,57.4526,-133.2582
+BC856,Rayleigh,,British Columbia,CA,50.7974,-120.32,ardac,235.5,False,48.5765,-123.8138
+BC857,New Hazelton,,British Columbia,CA,55.2466,-127.586,ardac,122.0,False,54.6739,-130.1186
+BC858,Rock Creek,,British Columbia,CA,49.0596,-118.999,ardac,258.3,False,48.2493,-123.8158
+BC859,Annis,,British Columbia,CA,50.7907,-119.082,ardac,308.5,False,48.4747,-123.8913
+BC860,Rose Harbour,,British Columbia,CA,52.1477,-131.085,ardac,0.7,True,52.1315,-131.0544
+BC861,Bella Bella,,British Columbia,CA,52.1639,-128.144,ardac,2.0,True,52.1469,-128.1145
+BC862,Buckhorn,,British Columbia,CA,53.7942,-122.655,ardac,306.3,False,52.3133,-128.1688
+BC863,Heffley Creek,,British Columbia,CA,50.8583,-120.271,ardac,242.4,False,48.4776,-124.0287
+BC864,Shearwater,,British Columbia,CA,52.1466,-128.092,ardac,1.0,True,52.1296,-128.0625
+BC865,Forest Grove,,British Columbia,CA,51.7667,-121.1,ardac,262.2,False,50.8594,-126.1628
+BC866,Cache Creek,,British Columbia,CA,50.8119,-121.323,ardac,180.3,False,48.5485,-124.0204
+BC867,Wildwood,,British Columbia,CA,49.891,-124.557,ardac,2.1,True,49.2183,-125.8172
+BC868,Keremeos,,British Columbia,CA,49.2064,-119.826,ardac,202.7,False,48.1752,-123.6557
+BC869,Albreda,,British Columbia,CA,52.6375,-119.162,ardac,425.8,False,50.8315,-126.2411
+BC870,Yale,,British Columbia,CA,49.5632,-121.43,ardac,104.2,False,48.4592,-124.0046
+BC871,Durieu,,British Columbia,CA,49.2175,-122.235,ardac,45.2,True,48.5819,-124.0093
+BC872,Lund,,British Columbia,CA,49.9818,-124.757,ardac,0.7,True,49.3069,-126.0167
+BC873,Avola,,British Columbia,CA,51.7812,-119.323,ardac,356.4,False,50.9635,-126.2679
+BC874,Kitamaat Village,,British Columbia,CA,53.9737,-128.647,ardac,0.8,True,53.4544,-128.8636
+BC875,Stoner,,British Columbia,CA,53.6291,-122.662,ardac,300.4,False,51.0072,-126.5189
+BC876,Tachie,,British Columbia,CA,54.6548,-124.758,ardac,249.2,False,53.4491,-128.9447
+BC877,Qualicum Beach,,British Columbia,CA,49.3475,-124.442,ardac,1.7,True,48.8393,-125.1859
+BC878,Lynn Valley,,British Columbia,CA,49.3416,-123.033,ardac,4.0,True,48.5107,-123.8075
+BC879,Chehalis,,British Columbia,CA,49.2918,-121.911,ardac,69.9,True,48.5004,-123.9499
+BC880,Harrison Hot Springs,,British Columbia,CA,49.3,-121.783,ardac,78.6,True,48.511,-123.8245
+BC881,Dodge Cove,,British Columbia,CA,54.2878,-130.387,ardac,1.9,True,54.2714,-130.3551
+BC882,Dawson Creek,,British Columbia,CA,55.7595,-120.235,ardac,545.7,False,52.3817,-128.0013
+BC883,Krestova,,British Columbia,CA,49.4447,-117.582,ardac,367.9,False,48.233,-123.7404
+BC884,Silver River,,British Columbia,CA,49.5756,-121.818,ardac,76.7,True,48.6199,-123.8784
+BC885,French Creek,,British Columbia,CA,49.3471,-124.36,ardac,1.1,True,48.8395,-125.1048
+BC886,Montrose,,British Columbia,CA,49.0788,-117.591,ardac,359.7,False,48.2001,-123.686
+BC887,Slocan,,British Columbia,CA,49.7667,-117.467,ardac,383.9,False,48.2282,-123.6871
+BC888,Sidney,,British Columbia,CA,48.65,-123.4,ardac,0.8,True,48.4766,-123.8819
+BC889,Raspberry,,British Columbia,CA,49.3358,-117.657,ardac,360.2,False,48.12,-123.7991
+BC890,Rossland,,British Columbia,CA,49.0775,-117.801,ardac,345.0,False,48.1816,-123.6436
+BC891,McCulloch,,British Columbia,CA,49.7948,-119.19,ardac,267.8,False,48.4717,-123.85
+BC892,Bell II,,British Columbia,CA,56.7444,-129.794,ardac,91.1,True,55.6727,-131.4295
+BC893,Glade,,British Columbia,CA,49.3964,-117.535,ardac,370.2,False,48.1874,-123.6885
+BC894,Wonowon,,British Columbia,CA,56.7288,-121.814,ardac,495.4,False,53.4304,-129.079
+BC895,Comox,,British Columbia,CA,49.6739,-124.928,ardac,2.7,True,49.1631,-125.9246
+BC896,Burton,,British Columbia,CA,49.9856,-117.88,ardac,363.0,False,48.2469,-123.6246
+BC897,Maple Bay,,British Columbia,CA,48.8158,-123.613,ardac,1.3,True,48.4704,-123.8534
+BC898,Tsawout,,British Columbia,CA,48.588,-123.387,ardac,3.6,True,48.581,-123.8608
+BC899,Coombs,,British Columbia,CA,49.3044,-124.418,ardac,6.6,True,48.9626,-125.1585
+BC900,South Shalalth,,British Columbia,CA,50.7288,-122.244,ardac,128.0,False,48.5943,-123.8884
+BC901,Lazo,,British Columbia,CA,49.7139,-124.909,ardac,2.3,True,49.2033,-125.9067
+BC902,Bonnington Falls,,British Columbia,CA,49.4667,-117.483,ardac,375.4,False,48.2606,-123.6471
+BC903,Bell Acres,,British Columbia,CA,49.078,-121.866,ardac,59.2,True,48.6199,-123.8817
+BC904,Zamora,,British Columbia,CA,49.15,-118.983,ardac,261.4,False,48.174,-123.817
+BC905,Brilliant,,British Columbia,CA,49.3217,-117.643,ardac,360.9,False,48.2731,-123.7759
+BC906,Cascade,,British Columbia,CA,49.0187,-118.207,ardac,314.7,False,48.2624,-123.7784
+BC907,Donnely Landing,,British Columbia,CA,49.625,-124.043,ardac,0.8,True,48.9561,-125.0517
+BC908,Steamboat,,British Columbia,CA,58.6756,-123.712,ardac,485.0,False,55.7417,-131.5182
+BC909,Merritt,,British Columbia,CA,50.1114,-120.79,ardac,166.3,False,48.5354,-123.9365
+BC910,Gingolx,,British Columbia,CA,54.9944,-129.954,ardac,1.7,True,54.6381,-130.1763
+BC911,Canoe,,British Columbia,CA,50.7515,-119.227,ardac,297.5,False,48.5956,-124.0179
+BC912,Groundbirch,,British Columbia,CA,55.78,-120.923,ardac,512.1,False,53.5111,-128.9865
+BC913,Moyie,,British Columbia,CA,49.2888,-115.832,ardac,489.6,False,,
+BC914,Lytton,,British Columbia,CA,50.2316,-121.583,ardac,126.5,False,48.4551,-123.9673
+BC915,Royston,,British Columbia,CA,49.6454,-124.945,ardac,0.3,True,48.9651,-125.1855
+BC916,Westsyde,,British Columbia,CA,50.7637,-120.348,ardac,231.6,False,48.5418,-123.838
+BC917,Ksan,,British Columbia,CA,55.2497,-127.678,ardac,116.2,False,54.6751,-130.2094
+BC918,Tulameen,,British Columbia,CA,49.5458,-120.758,ardac,152.5,False,48.4691,-123.8458
+BC919,Deep Bay,,British Columbia,CA,49.4642,-124.725,ardac,0.1,True,48.9526,-125.2159
+BC920,Barnhartvale,,British Columbia,CA,50.6505,-120.17,ardac,234.4,False,48.6055,-123.9017
+BC921,Fulford Harbour,,British Columbia,CA,48.7706,-123.45,ardac,0.7,True,48.597,-123.9329
+BC922,Ymir,,British Columbia,CA,49.2833,-117.217,ardac,390.7,False,48.2649,-123.6038
+BC923,Rosebery,,British Columbia,CA,50.0333,-117.411,ardac,396.5,False,48.1649,-123.6846
+BC924,Altona,,British Columbia,CA,56.8775,-120.954,ardac,550.2,False,53.4423,-129.1425
+BC925,Meziadin Junction,,British Columbia,CA,56.0997,-129.305,ardac,45.4,True,55.6699,-131.5963
+BC926,Nahun,,British Columbia,CA,50.0833,-119.5,ardac,252.1,False,48.576,-123.936
+BC927,Edgewater,,British Columbia,CA,50.7,-116.133,ardac,501.0,False,,
+BC928,Shirley,,British Columbia,CA,48.3898,-123.904,ardac,2.7,True,48.3716,-123.8784
+BC929,Sunnybrae,,British Columbia,CA,50.7732,-119.27,ardac,295.9,False,48.6154,-124.0611
+BC930,Lumby,,British Columbia,CA,50.25,-118.967,ardac,293.8,False,48.6089,-123.9453
+BC931,Merville,,British Columbia,CA,49.7848,-125.057,ardac,12.6,True,49.2727,-125.8011
+BC932,Wells,,British Columbia,CA,53.1041,-121.571,ardac,329.0,False,50.8502,-126.2307
+BC933,Telkwa,,British Columbia,CA,54.6972,-127.05,ardac,125.0,False,53.4898,-128.9435
+BC934,Topley,,British Columbia,CA,54.5068,-126.301,ardac,158.5,False,53.4579,-129.0519
+BC935,Anahim Lake,,British Columbia,CA,52.4614,-125.303,ardac,97.7,True,51.12,-126.3522
+BC936,Thornhill,,British Columbia,CA,54.5125,-128.54,ardac,53.9,True,54.6136,-130.2374
+BC937,Hatzic Island,,British Columbia,CA,49.1624,-122.236,ardac,42.3,True,48.5267,-124.0082
+BC938,Rich Bar,,British Columbia,CA,52.9149,-122.456,ardac,274.4,False,51.1274,-126.5332
+BC939,Yaculta,,British Columbia,CA,50.0217,-125.195,ardac,1.0,True,50.5047,-126.2005
+BC940,Old Town,,British Columbia,CA,49.55,-115.967,ardac,485.1,False,,
+BC941,Shoreacres,,British Columbia,CA,49.4307,-117.527,ardac,371.5,False,48.2221,-123.6852
+BC942,Bear Lake,,British Columbia,CA,54.4959,-122.679,ardac,338.4,False,52.3553,-127.9765
+BC943,Clayhurst,,British Columbia,CA,56.1868,-120.03,ardac,583.8,False,52.3181,-128.1407
+BC944,Fraser,,British Columbia,CA,59.7159,-135.049,"ardac,ncr",32.1,True,58.7129,-134.7676
+BC945,Hydraulic,,British Columbia,CA,52.6148,-121.707,ardac,284.9,False,50.8532,-126.3126
+BC946,Union Bay,,British Columbia,CA,49.5802,-124.885,ardac,3.3,True,48.9,-125.1261
+BC947,Weneez,,British Columbia,CA,53.9677,-123.98,ardac,235.5,False,52.293,-128.098
+BC948,Riondel,,British Columbia,CA,49.7618,-116.856,ardac,426.5,False,48.2707,-123.5932
+BC949,Marshall School Junction,,British Columbia,CA,49.7111,-124.509,ardac,2.9,True,48.8703,-125.2632
+BC950,Shawnigan Lake,,British Columbia,CA,48.6535,-123.622,ardac,5.9,True,48.4744,-123.8539
+BC951,Kilkerran,,British Columbia,CA,55.8395,-120.272,ardac,548.8,False,52.2935,-128.0417
+BC952,Seven Mile Corner,,British Columbia,CA,55.8976,-120.324,ardac,549.9,False,52.3481,-128.0996
+BC953,Red Rock,,British Columbia,CA,53.6886,-122.671,ardac,301.7,False,51.0664,-126.5325
+BC954,Errington,,British Columbia,CA,49.2889,-124.37,ardac,6.3,True,48.9475,-125.1106
+BC955,Egmont,,British Columbia,CA,49.75,-123.933,ardac,0.8,True,48.9182,-125.2013
+BC956,Kinnaird,,British Columbia,CA,49.2834,-117.651,ardac,359.6,False,48.2344,-123.7788
+BC957,Olalla,,British Columbia,CA,49.2634,-119.829,ardac,204.1,False,48.2321,-123.6632
+BC958,Little Fort,,British Columbia,CA,51.4249,-120.207,ardac,284.0,False,48.5487,-124.0348
+BC959,Lions Bay,,British Columbia,CA,49.4591,-123.236,ardac,2.0,True,48.4606,-124.0159
+BC960,Cassidy,,British Columbia,CA,49.05,-123.883,ardac,6.0,True,48.5332,-123.8797
+BC961,Kitwanga,,British Columbia,CA,55.1,-128.067,ardac,98.1,True,54.6931,-130.3155
+BC962,Silverton,,British Columbia,CA,49.9528,-117.358,ardac,397.3,False,48.2539,-123.6149
+BC963,Pleasant Camp,,British Columbia,CA,59.4546,-136.365,"ardac,ncr",47.9,True,58.6189,-136.095
+BC964,Westholme,,British Columbia,CA,48.8667,-123.7,ardac,6.2,True,48.5212,-123.94
+BC965,Montney,,British Columbia,CA,56.4503,-120.926,ardac,543.2,False,53.5157,-129.0707
+BC966,Wynndel,,British Columbia,CA,49.18,-116.552,ardac,435.8,False,48.2202,-123.6845
+BC967,Extension,,British Columbia,CA,49.1005,-123.958,ardac,4.9,True,48.5837,-123.9539
+BC968,Cottonwood,,British Columbia,CA,53.0522,-122.156,ardac,298.8,False,50.9436,-126.2565
+BC969,Spences Bridge,,British Columbia,CA,50.4234,-121.344,ardac,153.0,False,48.4912,-124.0043
+BC970,Bessborough,,British Columbia,CA,55.8109,-120.506,ardac,535.1,False,52.4211,-127.9868
+BC971,Hemlock Valley,,British Columbia,CA,49.3769,-121.935,ardac,67.2,True,48.5851,-123.9772
+BC972,Falkland,,British Columbia,CA,50.5009,-119.557,ardac,264.2,False,48.4927,-124.0515
+BC973,Agassiz,,British Columbia,CA,49.2333,-121.767,ardac,75.9,True,48.6158,-124.048
+BC974,Clearbrook,,British Columbia,CA,49.05,-122.333,ardac,30.9,True,48.5742,-123.8433
+BC975,Winter Harbour,,British Columbia,CA,50.5167,-128.033,ardac,2.6,True,50.4946,-128.2649
+BC976,Sointula,,British Columbia,CA,50.6333,-127.017,ardac,1.2,True,50.616,-126.9889
+BC977,Horsefly,,British Columbia,CA,52.3333,-121.417,ardac,282.3,False,50.9147,-126.2686
+BC978,Noralee,,British Columbia,CA,53.9833,-126.433,ardac,122.4,False,53.4347,-128.9056
+BC979,Esler,,British Columbia,CA,52.1042,-122.184,ardac,224.5,False,50.8238,-126.2014
+BC980,Goodlow,,British Columbia,CA,56.3336,-120.136,ardac,588.7,False,52.2968,-127.9844
+BC981,Brackendale,,British Columbia,CA,49.7667,-123.15,ardac,7.0,True,48.603,-123.9441
+BC982,103 Mile,,British Columbia,CA,51.689,-121.314,ardac,245.4,False,50.9387,-126.1015
+BC983,105 Mile House,,British Columbia,CA,51.7069,-121.331,ardac,245.9,False,50.9559,-126.1201
+BC984,122 Mile House,,British Columbia,CA,51.8483,-121.599,ardac,243.7,False,50.9207,-126.1338
+BC985,141 Mile House,,British Columbia,CA,51.994,-121.846,ardac,237.8,False,50.8913,-126.1259
+BC986,Ahousat,,British Columbia,CA,49.2842,-126.074,ardac,0.7,True,49.2666,-126.0471
+BC987,Akisqnuk,,British Columbia,CA,50.4512,-115.96,ardac,507.3,False,,
+BC988,Baker Trails,,British Columbia,CA,49.0854,-121.927,ardac,56.2,True,48.4599,-123.9496
+BC989,Bankeir,,British Columbia,CA,49.7107,-120.225,ardac,192.7,False,48.4943,-123.8439
+BC990,Barney's Bar,,British Columbia,CA,49.7845,-124.444,ardac,1.7,True,48.9442,-125.2006
+BC991,Bear Camp,,British Columbia,CA,59.9167,-136.8,"ardac,ncr",95.3,True,58.9493,-138.102
+BC992,Big White,,British Columbia,CA,49.7214,-118.94,ardac,281.3,False,48.2426,-123.6087
+BC993,Birchdale,,British Columbia,CA,50.0344,-116.874,ardac,433.1,False,48.2089,-123.666
+BC994,Blue Springs,,British Columbia,CA,50.25,-118.85,ardac,301.8,False,48.6142,-123.8327
+BC995,Brady Ranch,,British Columbia,CA,56.8333,-122.633,ardac,450.1,False,54.6354,-130.2427
+BC996,Carrolls Landing,,British Columbia,CA,50.0333,-117.9,ardac,363.3,False,48.4651,-123.8903
+BC997,Cheslatta Carrier,,British Columbia,CA,54.0014,-125.708,ardac,153.8,False,53.4494,-129.027
+BC998,Clemretta,,British Columbia,CA,54.0038,-126.285,ardac,131.6,False,53.4515,-129.0393
+BC999,Cook's Ferry,,British Columbia,CA,50.4223,-121.32,ardac,154.4,False,48.4907,-123.9813
+BC1000,Deerholme,,British Columbia,CA,48.7528,-123.758,ardac,7.9,True,48.5734,-123.9899
+BC1001,Dokie Siding,,British Columbia,CA,55.6625,-121.734,ardac,464.3,False,53.5313,-128.9042
+BC1002,Duncanby Landing,,British Columbia,CA,51.4065,-127.644,ardac,1.7,True,51.3853,-127.8808
+BC1003,East Wellington,,British Columbia,CA,49.1838,-124.018,ardac,4.3,True,48.5008,-124.0203
+BC1004,François Lake,,British Columbia,CA,54.0517,-125.7419,ardac,157.1,False,53.4987,-129.0644
+BC1005,Georgetown Mills,,British Columbia,CA,54.4716,-130.398,ardac,1.7,True,54.4552,-130.3659
+BC1006,Gitanyow,,British Columbia,CA,55.2676,-128.072,ardac,91.4,True,54.6954,-130.3121
+BC1007,Grand Haven,,British Columbia,CA,56.2402,-120.899,ardac,542.1,False,53.474,-129.0171
+BC1008,Harrogate,,British Columbia,CA,50.9833,-116.45,ardac,488.0,False,48.5282,-123.9344
+BC1009,Imperial Ranchettes,,British Columbia,CA,51.613,-121.183,ardac,246.6,False,50.8681,-126.2274
+BC1010,Johnsons Landing,,British Columbia,CA,50.0833,-116.883,ardac,434.2,False,48.2572,-123.6816
+BC1011,Kendrick Camp,,British Columbia,CA,49.7244,-126.651,ardac,2.0,True,49.7052,-126.8795
+BC1012,Killiney Beach,,British Columbia,CA,50.1899,-119.506,ardac,255.0,False,48.5161,-123.959
+BC1013,Martin Prairie,,British Columbia,CA,50.6624,-119.812,ardac,256.5,False,48.4734,-124.0674
+BC1014,Matilpi,,British Columbia,CA,50.5494,-126.184,ardac,0.1,True,50.5319,-126.1563
+BC1015,Mile 62 1/2,,British Columbia,CA,56.4084,-121.157,ardac,528.4,False,53.4668,-128.9975
+BC1016,Mount Baldy,,British Columbia,CA,49.1522,-119.237,ardac,243.3,False,48.16,-123.8179
+BC1017,Nadleh Whuten,,British Columbia,CA,54.0885,-124.598,ardac,210.8,False,53.5437,-129.056
+BC1018,Nee-Tahi-Buhn,,British Columbia,CA,54.0074,-125.956,ardac,145.4,False,53.4559,-128.9935
+BC1019,New Brighton,,British Columbia,CA,49.45,-123.433,ardac,0.4,True,48.6119,-123.9524
+BC1020,Nuchatlaht,,British Columbia,CA,49.9901,-126.94,ardac,2.4,True,49.9703,-127.1697
+BC1021,Park Siding,,British Columbia,CA,49.1725,-117.493,ardac,369.0,False,48.1327,-123.6106
+BC1022,Peejay,,British Columbia,CA,56.8833,-120.617,ardac,570.4,False,52.4831,-128.4986
+BC1023,Queens Cove,,British Columbia,CA,49.8833,-126.983,ardac,3.5,True,49.8634,-127.2122
+BC1024,Samahquam,,British Columbia,CA,50.0513,-122.539,ardac,59.5,True,48.5714,-123.871
+BC1025,Saulteau,,British Columbia,CA,55.835,-121.656,ardac,480.6,False,53.5351,-129.1278
+BC1026,Selma Park,,British Columbia,CA,49.4585,-123.733,ardac,3.6,True,48.6146,-123.9972
+BC1027,Shoreholme,,British Columbia,CA,50.3,-117.85,ardac,372.3,False,48.568,-123.8837
+BC1028,Six Mile,,British Columbia,CA,49.5785,-117.225,ardac,396.1,False,48.2263,-123.668
+BC1029,Skin Tyee,,British Columbia,CA,53.9486,-125.652,ardac,151.4,False,53.5635,-128.9793
+BC1030,South Bentinck,,British Columbia,CA,52.0444,-126.667,ardac,0.5,True,52.016,-127.716
+BC1031,South Lakeside,,British Columbia,CA,52.1083,-122.097,ardac,229.7,False,50.8309,-126.1174
+BC1032,South Taylor,,British Columbia,CA,56.1068,-120.634,ardac,548.8,False,52.3771,-128.1391
+BC1033,St. Joseph Mission,,British Columbia,CA,52.0667,-121.95,ardac,235.7,False,50.96,-126.2341
+BC1034,Sugarcane,,British Columbia,CA,52.1088,-121.995,ardac,235.6,False,50.8346,-126.2809
+BC1035,Tête Jaune Cache,,British Columbia,CA,52.9667,-119.429,ardac,433.7,False,50.8128,-126.282
+BC1036,University Hill,,British Columbia,CA,49.2669,-123.242,ardac,0.9,True,48.6007,-124.0046
+BC1037,Village of Queen Charlotte,,British Columbia,CA,53.2565,-132.094,ardac,0.2,True,53.4054,-132.086
+BC1038,Whispering Pines/Clinton,,British Columbia,CA,50.9848,-120.245,ardac,252.0,False,48.6053,-124.0142

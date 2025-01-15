@@ -51,6 +51,8 @@ schema = {
         "km2ocean": "float",
         "tags": "str",
         "is_coastal": "bool",
+        "ocean_lat1": "float",
+        "ocean_lon1": "float",
         "type": "str",
     },
     "Y_PRECISION": 4,

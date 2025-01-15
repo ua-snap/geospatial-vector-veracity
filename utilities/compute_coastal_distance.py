@@ -5,13 +5,16 @@ import pandas as pd
 import numpy as np
 from scipy.spatial import cKDTree
 
+from crs_lookup import crs_lookup
 
-def calculate_coastal_distances(point_locations_path):
+
+def calculate_coastal_distances(point_locations_path, projected_crs_code):
     """
     Calculate the distance of each point to the nearest coastline in kilometers.
 
     Args:
         point_locations_path (str): Path to the CSV file containing point locations.
+        projected_crs_code (int): The EPSG code of the projected coordinate reference system to use for the distance calculation.
 
     Returns:
         pd.DataFrame: A DataFrame with the original data and a new or updated column for the distance to the coastline.
@@ -21,8 +24,9 @@ def calculate_coastal_distances(point_locations_path):
     communities_gdf = gpd.GeoDataFrame(
         communities_df, geometry=geometry, crs="EPSG:4326"
     )
-    # reproject to 3338 because ideally we compute distances in projected space
-    communities_gdf = communities_gdf.to_crs("EPSG:3338")
+    # reproject to compute distances in projected space
+    projected_crs = f"EPSG:{projected_crs_code}"
+    communities_gdf = communities_gdf.to_crs(projected_crs)
 
     coast_gdf = gpd.read_file(
         Path(
@@ -33,7 +37,7 @@ def calculate_coastal_distances(point_locations_path):
     coast_gdf = coast_gdf[
         (coast_gdf.geometry.bounds.miny >= 40) & (coast_gdf.geometry.bounds.maxy <= 84)
     ]
-    coast_gdf = coast_gdf.to_crs("EPSG:3338")
+    coast_gdf = coast_gdf.to_crs(projected_crs)
 
     # convert coastline LineString geometries to array of coordinates, each LineString has numerous individual xy coordinates
     coast_coords = coast_gdf.geometry.apply(lambda x: list(x.coords))
@@ -77,7 +81,13 @@ def write_to_csv(community_df, output_path):
 
 
 if __name__ == "__main__":
+
     for point_locations_path in Path("../vector_data/point").glob("*.csv"):
-        communities_df = calculate_coastal_distances(point_locations_path)
+        # csv names are like newfoundland_and_labrador_point_locations.csv
+        region_name = point_locations_path.name.split("_point_locations")[0]
+        print(f"Processing {region_name}...")
+        communities_df = calculate_coastal_distances(
+            point_locations_path, crs_lookup[region_name]
+        )
         communities_df = add_coastal_tag(communities_df)
         write_to_csv(communities_df, point_locations_path)

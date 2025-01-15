@@ -1,114 +1,114 @@
-id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal
-GL1,Ilulissat,,Avannaata,GL,69.2167,-51.1,ardac,0.8,True
-GL2,Uummannaq,,Avannaata,GL,70.6747,-52.1264,ardac,6.9,True
-GL3,Upernavik,,Avannaata,GL,72.7869,-56.1472,ardac,5.6,True
-GL4,Qaanaaq,,Avannaata,GL,77.4667,-69.2306,ardac,1.4,True
-GL5,Kullorsuaq,,Avannaata,GL,74.5792,-57.2181,ardac,6.4,True
-GL6,Tasiusaq,,Avannaata,GL,73.3689,-56.0556,ardac,10.4,True
-GL7,Ikerasak,,Avannaata,GL,70.5028,-51.3028,ardac,3.1,True
-GL8,Saattut,,Avannaata,GL,70.8117,-51.6333,ardac,3.9,True
-GL9,Upernavik Kujalleq,,Avannaata,GL,72.1544,-55.5247,ardac,0.7,True
-GL10,Kraulshavn,,Avannaata,GL,74.1111,-57.0611,ardac,3.1,True
-GL11,Qaarsut,,Avannaata,GL,70.7319,-52.6375,ardac,6.4,True
-GL12,Ukkusissat,,Avannaata,GL,71.0492,-51.8875,ardac,0.8,True
-GL13,Aappilattoq,,Avannaata,GL,72.8833,-55.6,ardac,7.9,True
-GL14,Saqqaq,,Avannaata,GL,70.0097,-51.9458,ardac,0.8,True
-GL15,Kangersuatsiaq,,Avannaata,GL,72.3797,-55.55,ardac,2.3,True
-GL16,Qeqertaq,,Avannaata,GL,69.9972,-51.3028,ardac,3.1,True
-GL17,Nuugaatsiaq,,Avannaata,GL,71.535,-53.2125,ardac,0.8,True
-GL18,Savissivik,,Avannaata,GL,76.0194,-65.1139,ardac,7.0,True
-GL19,Claushavn,,Avannaata,GL,69.0811,-51.1153,ardac,0.8,True
-GL20,Naajat,,Avannaata,GL,73.1431,-55.8069,ardac,5.3,True
-GL21,Siorapaluk,,Avannaata,GL,77.7856,-70.6333,ardac,0.4,True
-GL22,Niaqornat,,Avannaata,GL,70.7889,-53.6639,ardac,0.9,True
-GL23,Rodebay,,Avannaata,GL,69.3444,-51.0028,ardac,1.5,True
-GL24,Qeqertat,,Avannaata,GL,77.4942,-66.6847,ardac,6.8,True
-GL25,Pitorqeq,,Avannaata,GL,69.2167,-51.1333,ardac,0.9,True
-GL26,Moriusaq,,Avannaata,GL,76.7508,-69.8486,ardac,1.9,True
-GL27,Narsaarsuk,,Avannaata,GL,76.4217,-69.3703,ardac,5.0,True
-GL28,Illorsuit,,Avannaata,GL,71.2417,-53.5667,ardac,3.9,True
-GL29,Kuuk,,Avannaata,GL,73.7056,-56.1944,ardac,5.1,True
-GL30,Maarmorilik,,Avannaata,GL,71.1264,-51.2778,ardac,2.6,True
-GL31,Uummannaq,,Avannaata,GL,76.5333,-68.8333,ardac,2.3,True
-GL32,Kittorsaq,,Avannaata,GL,73.95,-56.7333,ardac,4.5,True
-GL33,Qangattaat,,Avannaata,GL,77.3833,-72.4667,ardac,1.8,True
-GL34,Narsaq,,Avannaata,GL,77.3025,-68.8425,ardac,3.7,True
-GL35,Qeqertarsuaq,,Avannaata,GL,77.4275,-70.1892,ardac,2.0,True
-GL36,Qaqortoq,,Kujalleq,GL,60.7222,-46.0403,ardac,0.6,True
-GL37,Narsaq,,Kujalleq,GL,60.9122,-46.0486,ardac,0.9,True
-GL38,Nanortalik,,Kujalleq,GL,60.1419,-45.2433,ardac,1.2,True
-GL39,Alluitsup Paa,,Kujalleq,GL,60.4625,-45.5694,ardac,1.2,True
-GL40,Narsarsuaq,,Kujalleq,GL,61.1458,-45.4347,ardac,0.8,True
-GL41,Aappilattoq,,Kujalleq,GL,60.1503,-44.285,ardac,1.4,True
-GL42,Narsaq Kujalleq,,Kujalleq,GL,60.0047,-44.6653,ardac,0.5,True
-GL43,Tasiusaq,,Kujalleq,GL,60.1931,-44.8197,ardac,1.4,True
-GL44,Eqalugaarsuit,,Kujalleq,GL,60.6222,-45.9097,ardac,0.8,True
-GL45,Qassiarsuk,,Kujalleq,GL,61.15,-45.5167,ardac,1.3,True
-GL46,Ammassivik,,Kujalleq,GL,60.5967,-45.3861,ardac,0.6,True
-GL47,Saarloq,,Kujalleq,GL,60.5375,-46.0258,ardac,5.4,True
-GL48,Qassimiut,,Kujalleq,GL,60.7814,-47.1597,ardac,2.4,True
-GL49,Tuapaat,,Kujalleq,GL,60.1167,-45.1667,ardac,1.5,True
-GL50,Ikigait,,Kujalleq,GL,59.9833,-44.7,ardac,2.3,True
-GL51,Ikerasassuaq,,Kujalleq,GL,60.05,-43.1667,ardac,0.6,True
-GL52,Søndre Igaliku,,Kujalleq,GL,60.9,-45.2833,ardac,1.3,True
-GL53,Sammisoq,,Kujalleq,GL,59.9908,-43.9322,ardac,1.7,True
-GL54,Aasiaat,,Qeqertalik,GL,68.7097,-52.8694,ardac,4.0,True
-GL55,Qullissat,,Qeqertalik,GL,70.0844,-53.0097,ardac,1.9,True
-GL56,Qasigiannguit,,Qeqertalik,GL,68.8201,-51.1932,ardac,0.4,True
-GL57,Godhavn,,Qeqertalik,GL,69.2472,-53.5333,ardac,1.0,True
-GL58,Kangaatsiaq,,Qeqertalik,GL,68.3069,-53.4636,ardac,3.8,True
-GL59,Niaqornaarsuk,,Qeqertalik,GL,68.2322,-52.8583,ardac,0.6,True
-GL60,Attu,,Qeqertalik,GL,67.9406,-53.6228,ardac,8.6,True
-GL61,Ikerasaarsuk,,Qeqertalik,GL,68.1403,-53.4444,ardac,1.5,True
-GL62,Ikamiut,,Qeqertalik,GL,68.6333,-51.8328,ardac,0.6,True
-GL63,Iginniarfik,,Qeqertalik,GL,68.1481,-53.1722,ardac,0.4,True
-GL64,Akunnaaq,,Qeqertalik,GL,68.7436,-52.3286,ardac,4.9,True
-GL65,Hunde Ejland,,Qeqertalik,GL,68.8569,-53.1208,ardac,23.0,True
-GL66,Diskofjord,,Qeqertalik,GL,69.4833,-53.95,ardac,0.8,True
-GL67,Akulliit,,Qeqertalik,GL,68.6581,-51.2497,ardac,8.5,True
-GL68,Kigdlûssat,,Qeqertalik,GL,69.3833,-52.7667,ardac,4.0,True
-GL69,Aqisserniaq,,Qeqertalik,GL,67.8667,-53.6,ardac,2.8,True
-GL70,Sisimiut,,Qeqqata,GL,66.9389,-53.6722,ardac,0.6,True
-GL71,Maniitsoq,,Qeqqata,GL,65.4167,-52.9,ardac,12.8,True
-GL72,Kangaamiut,,Qeqqata,GL,65.825,-53.3375,ardac,7.0,True
-GL73,Atammik,,Qeqqata,GL,64.8036,-52.1764,ardac,0.4,True
-GL74,Sarfannguaq,,Qeqqata,GL,66.8972,-52.8611,ardac,1.6,True
-GL75,Napasoq,,Qeqqata,GL,65.0472,-52.3806,ardac,6.0,True
-GL76,Itilleq,,Qeqqata,GL,66.5778,-53.5,ardac,3.2,True
-GL77,Camp Lloyd,,Qeqqata,GL,66.9833,-50.9333,ardac,2.0,True
-GL78,Søndre Strømfjord,,Qeqqata,GL,67.0,-50.7,ardac,0.6,True
-GL79,Assaqutaq,,Qeqqata,GL,66.9161,-53.4789,ardac,1.3,True
-GL80,Nuuk,,Sermersooq,GL,64.1814,-51.6942,ardac,0.5,True
-GL81,Tasiilaq,,Sermersooq,GL,65.6136,-37.6311,ardac,0.3,True
-GL82,Paamiut,,Sermersooq,GL,61.9944,-49.6667,ardac,0.8,True
-GL83,Scoresbysund,,Sermersooq,GL,70.4853,-21.9667,ardac,1.2,True
-GL84,Kuummiit,,Sermersooq,GL,65.8653,-37.0083,ardac,1.0,True
-GL85,Kulusuk,,Sermersooq,GL,65.5753,-37.1833,ardac,1.2,True
-GL86,Qeqertarsuatsiaat,,Sermersooq,GL,63.0889,-50.6778,ardac,1.2,True
-GL87,Tiniteqilaaq,,Sermersooq,GL,65.8889,-37.7792,ardac,1.0,True
-GL88,Arsuk,,Sermersooq,GL,61.175,-48.45,ardac,0.5,True
-GL89,Isortoq,,Sermersooq,GL,65.5486,-38.975,ardac,2.7,True
-GL90,Kapisillit,,Sermersooq,GL,64.4361,-50.2694,ardac,1.3,True
-GL91,Ittumiit,,Sermersooq,GL,65.5833,-37.5833,ardac,1.7,True
-GL92,Kangeq,,Sermersooq,GL,64.1167,-52.0667,ardac,1.5,True
-GL93,Ivittuut,,Sermersooq,GL,61.2083,-48.1694,ardac,1.7,True
-GL94,Uunarteq,,Sermersooq,GL,70.4189,-21.9722,ardac,1.0,True
-GL95,Ittaajimmiut,,Sermersooq,GL,70.4589,-22.3292,ardac,2.2,True
-GL96,Sermiligaaq,,Sermersooq,GL,65.9,-36.3667,ardac,1.5,True
-GL97,Neriunaq,,Sermersooq,GL,64.4667,-50.3167,ardac,2.2,True
-GL98,Simiutaq,,Sermersooq,GL,65.8667,-37.0333,ardac,0.8,True
-GL99,Kap Dan,,Sermersooq,GL,65.5667,-37.1167,ardac,1.7,True
-GL100,Sivtingaleq,,Sermersooq,GL,65.55,-37.2167,ardac,0.1,True
-GL101,Grønnedal,,Sermersooq,GL,61.2333,-48.1,ardac,0.7,True
-GL102,Igssalik,,Sermersooq,GL,65.5167,-39.0167,ardac,5.1,True
-GL103,Narsaq,,Sermersooq,GL,64.0,-51.6333,ardac,1.1,True
-GL104,Uummannaq,,Sermersooq,GL,64.4911,-50.7988,ardac,1.3,True
-GL105,Ittorisseq,,Sermersooq,GL,70.45,-22.45,ardac,2.5,True
-GL106,Umiattuartivit,,Sermersooq,GL,65.9,-37.9833,ardac,3.7,True
-GL107,Færingehavn,,Sermersooq,GL,63.6975,-51.5453,ardac,0.7,True
-GL108,Summit Camp,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,72.5796,-38.4592,ardac,345.1,False
-GL109,Zackenberg Research Station,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,74.4697,-20.5735,ardac,2.0,True
-GL110,Daneborg,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,74.3021,-20.2242,ardac,0.2,True
-GL111,Danmarkshavn,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,76.7667,-18.6667,ardac,0.9,True
-GL112,Station Nord,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,81.5992,-16.6367,ardac,1.9,True
-GL113,Mestersvig,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,72.2333,-23.9167,ardac,0.8,True
+id,name,alt_name,region,country,latitude,longitude,tags,km_distance_to_ocean,is_coastal,ocean_lat1,ocean_lon1
+GL1,Ilulissat,,Avannaata,GL,69.2167,-51.1,ardac,0.8,True,69.2299,-51.1192
+GL2,Uummannaq,,Avannaata,GL,70.6747,-52.1264,ardac,6.9,True,70.6878,-52.1478
+GL3,Upernavik,,Avannaata,GL,72.7869,-56.1472,ardac,5.5,True,72.7995,-56.1742
+GL4,Qaanaaq,,Avannaata,GL,77.4667,-69.2306,ardac,1.6,True,77.4772,-69.2796
+GL5,Kullorsuaq,,Avannaata,GL,74.5792,-57.2181,ardac,6.8,True,74.5917,-57.2491
+GL6,Tasiusaq,,Avannaata,GL,73.3689,-56.0556,ardac,10.1,True,73.3815,-56.0835
+GL7,Ikerasak,,Avannaata,GL,70.5028,-51.3028,ardac,3.1,True,70.463,-50.823
+GL8,Saattut,,Avannaata,GL,70.8117,-51.6333,ardac,4.0,True,70.8248,-51.6545
+GL9,Upernavik Kujalleq,,Avannaata,GL,72.1544,-55.5247,ardac,0.7,True,72.1671,-55.5503
+GL10,Kraulshavn,,Avannaata,GL,74.1111,-57.0611,ardac,3.2,True,74.1236,-57.0911
+GL11,Qaarsut,,Avannaata,GL,70.7319,-52.6375,ardac,6.3,True,70.7449,-52.6593
+GL12,Ukkusissat,,Avannaata,GL,71.0492,-51.8875,ardac,0.8,True,71.0623,-51.9092
+GL13,Aappilattoq,,Avannaata,GL,72.8833,-55.6,ardac,8.2,True,72.896,-55.6268
+GL14,Saqqaq,,Avannaata,GL,70.0097,-51.9458,ardac,0.8,True,69.9717,-51.4765
+GL15,Kangersuatsiaq,,Avannaata,GL,72.3797,-55.55,ardac,2.3,True,72.3924,-55.576
+GL16,Qeqertaq,,Avannaata,GL,69.9972,-51.3028,ardac,3.2,True,70.0103,-51.3229
+GL17,Nuugaatsiaq,,Avannaata,GL,71.535,-53.2125,ardac,0.8,True,71.548,-53.2357
+GL18,Savissivik,,Avannaata,GL,76.0194,-65.1139,ardac,6.5,True,76.0307,-65.1547
+GL19,Claushavn,,Avannaata,GL,69.0811,-51.1153,ardac,0.8,True,69.0942,-51.1344
+GL20,Naajat,,Avannaata,GL,73.1431,-55.8069,ardac,5.2,True,73.1557,-55.8342
+GL21,Siorapaluk,,Avannaata,GL,77.7856,-70.6333,ardac,0.4,True,77.7959,-70.6848
+GL22,Niaqornat,,Avannaata,GL,70.7889,-53.6639,ardac,0.9,True,70.8018,-53.6865
+GL23,Rodebay,,Avannaata,GL,69.3444,-51.0028,ardac,1.5,True,69.3576,-51.0221
+GL24,Qeqertat,,Avannaata,GL,77.4942,-66.6847,ardac,7.4,True,77.5052,-66.7317
+GL25,Pitorqeq,,Avannaata,GL,69.2167,-51.1333,ardac,0.9,True,69.2298,-51.1526
+GL26,Moriusaq,,Avannaata,GL,76.7508,-69.8486,ardac,1.8,True,76.5845,-69.8838
+GL27,Narsaarsuk,,Avannaata,GL,76.4217,-69.3703,ardac,5.4,True,76.4322,-69.4157
+GL28,Illorsuit,,Avannaata,GL,71.2417,-53.5667,ardac,3.9,True,71.208,-53.0635
+GL29,Kuuk,,Avannaata,GL,73.7056,-56.1944,ardac,4.9,True,73.7182,-56.223
+GL30,Maarmorilik,,Avannaata,GL,71.1264,-51.2778,ardac,2.6,True,70.9719,-51.4597
+GL31,Uummannaq,,Avannaata,GL,76.5333,-68.8333,ardac,2.2,True,76.5439,-68.8786
+GL32,Kittorsaq,,Avannaata,GL,73.95,-56.7333,ardac,4.5,True,73.9625,-56.7627
+GL33,Qangattaat,,Avannaata,GL,77.3833,-72.4667,ardac,1.7,True,77.3932,-72.518
+GL34,Narsaq,,Avannaata,GL,77.3025,-68.8425,ardac,3.7,True,77.3131,-68.8906
+GL35,Qeqertarsuaq,,Avannaata,GL,77.4275,-70.1892,ardac,2.0,True,77.4379,-70.2388
+GL36,Qaqortoq,,Kujalleq,GL,60.7222,-46.0403,ardac,0.6,True,60.7356,-46.0516
+GL37,Narsaq,,Kujalleq,GL,60.9122,-46.0486,ardac,0.9,True,60.9256,-46.06
+GL38,Nanortalik,,Kujalleq,GL,60.1419,-45.2433,ardac,1.2,True,60.1553,-45.254
+GL39,Alluitsup Paa,,Kujalleq,GL,60.4625,-45.5694,ardac,1.3,True,60.4759,-45.5804
+GL40,Narsarsuaq,,Kujalleq,GL,61.1458,-45.4347,ardac,0.8,True,61.0682,-45.9088
+GL41,Aappilattoq,,Kujalleq,GL,60.1503,-44.285,ardac,1.5,True,60.0935,-43.9843
+GL42,Narsaq Kujalleq,,Kujalleq,GL,60.0047,-44.6653,ardac,0.5,True,59.9489,-44.3653
+GL43,Tasiusaq,,Kujalleq,GL,60.1931,-44.8197,ardac,1.5,True,60.2746,-45.1444
+GL44,Eqalugaarsuit,,Kujalleq,GL,60.6222,-45.9097,ardac,0.8,True,60.6356,-45.9209
+GL45,Qassiarsuk,,Kujalleq,GL,61.15,-45.5167,ardac,1.3,True,61.072,-45.9906
+GL46,Ammassivik,,Kujalleq,GL,60.5967,-45.3861,ardac,0.6,True,60.4532,-45.5328
+GL47,Saarloq,,Kujalleq,GL,60.5375,-46.0258,ardac,5.6,True,60.5508,-46.037
+GL48,Qassimiut,,Kujalleq,GL,60.7814,-47.1597,ardac,2.5,True,60.7947,-47.1715
+GL49,Tuapaat,,Kujalleq,GL,60.1167,-45.1667,ardac,1.5,True,60.1301,-45.1774
+GL50,Ikigait,,Kujalleq,GL,59.9833,-44.7,ardac,2.4,True,59.9276,-44.4002
+GL51,Ikerasassuaq,,Kujalleq,GL,60.05,-43.1667,ardac,0.6,True,60.0636,-43.1764
+GL52,Søndre Igaliku,,Kujalleq,GL,60.9,-45.2833,ardac,1.4,True,60.5994,-45.5683
+GL53,Sammisoq,,Kujalleq,GL,59.9908,-43.9322,ardac,1.8,True,60.0043,-43.9422
+GL54,Aasiaat,,Qeqertalik,GL,68.7097,-52.8694,ardac,4.1,True,68.7226,-52.8893
+GL55,Qullissat,,Qeqertalik,GL,70.0844,-53.0097,ardac,1.9,True,70.0973,-53.031
+GL56,Qasigiannguit,,Qeqertalik,GL,68.8201,-51.1932,ardac,0.4,True,68.8332,-51.2121
+GL57,Godhavn,,Qeqertalik,GL,69.2472,-53.5333,ardac,1.0,True,69.2136,-53.0784
+GL58,Kangaatsiaq,,Qeqertalik,GL,68.3069,-53.4636,ardac,3.8,True,68.3197,-53.4835
+GL59,Niaqornaarsuk,,Qeqertalik,GL,68.2322,-52.8583,ardac,0.6,True,68.2451,-52.8777
+GL60,Attu,,Qeqertalik,GL,67.9406,-53.6228,ardac,8.7,True,67.9534,-53.6424
+GL61,Ikerasaarsuk,,Qeqertalik,GL,68.1403,-53.4444,ardac,1.5,True,68.1531,-53.4641
+GL62,Ikamiut,,Qeqertalik,GL,68.6333,-51.8328,ardac,0.6,True,68.6463,-51.852
+GL63,Iginniarfik,,Qeqertalik,GL,68.1481,-53.1722,ardac,0.4,True,68.161,-53.1917
+GL64,Akunnaaq,,Qeqertalik,GL,68.7436,-52.3286,ardac,5.0,True,68.7566,-52.3482
+GL65,Hunde Ejland,,Qeqertalik,GL,68.8569,-53.1208,ardac,23.5,True,68.8698,-53.141
+GL66,Diskofjord,,Qeqertalik,GL,69.4833,-53.95,ardac,0.8,True,69.4961,-53.9713
+GL67,Akulliit,,Qeqertalik,GL,68.6581,-51.2497,ardac,8.6,True,68.6712,-51.2685
+GL68,Kigdlûssat,,Qeqertalik,GL,69.3833,-52.7667,ardac,4.1,True,69.3476,-52.3102
+GL69,Aqisserniaq,,Qeqertalik,GL,67.8667,-53.6,ardac,2.9,True,67.8795,-53.6195
+GL70,Sisimiut,,Qeqqata,GL,66.9389,-53.6722,ardac,0.6,True,66.9517,-53.691
+GL71,Maniitsoq,,Qeqqata,GL,65.4167,-52.9,ardac,13.1,True,65.4295,-52.9172
+GL72,Kangaamiut,,Qeqqata,GL,65.825,-53.3375,ardac,7.2,True,65.8378,-53.3552
+GL73,Atammik,,Qeqqata,GL,64.8036,-52.1764,ardac,0.4,True,64.8165,-52.1928
+GL74,Sarfannguaq,,Qeqqata,GL,66.8972,-52.8611,ardac,1.7,True,66.9101,-52.8794
+GL75,Napasoq,,Qeqqata,GL,65.0472,-52.3806,ardac,6.1,True,65.0601,-52.3973
+GL76,Itilleq,,Qeqqata,GL,66.5778,-53.5,ardac,3.2,True,66.5906,-53.5184
+GL77,Camp Lloyd,,Qeqqata,GL,66.9833,-50.9333,ardac,2.0,True,67.031,-52.7851
+GL78,Søndre Strømfjord,,Qeqqata,GL,67.0,-50.7,ardac,0.6,True,67.0984,-52.9823
+GL79,Assaqutaq,,Qeqqata,GL,66.9161,-53.4789,ardac,1.3,True,66.9289,-53.4976
+GL80,Nuuk,,Sermersooq,GL,64.1814,-51.6942,ardac,0.5,True,64.1943,-51.71
+GL81,Tasiilaq,,Sermersooq,GL,65.6136,-37.6311,ardac,0.3,True,65.6278,-37.6398
+GL82,Paamiut,,Sermersooq,GL,61.9944,-49.6667,ardac,0.8,True,62.0074,-49.6803
+GL83,Scoresbysund,,Sermersooq,GL,70.4853,-21.9667,ardac,1.2,True,70.3781,-22.3421
+GL84,Kuummiit,,Sermersooq,GL,65.8653,-37.0083,ardac,1.1,True,65.8796,-37.0168
+GL85,Kulusuk,,Sermersooq,GL,65.5753,-37.1833,ardac,1.2,True,65.5896,-37.1918
+GL86,Qeqertarsuatsiaat,,Sermersooq,GL,63.0889,-50.6778,ardac,1.2,True,62.9381,-50.8088
+GL87,Tiniteqilaaq,,Sermersooq,GL,65.8889,-37.7792,ardac,1.1,True,65.9031,-37.7881
+GL88,Arsuk,,Sermersooq,GL,61.175,-48.45,ardac,0.5,True,61.1881,-48.4626
+GL89,Isortoq,,Sermersooq,GL,65.5486,-38.975,ardac,2.8,True,65.4771,-38.6211
+GL90,Kapisillit,,Sermersooq,GL,64.4361,-50.2694,ardac,1.4,True,64.4492,-50.2846
+GL91,Ittumiit,,Sermersooq,GL,65.5833,-37.5833,ardac,1.7,True,65.5975,-37.592
+GL92,Kangeq,,Sermersooq,GL,64.1167,-52.0667,ardac,1.6,True,64.1296,-52.0826
+GL93,Ivittuut,,Sermersooq,GL,61.2083,-48.1694,ardac,1.7,True,61.0612,-48.3049
+GL94,Uunarteq,,Sermersooq,GL,70.4189,-21.9722,ardac,1.0,True,70.4338,-21.9713
+GL95,Ittaajimmiut,,Sermersooq,GL,70.4589,-22.3292,ardac,2.2,True,70.3477,-21.965
+GL96,Sermiligaaq,,Sermersooq,GL,65.9,-36.3667,ardac,1.5,True,65.9143,-36.3748
+GL97,Neriunaq,,Sermersooq,GL,64.4667,-50.3167,ardac,2.2,True,64.4798,-50.3319
+GL98,Simiutaq,,Sermersooq,GL,65.8667,-37.0333,ardac,0.8,True,65.881,-37.0418
+GL99,Kap Dan,,Sermersooq,GL,65.5667,-37.1167,ardac,1.7,True,65.581,-37.1251
+GL100,Sivtingaleq,,Sermersooq,GL,65.55,-37.2167,ardac,0.1,True,65.5643,-37.2252
+GL101,Grønnedal,,Sermersooq,GL,61.2333,-48.1,ardac,0.7,True,61.0862,-48.236
+GL102,Igssalik,,Sermersooq,GL,65.5167,-39.0167,ardac,5.2,True,65.4453,-38.6631
+GL103,Narsaq,,Sermersooq,GL,64.0,-51.6333,ardac,1.1,True,64.0129,-51.6489
+GL104,Uummannaq,,Sermersooq,GL,64.4911,-50.7988,ardac,1.3,True,64.5041,-50.8143
+GL105,Ittorisseq,,Sermersooq,GL,70.45,-22.45,ardac,2.5,True,70.4649,-22.4495
+GL106,Umiattuartivit,,Sermersooq,GL,65.9,-37.9833,ardac,3.8,True,65.9142,-37.9924
+GL107,Færingehavn,,Sermersooq,GL,63.6975,-51.5453,ardac,0.7,True,63.7104,-51.5607
+GL108,Summit Camp,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,72.5796,-38.4592,ardac,336.1,False,72.9368,-25.022
+GL109,Zackenberg Research Station,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,74.4697,-20.5735,ardac,2.1,True,74.1049,-20.1756
+GL110,Daneborg,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,74.3021,-20.2242,ardac,0.2,True,74.1858,-19.7871
+GL111,Danmarkshavn,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,76.7667,-18.6667,ardac,0.8,True,76.647,-18.1634
+GL112,Station Nord,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,81.5992,-16.6367,ardac,2.1,True,81.6381,-18.3321
+GL113,Mestersvig,,Kalaallit Nunaanni nuna eqqissisimatitaq,GL,72.2333,-23.9167,ardac,0.8,True,72.2482,-23.9174
