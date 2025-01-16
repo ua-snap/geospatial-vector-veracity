@@ -42,7 +42,7 @@ Simplified EPSG:3338 geometry of the otherwise complex and crenulated AK coastli
 
 ### `alaska_hucs`
 
-Alaska hydrologic units (i.e., watersheds) organized by HUC level (e.g. HUC-8) for Alaska.
+Alaska hydrologic units (i.e., watersheds) organized by hydrologic unit code (HUC) level (e.g. HUC-8) for Alaska. Available data include HUC-12, HUC-10, and HUC-8 polygons. The Alaska HUC datasets are not exact copies of official USGS data. In some instances polygons have been removed or simplified to enhance their application for web mapping and geospatial operations involving gridded datasets with spatial resolutions ranging between 0.5 km and 20 km.
 
 ### `boroughs`
 
