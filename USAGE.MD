@@ -12,6 +12,18 @@ You'll likely need to run these scripts from the same directory they reside in b
 
 Use this script to add new point locations to a point location CSV file. You should use this script because it will help ensure proper indexing, formatting, and coordinate precision. And indexing matters, because many of our tools map the `id` of a community to a URL specific to the data for that location (e.g., https://northernclimatereports.org/report/community/AK13#results) and we don't want those to shift.
 
+### `convert_small_polygons_to_points.py`
+
+Use this script converts polygons smaller than 10 km² to points and adds them to a points CSV file. This script exists because doing zonal statistics with small polygons and gridded datasets with coarse spatial resolutions is not useful. For example, if the grid spatial resolution is 4 km², then a 10 km² polygon will have a zonal mean computed from ~2 grid cell values. Instead, it is better to track these small polygons as points so they can be included in point queries. The small polygons are removed from the source shapefile and are migrated to a point geometry represented by the centroid coordinates of the input polygons.
+
+Example usage:
+
+```sh
+python convert_small_polygons_to_points.py \
+    --polygons ../vector_data/polygon/boundaries/protected_areas/bc_protected_areas/bc_protected_areas.shp \
+    --points ../vector_data/point/british_columbia_point_locations.csv \
+```
+
 ### `compute_distance_to_coastline.py`
 
 This script computes the distance to the nearest coastline for a list of communities. The script will create or update a column in the input CSV file with the distance to the nearest coastline in kilometers. A column `is_coastal` will also be created or updated to indicate whether the community is coastal or not based on some threshold distance, for which the default is 100 km. The script will iterate through all CSV files in the `../vector_data/point` directory and update each file with the new distance and coastal tag.
