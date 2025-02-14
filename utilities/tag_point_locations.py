@@ -13,8 +13,13 @@ import pandas as pd
 import geopandas as gpd
 from shapely.geometry import Point
 
+# ardac = ARDAC Explorer
+# awe = Alaska Wildfire Explorer
+# eds = Arctic-EDS
+# ncr = Northern Climate Reports
+
 file_tags = {
-    "alaska_point_locations.csv": ["eds", "ardac"],
+    "alaska_point_locations.csv": ["eds", "ardac", "awe"],
 }
 
 tags_for_all_locations = ["ardac"]
