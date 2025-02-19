@@ -150,6 +150,10 @@ yt_protected_areas = gpd.read_file(
     "../vector_data/polygon/boundaries/protected_areas/yt_protected_areas/yt_protected_areas.shp"
 )
 yt_protected_areas["type"] = "protected_area"
+ecoregions = gpd.read_file(
+    "../vector_data/polygon/boundaries/ecoregions/ak_level3_ecoregions.shp"
+)
+ecoregions["type"] = "ecoregion"
 
 for gdf in [
     huc8s,
@@ -169,6 +173,7 @@ for gdf in [
     ak_protected_areas,
     bc_protected_areas,
     yt_protected_areas,
+    ecoregions,
 ]:
     if gdf.crs != "EPSG:4326":
         gdf.to_crs(4326, inplace=True)
@@ -202,6 +207,7 @@ merged = pd.concat(
         ak_protected_areas,
         bc_protected_areas,
         yt_protected_areas,
+        ecoregions,
     ]
 )
 
