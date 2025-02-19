@@ -151,7 +151,7 @@ yt_protected_areas = gpd.read_file(
 )
 yt_protected_areas["type"] = "protected_area"
 ecoregions = gpd.read_file(
-    "../vector_data/polygon/boundaries/ecoregions/ak_level3_ecoregions.shp"
+    "../vector_data/polygon/boundaries/ecoregions/ecoregions.shp"
 )
 ecoregions["type"] = "ecoregion"
 
