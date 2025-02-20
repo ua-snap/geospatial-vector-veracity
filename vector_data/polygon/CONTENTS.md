@@ -11,6 +11,7 @@ polygon
 │   ├── census_areas
 │   ├── climate_divisions
 │   ├── corporation
+│   ├── ecoregions
 │   ├── ethnolinguistic
 │   ├── fire
 │   │   ├── ak_fire_mgmt
@@ -63,6 +64,10 @@ Alaska Native Corporations.
 ### `ethnolinguistic`
 
 Ethnographic / linguistic zones for Alaska and parts of Canada.
+
+### `ecoregions`
+
+EPA Level 3 Ecoregions for Alaska.
 
 ### `fire`
 

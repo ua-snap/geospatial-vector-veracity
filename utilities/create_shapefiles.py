@@ -70,13 +70,17 @@ communities.to_file(
 )
 
 # Generate concatenated multipolygon shapefile for all other areas
-hucs = gpd.read_file("../vector_data/polygon/boundaries/alaska_hucs/ak_huc8s.shp")
-hucs["type"] = "huc"
-hucs["area_type"] = "HUC8"
+huc8s = gpd.read_file("../vector_data/polygon/boundaries/alaska_hucs/ak_huc8s.shp")
+huc8s["type"] = "huc"
+huc8s["area_type"] = "HUC8"
 
 huc10s = gpd.read_file("../vector_data/polygon/boundaries/alaska_hucs/ak_huc10s.shp")
 huc10s["type"] = "huc"
 huc10s["area_type"] = "HUC10"
+
+huc12s = gpd.read_file("../vector_data/polygon/boundaries/alaska_hucs/ak_huc12s.shp")
+huc12s["type"] = "huc"
+huc12s["area_type"] = "HUC12"
 
 yt_watersheds = gpd.read_file(
     "../vector_data/polygon/boundaries/yt_watersheds/yt_watersheds4326.shp"
@@ -146,9 +150,15 @@ yt_protected_areas = gpd.read_file(
     "../vector_data/polygon/boundaries/protected_areas/yt_protected_areas/yt_protected_areas.shp"
 )
 yt_protected_areas["type"] = "protected_area"
+ecoregions = gpd.read_file(
+    "../vector_data/polygon/boundaries/ecoregions/ecoregions.shp"
+)
+ecoregions["type"] = "ecoregion"
 
 for gdf in [
+    huc8s,
     huc10s,
+    huc12s,
     yt_watersheds,
     boroughs,
     census,
@@ -163,6 +173,7 @@ for gdf in [
     ak_protected_areas,
     bc_protected_areas,
     yt_protected_areas,
+    ecoregions,
 ]:
     if gdf.crs != "EPSG:4326":
         gdf.to_crs(4326, inplace=True)
@@ -179,8 +190,9 @@ yt_protected_areas = yt_protected_areas[
 # Merge all of the areas into a single Pandas data frame
 merged = pd.concat(
     [
-        hucs,
+        huc8s,
         huc10s,
+        huc12s,
         yt_watersheds,
         boroughs,
         census,
@@ -195,6 +207,7 @@ merged = pd.concat(
         ak_protected_areas,
         bc_protected_areas,
         yt_protected_areas,
+        ecoregions,
     ]
 )
 
@@ -204,10 +217,3 @@ merged = merged.drop(
 )
 
 merged.to_file("all_places/all_areas.shp", encoding="utf-8")
-
-# Generate HUC12 shapefile with type added
-akhuc12 = gpd.read_file("../vector_data/polygon/boundaries/alaska_hucs/ak_huc12s.shp")
-akhuc12["type"] = "huc12"
-akhuc12.to_crs(4326, inplace=True)
-
-akhuc12.to_file("all_places/ak_huc12s.shp", encoding="utf-8")
