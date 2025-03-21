@@ -11,7 +11,7 @@ import csv
 import glob
 import pandas as pd
 import geopandas as gpd
-from shapely.geometry import Point
+from shapely.geometry import Point, box
 
 # ardac = ARDAC Explorer
 # awe = Alaska Wildfire Explorer
@@ -26,6 +26,11 @@ tags_for_all_locations = ["ardac"]
 
 check_within_iem = [
     "alaska_point_locations.csv",
+    "british_columbia_point_locations.csv",
+    "yukon_point_locations.csv",
+]
+
+check_within_aqi_geotiff = [
     "british_columbia_point_locations.csv",
     "yukon_point_locations.csv",
 ]
@@ -72,6 +77,32 @@ iem_gdf = gpd.read_file(
 )
 iem_gdf.to_crs(4326, inplace=True)
 
+# BBOX coordinates taken from an example aqi_forecast_24_hrs.tif file
+aqi_bbox = box(-1783505.405, 484131.432, 1134455.303, 2733401.487)
+aqi_gdf = gpd.GeoDataFrame({"geometry": [aqi_bbox]}, crs="EPSG:3338")
+
+
+def add_tags_within_polygon(communities, polygon_gdf, tag):
+    """Tag communities with provided tag if they are within the polygon_gdf"""
+    # Ensure communities are in the same CRS as polygon_gdf
+
+    # Find communities within the polygon_gdf
+    polygon_communities = communities.to_crs(polygon_gdf.crs).within(
+        polygon_gdf.geometry.unary_union
+    )
+
+    # Filter out communities that are in eds_only
+    polygon_communities = polygon_communities & ~communities["id"].isin(eds_only)
+
+    # Tag remaining communities with provided tag
+    tags = communities.loc[polygon_communities, "tags"].str.split(",")
+    tags = tags.apply(lambda x: x + [tag])
+    tags = tags.apply(sorted)
+    communities.loc[polygon_communities, "tags"] = tags.apply(lambda x: ",".join(x))
+
+    return communities
+
+
 for path in glob.iglob("../vector_data/point/*.csv"):
     file = os.path.basename(path)
     communities = pd.read_csv(path)
@@ -90,30 +121,26 @@ for path in glob.iglob("../vector_data/point/*.csv"):
 
     if file in file_tags:
         tags += file_tags[file]
-    tags = list(set(tags))
-    tags = sorted(tags)
     communities.loc[~communities["id"].isin(eds_only), "tags"] = ",".join(tags)
 
     if file in check_within_iem:
         geometries = [
             Point(xy) for xy in zip(communities["longitude"], communities["latitude"])
         ]
-        communities = gpd.GeoDataFrame(communities, geometry=geometries)
+        communities = gpd.GeoDataFrame(
+            communities, geometry=geometries, crs="EPSG:4326"
+        )
 
-        # Find communities within the IEM polygon
-        iem_communities = communities.within(iem_gdf.geometry.unary_union)
-
-        # Filter out communities that are in eds_only
-        iem_communities = iem_communities & ~communities["id"].isin(eds_only)
-
-        # Tag remaining communities with "ncr"
-        tags = communities.loc[iem_communities, "tags"].str.split(",")
-        tags = tags.apply(lambda x: x + ["ncr"])
-        tags = tags.apply(sorted)
-        communities.loc[iem_communities, "tags"] = tags.apply(lambda x: ",".join(x))
+        communities = add_tags_within_polygon(communities, iem_gdf, "ncr")
+        communities = add_tags_within_polygon(communities, aqi_gdf, "awe")
 
         # Remove the geometry column before writing to CSV
         communities = communities.drop(columns="geometry")
+
+    # Sort tags and remove duplicates if they exist
+    communities["tags"] = communities["tags"].str.split(",")
+    communities["tags"] = communities["tags"].apply(set).apply(list).apply(sorted)
+    communities["tags"] = communities["tags"].apply(lambda x: ",".join(x))
 
     # Replace all nans with empty strings
     communities = communities.fillna("")

@@ -57,7 +57,7 @@ BC1054,Arrow Lakes Park,,British Columbia,CA,50.0194,-118.0328,ardac,353.6,False
 BC1055,Artlish Caves Park,,British Columbia,CA,50.1392,-126.9058,ardac,12.7,True,50.1195,-127.1363
 BC794,Ashcroft,,British Columbia,CA,50.721,-121.28,ardac,176.0,False,48.4584,-123.9743
 BC758,Ashton Creek,,British Columbia,CA,50.556,-119.013,ardac,301.9,False,48.5803,-124.0362
-BC443,Atlin,,British Columbia,CA,59.5679,-133.697,"ardac,ncr",93.6,True,58.6515,-134.7518
+BC443,Atlin,,British Columbia,CA,59.5679,-133.697,"ardac,awe,ncr",93.6,True,58.6515,-134.7518
 BC437,Attachie,,British Columbia,CA,56.2205,-121.423,ardac,509.6,False,53.4363,-128.9429
 BC873,Avola,,British Columbia,CA,51.7812,-119.323,ardac,356.4,False,50.9635,-126.2679
 BC1056,Babine Lake Marine Park,,British Columbia,CA,54.675,-125.8915,ardac,189.7,False,53.4634,-128.9321
@@ -80,7 +80,7 @@ BC297,Barrett Lake,,British Columbia,CA,54.45,-126.75,ardac,129.0,False,53.5714,
 BC456,Barriere,,British Columbia,CA,51.1819,-120.133,ardac,271.0,False,48.4739,-123.9385
 BC1062,Baynes Island Ecological Reserve,,British Columbia,CA,49.7723,-123.1742,ardac,7.5,True,48.6085,-123.9678
 BC569,Baynes Lake,,British Columbia,CA,49.2333,-115.217,ardac,531.9,False,,
-BC991,Bear Camp,,British Columbia,CA,59.9167,-136.8,"ardac,ncr",95.3,True,58.9493,-138.102
+BC991,Bear Camp,,British Columbia,CA,59.9167,-136.8,"ardac,awe,ncr",95.3,True,58.9493,-138.102
 BC23,Bear Creek,,British Columbia,CA,49.529,-121.761,ardac,80.0,True,48.5744,-123.8205
 BC1063,Bear Creek Park,,British Columbia,CA,49.9295,-119.5198,ardac,246.8,False,48.5877,-123.9334
 BC730,Bear Flat,,British Columbia,CA,56.274,-121.231,ardac,522.0,False,53.494,-129.0529
@@ -106,7 +106,7 @@ BC861,Bella Bella,,British Columbia,CA,52.1639,-128.144,ardac,2.0,True,52.1469,-
 BC746,Bella Coola,,British Columbia,CA,52.3706,-126.752,ardac,1.2,True,52.0103,-127.7951
 BC1073,Bella Coola Estuary Conservancy,,British Columbia,CA,52.381,-126.7728,ardac,1.1,True,52.0205,-127.816
 BC1074,Bellhouse Park,,British Columbia,CA,48.8722,-123.3119,ardac,0.5,True,48.5379,-124.0536
-BC614,Bennett,,British Columbia,CA,59.8451,-134.987,"ardac,ncr",46.4,True,58.6565,-134.9829
+BC614,Bennett,,British Columbia,CA,59.8451,-134.987,"ardac,awe,ncr",46.4,True,58.6565,-134.9829
 BC1075,Beresford Island Ecological Reserve,,British Columbia,CA,50.79,-128.7754,ardac,5.0,True,50.7731,-128.7466
 BC970,Bessborough,,British Columbia,CA,55.8109,-120.506,ardac,535.1,False,52.4211,-127.9868
 BC156,Big Bar Creek,,British Columbia,CA,51.1829,-122.117,ardac,166.2,False,50.9,-126.3193
@@ -525,7 +525,7 @@ BC1238,Francis Point Park,,British Columbia,CA,49.6121,-124.0571,ardac,1.2,True,
 BC1239,Francois Lake Protected Area,,British Columbia,CA,53.9863,-125.0399,ardac,181.7,False,53.4403,-128.9239
 BC89,Franklin Camp,,British Columbia,CA,48.9722,-124.742,ardac,9.4,True,48.7907,-124.9712
 BC1004,François Lake,,British Columbia,CA,54.0517,-125.7419,ardac,157.1,False,53.4987,-129.0644
-BC944,Fraser,,British Columbia,CA,59.7159,-135.049,"ardac,ncr",32.1,True,58.7129,-134.7676
+BC944,Fraser,,British Columbia,CA,59.7159,-135.049,"ardac,awe,ncr",32.1,True,58.7129,-134.7676
 BC759,Fraser Lake,,British Columbia,CA,54.0583,-124.847,ardac,196.4,False,53.5117,-129.0193
 BC1240,Fraser River Ecological Reserve,,British Columbia,CA,49.1741,-122.0188,ardac,57.2,True,48.5469,-124.0439
 BC1241,French Beach Park,,British Columbia,CA,48.3927,-123.9426,ardac,4.8,True,48.3746,-123.917
@@ -1123,7 +1123,7 @@ BC1478,Pinnacles Park,,British Columbia,CA,52.9791,-122.5605,ardac,276.1,False,5
 BC1479,Pirates Cove Marine Park,,British Columbia,CA,49.0959,-123.7253,ardac,1.7,True,48.5842,-123.9734
 BC617,Pitt Meadows,,British Columbia,CA,49.2172,-122.686,ardac,19.5,True,48.5657,-123.9548
 BC1480,Pitt Polder Ecological Reserve,,British Columbia,CA,49.324,-122.6387,ardac,18.5,True,48.5069,-123.9184
-BC963,Pleasant Camp,,British Columbia,CA,59.4546,-136.365,"ardac,ncr",47.9,True,58.6189,-136.095
+BC963,Pleasant Camp,,British Columbia,CA,59.4546,-136.365,"ardac,awe,ncr",47.9,True,58.6189,-136.095
 BC666,Pleasantside,,British Columbia,CA,49.2934,-122.847,ardac,5.5,True,48.4691,-123.8731
 BC1481,Plumper Cove Marine Park,,British Columbia,CA,49.4047,-123.4666,ardac,1.6,True,48.5664,-123.9849
 BC356,Pope Landing,,British Columbia,CA,49.6145,-124.048,ardac,1.0,True,48.9455,-125.0564
@@ -1469,7 +1469,7 @@ BC1613,Takla Lake Marine Park,,British Columbia,CA,55.4163,-125.9327,ardac,223.6
 BC559,Takla Landing,,British Columbia,CA,55.483,-125.974,ardac,220.8,False,54.565,-130.2404
 BC365,Takysie Lake,,British Columbia,CA,53.8833,-125.867,ardac,137.0,False,53.4995,-128.9082
 BC850,Tappen,,British Columbia,CA,50.784,-119.331,ardac,292.7,False,48.4526,-123.8778
-BC1614,Tarahne Park,,British Columbia,CA,59.5779,-133.7046,"ardac,ncr",93.3,True,58.6615,-134.7595
+BC1614,Tarahne Park,,British Columbia,CA,59.5779,-133.7046,"ardac,awe,ncr",93.3,True,58.6615,-134.7595
 BC152,Tatalrose,,British Columbia,CA,53.9833,-125.983,ardac,142.2,False,53.4312,-129.0184
 BC107,Tatla Lake,,British Columbia,CA,51.9,-124.6,ardac,109.1,False,50.8964,-126.18
 BC186,Tatlayoko Lake,,British Columbia,CA,51.7167,-124.433,ardac,91.8,True,50.8808,-126.2729
