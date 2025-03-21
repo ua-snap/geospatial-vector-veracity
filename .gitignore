@@ -12,3 +12,8 @@ utilities/tagged_csvs
 *.tif
 
 *__pycache__
+
+# QGIS aux files
+*.qix
+*.qgz
+
